@@ -1,0 +1,282 @@
+{
+  "0": {
+    "id": 0,
+    "name": "LC Bedingungen für Iran",
+    "price": "0,00",
+    "amount": "0",
+    "description": ""
+  },
+  "1": {
+    "id": 1,
+    "name": "",
+    "price": "0,00",
+    "amount": "0",
+    "description": ""
+  },
+  "2": {
+    "id": 2,
+    "name": "Gefahrenabwehrplan",
+    "price": "0,00",
+    "amount": "0",
+    "description": "(10112) DIN A1"
+  },
+  "7": {
+    "id": 7,
+    "name": "",
+    "price": "0,00",
+    "amount": "0",
+    "description": ""
+  },
+  "9": {
+    "id": 9,
+    "name": "",
+    "price": "0,00",
+    "amount": "0",
+    "description": ""
+  },
+  "11": {
+    "id": 11,
+    "name": "",
+    "price": "0,00",
+    "amount": "0",
+    "description": ""
+  },
+  "12": {
+    "id": 12,
+    "name": "",
+    "price": "0,00",
+    "amount": "0",
+    "description": ""
+  },
+  "20": {
+    "id": 20,
+    "name": "",
+    "price": "0,00",
+    "amount": "0",
+    "description": ""
+  },
+  "21": {
+    "id": 21,
+    "name": "",
+    "price": "0,00",
+    "amount": "0",
+    "description": ""
+  },
+  "22": {
+    "id": 22,
+    "name": "",
+    "price": "0,00",
+    "amount": "0",
+    "description": ""
+  },
+  "23": {
+    "id": 23,
+    "name": "",
+    "price": "0,00",
+    "amount": "0",
+    "description": ""
+  },
+  "25": {
+    "id": 25,
+    "name": "",
+    "price": "0,00",
+    "amount": "0",
+    "description": ""
+  },
+  "27": {
+    "id": 27,
+    "name": "RCT 3S 4157 LCD-Empfänger",
+    "price": "0,00",
+    "amount": "0",
+    "description": "230V mit Warn-LED"
+  },
+  "28": {
+    "id": 28,
+    "name": "",
+    "price": "0,00",
+    "amount": "0",
+    "description": ""
+  },
+  "36": {
+    "id": 36,
+    "name": "",
+    "price": "0,00",
+    "amount": "0",
+    "description": ""
+  },
+  "37": {
+    "id": 37,
+    "name": "",
+    "price": "0,00",
+    "amount": "0",
+    "description": ""
+  },
+  "39": {
+    "id": 39,
+    "name": "",
+    "price": "0,00",
+    "amount": "0",
+    "description": ""
+  },
+  "42": {
+    "id": 42,
+    "name": "",
+    "price": "0,00",
+    "amount": "0",
+    "description": ""
+  },
+  "43": {
+    "id": 43,
+    "name": "",
+    "price": "0,00",
+    "amount": "0",
+    "description": ""
+  },
+  "46": {
+    "id": 46,
+    "name": "",
+    "price": "0,00",
+    "amount": "0",
+    "description": ""
+  },
+  "48": {
+    "id": 48,
+    "name": "",
+    "price": "0,00",
+    "amount": "0",
+    "description": ""
+  },
+  "64": {
+    "id": 64,
+    "name": "",
+    "price": "0,00",
+    "amount": "0",
+    "description": ""
+  },
+  "66": {
+    "id": 66,
+    "name": "",
+    "price": "0,00",
+    "amount": "0",
+    "description": ""
+  },
+  "72": {
+    "id": 72,
+    "name": "",
+    "price": "0,00",
+    "amount": "0",
+    "description": ""
+  },
+  "73": {
+    "id": 73,
+    "name": "",
+    "price": "0,00",
+    "amount": "0",
+    "description": ""
+  },
+  "74": {
+    "id": 74,
+    "name": "",
+    "price": "0,00",
+    "amount": "0",
+    "description": ""
+  },
+  "7103": {
+    "id": 7103,
+    "name": "Spinnengehäuse",
+    "price": "116,00",
+    "amount": "0",
+    "description": ""
+  },
+  "9048": {
+    "id": 9048,
+    "name": "Kappe für Füllung",
+    "price": "112,00",
+    "amount": "0",
+    "description": "Artikel Nr. 219809<br><br>"
+  },
+  "12028": {
+    "id": 12028,
+    "name": "Antriebswelle",
+    "price": "162,00",
+    "amount": "0",
+    "description": ""
+  },
+  "13077": {
+    "id": 13077,
+    "name": "Gehäuse für Blackmer-Pumpe,",
+    "price": "614,00",
+    "amount": "1",
+    "description": "Typ XRLF 1 1/4-N, XRL 1 1/4-N, XLF 1 1/4-N, XL 1 1/4-N"
+  },
+  "13080": {
+    "id": 13080,
+    "name": "Gehäuse für Blackmer-Pumpe,",
+    "price": "0,00",
+    "amount": "0",
+    "description": "Typ ZLGLSE 20/30, LGLSL 20/30"
+  },
+  "13376": {
+    "id": 13376,
+    "name": "Gehäuse für Blackmer-Pumpe,",
+    "price": "865,00",
+    "amount": "1",
+    "description": "Typ XL(S) 1.5A"
+  },
+  "13377": {
+    "id": 13377,
+    "name": "Gehäuse für Blackmer-Pumpe, Teil Nr. 013377",
+    "price": "614,00",
+    "amount": "0",
+    "description": "Typ XL(F) 1 1/2-N, MVP 15/20/30<br>Eingang, Ausgang mit NPT Gewinde"
+  },
+  "15127": {
+    "id": 15127,
+    "name": "Gehäuse für Blackmer-Pumpe,",
+    "price": "1.838,00",
+    "amount": "2",
+    "description": "Typ (T)XLW3E, XL3A-N, PLW(J)3A"
+  },
+  "15128": {
+    "id": 15128,
+    "name": "Gehäuse für  TLGLF3C",
+    "price": "0,00",
+    "amount": "1",
+    "description": "015128"
+  },
+  "18040": {
+    "id": 18040,
+    "name": "Dichtungssatz für Sicherheitsventil",
+    "price": "87,00",
+    "amount": "0",
+    "description": "Dichtungssatz für Sicherheitsventil , SCM.SK30024N-1"
+  },
+  "21403": {
+    "id": 21403,
+    "name": "Gehäuse für Blackmer-Pumpe,",
+    "price": "485,00",
+    "amount": "0",
+    "description": "Typ NP2C, NP(J)2, (G)X2, XS2(A), TXS(D)2A,TXS(D)2A TNP2"
+  },
+  "21905": {
+    "id": 21905,
+    "name": "Gehäuse (T)X 4\" für Blackmer-Pumpe,",
+    "price": "1.675,00",
+    "amount": "0",
+    "description": "Typ NP4C,NP(J)4A, (G)X4A, XS4A, X4A-N, XS4A-N TX4A, TNP4A"
+  },
+  "12!": {
+    "id": "12!",
+    "name": "",
+    "price": "0,00",
+    "amount": "0",
+    "description": ""
+  },
+  "21!": {
+    "id": "21!",
+    "name": "",
+    "price": "0,00",
+    "amount": "0",
+    "description": ""
+  }
+}

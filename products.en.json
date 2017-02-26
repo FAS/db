@@ -1,0 +1,282 @@
+{
+  "0": {
+    "id": 0,
+    "name": "*L/C conditions:",
+    "price": "0,00",
+    "amount": "0",
+    "description": "*************************<br>In case of an L/C payment at sight, additional costs of 8% of <br>above mentioned scope of supply for L/C-fees, banking charges<br>and protection guarantee would arise.<br><br>In case of an L/C payment, additional costs of 26.5% of above<br>mentioned scope of supply for l/C-fees, banking charges and<br>protection guarantee and financing (deferred payment of 360 days<br>payable from date of B/L) would arise.<br>Irrevocable Letter of Credit should be opened through Bank Markazi,<br>to be advised through Commerzbank, Germany."
+  },
+  "54": {
+    "id": 54,
+    "name": "Extra costs for assembling",
+    "price": "555,00",
+    "amount": "0",
+    "description": ""
+  },
+  "57": {
+    "id": 57,
+    "name": "additional cost for meter adjustements for using in",
+    "price": "150,00",
+    "amount": "0",
+    "description": "LPG dispenser"
+  },
+  "7103": {
+    "id": 7103,
+    "name": "Spider body",
+    "price": "116,00",
+    "amount": "0",
+    "description": ""
+  },
+  "9048": {
+    "id": 9048,
+    "name": "Filler Cap",
+    "price": "112,00",
+    "amount": "0",
+    "description": "part no. 219809"
+  },
+  "12028": {
+    "id": 12028,
+    "name": "Drive shaft",
+    "price": "162,00",
+    "amount": "0",
+    "description": ""
+  },
+  "13080": {
+    "id": 13080,
+    "name": "Casing for Blackmer pump SL20, part no. 013080",
+    "price": "0,00",
+    "amount": "0",
+    "description": "ports are straight tapped to SAE dimensions,<br>gage ports on top of the casing are SAE"
+  },
+  "13377": {
+    "id": 13377,
+    "name": "body for Blackmer pump SL20, part no. 013377",
+    "price": "614,00",
+    "amount": "0",
+    "description": "intake & discharge are tapped with NPT thread"
+  },
+  "15128": {
+    "id": 15128,
+    "name": "Casing for TLGLF3C pump",
+    "price": "0,00",
+    "amount": "1",
+    "description": "015128"
+  },
+  "18040": {
+    "id": 18040,
+    "name": "Relief valve seal kit",
+    "price": "87,00",
+    "amount": "0",
+    "description": "Dichtungssatz für Sicherheitsventil , SCM.SK30024N-1"
+  },
+  "22201": {
+    "id": 22201,
+    "name": "Spare part for Blackmer pump: vane",
+    "price": "6.692,00",
+    "amount": "0",
+    "description": "type NP3C, NP(J)3B, GX(S)3C, X(S)3C TX(SD)3E, <br>TNP3B, STNP3"
+  },
+  "22914": {
+    "id": 22914,
+    "name": "Cylinder",
+    "price": "762,00",
+    "amount": "0",
+    "description": "part no: 022914"
+  },
+  "22915": {
+    "id": 22915,
+    "name": "Pump housing for type \" PC",
+    "price": "895,00",
+    "amount": "0",
+    "description": "part no 022915<br>**NOTE: old housing 022911 is replaced by 022915!**"
+  },
+  "26008": {
+    "id": 26008,
+    "name": "Inlet ring",
+    "price": "14,80",
+    "amount": "0",
+    "description": ""
+  },
+  "31869": {
+    "id": 31869,
+    "name": "Head & Bushing Asy.-Outboard",
+    "price": "1.012,00",
+    "amount": "3",
+    "description": ""
+  },
+  "32905": {
+    "id": 32905,
+    "name": "Housing cover, Part Nr 032905",
+    "price": "221,00",
+    "amount": "1",
+    "description": ""
+  },
+  "34416": {
+    "id": 34416,
+    "name": "Cover for TLGL2C",
+    "price": "348,00",
+    "amount": "0",
+    "description": "passend für Pumpe XLW2<br>Pos. 20"
+  },
+  "40048": {
+    "id": 40048,
+    "name": "Motor outlet pipe assembly for Hydrive",
+    "price": "23,80",
+    "amount": "0",
+    "description": "part no. 040.048"
+  },
+  "40049": {
+    "id": 40049,
+    "name": "Motor inlet pipe assembly for Hydrive",
+    "price": "36,20",
+    "amount": "0",
+    "description": "part no. 040.049"
+  },
+  "40094": {
+    "id": 40094,
+    "name": "Return Filter Pipe assy for Hydrive",
+    "price": "84,00",
+    "amount": "0",
+    "description": "part no. 040.094"
+  },
+  "41600": {
+    "id": 41600,
+    "name": "Baering Cover",
+    "price": "46,10",
+    "amount": "0",
+    "description": ""
+  },
+  "41817": {
+    "id": 41817,
+    "name": "Bearing cover, part no. 041817",
+    "price": "43,60",
+    "amount": "21",
+    "description": "Typ GX(S)3C, X(S)3C, XL(S)3A-N, XL4, XLW3E-N, TX(SD)3E,<br>TXLW3"
+  },
+  "44010": {
+    "id": 44010,
+    "name": "Radiator Guard",
+    "price": "31,10",
+    "amount": "0",
+    "description": "part no.Y221710"
+  },
+  "46034": {
+    "id": 46034,
+    "name": "Fan Motor",
+    "price": "376,00",
+    "amount": "0",
+    "description": "part no. 046034"
+  },
+  "49008": {
+    "id": 49008,
+    "name": "Return Filter Gauge for Hydrive",
+    "price": "148,00",
+    "amount": "0",
+    "description": "part no. 049.008 obsolete part <br>part no.Y221722"
+  },
+  "52001": {
+    "id": 52001,
+    "name": "Suction filter for HydriveArtikel Nr.052.001",
+    "price": "43,30",
+    "amount": "5",
+    "description": "Part no. 052.001"
+  },
+  "52008": {
+    "id": 52008,
+    "name": "Radiator (Aluminium)",
+    "price": "362,00",
+    "amount": "0",
+    "description": "Radiator ( Aluminium )<br>052.008<br>für Kühler für Ölkühler 889900"
+  },
+  "52011": {
+    "id": 52011,
+    "name": "Relief valve with seals",
+    "price": "747,00",
+    "amount": "3",
+    "description": ""
+  },
+  "52012": {
+    "id": 52012,
+    "name": "Fan speed control valve with seals",
+    "price": "497,00",
+    "amount": "0",
+    "description": ""
+  },
+  "52013": {
+    "id": 52013,
+    "name": "Radiator by-pass valve with seals",
+    "price": "181,00",
+    "amount": "0",
+    "description": ""
+  },
+  "52020": {
+    "id": 52020,
+    "name": "Radiator (Steel)",
+    "price": "614,00",
+    "amount": "0",
+    "description": "aus Stahl"
+  },
+  "52021": {
+    "id": 52021,
+    "name": "Control valve with seals",
+    "price": "189,00",
+    "amount": "0",
+    "description": ""
+  },
+  "52033": {
+    "id": 52033,
+    "name": "Return Filter Element for Hydrive",
+    "price": "128,00",
+    "amount": "7",
+    "description": "part no. 052.033"
+  },
+  "62039": {
+    "id": 62039,
+    "name": "Disc, 062039",
+    "price": "243,00",
+    "amount": "0",
+    "description": "for pump  XL4, CRL4<br>Pos. 71"
+  },
+  "63103": {
+    "id": 63103,
+    "name": "Disk for SMVP 15/30",
+    "price": "253,00",
+    "amount": "0",
+    "description": "passend für: SNP 1,5, SMVP 15/30"
+  },
+  "64412": {
+    "id": 64412,
+    "name": "Disc, 065112, LGL3\"",
+    "price": "100,00",
+    "amount": "0",
+    "description": "passend für Pumpe XL2, CRL2<br>Pos. 71"
+  },
+  "65112": {
+    "id": 65112,
+    "name": "Disc, 065112, LGL3\"",
+    "price": "131,00",
+    "amount": "0",
+    "description": "FAS 30331 benutzen "
+  },
+  "65121": {
+    "id": 65121,
+    "name": "Disc for LPG-pump type TLGLF3",
+    "price": "166,00",
+    "amount": "0",
+    "description": "part no. 065121"
+  },
+  "91219": {
+    "id": 91219,
+    "name": "Vane - Duravane (Standard - NP and TX)",
+    "price": "52,00",
+    "amount": "0",
+    "description": "passend für Pumpe NP1,5, TX1,5<br>Material: Duravane<br>Pos. 14"
+  },
+  "91419": {
+    "id": 91419,
+    "name": "Spare part for Blackmer pump: vane",
+    "price": "71,00",
+    "amount": "0",
+    "description": "type NP2C, NP(J)2, GX(S)2A, X(S)2 XL(S)2A-N, <br>TX(SD)2A, TNP2, TXLW2"
+  }
+}

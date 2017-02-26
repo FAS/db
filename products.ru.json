@@ -1,0 +1,282 @@
+{
+  "27": {
+    "id": 27,
+    "name": "RCT LCD приемник",
+    "price": "0,00",
+    "amount": "0",
+    "description": "230V,с контрольной лампой"
+  },
+  "53": {
+    "id": 53,
+    "name": "Система \"Свеча\" для блочного комплекса",
+    "price": "722,00",
+    "amount": "0",
+    "description": ""
+  },
+  "54": {
+    "id": 54,
+    "name": "Наценка за исполнение монтажных работ",
+    "price": "555,00",
+    "amount": "0",
+    "description": "включает в себя:<br>- монтаж датчиков дпавления, сенсора сухого хода.<br>-сборка станции, проверка на герметичность, демонтаж станции, огрунтовка, лакировка отдельных демонтированых компонентов,<br>повторный монтаж отдельных компонентов после лакировки, проверка на герметичность"
+  },
+  "55": {
+    "id": 55,
+    "name": "Дополнительное оборудование для монтажа в",
+    "price": "0,00",
+    "amount": "0",
+    "description": "заправочную колонку, включая болты и уплотнения"
+  },
+  "56": {
+    "id": 56,
+    "name": "Оборудование для монтажа на заправочную станцию:",
+    "price": "0,00",
+    "amount": "0",
+    "description": ""
+  },
+  "57": {
+    "id": 57,
+    "name": "Наценка за инсталяцию SOFT-версии и предварительную подгтовк",
+    "price": "150,00",
+    "amount": "0",
+    "description": "расходомера"
+  },
+  "58": {
+    "id": 58,
+    "name": "Наценка за дополнительный трубопровод для аварийного слива",
+    "price": "0,00",
+    "amount": "0",
+    "description": "газа из емкостей с использоваием вихревого насоса станции"
+  },
+  "59": {
+    "id": 59,
+    "name": "Поставка колонки в упаковочном ящике по желанию заказчика",
+    "price": "250,00",
+    "amount": "0",
+    "description": "(стоимость ящика, монтаж и демонтаж колонки на раму/с рамы)"
+  },
+  "65": {
+    "id": 65,
+    "name": "Комплект арматуры для подключения дополнительной емкости",
+    "price": "200,00",
+    "amount": "0",
+    "description": "für den Anschluß von einem zusätzlichen Behälter"
+  },
+  "10001": {
+    "id": 10001,
+    "name": "Наконечник  1 1/4\" ACME-AG x 3/4\" NPT-AG",
+    "price": "32,50",
+    "amount": "8",
+    "description": "из латуни, PN 25, Typ RegO 5763D"
+  },
+  "10002": {
+    "id": 10002,
+    "name": "Наконечник  1 3/4\" ACME-AG x 1/2\" NPT-AG",
+    "price": "56,00",
+    "amount": "5",
+    "description": "из латуни, PN 25, Typ RegO 5765C"
+  },
+  "10003": {
+    "id": 10003,
+    "name": "Соединительный эле мент 1 3/4\" ACME-AG x 3/4\" NPT-AG",
+    "price": "22,30",
+    "amount": "83",
+    "description": "из латуни, PN 25, Typ RegO 5765D<br>"
+  },
+  "10004": {
+    "id": 10004,
+    "name": "Наконечник 1 3/4\" ACME-AG x 3/4\" NPT-AG",
+    "price": "44,50",
+    "amount": "7",
+    "description": "из стали, PN 25, Typ RegO A5765D"
+  },
+  "10005": {
+    "id": 10005,
+    "name": "Наконечник, 1 3/4\" ACME-AG x 1\" NPT-AG, из латуни",
+    "price": "22,80",
+    "amount": "38",
+    "description": "PN 25, Typ RegO 5765E"
+  },
+  "10006": {
+    "id": 10006,
+    "name": "Наконечник 1 3/4\" ACME-AG x 1\" NPT-AG из стали",
+    "price": "43,40",
+    "amount": "8",
+    "description": "PN 25, Typ RegO A5765E"
+  },
+  "10007": {
+    "id": 10007,
+    "name": "Наконечник 1 3/4\" ACME-AG x 1 1/4\" NPT-AG",
+    "price": "22,80",
+    "amount": "60",
+    "description": "из латуни,  PN 25, Typ RegO 5765F"
+  },
+  "10008": {
+    "id": 10008,
+    "name": "Наконечник 1 3/4\" ACME-AG x 1 1/4\" NPT-AG из стали",
+    "price": "51,00",
+    "amount": "1",
+    "description": "PN 25, Typ RegO A5765F"
+  },
+  "10009": {
+    "id": 10009,
+    "name": "Наконечник  2 1/4\" ACME-AG x 1 1/4\" NPT-AG",
+    "price": "56,00",
+    "amount": "0",
+    "description": "из латуни, PN 25, Typ RegO 5767F"
+  },
+  "10010": {
+    "id": 10010,
+    "name": "Наконечник 2 1/4\" ACME-AG x 1 1/4\" NPT-AG,",
+    "price": "83,00",
+    "amount": "14",
+    "description": "из стали, PN 25, Typ RegO A5767F"
+  },
+  "10011": {
+    "id": 10011,
+    "name": "Наконечник 2 1/4\" ACME-AG x 1 1/2\" NPT-AG из латуни",
+    "price": "111,00",
+    "amount": "10",
+    "description": "PN 25, Typ RegO 5767G"
+  },
+  "10012": {
+    "id": 10012,
+    "name": "Наконечник 2 1/4\" ACME-AG x 2\" NPT-AG из латуни",
+    "price": "80,00",
+    "amount": "46",
+    "description": "PN 25, Typ RegO 5767H"
+  },
+  "10013": {
+    "id": 10013,
+    "name": "Наконечник 3 1/4\" ACME-AG x 2\" NPT-AG из латуни",
+    "price": "85,00",
+    "amount": "22",
+    "description": "Typ RegO 5769H, PN 25"
+  },
+  "10014": {
+    "id": 10014,
+    "name": "Наконечник 3 1/4\" ACME-AG x 2\" NPT-AG из стали",
+    "price": "158,00",
+    "amount": "11",
+    "description": "PN 25, Typ RegO A5769H<br>"
+  },
+  "10015": {
+    "id": 10015,
+    "name": "1",
+    "price": "265,00",
+    "amount": "2",
+    "description": "PN 25, Typ FAS (wird von RegO nicht mehr hergestellt)"
+  },
+  "10016": {
+    "id": 10016,
+    "name": "Наконечник 3 1/4\" ACME-AG x 3\" NPT-AG,",
+    "price": "162,00",
+    "amount": "24",
+    "description": "из латуни, PN 25, Typ RegO 5769K"
+  },
+  "10017": {
+    "id": 10017,
+    "name": "Наконечник  3 1/4\" ACME-AG x 3\" NPT-AG из стали",
+    "price": "210,00",
+    "amount": "3",
+    "description": "PN 25, Typ RegO A5769K"
+  },
+  "10018": {
+    "id": 10018,
+    "name": "Наконечник 4 1/4\" ACME-AG x 3\" NPT-AG из стали",
+    "price": "416,00",
+    "amount": "2",
+    "description": "PN 25,  Typ Fisher M524-24"
+  },
+  "15128": {
+    "id": 15128,
+    "name": "тЛбВрМая ОУФаЪНа, Dura-093088, LG 1-1/4 , C; LG 1-1/2, C",
+    "price": "0,00",
+    "amount": "1",
+    "description": "015128"
+  },
+  "22914": {
+    "id": 22914,
+    "name": "Цилиндр к насосу LGB1, 1P, 1PC",
+    "price": "762,00",
+    "amount": "0",
+    "description": "022914"
+  },
+  "32905": {
+    "id": 32905,
+    "name": "Крышка корпуса, № 032905,",
+    "price": "221,00",
+    "amount": "1",
+    "description": ""
+  },
+  "62039": {
+    "id": 62039,
+    "name": "≠УМВчМЧИ дЛТН 065112, LGL3\"E",
+    "price": "243,00",
+    "amount": "0",
+    "description": "FAS 30331 benutzen "
+  },
+  "64412": {
+    "id": 64412,
+    "name": "≠УМВчМЧИ дЛТН 065112, LGL3\"E",
+    "price": "100,00",
+    "amount": "0",
+    "description": "passend für Pumpe XL2, CRL2<br>Pos. 71"
+  },
+  "65112": {
+    "id": 65112,
+    "name": "≠УМВчМЧИ дЛТН 065112, LGL3\"E",
+    "price": "131,00",
+    "amount": "0",
+    "description": "FAS 30331 benutzen "
+  },
+  "91419": {
+    "id": 91419,
+    "name": "тЛбВрМая ОУФаЪНа (Std.) дОя МаТУТУв:",
+    "price": "71,00",
+    "amount": "0",
+    "description": "Typ NP2C, NP(J)2, GX(S)2A, X(S)2 XL(S)2A-N, TX(SD)2A, <br>TNP2, TXLW2"
+  },
+  "91809": {
+    "id": 91809,
+    "name": "Treibschieber - Laminate für Blackmer-Pumpe,",
+    "price": "210,00",
+    "amount": "4",
+    "description": "passend für Pumpe NP3, NPJ3, GX3, GXS3, X3, XS3, TX3, TXSD3, TNB3, STNP3<br>Material: Laminate<br>Pos. 14"
+  },
+  "91819": {
+    "id": 91819,
+    "name": "Шиберная лопатка для насосов Blackmer 3\"",
+    "price": "108,00",
+    "amount": "9",
+    "description": "тип NP3, NPJ3, GX3, GXS3, X3, XS3, TXD3, TXSD3, TNP3B, STNP3<br>Поз. 14 на чертеже<br>Необходимое кол-во лопаток на один насос: 6 шт."
+  },
+  "92913": {
+    "id": 92913,
+    "name": "Шибер к насосу LGB1, 1P, 1PC",
+    "price": "28,60",
+    "amount": "60",
+    "description": "092913"
+  },
+  "93088": {
+    "id": 93088,
+    "name": "Шибер для LGL SL 20, XRL1.25, XL1.25, XL1.5",
+    "price": "43,60",
+    "amount": "0",
+    "description": "passend für Pumpe LGL SL 20, XRL1.25, XL1.25, XL1.5, LGL 1 1/4, LGL 1 1/2, LGL 1 1/2, LGRL 1 1/4, LGLRF 1 1/4, LGLF 1 1/4, LGLF 1 1/2<br>Material: Dura<br>Pos. 14"
+  },
+  "93089": {
+    "id": 93089,
+    "name": "Шибер для насоса тип CRL или XRL 1 1/4,",
+    "price": "75,00",
+    "amount": "0",
+    "description": "XL 1 1/4-N, XL 1 1/2-N, LGL 1 1/2"
+  },
+  "95132": {
+    "id": 95132,
+    "name": "Шибер к насосу Blackmer",
+    "price": "86,00",
+    "amount": "93",
+    "description": "Typ TLGLF3<br>запчасть.: 095132"
+  }
+}

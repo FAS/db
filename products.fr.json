@@ -1,0 +1,282 @@
+{
+  "10007": {
+    "id": 10007,
+    "name": "Pièce de raccordement, laiton, 1-3/4\" ACME male x",
+    "price": "22,80",
+    "amount": "60",
+    "description": "1 1/4\" NPT male, type Reg0 5765F"
+  },
+  "10043": {
+    "id": 10043,
+    "name": "Stopfen, Messing, POL - ohne Kette, PN40",
+    "price": "5,70",
+    "amount": "61",
+    "description": "<br><br>"
+  },
+  "10074": {
+    "id": 10074,
+    "name": "Bouchon en acier ASTM A 105, 3/4\" NPT",
+    "price": "3,70",
+    "amount": "357",
+    "description": "avec certificat de réception 3.1.B selon EN 10204 <br>(DIN 50.049-3.1B)"
+  },
+  "10078": {
+    "id": 10078,
+    "name": "Bouchon, 2\" NPT mâle",
+    "price": "14,80",
+    "amount": "18",
+    "description": ""
+  },
+  "10238": {
+    "id": 10238,
+    "name": "ANSI bride à épaulement de soudure 3\" 300 lbs de acier A 105",
+    "price": "76,00",
+    "amount": "18",
+    "description": "avec certificat de réception 3.1.B selon EN 10204 <br>(DIN 50 049-3.1.B)"
+  },
+  "10358": {
+    "id": 10358,
+    "name": "Raccord de réduction, DN 65/25, en acier 35.8 I,",
+    "price": "29,50",
+    "amount": "44",
+    "description": "concentrique, raccord de tuyau 76,1 x 33,7 x 2,9, DIN 2616,<br>avec certifcat de réception 3.1.B selon EN 10204<br>(DIN 50.049-3.1B)"
+  },
+  "10761": {
+    "id": 10761,
+    "name": "Manchon isolant PN 25, DIN 3389, verifié par DVGW",
+    "price": "49,10",
+    "amount": "8",
+    "description": "RVS 12 x RVS 12<br>"
+  },
+  "10762": {
+    "id": 10762,
+    "name": "Manchon isolant PN 25, DIN 3389, vérifié par DVGW,",
+    "price": "50,00",
+    "amount": "26",
+    "description": "RVS 15 x RVS 15<br>"
+  },
+  "10763": {
+    "id": 10763,
+    "name": "Manchon isolant PN 25, DIN 3389, vérifié par DVGW",
+    "price": "52,00",
+    "amount": "0",
+    "description": "RVS 18 x RVS 18<br>"
+  },
+  "10999": {
+    "id": 10999,
+    "name": "Dichtung DN 100 PN 40, FIRE SAFE nach BS 5146, mit",
+    "price": "9,20",
+    "amount": "100",
+    "description": "Innenbördel aus 1.4571, ø 168 x ø 114 x 2 mm, flüssig-<br>gasbeständig, für Typ C4430"
+  },
+  "11680": {
+    "id": 11680,
+    "name": "ANSI bride à épaulement de soudure 3\" 150 lbs de acier A 105",
+    "price": "0,00",
+    "amount": "0",
+    "description": ""
+  },
+  "11818": {
+    "id": 11818,
+    "name": "LPG-Hochdruckschlauch DN 38, 1 1/2\",",
+    "price": "253,00",
+    "amount": "0",
+    "description": "mit ANSI-Flanschen 1 1/2\" an beiden Enden "
+  },
+  "11929": {
+    "id": 11929,
+    "name": "Conduite en tuyaux à haute pression, LPG 32,",
+    "price": "1.427,00",
+    "amount": "0",
+    "description": "avec raccords des deux côtés, l´une côté G 1\" NPT<br>filetage mâle, l´autre côté G 1 1/4\" écrou-raccord <br>étoupé plat, longueur = 30 m, <br>avec certificat TÜV"
+  },
+  "12034": {
+    "id": 12034,
+    "name": "CHEK LOK, laiton, 1 1/4\" NPT x 3/4\" NPT,",
+    "price": "33,60",
+    "amount": "27",
+    "description": "type RegO 7580FCT avec relevé de contrôle 2.2 selon<br>EN 10 204 (DIN 50.049-2.2)<br>"
+  },
+  "13002": {
+    "id": 13002,
+    "name": "Clapet de remplissage, 1 3/4\" ACME and 1 1/4\" NPT, laiton,",
+    "price": "41,40",
+    "amount": "137",
+    "description": "avec double soupape de retenue et chaperon plastique,<br>modèle RegO 7579CT, composé de deux parties,<br>avec certificat d´essai 2.1  selon EN 10 204 (DIN 50.049-2.2)<br>"
+  },
+  "13003": {
+    "id": 13003,
+    "name": "Clapet de remplissage, 1 3/4\" ACME et 1 1/4\" NPT, laiton,",
+    "price": "48,50",
+    "amount": "80",
+    "description": "avec double soupape de retenue et chaperon plastique, <br>modèle RegO L6579C, composé de deux parties,<br>avec certificat d´essai 2.1  selon EN 10 204 (DIN 50.049-2.2)<br><br>"
+  },
+  "13011": {
+    "id": 13011,
+    "name": "Soupape équilibre, 1 1/4\" ACME x 3/4\" NPT",
+    "price": "70,30",
+    "amount": "0",
+    "description": "avec clapet d´àrrêt automatique et capuchon"
+  },
+  "13017": {
+    "id": 13017,
+    "name": "Soupape équilibre, 1 1/4\" ACME x 3/4\" NPT",
+    "price": "48,60",
+    "amount": "1",
+    "description": "avec clapet d´àrrêt automatique et capuchon"
+  },
+  "13033": {
+    "id": 13033,
+    "name": "Pistolet de remplissage GPL modèle ZVG 1,3",
+    "price": "345,00",
+    "amount": "1",
+    "description": "3/4\" NPT x 1 3/4\" ACME, avec coupleur de sécurité<br>et clapet de retenue, avec relevé de controle d´après<br>EN 10 204 ( DIN 50.049-2.2 )"
+  },
+  "13034": {
+    "id": 13034,
+    "name": "Pistolet de remplissage GPL modèle ZVG 1,5",
+    "price": "356,00",
+    "amount": "0",
+    "description": "M 30 x 1,5 à gauche x 1 3/4\" ACME, avec coupleur de sécurité<br>et clapet de retenue, avec relevé de controle d´après<br>EN 10 204 ( DIN 50.049-2.2 )"
+  },
+  "13069": {
+    "id": 13069,
+    "name": "Soupape équilibre, 1 1/4\" ACME x 3/4\" NPT",
+    "price": "35,60",
+    "amount": "27",
+    "description": "avec clapet d´àrrêt automatique et capuchon plastique"
+  },
+  "13070": {
+    "id": 13070,
+    "name": "Soupape équilibre, 1 1/4\" ACME x 3/4\" NPT",
+    "price": "27,80",
+    "amount": "0",
+    "description": "avec clapet d´àrrêt automatique et capuchon plastique,<br>avec relevé de contrôle 2.2 nach EN 10 204 (DIN 50.049-2.2)"
+  },
+  "13133": {
+    "id": 13133,
+    "name": "Raccord cassant pour flexible, 1\"NPT filets femelles aux",
+    "price": "234,00",
+    "amount": "2",
+    "description": "deux côtès, Caisse en acier, avec déclenchement par câble, <br>type RegO A2141A8L, <br>avec relevè de contôle 2.1 selon  EN 10 204 <br>- GIP :sans CE-identification selon DGRL 2014/68/EU<br>"
+  },
+  "13324": {
+    "id": 13324,
+    "name": "Poignée no. EA 701",
+    "price": "24,80",
+    "amount": "39",
+    "description": "pour pistolet ZVG 1"
+  },
+  "13381": {
+    "id": 13381,
+    "name": "Raccord WECO,",
+    "price": "140,00",
+    "amount": "2",
+    "description": "femelle 2\" à souder SCH 40 avec joint BUNA"
+  },
+  "13382": {
+    "id": 13382,
+    "name": "Raccord, type WECO,",
+    "price": "353,00",
+    "amount": "3",
+    "description": "femelle 2\" a souder 3\" SCH 40 avec joint BUNA"
+  },
+  "13383": {
+    "id": 13383,
+    "name": "Raccord, type WECO,",
+    "price": "183,00",
+    "amount": "0",
+    "description": "Raccord femelle 3\" à souder 3\"<br>"
+  },
+  "13384": {
+    "id": 13384,
+    "name": "Raccord, type WECO,",
+    "price": "267,00",
+    "amount": "1",
+    "description": "raccord mâle  à souder 2\" avec écrou"
+  },
+  "13385": {
+    "id": 13385,
+    "name": "Raccord, type WECO,",
+    "price": "340,00",
+    "amount": "1",
+    "description": "Raccord mâle 3\" à souder avec écrou"
+  },
+  "13386": {
+    "id": 13386,
+    "name": "Bouchon, type WECO, 2\" mâle,",
+    "price": "255,00",
+    "amount": "0",
+    "description": "avec écrou acmé, barrette et chaînette"
+  },
+  "13389": {
+    "id": 13389,
+    "name": "Bouchon 2\", type WECO RW 204",
+    "price": "325,00",
+    "amount": "3",
+    "description": "2\" IG mit Verschraubung "
+  },
+  "13399": {
+    "id": 13399,
+    "name": "Bouchon, 3\" type WECO RW 304",
+    "price": "426,00",
+    "amount": "3",
+    "description": "3\" IG mit Verschraubung "
+  },
+  "13468": {
+    "id": 13468,
+    "name": "???? type WECO,",
+    "price": "23,60",
+    "amount": "0",
+    "description": "femelle 2\" a souder 3\" SCH 40 avec joint BUNA"
+  },
+  "13469": {
+    "id": 13469,
+    "name": "???? type WECO,",
+    "price": "29,40",
+    "amount": "0",
+    "description": "Raccord femelle 3\" à souder 3\"<br>"
+  },
+  "62039": {
+    "id": 62039,
+    "name": "Endscheibe 062039",
+    "price": "243,00",
+    "amount": "0",
+    "description": "FAS 30331 benutzen "
+  },
+  "65112": {
+    "id": 65112,
+    "name": "Endscheibe",
+    "price": "131,00",
+    "amount": "0",
+    "description": "FAS 30331 benutzen "
+  },
+  "110730": {
+    "id": 110730,
+    "name": "Stopfen aus Edelstahl (1.4301), 1/2\" NPT AG,",
+    "price": "0,00",
+    "amount": "0",
+    "description": "mit 6-kant, Abnahmeprüfzeugnis 3.1B nach EN 10204<br>"
+  },
+  "111115": {
+    "id": 111115,
+    "name": "Gutschrift aus Kulanz",
+    "price": "0,00",
+    "amount": "2071,01",
+    "description": "###############################<br>Wir schreiben Ihnen den folgenden Betrag aus Kulanz gut.<br><br>=> AB-Nr.<br>=> RE-Nr. <br><br>Gutschriftengrund:<br>=> <br><br>Hinweis:<br>=> Gutschrift auf Kulanz, ohne Anerkennung einer Rechtspflicht."
+  },
+  "130020": {
+    "id": 130020,
+    "name": "Clapet de remplissage, 1 3/4\" ACME and 1 1/4\" NPT, laiton,",
+    "price": "54,00",
+    "amount": "0",
+    "description": "avec double soupape de retenue et chaperon plastique,<br>modèle RegO 7579CT, composé de deux parties,<br>avec certificat d´essai 2.1  selon EN 10 204 (DIN 50.049-2.2)<br>"
+  },
+  "133820": {
+    "id": 133820,
+    "name": "Raccord, type WECO,",
+    "price": "650,00",
+    "amount": "0",
+    "description": "femelle 2\" a souder 3\" SCH 40 avec joint BUNA"
+  }
+}
