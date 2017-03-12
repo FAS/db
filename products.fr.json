@@ -52,28 +52,28 @@
     "id": 10007,
     "name": "Pièce de raccordement, laiton, 1-3/4\" ACME male x",
     "price": "22,80",
-    "amount": "60",
+    "amount": "59",
     "description": "1 1/4\" NPT male, type Reg0 5765F"
   },
   "10043": {
     "id": 10043,
     "name": "Stopfen, Messing, POL - ohne Kette, PN40",
     "price": "5,70",
-    "amount": "61",
+    "amount": "15",
     "description": "<br><br>"
   },
   "10074": {
     "id": 10074,
     "name": "Bouchon en acier ASTM A 105, 3/4\" NPT",
     "price": "3,70",
-    "amount": "357",
+    "amount": "316",
     "description": "avec certificat de réception 3.1.B selon EN 10204 <br>(DIN 50.049-3.1B)"
   },
   "10078": {
     "id": 10078,
     "name": "Bouchon, 2\" NPT mâle",
     "price": "14,80",
-    "amount": "18",
+    "amount": "15",
     "description": ""
   },
   "10238": {
@@ -143,14 +143,14 @@
     "id": 12034,
     "name": "CHEK LOK, laiton, 1 1/4\" NPT x 3/4\" NPT,",
     "price": "33,60",
-    "amount": "27",
+    "amount": "16",
     "description": "type RegO 7580FCT avec relevé de contrôle 2.2 selon<br>EN 10 204 (DIN 50.049-2.2)<br>"
   },
   "13002": {
     "id": 13002,
     "name": "Clapet de remplissage, 1 3/4\" ACME and 1 1/4\" NPT, laiton,",
     "price": "41,40",
-    "amount": "137",
+    "amount": "134",
     "description": "avec double soupape de retenue et chaperon plastique,<br>modèle RegO 7579CT, composé de deux parties,<br>avec certificat d´essai 2.1  selon EN 10 204 (DIN 50.049-2.2)<br>"
   },
   "13003": {
@@ -398,13 +398,6 @@
     "amount": "0",
     "description": "installation horizontale, <br>JUNIOR ou équivalent,<br>longueur du tige: environ 350 mm,<br>diamètre du réservoir: max. 1250 mm<br><br>"
   },
-  "18006": {
-    "id": 18006,
-    "name": "Anzeiger Rochester Typ Junior 6284",
-    "price": "117,00",
-    "amount": "0",
-    "description": "Sonderausführung für Ammoniak, Einbau waagerecht, SL: _____ mm<br><br>Bitte 88er Nummern verwenden IJ 17.10.2014<br>"
-  },
   "18012": {
     "id": 18012,
     "name": "Jauge magnétique, modèle Rochester, JUNIOR,",
@@ -493,7 +486,7 @@
     "id": 19010,
     "name": "Soupape d'équerre, 3/4\" NPT, PN 25, avec garniture molle,",
     "price": "139,00",
-    "amount": "5",
+    "amount": "11",
     "description": "type RegO A7506AP<br>"
   },
   "19013": {
@@ -528,28 +521,28 @@
     "id": 19421,
     "name": "Vanne magnétique, DN 25, PN 25/40,",
     "price": "1.051,00",
-    "amount": "77",
+    "amount": "68",
     "description": "protégée contre explosion, avec soulèvement<br>forcé, fermée sans courant, 0 - 25 bar, GS, 220 V,<br>50 Hz, avec certificat"
   },
   "19422": {
     "id": 19422,
     "name": "Vanne magnétique, DN 32, PN 25/40,",
     "price": "1.101,00",
-    "amount": "18",
+    "amount": "17",
     "description": "protégée contre explosion, avec soulèvement<br>forcé, fermée sans courant, 0 - 25 bar, GS, 220 V,<br>50 Hz, avec certificat <br>"
   },
   "19423": {
     "id": 19423,
     "name": "Vanne magnétique, DN 40, PN 40",
     "price": "1.145,00",
-    "amount": "3",
+    "amount": "2",
     "description": "protégée contre explosion, avec soulèvement<br>forcé, fermée sans courant, 0 - 25 bar, GS, 220 V,<br>50 Hz, avec certificat <br>"
   },
   "19424": {
     "id": 19424,
     "name": "Vanne magnétique, DN 50, PN 25/40",
     "price": "1.203,00",
-    "amount": "7",
+    "amount": "6",
     "description": "protégé contre explosion, avec soulèvement<br>forcé, fermée sans courant, 0 - 25 bar, GS, 220 V,<br>50 Hz, avec certificat <br>"
   },
   "19425": {
@@ -562,7 +555,7 @@
   "19426": {
     "id": 19426,
     "name": "Vanne magnétique, DN 80, PN 25/40",
-    "price": "4.369,00",
+    "price": "4.580,00",
     "amount": "0",
     "description": "protégée contre explosion, avec soulévement<br>forcé, fermée sans courant, 0 - 25 bar, GS, 220 V,<br>40-60 Hz, avec certificat "
   },
@@ -577,7 +570,7 @@
     "id": 19440,
     "name": "Soupape d'équerre, laiton, raccord 3/4\" NPT mâle, sortie",
     "price": "33,50",
-    "amount": "20",
+    "amount": "0",
     "description": "3/4\" NPT femelle, sans bouchon de laiton, <br>type RegO 7550 P"
   },
   "19442": {
@@ -745,7 +738,7 @@
     "id": 20556,
     "name": "Vaporiseur à sec, type Fas 2000, PN 25, débit 100 kg/h,",
     "price": "7.298,00",
-    "amount": "0",
+    "amount": "1",
     "description": "<br>"
   },
   "20587": {
@@ -759,7 +752,7 @@
     "id": 20640,
     "name": "Vaporiseur à sec, type Fas 2000, PN 25, débit 170 kg/h,",
     "price": "7.200,00",
-    "amount": "24",
+    "amount": "26",
     "description": "<br><br>"
   },
   "20806": {
@@ -811,26 +804,12 @@
     "amount": "0",
     "description": "agrégat complet pour le dépotage de GPL  de tanker, wagon-citerne ou camions-citernes dans des reservoirs de stackage.<br><br>komplettes Aggregat zum Umfüllen von Propan-Butan-Ammoniak<br>aus Tankschiffen, Eisenbahnkesselwagen oder Straßentankwagen<br>in Lagerbehälter, bestehend aus:<br>Kompressor Typ 602, mit 2 Zylindern und doppelter Stopfbuchse, <br>Zylinder und Zylinderkopf aus Sphäroguß GGG 40.3 <br>nach TRD 451,452 und 108, Anschluß 1 1/2\" NPT, <br>max. Hubvolumenstrom 108 m3/h,<br>Nenndrehzahl 790 U/min, 2 Manometer 0-25 bar,<br>Flüssiggasabscheider DN 40 Fabrikat FAS mit Absperrventil für <br>Kondensatablaß, Volumen 7,8 l, Vierwege-Kugelhahn 1 1/2\" NPT,<br>Sicherheitsventil, 3/4\", 19 bar, mit TüV-Abnahme, Schmutzfänger<br>mit Feinsieb, DN 40, PN 25, Gehäuse Stahlguß, Keilriemenspann- <br>vorrichtung, Keilriemen und Keilriemenscheibe für Antriebsmotor, <br>Riemenschutz, Motor EExIIT3, 400/690V, B3, 17,5 kW, 50 Hz, mit<br>verstärktem Lager, Verrohrung und Aufbau auf eine gemeinsame <br>Grundplatte, grundiert und lackiert, Gewicht ca. 530 kg, <br>alle Armaturen mit Abnahmeprüfzeugnis 3.1.B nach EN 10204 <br>(DIN 50.049-3.1B) bzw. TÜV-Abnahme"
   },
-  "21129": {
-    "id": 21129,
-    "name": "Trockenlauf-Kolben-Kompressoraggregat, FAS/Blackmer 942,",
-    "price": "39.697,00",
-    "amount": "0",
-    "description": "komplettes Aggregat zum Umfüllen von Propan/Butan aus <br>Tankschiffen, Eisenbahnkesselwagen oder Straßentankwagen <br>in Lagerbehälter oder zur Absaugung, komplett aufgebaut auf <br>einer verzinkten Grundplatte, grundiert und lackiert, <br>bestehend aus:<br>Kompressor:<br> - Typ Blackmer LB 942, mit 2 Zylindern und doppelter Stopfbuchse<br> - Zylinder und Zylinderkopf aus Sphäroguß ASTM A536<br> - max. Hubvolumenstrom max. 180 m3/h bei 700 U/min<br> - saug- und druckseitig 1 St. Manometer 0 - 25 bar<br>Motor:<br> - 30 kW, 400/690 V<br> - EEx e ll T3<br> - Schutzart IP 54<br> - Bauform: B3<br>Ausstattung<br> - 4-Wege-Kompakt-Kugelhahn DN 50<br> - Flüssiggasabscheider DN 50, Typ FAS, mit Kondensat-<br>   ablass & Anschluss für 2 Füllstandssensoren <br> - Schmutzfänger DN 50, PN 25, mit Feinsieb<br> - bauteilgeprüftes Sicherheitsventil G 3/4\" mit Weichdichtung, <br>   eingestellt auf 19 bar, mit TÜV-Abnahme<br> - Keilriemenspannvorrichtung, Keilriemen und Keil-<br>   riemenscheibe für Antriebsmotor, Riemenschutz<br>Allgemeines:<br> - Ausführung nach Druckgeräterichtlinie<br>    und AD 2000 Regelwerk<br>Dokumentation:<br> - Bedienungsanleitung<br> - EG-Konformitätserklärung<br><br>*** ACHTUNG! Ohne Füllstandssensor nicht funktionsfähig -<br>     Füllstandssensor (z.B. FAS 26130) mit Meßumformer<br>     (z.B. FAS 26301) auf Mehrpreis erhältlich ***"
-  },
   "21729": {
     "id": 21729,
     "name": "Groupe pompe GPL, type FAS NZ 36-8",
     "price": "3.459,00",
-    "amount": "11",
+    "amount": "7",
     "description": "PN25, pour opération d'aménage, entrée bride DN 65,<br>sortie bride DN32, brides à PN 25/40 avec moulure d'étanche lisse,<br>avec ex-moteur B3, 5KW, 400/690 V, 50 Hz, IP 55, ISO F,<br>E Exe II T3, avec raccord et protection de raccord,<br>reconstruit sur une plaque de montage, coloré<br>et verni, avec rapport du test 2.1 EN 10 204<br>capacité 70l/min à une pression de 10 bar,<br>max. pression différentielle 13 bar,<br>capacité max. 125 l/min.<br>"
-  },
-  "21749": {
-    "id": 21749,
-    "name": "Flüssiggas-Seitenkanalpumpe, FAS NZ 36-8 mit freiem Wellenen",
-    "price": "2.549,00",
-    "amount": "4",
-    "description": "PN 25,  für Zulaufbetrieb,mit einfacher Gleitringdichtung,<br>Druck- und Sauggehäuse GGG40.3, Laufrad SoMs,<br>Welle 1.4021, Eingang Flansch DN 65, Ausgang Flansch DN 32, <br>Flansche in PN 25/40 mit glatter Dichtleiste, <br>ohne weiteres Zubehör<br><br>ACHTUNG: nur grundiert OHNE Lackierung"
   },
   "22046": {
     "id": 22046,
@@ -948,7 +927,7 @@
     "id": 22345,
     "name": "Halterung für Abreißkupplung aus Edelstahl",
     "price": "9,30",
-    "amount": "203",
+    "amount": "197",
     "description": "DN 15"
   },
   "22347": {
@@ -1228,7 +1207,7 @@
     "id": 26041,
     "name": "Bouton d'arrêt d'urgence avec coup-de-poing rouge",
     "price": "146,00",
-    "amount": "33",
+    "amount": "22",
     "description": "dans une boîte isolée, version antidéflagrant, avec fermeture presse-étoupe PG16,<br>Contact de fermeture, type de protection IP 65, E Ex edm IIC T6,<br>*REMARQUE : antidéflagrant, pour installation en zone 1*<br>documentation :<br>-Certificat d'inspection <br>selon la directive 94/9/EC<br>(ATEX)<br>"
   },
   "26103": {
@@ -1249,7 +1228,7 @@
     "id": 26688,
     "name": "Enseigne arrêt d´urgence, Ø 90 mm, jaue,",
     "price": "7,30",
-    "amount": "621",
+    "amount": "618",
     "description": "inscription en nor \"Arrêt - d ´urgence\""
   },
   "26843": {
@@ -1389,14 +1368,14 @@
     "id": 32211,
     "name": "Trousse de conversion: soupapes de refoulement 3857X",
     "price": "849,00",
-    "amount": "5",
+    "amount": "14",
     "description": "pour compresseurs de Corken type 690/691/D691<br>"
   },
   "32212": {
     "id": 32212,
     "name": "Trousse de conversion: soupapes d´ aspiration 3143-X",
     "price": "838,00",
-    "amount": "2",
+    "amount": "10",
     "description": "pour compresseurs de Corken, type 690/691/D691<br>"
   },
   "32221": {
@@ -1410,21 +1389,21 @@
     "id": 32222,
     "name": "Segment de piston, téflon 1739",
     "price": "78,00",
-    "amount": "52",
+    "amount": "38",
     "description": "pour compresseurs de Corken type 690/691/D691,D891<br>"
   },
   "32223": {
     "id": 32223,
     "name": "Ressort de segment de piston 1740,",
     "price": "22,60",
-    "amount": "38",
+    "amount": "24",
     "description": "pour compresseurs de Corken type 690/691/D691/D891<br>"
   },
   "32242": {
     "id": 32242,
     "name": "Trousse d´ étanchéité 1725-2X avec",
     "price": "321,50",
-    "amount": "26",
+    "amount": "24",
     "description": "1723, 1724, 1725 (4), 1728, 1731,<br>pour compresseurs de Corken type 690/691/D691/T691"
   },
   "32244": {
@@ -1438,7 +1417,7 @@
     "id": 32269,
     "name": "Trousse d´étanchéité  1744-X3A",
     "price": "320,00",
-    "amount": "3",
+    "amount": "5",
     "description": "pour compresseurs de Corken type 691"
   },
   "32278": {
@@ -1861,13 +1840,6 @@
     "amount": "0",
     "description": "Ausführung Edelstahl: Portugal BP<br>Elektronik:<br> - elektronischer Preisrechner, Kienzle (ER5)<br> - Netzgerät 230 VAC / 50-60Hz<br> - 1 Display beleuchtet, Preis 5-stellig in EUROS,<br>   Preis pro Liter 1,000<br> - portugiesische Display-Beschriftung<br> - 1 Sicherheitsschalter (Tastschalter) <br> - 1 Kontaktschalter je Zapfpistolenhalter<br> - Magnetschalter für Gesamtsummenabruf<br> - 1 Freigabeleuchte ROT für Pumpenmotorbetrieb<br> - 1 Not/Aus-Taster auf der Rückseite der Zapfsäule montiert<br> - Ausschaltverzögerung<br>Hydraulik PN25:<br> - 1 Spezialkolbenzähler FAS MK III S für Flüssiggas<br>   Durchflussleistung 5 - 50 L/min<br> - Kolbenzähler mit Verplombung der Zylinderkopfschraube <br> - Gasblasenabscheider mit eingebautem Feinfilter,<br>   Druckhalteventil, Manometer, Rückschlagventil,<br>   Membranspeicher<br> - mit 1 Magnetventilen FAS 19.402 in der Druckleitung<br> - internes Füllventil mit Adapter für T3 Füllpistole<br>   (FAS 13509, wird beigelegt)<br> - Vollschlauchsystem<br> - 1 Hochdruckschlauch LPG19 mit Rohrbruchventil,<br>   Länge 6,0 m<br> - Spezial-Abreißkupplung Type FAS-13208<br> - Zapfsäule mit Schlauchrückholung<br> - Sicherheitsventile Typ RegO 3127, 25 bar<br> - Füllpistole nach Kundenvorgabe ______________<br> - portugiesisches Typenschild<br> - Anschluß Druckleitung:Kugelhahn 1\"NPT-IG<br> - Anschluß Gasrückführleitung:Kugelhahn 3/4\"NPT-IG<br> - Rotes Hinweisschild zwischen Zapfpistolen- <br>   halterung und Manometer<br>Zertifikate:<br> - Aufkleber separat mitliefern da Säule lackiert wird<br> - EG-Baumusterprüfbescheinigung nach Richtlinie 2004/22/EG<br>   gegen Mehrpreis<br> - Konformitätserklärung und Kennzeichnung nach der Richtlinie <br>   für Messgeräte 2004/22/EG gegen Mehrpreis<br> - Konformitätserklärung nach Druckgeräterichtlinie 2014/68/EU <br> - werksseitige Konformitätsbewertung nach MID, einschließlich <br>   Kalibrierung der Messtechnik, Druck-, Dichtheits- und Funktions-<br>   prüfung (FAS 222990) gegen Mehrpreis<br>Sonstiges:<br> - Dokumentation der Sendung beifügen!"
   },
-  "46022": {
-    "id": 46022,
-    "name": "FAS Pumpenaggregat Typ NZ 80-11-45de",
-    "price": "35.294,00",
-    "amount": "0",
-    "description": "für Flüssiggas nach DIN 51622 ohne Feststoffe und Pumpenwerkstoffe nicht angreifend.<br>Nennförderstrom QN = 80 m3/st<br>Differenzdruck = 11,5bar<br>NPSH = 1,7 m<br>Gleitringdichtung<br><br>Anschlüsse: <br>Saugflansch DN 125, PN40 nach DIN EN 1092-2<br>Druckflansch DN 100, PN 40 nach DIN EN 1092-2<br><br>Pumpenwerkstoffe:<br>Gehäuseteile : EN-GJS-400-18-LT<br>Laufräder : EN-GJS-400-15<br>Welle: 1.4057<br>O-Ringe: FPM<br><br>komplett mit dem Motor 45 kW / 400/690V /  50Hz, IP55, ISO F / <br>ATEX II 2G EEx de II CT4 <br>auf einem Grundrahmen aufgebaut, grundiert und lackiert.<br><br>Achtung! Wichtiger Hinweis!<br>Trockenlauf der Pumpe und Betrieb gegen geschlossene Absperorgane sind unbedingt zu vermeiden. Wir empfelen Benutzung von:<br>- Trockenlaufsensor<br>- Füllstandswächter<br>- Max. Drucküberwachung<br>- Bypassventil"
-  },
   "47189": {
     "id": 47189,
     "name": "Elektro-Schaltschrank zur Montage außerhalb der Schutz-",
@@ -2075,7 +2047,7 @@
     "id": 63708,
     "name": "Gewindestift DIN 916 M6x6mm, VZ, für Kolbenzähler",
     "price": "0,50",
-    "amount": "4113",
+    "amount": "4068",
     "description": "<br><br>MK-III-S"
   },
   "65112": {
@@ -2162,13 +2134,6 @@
     "amount": "11",
     "description": ""
   },
-  "81751": {
-    "id": 81751,
-    "name": "quelque chose à ...",
-    "price": "47,70",
-    "amount": "0",
-    "description": "Ø = 500 x 470 x 3 mm"
-  },
   "82625": {
     "id": 82625,
     "name": "Kugelhahn,Argus,DN 100,PN 50,mit ANSI 300 Flansch,",
@@ -2203,13 +2168,6 @@
     "price": "76,00",
     "amount": "0",
     "description": "installation horizontale, <br>JUNIOR ou équivalent,<br>longueur du tige: environ 350 mm,<br>diamètre du réservoir: max. 1250 mm<br><br>"
-  },
-  "88013": {
-    "id": 88013,
-    "name": "Anzeiger Rochester \"Junior\", Typ 6284",
-    "price": "61,00",
-    "amount": "0",
-    "description": "PN 25, für liegende, zylindrische Behälter<br>- Einbaulage: waagerecht<br>- Behälterdurchmesser: 1200 mm<br>- Schaftlänge: 500 mm<br>- Befestigungsschrauben (4 St. M6 x 25 mm) aus Edelstahl<br>- mit Gummi-Dichtung und Plastikschutzkappe<br><br>Dokumentation:<br>- Konformitätserklärung nach Druckgeräterichtlinie 2014/68/EU<br>- Betriebsanleitung<br>"
   },
   "88120": {
     "id": 88120,
@@ -2306,7 +2264,7 @@
     "id": 90790,
     "name": "Soupape de sécurité, 3\" NPT fileté, type RegO A8436",
     "price": "610,00",
-    "amount": "33",
+    "amount": "0",
     "description": "pression d´ajustement 25,0 bar, avec certificat 2.2 s<br>elon EN 10204 (DIN 50.049-2.2)"
   },
   "90791": {
@@ -2537,7 +2495,7 @@
     "id": 111115,
     "name": "Gutschrift aus Kulanz",
     "price": "0,00",
-    "amount": "2071,01",
+    "amount": "2078,01",
     "description": "###############################<br>Wir schreiben Ihnen den folgenden Betrag aus Kulanz gut.<br><br>=> AB-Nr.<br>=> RE-Nr. <br><br>Gutschriftengrund:<br>=> <br><br>Hinweis:<br>=> Gutschrift auf Kulanz, ohne Anerkennung einer Rechtspflicht."
   },
   "130020": {
@@ -2694,13 +2652,6 @@
     "amount": "0",
     "description": "capacité 320 kg/h, 380 V, 3 phases, 50 Hz, 40 kW,<br>protégé contre les explosions selon NFPA, classe 1, section 1, <br>groupe D, entrée 3/4\"NPT, sortie 1\" NPT, avec électrovanne<br>et soupape de sécuritè, ajusté à 17,6 bar<br>(sans homologation TÜV, sans régulateur de pression, <br>avec relevé de contrôle 2.2 selon EN 10204 (DIN 50.049-2.2)<br><br>SANS HOMOLOGATION CE SELON PED 97/23/EC<br>================================= <br><br>"
   },
-  "210729": {
-    "id": 210729,
-    "name": "Trockenlauf-Kolben-Kompressoraggregat, FAS/Corken D691",
-    "price": "0,00",
-    "amount": "0",
-    "description": "komplettes Aggregat zum Umfüllen von Propan/Butan aus Tankschiffen, Eisenbahnkesselwagen oder Straßentankwagen <br>in Lagerbehälter oder zur Absaugung, komplett aufgebaut auf <br>einer Grundplatte, grundiert und lackiert, bestehend aus:<br>Kompressor:<br> - Typ Corken D691, mit 2 Zylindern und doppelter Stopfbuchse<br> - Zylinder und Zylinderkopf aus Sphäroguß nach ASTM A536<br> - max. Hubvolumenstrom 100 m3/h bei 770 U/min<br> - saug- und druckseitig 1 St. Manometer 0 - 25 bar<br>Motor (Siemens):<br> - 22 kW, 220/380 V<br> - EEx d ll T3<br> - Bauform: B3<br> - mit EU-Konformitätserklärung nach Richtlinie 2014/34/EU (ATEX)<br>   für den Motor<br>Ausstattung<br> - 4-Wege-Kompakt-Kugelhahn DN 40<br> - Flüssiggasabscheider DN 40 mit Kondensatablass, Typ FAS<br> - Schmutzfänger mit Feinsieb, DN 40, PN 25 (Zwischenflanschausführung)<br> - Sicherheitsventil, G 3/4\" AG , 19,0 bar<br> - Keilriemenspannvorrichtung, Keilriemen und Keil-<br>   riemenscheibe für Antriebsmotor, Riemenschutz<br>Allgemeines:<br> - Ausführung nach Druckgeräterichtlinie<br>    und AD 2000 Regelwerk<br>Dokumentation:<br> - Bedienungsanleitung<br> - EU-Konformitätserklärung"
-  },
   "211754": {
     "id": 211754,
     "name": "VEGADIF - siehe RUS",
@@ -2806,13 +2757,6 @@
     "amount": "0",
     "description": "pour tableau de commande <br>et compresseur d'air, pour installation dans un conteneur en acier<br>"
   },
-  "281211": {
-    "id": 281211,
-    "name": "Rohrbruchventil, 2\" NPT, Stahl",
-    "price": "111,00",
-    "amount": "0",
-    "description": "Typ Reg0 A3292D<br>"
-  },
   "283014": {
     "id": 283014,
     "name": "Sicherheitsventil mit 3/4\" NPSM Gewinde, Typ RegO RS3131",
@@ -2859,7 +2803,7 @@
     "id": 343060,
     "name": "Transponder en jetons ronds, non codifié,",
     "price": "14,30",
-    "amount": "29",
+    "amount": "39",
     "description": "gravé avec des numéros d'identifications,<br>Selon les donnés provisoires de______à____<br>"
   },
   "347170": {
@@ -2873,7 +2817,7 @@
     "id": 349930,
     "name": "Pince de support pour tuyau souple",
     "price": "71,00",
-    "amount": "39",
+    "amount": "172",
     "description": "pour retourner le tuyau du distributeur électronique, <br>type FAS 220, 230, 240, complet avec vis de rupture et <br>câble. Ces sous-groupes sont assemblés pour montage au <br>contrepoids dans le distributeur.<br>"
   },
   "349931": {
@@ -3107,13 +3051,6 @@
     "amount": "25",
     "description": "pour type LB 161, LB 162,LB 361A, LB 362A, LB 362B, LB 601A, LB 602A, HD 161A, HD 162A, HD 361A, HD 362, HD 372, HD 601A, HD 602A, HD 612A, HDL 372, HDL 612A<br>Réf.: 792178"
   },
-  "792391": {
-    "id": 792391,
-    "name": "Kabelverschraubung Ex e II Progress MS EX M32x1,5",
-    "price": "0,00",
-    "amount": "0",
-    "description": "- Messing vernickelt<br>- Dichteinsatz TPE<br>- kurzes Anschlussgewinde<br>- Einsatztemperatur -40°C bis +100°C<br>- Zündschutzart: Ex e II                                                                <br>Dichteinsatz 14.0- 17.0 mm                                <br><br>Art Nr. EX1000.32.170<br>"
-  },
   "793004": {
     "id": 793004,
     "name": "Axe de baladeur de blelle",
@@ -3247,19 +3184,19 @@
     "amount": "0",
     "description": "bestehend aus folgenden Hauptkomponenten:<br>- LPG-Pumpe LGL2\"<br>- 2 Kugelhähne FAS 92156<br>- Schumtzfänger FAS 14006<br>- Durchsichtschauglas DN 50<br>- Eingang Flansch mit Stuzer M 60x4 <br>- Ausgang Flansch DN32<br>- Anschweissstutzer 1/2\" mit Manometeranschlüss mit Stopfen in der Druckleitung <br>- Anschweissmuffe 1/2\" G IG mit Stopfen in der Saugleitung vor der Pumpe<br>- Gaspendelleitung ERMETO 22 mit Verbindung zum Abscheider <br>    - Anschlüss STW Seite bei Pendelleitung M60x4 AG mit Stopfen und      <br>      Kugelhahn DN 25<br>    - Anschlüss Behälter Seite bei Pendelleitung Flansch DN 25 ohne    <br>      Kugelhahn<br><br>Aufbau wie FAS 93266 jedoch ohne Behälterverrohrung<br><br><br>- erforderliche Komponenten auf einem Grundrahmen.<br><br><br><br>"
   },
-  "933482": {
-    "id": 933482,
-    "name": "Kompakt-Anlage für Flaschenbefüllung ohne Behälter",
-    "price": "15.503,00",
-    "amount": "0",
-    "description": "in einem Standaschaltschrank BxHxT: 2500x1950x800 (FAS 26796 + FAS267961), montiert, bestehend aus (von links nach rechts):<br>- Abfüllwaage, FAS 23364, GUS-Ausführung, mit zwei Füll- anschlüsse für zwei Typen von Flaschenventilen,<br>- Leerplatz für Kontrollwaage (vom Kunden)<br>- Handpumpe für LPG, FAS 23 035, mit einem Stahlrohrgestehll <br>für Flaschenentleerung,<br><br>- Rorleitungen und allen erforderlichen Armaturen: Absperrventile,<br>Schmutzfänger, Schaugläser, Sicherheitsventile, Manometer und Manometerabsperrventile, erforderliche Flanschanschlüsse<br>-Elektroinstallation im Schrank<br>1 St. Ex-Leuchtstofflampe (2x18 W) montiert und verkabelt,<br>1 St. Ex-Lichtschalter montiert und verkabelt,<br>1 St. Doppeldrucktaster mit Kontrolleuchte.<br>"
-  },
   "933635": {
     "id": 933635,
     "name": "Treibgas-Betankungsanlage mit elektronischer Zapfsäule",
     "price": "0,00",
     "amount": "0",
     "description": "bestehend aus folgenden Hauptkomponenten:<br>************************************************************************************<br>Elektronische Flüssiggas-Zapfsäule Typ FAS-120 / L / KG<br>Ausführung Edelstahl: ________________________<br>Elektronik:<br>- Elektronische Preisrechner Typ ER4<br>- Netzgerät 230 V AC/50 Hz<br>- ein LCD Display<br>- Drehschalter<br>Hydraulik PN 25:<br>- Coriolis Durchflusszähler für Flüssiggas <br>  mit einer Durchflußleistung von 0 - 50 kg/min<br>- Gasblasenabscheider mit eingebautem Feinfilter,<br>  Druckhalteventil, Rückschlagventil, Membranspeicher, Manometer<br>- ein Vollschlauchsystem<br>- Hochdruckschschlauch LPG 19 mit Rohrbruchventil, Länge 5 m<br>- Abreißkupplung ohne TÜV<br>- Sicherheitsventile RegO 25 bar<br>- Füllpistole Typ__________<br>- Anschluß Druckleitung: Kugelhahn 1\" NPT IG,<br>- Anschluß Gasrückführleitung: Kugelhahn 3/4\" NPT IG<br>- Magnetventil in der Zs. ______________(doppelw. oder standart)<br><br>**************************************************************************************<br>-  vorbereitet für Montage von 2 St Flüssiggas-Behälter nach Baukastensystem hergestellt bei FAS oder Fashimmasch, <br>- Schmutzfänger DN 50, PN 40 mit APZ 3.1.B,<br>- Überströmventil mit Rückführung in die Gasphase<br>des Lagerbehälters, - Überströmleitung-ermetoausführung<br>- Kugelhahn  in der Überströmleitung (offen verplombt),<br>- SeitenkanalPumpenaggregat mit Gleitringdichtung<br>Leistung ca. 50 l/min, Ex-Motor 3,6 kW, 400/690 V, 50 Hz,<br>- Rohrleitung der Flüssigphase komplett verschweißt<br>- Flüssigphaseanschlüs M60x4 für STW mit KH und Rückschlagventil<br>Gasphaseanschlüss M60x4 für STW mit KH<br><br>- Doppeldrucktaster für Eigenbetankung.<br>"
+  },
+  "936025": {
+    "id": 936025,
+    "name": "Umbausatz für das Umbauen einer FAS 120/220 Zapfsäule",
+    "price": "0,00",
+    "amount": "0",
+    "description": "mit einem Kolbenzähler in eine FAS  Zapfsäule mit einem Massenzähler.<br><br>Set besteht aus:<br> - 1 St. Massenzähler DN 25/ 1/2\" PN 40, Typ FAS LPG-Mass  8FE15, mit<br>   Flanschen EN1092-1 B1, MID Evaluation Certificate (Europa), <br>   Ex-Ausführung ATEX II 2GD+ IECEx Z1,21 Ex dia IIC, Ex tD A21 Z=Zone<br> - Montagematerial <br><br>ACHTUNG!!! ARTIKEL NUR DANN ZUSAMMENSTELLEN, WENN DIE SERIENNUMMER DER ZS VON KUNDEN BEKANNT IST!!!"
   },
   "939351": {
     "id": 939351,
