@@ -1,0 +1,4 @@
+{
+  "stack": "TypeError: Cannot read property 'replace' of null\n    at blacklist.forEach (/home/fas-db-parser/source/utils/sanitize.js:7:45)\n    at Array.forEach (<anonymous>)\n    at sanitize (/home/fas-db-parser/source/utils/sanitize.js:6:13)\n    at loadDataAndSave (/home/fas-db-parser/source/index.js:56:42)\n    at process._tickCallback (internal/process/next_tick.js:68:7)",
+  "message": "Cannot read property 'replace' of null"
+}

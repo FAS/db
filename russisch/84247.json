@@ -1,0 +1,8 @@
+{
+  "id": "\r\n                    84247\r\n                  ",
+  "name": "Alarmkarte für Sensoren",
+  "weight": "0,00",
+  "price": "\r\n                  0,00\r\n                  ",
+  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
+  "description": "Me&#xDF;bereich: 0 - 100% UEG<br>Kalibrierung: Propan<br>zwei einstellbare Alarmschwellen<br>1. Alarmschwelle: 20% UEG<br>2. Alarmschwelle: 40% UEG<br>Leuchtdioden zur Kennzeichnung der Betriebszust&#xE4;nde:<br>rot - 1. Alarmschwelle<br>rot - 2. Alarmschwelle<br>gelb - Fehlalarm<br>gelb - Inhibit<br>gr&#xFC;n - Betriebskontrolle<br>Reset - Alarmr&#xFC;ckstelltaste<br>Analogausgang: 0 - bzw. 4 - 20 mA.<br>Alle Einstellm&#xF6;glichkeiten von vorn durch &#xD6;ffnen der<br>Abdeckklappe. Verz&#xF6;gerungsstufe zur Unterdr&#xFC;ckung<br>von Fehlalarm bei Spannungsausfall.<br>"
+}

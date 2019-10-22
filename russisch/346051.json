@@ -1,0 +1,8 @@
+{
+  "id": "\r\n                    346051\r\n                  ",
+  "name": "TCP/IP - COM Wandler \"WLAN\"",
+  "weight": "0,32",
+  "price": "\r\n                  860,00\r\n                  ",
+  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
+  "description": "&quot;l&#xFC;matic&quot; - Gateway, &quot;WLAN&quot; zum Anschluss an das Netzwerk<br><br>Installationsvoraussetzungen:<br>*****************************************<br> - Schuko-Steckdose im Tankautomat (230V)<br> - ausreichende Feldst&#xE4;rke f&#xFC;r WLAN<br> - IP-Adressen f&#xFC;r Tankautomat, Gateway und Subnetz<br> - Netzkennung (SSID), Authentifizierung sowie Netzwerkschl&#xFC;ssel<br> - intern m&#xFC;ssen die Ports 1002 und 1003 verf&#xFC;gbar sein<br> - bei Verwendung im Zapfs&#xE4;ulenkopf wird Au&#xDF;enantenne (FAS: 342.320)<br>   ben&#xF6;tigt!<br><br>HINWEISE: <br> <br> - Bei der Installation vor Ort muss ein Administrator verf&#xFC;gbar sein!<br><br> - Antenne FAS 342320 muss separat dazu bestellt werden!<br><br><br><br><br><br>"
+}

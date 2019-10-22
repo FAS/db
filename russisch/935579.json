@@ -1,0 +1,8 @@
+{
+  "id": "\r\n                    935579\r\n                  ",
+  "name": "16x2 Modbus Master LCD; Interface: RS485",
+  "weight": "0,00",
+  "price": "\r\n                  0,00\r\n                  ",
+  "amount": "\r\n                      \r\n19\r\n                    \r\n                    ",
+  "description": "Modbus RTU Master<br>Anzeige 16x2<br>Auslesen und Anzeigen von Modbus Slave Ger&#xE4;t Werten<br>RS485/RS232 selectable baud rate 9600 to 38400, 8N1, 8N2, 8E1<br>Unterst&#xFC;tzt integer, long integer and BCD Data format<br>Dunkle Zeichen auf gelb/gr&#xFC;ner Hintergrundbeleuchtung<br>"
+}

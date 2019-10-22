@@ -1,0 +1,8 @@
+{
+  "id": "\r\n                    269352\r\n                  ",
+  "name": "Elektro-Schaltkasten zur Montage ",
+  "weight": "42,00",
+  "price": "\r\n                  0,00\r\n                  ",
+  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
+  "description": "Innerhalb eines Geb&#xE4;udes und au&#xDF;erhalb der Schutzzone.<br>Steuerbox ist f&#xFC;r Kompressoreinheit f&#xFC;r SO2-Betrieb nach Vorgabe von &quot;Hylte Mill&quot; ausgelegt. FAS-Angebot ist 2996127./AB 2990840<br>Komplett verdrahtet zum Anschluss von:<br><br>  - Kompressormotor ______ kW mit Stern- / Dreieckstarter (max. 30 kW)<br>  - Gastemperatur&#xFC;berwachung (&#xFC;ber PT100)<br>  - Sensor in Fl&#xFC;ssigkeitsfalle<br>  - Min. und max. Gasdruck&#xFC;berwachung (&#xFC;ber Druckschalter)<br>  - Min. &#xD6;ldruck&#xFC;berwachung (&#xFC;ber Druckschalter)<br>  - Doppeltaster mit Kontrollleuchte<br>  - Signallampe und Taschenlampe<br><br>Besonderheiten:<br>- Verbindungsstopp mit vorhandenen Stopps<br>- Ausl&#xF6;sesignal an den Kunden DCS, fest verdrahtet<br>- Management des Ablassventils (am Fl&#xFC;ssigkeitsabscheider des Kompressors)<br>- Eingang f&#xFC;r die Verriegelung vom Kunden-DCS.<br><br>Abmessungen: H: ............. mm, B: ........... mm, T: .............. mm,<br>Dokumentation:<br>  -Anschluss- und Schaltplan.<br><br>Schaltplan inkl. E-Operation muss vor der Produktion vom Kunden freigegeben werden."
+}

@@ -1,0 +1,8 @@
+{
+  "id": "\r\n                    34081\r\n                  ",
+  "name": "\"Lümatic\" - Internet, bzw. intranetgesteuertes ",
+  "weight": "0,00",
+  "price": "\r\n                  0,00\r\n                  ",
+  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
+  "description": "Abrechnungssystem, Modell AP-Serv04<br>Lizenz f&#xFC;r 16-60 Tankstellen<br> - Software f&#xFC;r den Applikationsserver -<br><br>Mind. Anforderungen an den Applikationsserver:<br> - Microsoft Small Business Server 2003 oder neuer<br> - Intel Core2 Duo 3 GHz<br> - 4 GByte RAM<br> - 2 schnelle Festplatten (SAS/10000 oder 15000 Upm)<br>   je mind. 100 GB (2. Platte f&#xFC;r Backups)<br><br>Einrichung:<br>Es werden zu Servicezwecken ben&#xF6;tigt:<br> - FTP-Server<br> - Apache Server auf separater IP oder Port<br> - installierte Programme f&#xFC;r den Fernservice:<br>   NetOP + PC-Anywhere, sowie Remote-Destop<br><br>Nicht erforderlich:<br>SQL-Server, MS II-Server u.a.w., usw."
+}
