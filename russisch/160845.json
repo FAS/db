@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    160845\r\n                  ",
+  "id": "160845",
   "name": "Mitteldruckregler 40 kg/h, PN 25, MDR 815",
   "weight": "3,30",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n2\r\n                    \r\n                    ",
-  "description": "mit OPSO (SAV), PRV (SBV) und Manometer,<br>Vordruck: 1,75 bis 16 bar<br>Hinterdruck:  1,5 bar<br>Eingang:  G 3/4&quot;-IG, Ausgang:  G 1/2&quot;-IG<br>mit CE-Kennzeichnung und Konformit&#xE4;tserkl&#xE4;rung"
+  "price": "0,00",
+  "amount": "2",
+  "description": "mit OPSO (SAV), PRV (SBV) und Manometer,\\nVordruck: 1,75 bis 16 bar\\nHinterdruck:1,5 bar\\nEingang:G 3/4\"-IG, Ausgang:G 1/2\"-IG\\nmit CE-Kennzeichnung und Konformitätserklärung"
 }

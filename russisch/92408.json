@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    92408\r\n                  ",
-  "name": "ANSI Flansch-Kugelhahn, Typ  FSA Böhmer",
+  "id": "92408",
+  "name": "ANSI Flansch-Kugelhahn, TypFSA Böhmer",
   "weight": "25,50",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "3&quot;, ANSI B 16.5 R. F. Class 300 #, Stahl, voller Durchgang aus<br>Werkstoff  Rst35.8I/C 22.8  Kugel aus 1.4308 Schaltwelle aus 1.4104 Dichtelemente PTFE Fire-Safe nach BS 6755, mit <br>Abnahmepr&#xFC;fzeugnis DIN 50.049-3.1<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "3\", ANSI B 16.5 R. F. Class 300 #, Stahl, voller Durchgang aus\\nWerkstoffRst35.8I/C 22.8Kugel aus 1.4308 Schaltwelle aus 1.4104 Dichtelemente PTFE Fire-Safe nach BS 6755, mit \\nAbnahmeprüfzeugnis DIN 50.049-3.1\\n"
 }

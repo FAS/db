@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    84022\r\n                  ",
+  "id": "84022",
   "name": "FAS-Meßanlage PN 25, Eingang Flansch DN 20, ",
   "weight": "35,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Ausgang M30 x 1,5 lks, bestehend aus: <br>Siemens-Ringkolbenz&#xE4;hler DN 15 mit Umlaufzeiger <br>und Summierwerk, jedoch ohne Drucker, Leistung 2-10 l/min., <br>mit Gasblasenabscheider, Druckhalteventil und Regulierventil <br>3/4&quot; NPT, ohne eichamtliche Abnahme, mit Werkszeugnis 2.2<br>nach DIN 50.049-2.2"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Ausgang M30 x 1,5 lks, bestehend aus: \\nSiemens-Ringkolbenzähler DN 15 mit Umlaufzeiger \\nund Summierwerk, jedoch ohne Drucker, Leistung 2-10 l/min., \\nmit Gasblasenabscheider, Druckhalteventil und Regulierventil \\n3/4\" NPT, ohne eichamtliche Abnahme, mit Werkszeugnis 2.2\\nnach DIN 50.049-2.2"
 }

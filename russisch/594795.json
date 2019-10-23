@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    594795\r\n                  ",
+  "id": "594795",
   "name": "Global Datacenter SMS-Gateway",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Zum Betrieb mit WIKON GSM-Telemetrieanlagen<br>ohne Roaming-Zuschl&#xE4;ge.<br>-integrierter Secure Device Server<br>- GSM-Modem<br>- Spannungsversorgung<br>- Antenne<br>- anschlussfertig verkabelt im Standard Industriegeh&#xE4;use"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Zum Betrieb mit WIKON GSM-Telemetrieanlagen\\nohne Roaming-Zuschläge.\\n-integrierter Secure Device Server\\n- GSM-Modem\\n- Spannungsversorgung\\n- Antenne\\n- anschlussfertig verkabelt im Standard Industriegehäuse"
 }

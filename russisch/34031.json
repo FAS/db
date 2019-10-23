@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    34031\r\n                  ",
-  "name": "LCD-Anzeige  für Tankautomat, vorgeeicht",
+  "id": "34031",
+  "name": "LCD-Anzeigefür Tankautomat, vorgeeicht",
   "weight": "2,20",
-  "price": "\r\n                  655,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Version:<br>(  ) Telegraph 1<br>(  ) Telegraph 2"
+  "price": "655,00",
+  "amount": "0",
+  "description": "Version:\\n() Telegraph 1\\n() Telegraph 2"
 }

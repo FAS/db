@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    797391\r\n                  ",
+  "id": "797391",
   "name": "Leistungsschütz für Drehstrommotoren bis 7,5 kW (ETI)",
   "weight": "0,10",
-  "price": "\r\n                  140,00\r\n                  ",
-  "amount": "\r\n                      \r\n67\r\n                    \r\n                    ",
-  "description": "Spulenanschluss 230V,50/60Hz<br>AC3- 18A<br>AC 1- 32A"
+  "price": "140,00",
+  "amount": "67",
+  "description": "Spulenanschluss 230V,50/60Hz\\nAC3- 18A\\nAC 1- 32A"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    111217\r\n                  ",
+  "id": "111217",
   "name": "Überstundenzuschlag ab 8 - 10 Std. (25%) für:",
   "weight": "0,00",
-  "price": "\r\n                  16,25\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "=&gt; Werkstattstunde (einschl. Hilfsstoffen &amp; Maschinen)"
+  "price": "16,25",
+  "amount": "0",
+  "description": "=> Werkstattstunde (einschl. Hilfsstoffen & Maschinen)"
 }

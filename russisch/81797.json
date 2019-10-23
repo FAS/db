@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    81797\r\n                  ",
+  "id": "81797",
   "name": "alt",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Wir berechnen Ihnen nachfolgend Zollabgaben zu unserer <br>Sendung vom _______ (AB-Nr. _____, RE-Nr. ____), <br>die irrt&#xFC;mlich an uns berechnet wurden. <br><br>Anbei erhalten Sie den Beleg der Spedition Max Schachinger in <br>&#xD6;sterreich. <br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Wir berechnen Ihnen nachfolgend Zollabgaben zu unserer \\nSendung vom _______ (AB-Nr. _____, RE-Nr. ____), \\ndie irrtümlich an uns berechnet wurden. \\n\\nAnbei erhalten Sie den Beleg der Spedition Max Schachinger in \\nÖsterreich. \\n"
 }

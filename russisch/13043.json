@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    13043\r\n                  ",
+  "id": "13043",
   "name": "Füllpistole, Typ LG, 3/4\" NPT x 1 3/4\" ACME",
   "weight": "2,40",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "mit Sicherheitsf&#xFC;llkupplung und R&#xFC;ckschlagventil, PN 25,<br>mit Werkszeugnis nach EN 10 204 ( DIN 50.049-2.2 )"
+  "price": "0,00",
+  "amount": "0",
+  "description": "mit Sicherheitsfüllkupplung und Rückschlagventil, PN 25,\\nmit Werkszeugnis nach EN 10 204 ( DIN 50.049-2.2 )"
 }

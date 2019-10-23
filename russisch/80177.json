@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    80177\r\n                  ",
+  "id": "80177",
   "name": "Luftkompressor, einstufig, Ausgangsdruck ca. 8 bar",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Leistung ca. 340 l/min. kompl. mit Druckbeh&#xE4;lter 90l<br>und Motor 1,7 kW, 380 V"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Leistung ca. 340 l/min. kompl. mit Druckbehälter 90l\\nund Motor 1,7 kW, 380 V"
 }

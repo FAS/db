@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    17210\r\n                  ",
+  "id": "17210",
   "name": "Doppel-Thermostat, type Jumo",
   "weight": "0,90",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n2\r\n                    \r\n                    ",
-  "description": "bestehend aus einem Temperatur- und Sicherheitstemperaturw&#xE4;chter<br>- Typ ATHs-220<br>- Schaltleistung: AC 230 Volt 10 Amp.<br>- Regelbereich: +20...+150&#xB0;C<br>-Schaltdifferenz 1: 3 - 4 %<br>-Schaltdifferenz 2: 4 - 6%<br>-Anschlussart: U G 1/2 NPT<br>-Tauchrohr: 15 x 100mm<br>"
+  "price": "0,00",
+  "amount": "2",
+  "description": "bestehend aus einem Temperatur- und Sicherheitstemperaturwächter\\n- Typ ATHs-220\\n- Schaltleistung: AC 230 Volt 10 Amp.\\n- Regelbereich: +20...+150°C\\n-Schaltdifferenz 1: 3 - 4 %\\n-Schaltdifferenz 2: 4 - 6%\\n-Anschlussart: U G 1/2 NPT\\n-Tauchrohr: 15 x 100mm\\n"
 }

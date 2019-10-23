@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    84564\r\n                  ",
+  "id": "84564",
   "name": "Pneumatischer Schwenkantrieb /Federr.",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Typ PAF 020/ISO-Ausf. F 07/SW 17,<br>mit 2 N&#xE4;hrungsinitiatoren<br>Fabr. P + F, Typ NJ2-11 NG,<br>im Makrolongeh&#xE4;use<br>+ 1 Herion 3/2-Wege-Magnetventil<br>24 V Gleichstrom, Schutzart IP 65<br>f&#xFC;r Durchgangshahn<br>N = 14<br>erforderlicher Steuerdruck: 3,5 bar"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Typ PAF 020/ISO-Ausf. F 07/SW 17,\\nmit 2 Nährungsinitiatoren\\nFabr. P + F, Typ NJ2-11 NG,\\nim Makrolongehäuse\\n+ 1 Herion 3/2-Wege-Magnetventil\\n24 V Gleichstrom, Schutzart IP 65\\nfür Durchgangshahn\\nN = 14\\nerforderlicher Steuerdruck: 3,5 bar"
 }

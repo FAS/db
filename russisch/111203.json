@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    111203\r\n                  ",
+  "id": "111203",
   "name": "Überstundenzuschlag ab 10 Std. (50%) für:",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "=&gt; Montageschlosser<br>=&gt; Elektriker<br>=&gt; Schwei&#xDF;er GR II / ER II"
+  "price": "0,00",
+  "amount": "0",
+  "description": "=> Montageschlosser\\n=> Elektriker\\n=> Schweißer GR II / ER II"
 }

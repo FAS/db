@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    9973\r\n                  ",
+  "id": "9973",
   "name": "Bitte wählen Sie durch Ankreuzen entsprechend aus:",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "(  ) Ich w&#xFC;nsche die Serviceleistung gem&#xE4;&#xDF; obigem Kostenvoranschlag.<br><br>(  ) Eine Serviceleistung soll nicht durchgef&#xFC;hrt werden. Das defekte Ger&#xE4;t<br>     w&#xFC;nsche ich zur&#xFC;ck. Die entstandenen Kosten f&#xFC;r &#xDC;berpr&#xFC;fung und<br>     Versand gehen zu meinen Lasten.<br><br>(  ) Die Serviceleistung soll nicht durchgef&#xFC;hrt werden, das defekte Ger&#xE4;t <br>     kann entsorgt werden. Die entstandenen Kosten f&#xFC;r &#xDC;berpr&#xFC;funng und<br>     Versand gehen zu meinen Lasten.<br><br>Sollten Sie uns nicht innerhalb von 4 Wochen schriftlich &#xFC;ber Ihre<br>Entscheidung informieren, werden wir Ihnen das defekte Ger&#xE4;t zu<br>unserer Entlastung zur&#xFC;ckschicken und Ihnen die Kosten f&#xFC;r die <br>&#xDC;berpr&#xFC;fung und den Versand in Rechnung stellen.  "
+  "price": "0,00",
+  "amount": "0",
+  "description": "() Ich wünsche die Serviceleistung gemäß obigem Kostenvoranschlag.\\n\\n() Eine Serviceleistung soll nicht durchgeführt werden. Das defekte Gerät\\nwünsche ich zurück. Die entstandenen Kosten für Überprüfung und\\nVersand gehen zu meinen Lasten.\\n\\n() Die Serviceleistung soll nicht durchgeführt werden, das defekte Gerät \\nkann entsorgt werden. Die entstandenen Kosten für Überprüfunng und\\nVersand gehen zu meinen Lasten.\\n\\nSollten Sie uns nicht innerhalb von 4 Wochen schriftlich über Ihre\\nEntscheidung informieren, werden wir Ihnen das defekte Gerät zu\\nunserer Entlastung zurückschicken und Ihnen die Kosten für die \\nÜberprüfung und den Versand in Rechnung stellen."
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    81637\r\n                  ",
+  "id": "81637",
   "name": "Ersatzteilpackung, Typ ERC ",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n2\r\n                    \r\n                    ",
-  "description": "f&#xFC;r Sicherheitstrennkupplung DN 50, <br>einschl. Abscherstift, mit O-Ringen f&#xFC;r <br>Ammoniak, mit Flachdichtung "
+  "price": "0,00",
+  "amount": "2",
+  "description": "für Sicherheitstrennkupplung DN 50, \\neinschl. Abscherstift, mit O-Ringen für \\nAmmoniak, mit Flachdichtung "
 }

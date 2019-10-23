@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    218175\r\n                  ",
+  "id": "218175",
   "name": "Kompressorantrieb für LB 161 Elektrostarter 12V",
   "weight": "142,20",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Dieselmotor<br> - Motor Typ: 1D81Z <br> - Drehzahl: 3000 U/min<br> - Leistung: 10,1 kW<br> - Dekompressionsautomatik<br> - Kaltstarteinrichtung<br> - Drehzahlverstellregler<br> - automatische Einspritzpumpenentl&#xFC;ftung<br> - Elektrostarter 12V<br> - Lichtmaschine 12V / 220 W<br> - Notabschaltung per Chalwyn-Ventil Typ D39BF"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Dieselmotor\\n - Motor Typ: 1D81Z \\n - Drehzahl: 3000 U/min\\n - Leistung: 10,1 kW\\n - Dekompressionsautomatik\\n - Kaltstarteinrichtung\\n - Drehzahlverstellregler\\n - automatische Einspritzpumpenentlüftung\\n - Elektrostarter 12V\\n - Lichtmaschine 12V / 220 W\\n - Notabschaltung per Chalwyn-Ventil Typ D39BF"
 }

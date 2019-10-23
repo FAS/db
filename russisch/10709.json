@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    10709\r\n                  ",
+  "id": "10709",
   "name": "Переходник",
   "weight": "0,18",
-  "price": "\r\n                  19,00\r\n                  ",
-  "amount": "\r\n                      \r\n346\r\n                    \r\n                    ",
-  "description": "&#x441; 1/2&quot; NPT &#x43D;&#x430;&#x440;&#x443;&#x436;&#x43D;&#x435;&#x439; &#x440;&#x435;&#x437;&#x44C;&#x431;&#x44B; &#x43D;&#x430; 22&#x43C;&#x43C; ERMETO"
+  "price": "19,00",
+  "amount": "346",
+  "description": "с 1/2\" NPT наружней резьбы на 22мм ERMETO"
 }

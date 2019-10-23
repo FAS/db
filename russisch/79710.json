@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    79710\r\n                  ",
+  "id": "79710",
   "name": "Hilfsschalterbaustein 10 für Hilfsschütz",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "1 Schlie&#xDF;er / 0 &#xD6;ffner"
+  "price": "0,00",
+  "amount": "0",
+  "description": "1 Schließer / 0 Öffner"
 }

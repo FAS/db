@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    34264\r\n                  ",
+  "id": "34264",
   "name": "Tankdaten-Verarbeitungssoftware HecPoll Standard für PC,",
   "weight": "0,04",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Einzelplatz Version<br>Datenbank Microsoft SQL Express<br>Datentransfer zu den Automaten <br>Hecfleet NT / Hecstar / TA2331<br>Leistungsmerkmale:<br>- Stammdatenverwaltung <br>  (Kunden, Ausweise, Fahrzeuge, Personal Vertr&#xE4;ge)<br>- Tankdatenverwaltung<br>- Verwaltung Terminals, Preise<br>- Mandantenf&#xE4;higkeit<br>- Mehrsprachigkeit<br>- Benutzerverwaltung<br>- Steuerprogramm (Scheduler)<br>- Import / Export ASCII (MKL, F4050, S1100R3)<br>- Import / Export XML, CSV<br>- Reporte, Listen als PDF, CSV, Excel<br><br>Lizenzpreis f&#xFC;r 1 Tankautomaten<br><br>Software nur f&#xFC;r innerbetriebliche Anlagen geeignet"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Einzelplatz Version\\nDatenbank Microsoft SQL Express\\nDatentransfer zu den Automaten \\nHecfleet NT / Hecstar / TA2331\\nLeistungsmerkmale:\\n- Stammdatenverwaltung \\n(Kunden, Ausweise, Fahrzeuge, Personal Verträge)\\n- Tankdatenverwaltung\\n- Verwaltung Terminals, Preise\\n- Mandantenfähigkeit\\n- Mehrsprachigkeit\\n- Benutzerverwaltung\\n- Steuerprogramm (Scheduler)\\n- Import / Export ASCII (MKL, F4050, S1100R3)\\n- Import / Export XML, CSV\\n- Reporte, Listen als PDF, CSV, Excel\\n\\nLizenzpreis für 1 Tankautomaten\\n\\nSoftware nur für innerbetriebliche Anlagen geeignet"
 }

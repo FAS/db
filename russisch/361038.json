@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    361038\r\n                  ",
+  "id": "361038",
   "name": "Beistellung, Quittiereinheit Typ QE 200",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "Aufbau: Steckgeh&#xE4;use Schutzart IP 40<br>Hilfsenergier: 230 V, 50 Hz<br>Ausgang: Anschluss f&#xFC;r Signalhupe und Warnleuchte<br>"
+  "price": "0,00",
+  "amount": "1",
+  "description": "Aufbau: Steckgehäuse Schutzart IP 40\\nHilfsenergier: 230 V, 50 Hz\\nAusgang: Anschluss für Signalhupe und Warnleuchte\\n"
 }

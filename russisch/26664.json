@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    26664\r\n                  ",
+  "id": "26664",
   "name": "Zeitrelais mit Rückfallverzögerung 0,05 - 300 Std.",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "mit Fernsteuerungsanschlu&#xDF;<br>Ausgang: 1 Wechsler<br>Versorgungsspannung: 24V AC/DC und <br>                                      110-240V AC/DC<br>Fabr.: Schneider RE 7 RM 11 BU<br><br>#####################################<br>ARTIKEL DOPPELT - FAS-47.218 verwenden<br>#####################################"
+  "price": "0,00",
+  "amount": "0",
+  "description": "mit Fernsteuerungsanschluß\\nAusgang: 1 Wechsler\\nVersorgungsspannung: 24V AC/DC und \\n110-240V AC/DC\\nFabr.: Schneider RE 7 RM 11 BU\\n\\n\\nARTIKEL DOPPELT - FAS-47.218 verwenden\\n"
 }

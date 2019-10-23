@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    16420\r\n                  ",
+  "id": "16420",
   "name": "Sicherheitsabsperrventil (SAV) DN 25, PN 40,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Typ SID-MM, Flanschanschluss, Geh&#xE4;use aus Stahl, <br>grundiert,<br>oberer Abschaltpunkt Bereich 0,45 - 1,5 bar (AG5)<br>oberer Abschaltpunkt eingestellt auf ______ mbar<br>unterer Abschaltpunkt Bereich 0,2 - 0,47 (AG15)<br>unterer Abschaltpunkt eingestellt auf ______ mbar<br>mit Abnahmepr&#xFC;fzeugnis 3.1 B nach EN 10204"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Typ SID-MM, Flanschanschluss, Gehäuse aus Stahl, \\ngrundiert,\\noberer Abschaltpunkt Bereich 0,45 - 1,5 bar (AG5)\\noberer Abschaltpunkt eingestellt auf ______ mbar\\nunterer Abschaltpunkt Bereich 0,2 - 0,47 (AG15)\\nunterer Abschaltpunkt eingestellt auf ______ mbar\\nmit Abnahmeprüfzeugnis 3.1 B nach EN 10204"
 }

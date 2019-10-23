@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    21018\r\n                  ",
+  "id": "21018",
   "name": "Trockenlauf-Kolben-Kompressor, Typ Corken D692",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "mit doppelter Stopfbuchse, Anschlu&#xDF; 1 1/2&quot; NPT,<br>Geh&#xE4;usewerkstoff aus Sph&#xE4;rogu&#xDF; GGG40.3<br>mit Antriebskeilriemenscheibe,<br>max. Drehzahl 790 1/min, <br>max. Hubvolumenstrom 102 m3/h,<br>min. Eingangsdruck 0,21 bar, <br>max. Ausgangsdruck 20,7 bar"
+  "price": "0,00",
+  "amount": "0",
+  "description": "mit doppelter Stopfbuchse, Anschluß 1 1/2\" NPT,\\nGehäusewerkstoff aus Sphäroguß GGG40.3\\nmit Antriebskeilriemenscheibe,\\nmax. Drehzahl 790 1/min, \\nmax. Hubvolumenstrom 102 m3/h,\\nmin. Eingangsdruck 0,21 bar, \\nmax. Ausgangsdruck 20,7 bar"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    261033\r\n                  ",
+  "id": "261033",
   "name": "Ex-Steuerung für Drehstrom-Kompressormotoren,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "ausgelegt f&#xFC;r Motorleistung 10kW / 400/690V, 50 Hz<br>mit Stern-Dreieck-Anlaufschaltung.<br>Ausger&#xFC;stet zum Anschluss von:<br> - 11 kW Motor<br> - min.- und max. Gasdruckw&#xE4;chter (eigensicher)<br> - Gastemperatur &#xDC;berwachung (eigensicher)<br> - 1x F&#xFC;llstandssensor im Abscheider (eigensicher)<br> - min. &#xD6;ldruckw&#xE4;chter (eigensicher)<br><br>mit Atex Bescheinigung"
+  "price": "0,00",
+  "amount": "0",
+  "description": "ausgelegt für Motorleistung 10kW / 400/690V, 50 Hz\\nmit Stern-Dreieck-Anlaufschaltung.\\nAusgerüstet zum Anschluss von:\\n - 11 kW Motor\\n - min.- und max. Gasdruckwächter (eigensicher)\\n - Gastemperatur Überwachung (eigensicher)\\n - 1x Füllstandssensor im Abscheider (eigensicher)\\n - min. Öldruckwächter (eigensicher)\\n\\nmit Atex Bescheinigung"
 }

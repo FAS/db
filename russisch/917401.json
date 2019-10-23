@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    917401\r\n                  ",
+  "id": "917401",
   "name": "Überströmventil Typ RV18-CBS 2 (Constant-Bleed-System)",
   "weight": "4,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "f&#xFC;r Pumpen im Zulaufbetrieb<br> - max 200l/min<br> - 5,0 - 9,0 bar (Standard)<br> - mit Entgasungsborung<br> - 1&quot;  NPT IG<br> - Material - A395 <br> - f&#xFC;r Medium: DME <br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "für Pumpen im Zulaufbetrieb\\n - max 200l/min\\n - 5,0 - 9,0 bar (Standard)\\n - mit Entgasungsborung\\n - 1\"NPT IG\\n - Material - A395 \\n - für Medium: DME \\n"
 }

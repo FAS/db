@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    26280\r\n                  ",
+  "id": "26280",
   "name": "Gaswarngerät Typ Gasman FL, mobil",
   "weight": "4,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Me&#xDF;bereich: 0 - 100% UEG Propan C3H8<br>mit wiederaufladbaren Li - Ion Akku<br>mit &quot;Drop-In&quot; Ladestation C01943<br>mit Aligator Clip M02340<br>mit ATEX-Bauartzulassung EEx ia d IIC T4<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Meßbereich: 0 - 100% UEG Propan C3H8\\nmit wiederaufladbaren Li - Ion Akku\\nmit \"Drop-In\" Ladestation C01943\\nmit Aligator Clip M02340\\nmit ATEX-Bauartzulassung EEx ia d IIC T4\\n"
 }

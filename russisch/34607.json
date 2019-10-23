@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    34607\r\n                  ",
+  "id": "34607",
   "name": "Lizenzänderung für Lümatic Auswerteprogramm",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Der Artikel beinhaltet das Umschreiben einer vorhandenen Softwarelizenz,<br>auf einen neuen Lizenznehmer.<br><br>Hinweis f&#xFC;r eine Neuinstallation der Software:<br>Der erforderliche &quot;Personalcomputer min. Pentium II&quot; mit serieller<br>Schnittstelle (COM) muss bauseits zur Verf&#xFC;gung gestellt werden !!<br>Diese Software ist eine Einzelplatzversion und nicht f&#xFC;r die Einbindung in ein <br>Netzwerk geeignet!!<br><br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Der Artikel beinhaltet das Umschreiben einer vorhandenen Softwarelizenz,\\nauf einen neuen Lizenznehmer.\\n\\nHinweis für eine Neuinstallation der Software:\\nDer erforderliche \"Personalcomputer min. Pentium II\" mit serieller\\nSchnittstelle (COM) muss bauseits zur Verfügung gestellt werden !!\\nDiese Software ist eine Einzelplatzversion und nicht für die Einbindung in ein \\nNetzwerk geeignet!!\\n\\n"
 }

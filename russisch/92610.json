@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    92610\r\n                  ",
+  "id": "92610",
   "name": "Reparatur - und Servicekit für 2-jährigen Betrieb",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "(After-Sales-Package) bestehend aus:<br>- Verschlei&#xDF;teile, Dichtungssatz und Reparaturpackung f&#xFC;r Kompressor 601<br>- Wellendichtung f&#xFC;r Seitenkananlpumpe 6100 Serie<br>- Verschlei&#xDF;teile und Reparaturpackung f&#xFC;r Z&#xE4;hler MA15<br>- Dichtungss&#xE4;tze f&#xFC;r 10% der Kugelh&#xE4;hne"
+  "price": "0,00",
+  "amount": "0",
+  "description": "(After-Sales-Package) bestehend aus:\\n- Verschleißteile, Dichtungssatz und Reparaturpackung für Kompressor 601\\n- Wellendichtung für Seitenkananlpumpe 6100 Serie\\n- Verschleißteile und Reparaturpackung für Zähler MA15\\n- Dichtungssätze für 10% der Kugelhähne"
 }

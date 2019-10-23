@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    601222\r\n                  ",
+  "id": "601222",
   "name": "Mengengaszähler Typ MZ 50",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "MZ Z&#xE4;hler sind Str&#xF6;mungsz&#xE4;hler. Das durchstr&#xF6;mende Gastreibt ein Turbinenrad an, dessen Rotationsgeschwindigkeit proportional zu linearen Geschwindigkeit des Gases ist. Die Drehbewegung wird mechanisch mittels einer Magnetkupplung zum Z&#xE4;hlwerk &#xFC;bertragen.<br><br>Technische Daten Messbereich und Impulswerte:<br><br>- Nennweite: DN 50<br>- Qmax 100 m3/h<br>- Druckverlust 8,1 mbar<br>- Umgebungstemperatur: -30&#xB0;C +60&#xB0; C<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "MZ Zähler sind Strömungszähler. Das durchströmende Gastreibt ein Turbinenrad an, dessen Rotationsgeschwindigkeit proportional zu linearen Geschwindigkeit des Gases ist. Die Drehbewegung wird mechanisch mittels einer Magnetkupplung zum Zählwerk übertragen.\\n\\nTechnische Daten Messbereich und Impulswerte:\\n\\n- Nennweite: DN 50\\n- Qmax 100 m3/h\\n- Druckverlust 8,1 mbar\\n- Umgebungstemperatur: -30°C +60° C\\n"
 }

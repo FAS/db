@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    111120\r\n                  ",
+  "id": "111120",
   "name": "Wartungs-Pauschale",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "###############################<br>Vereinbarte Pauschale f&#xFC;r die Durchf&#xFC;hrung der Wartung der oben <br>aufgef&#xFC;hrten Anlage/n."
+  "price": "0,00",
+  "amount": "0",
+  "description": "\\nVereinbarte Pauschale für die Durchführung der Wartung der oben \\naufgeführten Anlage/n."
 }

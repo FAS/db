@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    75769\r\n                  ",
+  "id": "75769",
   "name": "Blech DIN 1543, 1000x2000x50 mm, in TSTE 355",
   "weight": "392,50",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0.84\r\n                    \r\n                    ",
-  "description": "nach DIN 17102, mit KPZ bei -40&#xB0;C, <br>Lieferbedingung n. ADW1, W10, TRB 100<br>Ultraschallgepr&#xFC;ft-Klasse 3, Raster 200, Randzone 50,<br>mit Abnahmepr&#xFC;fzeugnis 3.1A nach EN 10204"
+  "price": "0,00",
+  "amount": "0.84",
+  "description": "nach DIN 17102, mit KPZ bei -40°C, \\nLieferbedingung n. ADW1, W10, TRB 100\\nUltraschallgeprüft-Klasse 3, Raster 200, Randzone 50,\\nmit Abnahmeprüfzeugnis 3.1A nach EN 10204"
 }

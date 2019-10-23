@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    25050\r\n                  ",
+  "id": "25050",
   "name": "Druckluftzylinder",
   "weight": "2,50",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n4\r\n                    \r\n                    ",
-  "description": "Type LMZ-50 x 70-o. D.-S<br>-einfachwirkend sto&#xDF;end<br>  Federeinbau<br>  F = 62 N<br>  F = 100 N<br>-Kolbenstangengewinde: M10<br>-Kontermutter<br>-Gabelkopf 40126.33<br>-Luftanschlu&#xDF; G 1/4<br>-Einbaul&#xE4;nge L : 224 mm incl. Hub<br>-Befestigung: Schwenklager,<br>  Bohrungsdurchm. 14 mm<br>"
+  "price": "0,00",
+  "amount": "4",
+  "description": "Type LMZ-50 x 70-o. D.-S\\n-einfachwirkend stoßend\\nFedereinbau\\nF = 62 N\\nF = 100 N\\n-Kolbenstangengewinde: M10\\n-Kontermutter\\n-Gabelkopf 40126.33\\n-Luftanschluß G 1/4\\n-Einbaulänge L : 224 mm incl. Hub\\n-Befestigung: Schwenklager,\\nBohrungsdurchm. 14 mm\\n"
 }

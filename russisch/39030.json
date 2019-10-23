@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    39030\r\n                  ",
+  "id": "39030",
   "name": "Messgerät für Messsystem Typ LC",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "F&#xFC;r Typ MSA-30, ohne Z&#xE4;hler"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Für Typ MSA-30, ohne Zähler"
 }

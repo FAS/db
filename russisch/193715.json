@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    193715\r\n                  ",
+  "id": "193715",
   "name": "Magnetventil, Ex-geschützt, DN25 PN40, 12V DC",
   "weight": "4,80",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Funktion: 2/2-Wege Magnetventil<br>Art: Kolbenventil<br>Steuerung: zwangsgesteuert<br>Anschluss: Flansche DN 25 (DIN EN 1092-1/B)<br>Druck-Stufe: PN 40<br>Nennweite: 25 mm<br>Druck-Bereich: 0-25 bar<br>kv-Wert: 10,50 m&#xB3;/h<br>Temp.Medium: -20 bis +80&#xB0;C<br>Temp.Umgebung: -20 bis +40&#xB0;C<br>Spannung: 12V DC<br>Schutz-Art: EEx me II T3, IP 65<br>                  Ex II 2 GD T 140&#xB0;C<br>elektr.Anschl: Anschlussgeh&#xE4;use f&#xFC;r Kabel 5-10 mm<br>                      Kabeleinf&#xFC;hrung M16 x 1,5<br>Aufn.Betrieb: 3333 mA<br>Einsch.Dauer: 100 %<br>Einbauweise: beliebig, vorzugsweise Elektromagnet senkrecht nach oben<br>Werkstoff Geh&#xE4;use:   Stahlguss<br>Werkstoff Dichtung:   NBR-K<br>Schalt-Funkt.:            in Ruhestellung geschlossen"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Funktion: 2/2-Wege Magnetventil\\nArt: Kolbenventil\\nSteuerung: zwangsgesteuert\\nAnschluss: Flansche DN 25 (DIN EN 1092-1/B)\\nDruck-Stufe: PN 40\\nNennweite: 25 mm\\nDruck-Bereich: 0-25 bar\\nkv-Wert: 10,50 m³/h\\nTemp.Medium: -20 bis +80°C\\nTemp.Umgebung: -20 bis +40°C\\nSpannung: 12V DC\\nSchutz-Art: EEx me II T3, IP 65\\nEx II 2 GD T 140°C\\nelektr.Anschl: Anschlussgehäuse für Kabel 5-10 mm\\nKabeleinführung M16 x 1,5\\nAufn.Betrieb: 3333 mA\\nEinsch.Dauer: 100 %\\nEinbauweise: beliebig, vorzugsweise Elektromagnet senkrecht nach oben\\nWerkstoff Gehäuse:Stahlguss\\nWerkstoff Dichtung:NBR-K\\nSchalt-Funkt.:in Ruhestellung geschlossen"
 }

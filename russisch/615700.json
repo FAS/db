@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    615700\r\n                  ",
+  "id": "615700",
   "name": "Pumpenaggregat FAS NZ 11-10m für Öl (Diesel/Benzin)",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "mit folgenden Eigenschaften:<br><br>F&#xF6;rdermenge [m&#xB3;/h]: 11,4<br>F&#xF6;rderh. [m]: 10,1<br>NPSH [m]: 1<br>max. zul. Druck [bar]: 30<br>Medium: &#xF6;lhaltiges Wasser<br>Temperatur [&#xB0;C]: 25 - 45<br>Dichte [kg/dm&#xB3;] 1,0 <br>Viskosit&#xE4;t [mm&#xB2;] 1,0 <br><br><br>Pumpenmaterial<br><br>Geh&#xE4;useteile : EN-GJS-400-18-LT<br>Laufr&#xE4;der : EN-GJS-500-7<br>Welle : 1.4057<br>O-Ringe : FPM<br><br>Gleitringdichtung: 433.4304 A/Q1/V<br>Saug -/ Druckstutzen: 80 / 65 - PN 40 - DIN EN 1092-2<br><br>Motor [kW]: 1,1<br>Drehzahl [upm]: 1450<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "mit folgenden Eigenschaften:\\n\\nFördermenge [m³/h]: 11,4\\nFörderh. [m]: 10,1\\nNPSH [m]: 1\\nmax. zul. Druck [bar]: 30\\nMedium: ölhaltiges Wasser\\nTemperatur [°C]: 25 - 45\\nDichte [kg/dm³] 1,0 \\nViskosität [mm²] 1,0 \\n\\n\\nPumpenmaterial\\n\\nGehäuseteile : EN-GJS-400-18-LT\\nLaufräder : EN-GJS-500-7\\nWelle : 1.4057\\nO-Ringe : FPM\\n\\nGleitringdichtung: 433.4304 A/Q1/V\\nSaug -/ Druckstutzen: 80 / 65 - PN 40 - DIN EN 1092-2\\n\\nMotor [kW]: 1,1\\nDrehzahl [upm]: 1450\\n"
 }

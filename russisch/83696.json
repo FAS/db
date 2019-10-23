@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    83696\r\n                  ",
+  "id": "83696",
   "name": "Normal-Feder-Sicherheitsventil, PN 40",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n12\r\n                    \r\n                    ",
-  "description": "Eckform, bauteilgepr&#xFC;ft, mit T&#xDC;V-Abnahme<br>Eingang AG 1/2&quot; NPT,<br>Ausgang IG 1/2&quot; G,<br>eingestellt auf 9,4 bar,<br>gasdichte Kappe, H2,<br>engster Str&#xF6;mungsdurchmesser do: 10 mm; <br>nicht anluftbar, Geh&#xE4;use GGG 40.3<br>Eingang aus Werkstoff 1.4571"
+  "price": "0,00",
+  "amount": "12",
+  "description": "Eckform, bauteilgeprüft, mit TÜV-Abnahme\\nEingang AG 1/2\" NPT,\\nAusgang IG 1/2\" G,\\neingestellt auf 9,4 bar,\\ngasdichte Kappe, H2,\\nengster Strömungsdurchmesser do: 10 mm; \\nnicht anluftbar, Gehäuse GGG 40.3\\nEingang aus Werkstoff 1.4571"
 }

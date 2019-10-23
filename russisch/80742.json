@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    80742\r\n                  ",
+  "id": "80742",
   "name": "alt",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Wir berechnen  Ihnen f&#xFC;r Wechsel<br>112.575,37 DM v. 30.03.1993<br>Wechselkosten in H&#xF6;he von DM 2.368,58<br>gem. Anlage"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Wir berechnenIhnen für Wechsel\\n112.575,37 DM v. 30.03.1993\\nWechselkosten in Höhe von DM 2.368,58\\ngem. Anlage"
 }

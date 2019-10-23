@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    27521\r\n                  ",
+  "id": "27521",
   "name": "Bauüberwachung (Elektrik)",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "&#xDC;berwachung der Ausf&#xFC;hrung des Objekts<br>auf &#xDC;bereinstimmung mit Genehmigung,<br>Ausf&#xFC;hrungspl&#xE4;nen, Leistungsverzeichnis<br>sowie den allgemein anerkannten Regeln<br>der Technik und einschl&#xE4;gigen Vorschriften.<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Überwachung der Ausführung des Objekts\\nauf Übereinstimmung mit Genehmigung,\\nAusführungsplänen, Leistungsverzeichnis\\nsowie den allgemein anerkannten Regeln\\nder Technik und einschlägigen Vorschriften.\\n"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    35915\r\n                  ",
+  "id": "35915",
   "name": "Mehrpreis für die nachträgliche Domschachtabdichtung",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "eines unterirdischen Fl&#xFC;ssiggaslagerbeh&#xE4;lters im Werk <br>Salzgitter (Ausf&#xFC;hrung: &quot;DOMSCHACHT BEH&#xC4;LTER-<br>SEITIG WASSERDICHT&quot;)"
+  "price": "0,00",
+  "amount": "0",
+  "description": "eines unterirdischen Flüssiggaslagerbehälters im Werk \\nSalzgitter (Ausführung: \"DOMSCHACHT BEHÄLTER-\\nSEITIG WASSERDICHT\")"
 }

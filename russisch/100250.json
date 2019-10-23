@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    100250\r\n                  ",
+  "id": "100250",
   "name": "Anschlussstück, 2 1/4\" ACME-AG x 1\" NPT-IG, Messing",
   "weight": "0,66",
-  "price": "\r\n                  76,00\r\n                  ",
-  "amount": "\r\n                      \r\n30\r\n                    \r\n                    ",
-  "description": "PN 25, Typ FAS (&#xE4;hnl. RegO 5766E)"
+  "price": "76,00",
+  "amount": "30",
+  "description": "PN 25, Typ FAS (ähnl. RegO 5766E)"
 }

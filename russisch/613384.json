@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    613384\r\n                  ",
+  "id": "613384",
   "name": "Corken Pumpe CDBN 1521 für Benzin und Diesel",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Anschl&#xFC;sse: \t\t\tInlet 4&quot; NPT, outlet 4&quot; NPT <br>Maximum RPM: \t\t                860<br>Minimum Temperatur: \t\t-32&#xB0;C<br>Maximum Temperatur: \t\t107&#xB0;C<br>max. Betriebsdruck: \t\t                27,6 bar<br>max. Differenzdruck: \t\t6,9 bar<br>Max. Motorleistung: \t\t30 hp - 22 Kw  <br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Anschlüsse: Inlet 4\" NPT, outlet 4\" NPT \\nMaximum RPM: 860\\nMinimum Temperatur: -32°C\\nMaximum Temperatur: 107°C\\nmax. Betriebsdruck: 27,6 bar\\nmax. Differenzdruck: 6,9 bar\\nMax. Motorleistung: 30 hp - 22 Kw\\n"
 }

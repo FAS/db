@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    90801\r\n                  ",
+  "id": "90801",
   "name": "Proportional-Feder-Sicherheitsventil in Eckform",
   "weight": "0,90",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "DN 15, Einstelldruck __  bar, bauteilgepr&#xFC;ft, H 2,<br>gasdichte Kappe, nicht anl&#xFC;ftbar, Material Sph&#xE4;rogu&#xDF; GGG-40.3"
+  "price": "0,00",
+  "amount": "0",
+  "description": "DN 15, Einstelldruck __bar, bauteilgeprüft, H 2,\\ngasdichte Kappe, nicht anlüftbar, Material Sphäroguß GGG-40.3"
 }

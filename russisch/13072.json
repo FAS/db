@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    13072\r\n                  ",
+  "id": "13072",
   "name": "Kupplung, beiderseits ACME-AG, Typ RegO 5765M",
   "weight": "0,36",
-  "price": "\r\n                  43,00\r\n                  ",
-  "amount": "\r\n                      \r\n18\r\n                    \r\n                    ",
-  "description": "1 3/4&quot; ACME"
+  "price": "43,00",
+  "amount": "18",
+  "description": "1 3/4\" ACME"
 }

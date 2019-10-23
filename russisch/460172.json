@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    460172\r\n                  ",
+  "id": "460172",
   "name": "FAS Pumpe Typ NZ 150-9",
   "weight": "0,00",
-  "price": "\r\n                  20.130,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "f&#xFC;r Fl&#xFC;ssiggas nach DIN 51622 ohne Feststoffe und Pumpenwerkstoffe nicht angreifend.<br>Nennf&#xF6;rderstrom QN = max. 170m3/h<br>Nominale Drehzahl nN: ca. 2.900 U/min<br>Differenzdruck = max. 12,8bar<br>NPSH = 1,8 m bei 100 m&#xB3;/h und 11.5 bar Differenzdruck<br>Doppelte Gleitringdichtung Tandemanordnung<br>in druckloser Quenchvorlage (API 610, Plan 52)<br>ohne Vorlagebeh&#xE4;lter<br>6 Stufen<br><br>Anschl&#xFC;sse: <br>Saugflansch DN 125, PN40 nach DIN EN 1092-2<br>Druckflansch DN 100, PN 40 nach DIN EN 1092-2<br><br>Pumpenwerkstoffe:<br>Geh&#xE4;useteile : EN-GJS-400-18-LT<br>Laufr&#xE4;der : EN-GJS-400-15<br>Welle: 1.4057<br>O-Ringe: FPM<br><br>ohne Motor mit freiem Wellenende<br>"
+  "price": "20.130,00",
+  "amount": "0",
+  "description": "für Flüssiggas nach DIN 51622 ohne Feststoffe und Pumpenwerkstoffe nicht angreifend.\\nNennförderstrom QN = max. 170m3/h\\nNominale Drehzahl nN: ca. 2.900 U/min\\nDifferenzdruck = max. 12,8bar\\nNPSH = 1,8 m bei 100 m³/h und 11.5 bar Differenzdruck\\nDoppelte Gleitringdichtung Tandemanordnung\\nin druckloser Quenchvorlage (API 610, Plan 52)\\nohne Vorlagebehälter\\n6 Stufen\\n\\nAnschlüsse: \\nSaugflansch DN 125, PN40 nach DIN EN 1092-2\\nDruckflansch DN 100, PN 40 nach DIN EN 1092-2\\n\\nPumpenwerkstoffe:\\nGehäuseteile : EN-GJS-400-18-LT\\nLaufräder : EN-GJS-400-15\\nWelle: 1.4057\\nO-Ringe: FPM\\n\\nohne Motor mit freiem Wellenende\\n"
 }

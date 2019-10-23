@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    21039\r\n                  ",
+  "id": "21039",
   "name": "Hydraulikmotor Typ OMP 50/GMP 50,",
   "weight": "6,30",
-  "price": "\r\n                  490,00\r\n                  ",
-  "amount": "\r\n                      \r\n4\r\n                    \r\n                    ",
-  "description": "f&#xFC;r Blackmer-Kompressor Typ 161,<br>Schluckvolumen 48,6 ccm/U<br>Betriebsvolumenstrom ca. 38,4 l/min<br>Betriebsdrehzahl n = 790 U/min<br>Leistung 5,0 kW"
+  "price": "490,00",
+  "amount": "4",
+  "description": "für Blackmer-Kompressor Typ 161,\\nSchluckvolumen 48,6 ccm/U\\nBetriebsvolumenstrom ca. 38,4 l/min\\nBetriebsdrehzahl n = 790 U/min\\nLeistung 5,0 kW"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    232198\r\n                  ",
+  "id": "232198",
   "name": "Hochdruckregler Propan",
   "weight": "0,00",
-  "price": "\r\n                  33,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Typ 904 <br>1,5 bar 40kg/h<br>Eingang: G 3/4&quot; female (G17)<br>Ausgang: M20x 1,5 male (H.1)"
+  "price": "33,00",
+  "amount": "0",
+  "description": "Typ 904 \\n1,5 bar 40kg/h\\nEingang: G 3/4\" female (G17)\\nAusgang: M20x 1,5 male (H.1)"
 }

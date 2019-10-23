@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    37160\r\n                  ",
+  "id": "37160",
   "name": "Anschlusseinheit zur gefahrlosen Instandsetzung",
   "weight": "1,60",
-  "price": "\r\n                  450,00\r\n                  ",
-  "amount": "\r\n                      \r\n10\r\n                    \r\n                    ",
-  "description": "von Fl&#xFC;ssiggaszapfs&#xE4;ulen. Die Einheit erm&#xF6;glicht das <br>Entleeren und Sp&#xFC;len der gesamten Hydraulik bzw. der<br>Zu- und R&#xFC;ckf&#xFC;hrleitung mit Stickstoff. Die Einheit ist zum<br>Anschluss an das interne F&#xFC;llventil der FAS Zapfs&#xE4;ulen<br>geeignet inklusive H&#xF6;chststandpeiler."
+  "price": "450,00",
+  "amount": "10",
+  "description": "von Flüssiggaszapfsäulen. Die Einheit ermöglicht das \\nEntleeren und Spülen der gesamten Hydraulik bzw. der\\nZu- und Rückführleitung mit Stickstoff. Die Einheit ist zum\\nAnschluss an das interne Füllventil der FAS Zapfsäulen\\ngeeignet inklusive Höchststandpeiler."
 }

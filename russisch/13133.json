@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    13133\r\n                  ",
-  "name": "Разрывная муфта  на рукаве запр. колонки",
+  "id": "13133",
+  "name": "Разрывная муфтана рукаве запр. колонки",
   "weight": "1,41",
-  "price": "\r\n                  245,00\r\n                  ",
-  "amount": "\r\n                      \r\n2\r\n                    \r\n                    ",
-  "description": "&#x441; &#x434;&#x432;&#x443;&#x445; &#x441;&#x442;&#x43E;&#x440;&#x43E;&#x43D; 1&quot; NPT IG, &#x43A;&#x43E;&#x440;&#x43F;&#x443;&#x441; &#x438;&#x437; &#x441;&#x442;&#x430;&#x43B;&#x438;<br>&#x442;&#x438;&#x43F; Rego<br><br>Geh&#x434;use aus Stahl, mit Seilausl&#x446;sung, Typ RegO A2141A8L<br>mit Werkszeugnis 2.1 nach EN 10 204 <br>- GIP : ohne CE-Kennzeichnung nach DGRL 2014/68/EU"
+  "price": "245,00",
+  "amount": "2",
+  "description": "с двух сторон 1\" NPT IG, корпус из стали\\nтип Rego\\n\\nGehдuse aus Stahl, mit Seilauslцsung, Typ RegO A2141A8L\\nmit Werkszeugnis 2.1 nach EN 10 204 \\n- GIP : ohne CE-Kennzeichnung nach DGRL 2014/68/EU"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    60265\r\n                  ",
+  "id": "60265",
   "name": "Reglerkasten mit 2 Stufen-Regler für Hausanschluß",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Leistung: 24 kg/h, <br>Vordruck: 0,5 - 2,5 bar<br>Hinterdruck: 50 mbar<br>Eingang /Ausgang: L&#xF6;tanschlu&#xDF; 18 mm, Absperrventil und Isolierst&#xFC;ck,ohne Magnetventil, ohne Notversorgungsanschlu&#xDF;"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Leistung: 24 kg/h, \\nVordruck: 0,5 - 2,5 bar\\nHinterdruck: 50 mbar\\nEingang /Ausgang: Lötanschluß 18 mm, Absperrventil und Isolierstück,ohne Magnetventil, ohne Notversorgungsanschluß"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    22115\r\n                  ",
+  "id": "22115",
   "name": "Option für 2 weitere Zapfpunkte, eichfähig",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "(max. 4 Zapfpunkte f&#xFC;r Tankautomat TDA 400)"
+  "price": "0,00",
+  "amount": "0",
+  "description": "(max. 4 Zapfpunkte für Tankautomat TDA 400)"
 }

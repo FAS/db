@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    299110\r\n                  ",
+  "id": "299110",
   "name": "Stempel, Typ PRINTY H4911",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n2\r\n                    \r\n                    ",
-  "description": "&quot;SERVICE&quot;<br><br>einzeilig<br>Text zentriert<br>Fl&#xE4;che 38x14 mm<br>Schriftart: Arial<br>Schriftschnitt: fett<br>Schriftgr&#xF6;sse: 18 Pt<br>Stempelfarbe rot"
+  "price": "0,00",
+  "amount": "2",
+  "description": "\"SERVICE\"\\n\\neinzeilig\\nText zentriert\\nFläche 38x14 mm\\nSchriftart: Arial\\nSchriftschnitt: fett\\nSchriftgrösse: 18 Pt\\nStempelfarbe rot"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    9010\r\n                  ",
+  "id": "9010",
   "name": "Einheitspapier - Versendung/Ausfuhr - mit Kopie",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n600\r\n                    \r\n                    ",
-  "description": "f&#xFC;r den Aussteller 4fach<br>mit Sonderstempeleindruck gem&#xE4;&#xDF; Korrekturabzug<br>Bestell-Nr. 0733-4L"
+  "price": "0,00",
+  "amount": "600",
+  "description": "für den Aussteller 4fach\\nmit Sonderstempeleindruck gemäß Korrekturabzug\\nBestell-Nr. 0733-4L"
 }

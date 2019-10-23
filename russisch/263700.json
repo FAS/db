@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    263700\r\n                  ",
+  "id": "263700",
   "name": "S7-1200 Siemens SIMATIC CPU 1211C AC/DC/RELAIS ",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Typ CPU 1211C AC/DC/RELAIS  <br><br> - Betriebsspannung 85 - 264 V/AC  <br> - Digitale Ausg&#xE4;nge 4 Relais (0,5 A)  <br> - Digitale Eing&#xE4;nge 6 (24 V/DC)  <br> - Analoge Eing&#xE4;nge 2 AE 0 - 10 V/DC  <br> - Programm-Speicher 1 MB  <br> - Daten-Speicher 25 kB  <br> - Schnittstellen RJ45 integriert, RS 232 und RS485 optional  <br> - Unterst&#xFC;tzte Protokolle TCP/IP, ISO-on-TCP, USS drive protocol, Modbus Master/Slave  <br> - Anzahl der Erweiterungsmodule Max. 1 Signalboard, 3 Kommunikationsmodule<br> - Schutzart IP20  <br> - Abm. (B x H x T) 90 x 100 x 75 mm  <br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Typ CPU 1211C AC/DC/RELAIS\\n\\n - Betriebsspannung 85 - 264 V/AC\\n - Digitale Ausgänge 4 Relais (0,5 A)\\n - Digitale Eingänge 6 (24 V/DC)\\n - Analoge Eingänge 2 AE 0 - 10 V/DC\\n - Programm-Speicher 1 MB\\n - Daten-Speicher 25 kB\\n - Schnittstellen RJ45 integriert, RS 232 und RS485 optional\\n - Unterstützte Protokolle TCP/IP, ISO-on-TCP, USS drive protocol, Modbus Master/Slave\\n - Anzahl der Erweiterungsmodule Max. 1 Signalboard, 3 Kommunikationsmodule\\n - Schutzart IP20\\n - Abm. (B x H x T) 90 x 100 x 75 mm\\n"
 }

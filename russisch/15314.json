@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    15314\r\n                  ",
-  "name": "Предохранительный  клапан 2\" NPT внешняя резьба",
+  "id": "15314",
+  "name": "Предохранительныйклапан 2\" NPT внешняя резьба",
   "weight": "4,40",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "2&quot; NPT AG, Typ RegO 7534, &#x438;&#x437; &#x43B;&#x430;&#x442;&#x443;&#x43D;&#x438;<br><br>&#x423;&#x441;&#x442;&#x430;&#x43D;&#x43E;&#x432;&#x43E;&#x447;&#x43D;&#x43E;&#x435; &#x434;&#x430;&#x432;&#x43B;&#x435;&#x43D;&#x438;&#x435;                   FAS-Nr.<br>125 PSI (7534B)    -&gt;    90.651 (mit UL-Kennzeichnung)<br>250 PSI (7534G)    -&gt;    90.652 (mit UL-Kennzeichnung) <br>275 PSI (7534GC)  -&gt;    90.653 (mit UL-Kennzeichnung)<br><br>13,8 bar                   -&gt;    90.660<br>14,8 bar                   -&gt;    90.661<br>15,5 bar                   -&gt;    90.662<br>16,7 bar                   -&gt;    90.670<br>17,2 bar                   -&gt;    90.663<br>17,6 bar                   -&gt;    90.666<br>18,0 bar                   -&gt;    90.672<br>20,0 bar                   -&gt;    90.664<br>20,7 bar                   -&gt;    90.665<br>20,8 bar                   -&gt;    90.687<br>23,0 bar                   -&gt;    90.671<br>24,0 bar                   -&gt;    90.667<br>25,0 bar                   -&gt;    90.668<br>27,0 bar                   -&gt;    90.669<br>15,6 bar                   -&gt;    90.674<br><br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "2\" NPT AG, Typ RegO 7534, из латуни\\n\\nУстановочное давлениеFAS-Nr.\\n125 PSI (7534B)->90.651 (mit UL-Kennzeichnung)\\n250 PSI (7534G)->90.652 (mit UL-Kennzeichnung) \\n275 PSI (7534GC)->90.653 (mit UL-Kennzeichnung)\\n\\n13,8 bar->90.660\\n14,8 bar->90.661\\n15,5 bar->90.662\\n16,7 bar->90.670\\n17,2 bar->90.663\\n17,6 bar->90.666\\n18,0 bar->90.672\\n20,0 bar->90.664\\n20,7 bar->90.665\\n20,8 bar->90.687\\n23,0 bar->90.671\\n24,0 bar->90.667\\n25,0 bar->90.668\\n27,0 bar->90.669\\n15,6 bar->90.674\\n\\n"
 }

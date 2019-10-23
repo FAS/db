@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    471960\r\n                  ",
+  "id": "471960",
   "name": "Elektro-Schaltkasten aus Stahlblech",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Steuerung zur Montage im Geb&#xE4;ude und au&#xDF;erhalb der Schutz-<br>zone, komplett verdrahtet zum Anschlu&#xDF; von:<br> - elektronischer Zapfs&#xE4;ule<br> - 2 Ebsray-RX25/33 Tauchpumpenmotor mit H.B.T.-Kontakt <br>   Lagertemperatur&#xFC;berwachung mittels Schaltkontakt<br>   [ ] 2,2 kW (5,4 A)<br>   [ ] 3,7 kW (8,7 A)<br> - 2 Magnetventile<br> - 2 Differenzdruckw&#xE4;chter<br> - 2 Vegaswing 63 zur min-&#xDC;berwachung des Beh&#xE4;lters<br> - bis zu 3 NOT-AUS Taster,<br> - Anschluss f&#xFC;r Tankstellenbeleuchtung, <br><br><br>Abmessung: H: 700mm, B: 500mm, T: 250mm,<br><br>Dokumentation:<br> - Klemmen- und Verdrahtungsplan<br><br><br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Steuerung zur Montage im Gebäude und außerhalb der Schutz-\\nzone, komplett verdrahtet zum Anschluß von:\\n - elektronischer Zapfsäule\\n - 2 Ebsray-RX25/33 Tauchpumpenmotor mit H.B.T.-Kontakt \\nLagertemperaturüberwachung mittels Schaltkontakt\\n[ ] 2,2 kW (5,4 A)\\n[ ] 3,7 kW (8,7 A)\\n - 2 Magnetventile\\n - 2 Differenzdruckwächter\\n - 2 Vegaswing 63 zur min-Überwachung des Behälters\\n - bis zu 3 NOT-AUS Taster,\\n - Anschluss für Tankstellenbeleuchtung, \\n\\n\\nAbmessung: H: 700mm, B: 500mm, T: 250mm,\\n\\nDokumentation:\\n - Klemmen- und Verdrahtungsplan\\n\\n\\n"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    93382\r\n                  ",
+  "id": "93382",
   "name": "Spiralgehäusepumpenaggregat SIHI ULNC 065250",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Typ ULNC 065250 AB AAE 0A 2, Leistung 30 TPH,<br>1450 rpm, Saugseite Flansch DN 80, Druckseite Flansch DN 65,<br>Einzelgleitringdichtung Typ FN2, Geh&#xE4;use aus GG-25, mit<br>Elektromotor 7,5 kW, IP 55, 1500 1/min, 50 Hz, 400/690 V"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Typ ULNC 065250 AB AAE 0A 2, Leistung 30 TPH,\\n1450 rpm, Saugseite Flansch DN 80, Druckseite Flansch DN 65,\\nEinzelgleitringdichtung Typ FN2, Gehäuse aus GG-25, mit\\nElektromotor 7,5 kW, IP 55, 1500 1/min, 50 Hz, 400/690 V"
 }

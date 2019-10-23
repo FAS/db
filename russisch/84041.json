@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    84041\r\n                  ",
+  "id": "84041",
   "name": "Schaltschrank zur Steuerung und Überwachung",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "des Kompressoraggregates, zur Montage innerhalb eines Geb&#xE4;udes,<br>ausger&#xFC;stet mit:<br>- Motorsteuerung (Stern-/ Dreieck)<br>- &#xDC;berwachung des Eingangsdruckes p min<br>- &#xDC;berwachung des Ausgangsdruckes p max<br>- &#xDC;berwachung des &#xD6;l druckes  p min<br>- &#xDC;berwachung der Austrittstemperatur t max mit Anzeige<br>- entsprechende  Leuchtanzeigen zur Fehleranzeige"
+  "price": "0,00",
+  "amount": "0",
+  "description": "des Kompressoraggregates, zur Montage innerhalb eines Gebäudes,\\nausgerüstet mit:\\n- Motorsteuerung (Stern-/ Dreieck)\\n- Überwachung des Eingangsdruckes p min\\n- Überwachung des Ausgangsdruckes p max\\n- Überwachung des Öl druckesp min\\n- Überwachung der Austrittstemperatur t max mit Anzeige\\n- entsprechendeLeuchtanzeigen zur Fehleranzeige"
 }

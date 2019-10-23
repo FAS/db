@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    82541\r\n                  ",
-  "name": "Druckregler 6 kg/h,  verstellbar mit Manometer,",
+  "id": "82541",
+  "name": "Druckregler 6 kg/h,verstellbar mit Manometer,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Eingangsdruck bis 16 bar, Ausgangsdruck 0,5 - 4 bar,<br>Eingang Kombi-Anschlu&#xDF; &#xDC;M, Ausgang R 3/8&quot; lks. AG"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Eingangsdruck bis 16 bar, Ausgangsdruck 0,5 - 4 bar,\\nEingang Kombi-Anschluß ÜM, Ausgang R 3/8\" lks. AG"
 }

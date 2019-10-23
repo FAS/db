@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    84508\r\n                  ",
+  "id": "84508",
   "name": "Reparatursatz für Fisher-Regler",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Typ S102L-CFC, bestehend aus:<br>- 1 x Feder, Typ 1E9851 27212<br>- 1 x Membrane, Typ 1E9831 02082<br>- 1 x Scheibenhalter &amp; Scheibe, Typ 1E9857 000A2<br>- 1 x Geh&#xE4;usedichtung, Typ T1019906992<br>- 1 x R&#xFC;ckhaltering, Typ T10669 24152"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Typ S102L-CFC, bestehend aus:\\n- 1 x Feder, Typ 1E9851 27212\\n- 1 x Membrane, Typ 1E9831 02082\\n- 1 x Scheibenhalter & Scheibe, Typ 1E9857 000A2\\n- 1 x Gehäusedichtung, Typ T1019906992\\n- 1 x Rückhaltering, Typ T10669 24152"
 }

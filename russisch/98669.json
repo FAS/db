@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    98669\r\n                  ",
+  "id": "98669",
   "name": "LCR-TE550-DC/DC конвертер преобразователь",
   "weight": "5,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n3\r\n                    \r\n                    ",
-  "description": "&#x432;&#x445;&#x43E;&#x434;: 18-36VDC / &#x432;&#x44B;&#x445;&#x43E;&#x434;: 24VDC"
+  "price": "0,00",
+  "amount": "3",
+  "description": "вход: 18-36VDC / выход: 24VDC"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    81815\r\n                  ",
+  "id": "81815",
   "name": "Elektro-Schaltschrank, komplett verdrahtet,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "zur Ansteuerung eines Pumpenmotors 15KW, <br>mit autom. Stern-Dreieck-Schaltung und &#xDC;berstromauslosung,<br>FI-Schutzschalter und Sicherungen"
+  "price": "0,00",
+  "amount": "0",
+  "description": "zur Ansteuerung eines Pumpenmotors 15KW, \\nmit autom. Stern-Dreieck-Schaltung und Überstromauslosung,\\nFI-Schutzschalter und Sicherungen"
 }

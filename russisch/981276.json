@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    981276\r\n                  ",
+  "id": "981276",
   "name": "Druckmessumformer Typ, Cerabar S PMC71",
   "weight": "0,00",
-  "price": "\r\n                  1.490,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Geeignet f&#xFC;r LPG<br>Z&#xFC;ndschutzart: ATEX II 2G Ex db ia IIC T6 Gb<br>Anschluss: Gewinde ISO228 G1/2 EN837, 316L<br>Temperaturbereich: -20...70 &#xB0;C<br>Messbereich: 0 - 5 bar (0...+2500kPa)<br>Ausgangssignal: Zweileiter 4 ... 20 mA/HART, <br>                            Innenliegend + LCD<br>Geh&#xE4;use: T14 Aluminium IP66/67, NEMA 6P<br>Kabeleingang: M20 Gewinde<br>Extra Zertifikat: SIL<br>EU-Konformit&#xE4;tserkl&#xE4;rung<br>"
+  "price": "1.490,00",
+  "amount": "0",
+  "description": "Geeignet für LPG\\nZündschutzart: ATEX II 2G Ex db ia IIC T6 Gb\\nAnschluss: Gewinde ISO228 G1/2 EN837, 316L\\nTemperaturbereich: -20...70 °C\\nMessbereich: 0 - 5 bar (0...+2500kPa)\\nAusgangssignal: Zweileiter 4 ... 20 mA/HART, \\nInnenliegend + LCD\\nGehäuse: T14 Aluminium IP66/67, NEMA 6P\\nKabeleingang: M20 Gewinde\\nExtra Zertifikat: SIL\\nEU-Konformitätserklärung\\n"
 }

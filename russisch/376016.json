@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    376016\r\n                  ",
+  "id": "376016",
   "name": "TBA_Aufstellungsplan_freies Gelände",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "mit Schutzzonen, Sicherheitsabst&#xE4;nden, Wirkbereichen"
+  "price": "0,00",
+  "amount": "0",
+  "description": "mit Schutzzonen, Sicherheitsabständen, Wirkbereichen"
 }

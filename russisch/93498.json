@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    93498\r\n                  ",
+  "id": "93498",
   "name": "Druckschalter , explosionsgeschützt im Aluminiumgehäuse",
   "weight": "0,20",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Schutzart IP 65, Anschlu&#xDF; G1/2 AG,<br>Messbereich:  0 - 2,5 bar , <br>Schaltpunkt:   0,25 - 2,25 bar einstellbar,<br>max. Druck:    10 bar<br>Z&#xFC;ndschutzart II 2G EEx d IIC T5<br>Mikroschalter: einpoliger Wechsler 10A/250V-AC<br>mit Baumusterpr&#xFC;fbescheinigung/ATEX"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Schutzart IP 65, Anschluß G1/2 AG,\\nMessbereich:0 - 2,5 bar , \\nSchaltpunkt:0,25 - 2,25 bar einstellbar,\\nmax. Druck:10 bar\\nZündschutzart II 2G EEx d IIC T5\\nMikroschalter: einpoliger Wechsler 10A/250V-AC\\nmit Baumusterprüfbescheinigung/ATEX"
 }

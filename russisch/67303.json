@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    67303\r\n                  ",
-  "name": "Magnetkarte, codiert, für Tankautomat FAS-420_L-EC,<br>",
+  "id": "67303",
+  "name": "Magnetkarte, codiert, für Tankautomat FAS-420_L-EC,\\n",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "<br>Ausf&#xFC;hrung: Kartenfarbe wei&#xDF;/ OHNE Aufdruck (nur lfd-Kartennummer)<br><br>Laufende Nr.: _____ - _____<br><br>Achtung: Bei Nachbestellung vom Kunden letzte laufende <br>               Kartennummer erfragen !<br><br>Kunde: GWT Wasungen<br><br>Projekt:  Willi Eckardt<br>             39433 Bad Salzungen<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "\\nAusführung: Kartenfarbe weiß/ OHNE Aufdruck (nur lfd-Kartennummer)\\n\\nLaufende Nr.: _____ - _____\\n\\nAchtung: Bei Nachbestellung vom Kunden letzte laufende \\nKartennummer erfragen !\\n\\nKunde: GWT Wasungen\\n\\nProjekt:Willi Eckardt\\n39433 Bad Salzungen\\n"
 }

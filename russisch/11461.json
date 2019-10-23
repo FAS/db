@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    11461\r\n                  ",
+  "id": "11461",
   "name": "Klöpperboden DN 200, DIN 28011, aus TSTE 355 (P355NL1)",
   "weight": "4,30",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n21\r\n                    \r\n                    ",
-  "description": "DIN 17102, &#xF8;219,1x7 mm, mit Abnahmepr&#xFC;fzeugnis 3.1A/B nach EN 10204<br>und KBZ bei -20&#xB0;C; V-Kante au&#xDF;en Pr&#xFC;fgrundlage: AD W1,  W 10,<br>TRB100<br>"
+  "price": "0,00",
+  "amount": "21",
+  "description": "DIN 17102, ø219,1x7 mm, mit Abnahmeprüfzeugnis 3.1A/B nach EN 10204\\nund KBZ bei -20°C; V-Kante außen Prüfgrundlage: AD W1,W 10,\\nTRB100\\n"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    9997\r\n                  ",
+  "id": "9997",
   "name": "Bei Aufträgen unter 100,00 EURO Nettowarenwert",
   "weight": "0,00",
-  "price": "\r\n                  20,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "werden 20,00 EURO Bearbeitungsgeb&#xFC;hr zus&#xE4;tzlich berechnet.<br>Aufgrund der hohen Kosten f&#xFC;r Kleinauftr&#xE4;ge<br>bitten wir Sie f&#xFC;r diese Ma&#xDF;nahme um Ihr Verst&#xE4;ndnis. Der<br>vereinbarte Rabatt bleibt im vollen Umfang bestehen. <br>Sofern Sie diese Bestellung noch auf einen Nettowarenwert<br>&#xFC;ber 100,00 EURO erh&#xF6;hen m&#xF6;chten, bitten wir um Ihre<br>kurze Nachricht."
+  "price": "20,00",
+  "amount": "0",
+  "description": "werden 20,00 EURO Bearbeitungsgebühr zusätzlich berechnet.\\nAufgrund der hohen Kosten für Kleinaufträge\\nbitten wir Sie für diese Maßnahme um Ihr Verständnis. Der\\nvereinbarte Rabatt bleibt im vollen Umfang bestehen. \\nSofern Sie diese Bestellung noch auf einen Nettowarenwert\\nüber 100,00 EURO erhöhen möchten, bitten wir um Ihre\\nkurze Nachricht."
 }

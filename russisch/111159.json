@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    111159\r\n                  ",
+  "id": "111159",
   "name": "ÜSV-Nachrüstsatz für eine TMP GVR (FAS-21.597/21.583)",
   "weight": "0,00",
-  "price": "\r\n                  695,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "###############################<br>zur Installation eines &#xDC;berstr&#xF6;mventilleitung an einem<br>Druckleitungssystem Typ FAS"
+  "price": "695,00",
+  "amount": "1",
+  "description": "\\nzur Installation eines Überströmventilleitung an einem\\nDruckleitungssystem Typ FAS"
 }

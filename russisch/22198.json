@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    22198\r\n                  ",
+  "id": "22198",
   "name": "Modem, (In-House) für Tankautomat FAS-400 undFAS-420",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "zur &#xDC;bertragung der Ausweisdaten und Tank-<br>daten vom Tankautomaten zum Personal-Computer<br>ohne Verlegung und Lieferung der erforderlichen Daten-<br>leitung,<br><br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "zur Übertragung der Ausweisdaten und Tank-\\ndaten vom Tankautomaten zum Personal-Computer\\nohne Verlegung und Lieferung der erforderlichen Daten-\\nleitung,\\n\\n"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    918622\r\n                  ",
+  "id": "918622",
   "name": "SIHI Mehrstufenzentrifugalpumpe HEGA 05006 0AB BK3 0B P0",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "mit freiliegender Welle<br><br>Wellendichtung                            BK3<br>Hersteller:                                     BURGMANN<br>Typ:                                              MG1<br>Material Code:                              AQ1EGG<br><br>Material Design<br>Saug-/Druckgeh&#xE4;use                    0.6025, GG-25 <br>Laufrad                                        0.6025, GG-25 <br>Welle                                          1.1191, CK 45 N<br>Wellenschutz                              1.4122, X35 Cr Mo 17<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "mit freiliegender Welle\\n\\nWellendichtungBK3\\nHersteller:BURGMANN\\nTyp:MG1\\nMaterial Code:AQ1EGG\\n\\nMaterial Design\\nSaug-/Druckgehäuse0.6025, GG-25 \\nLaufrad0.6025, GG-25 \\nWelle1.1191, CK 45 N\\nWellenschutz1.4122, X35 Cr Mo 17\\n"
 }

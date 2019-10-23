@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    34037\r\n                  ",
-  "name": "EC-Kartenleser für Tankautomat  Lümatic OPP A40",
+  "id": "34037",
+  "name": "EC-Kartenleser für TankautomatLümatic OPP A40",
   "weight": "0,13",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
+  "price": "0,00",
+  "amount": "0",
   "description": "(Einbau in Typ: FAS-420_L_EC Tankautomaten)"
 }

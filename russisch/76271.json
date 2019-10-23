@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    76271\r\n                  ",
-  "name": "Werkzeugtasche für Service Satz  FAS-76268",
+  "id": "76271",
+  "name": "Werkzeugtasche für Service SatzFAS-76268",
   "weight": "0,60",
-  "price": "\r\n                  93,00\r\n                  ",
-  "amount": "\r\n                      \r\n9\r\n                    \r\n                    ",
-  "description": "Innenma&#xDF;e (L x B x H): 360 x 110 x 170"
+  "price": "93,00",
+  "amount": "9",
+  "description": "Innenmaße (L x B x H): 360 x 110 x 170"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    25293\r\n                  ",
+  "id": "25293",
   "name": "Mehrpreis für die Montage von einem Näherungsschalter",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "f&#xFC;r die Ausl&#xF6;semeldung der Sicherheitstrennkupplung<br>an Verladearmstation Typ FAS-G7, komplett mit Verka-<br>belung und Anschlu&#xDF;kasten an der Stands&#xE4;ule"
+  "price": "0,00",
+  "amount": "0",
+  "description": "für die Auslösemeldung der Sicherheitstrennkupplung\\nan Verladearmstation Typ FAS-G7, komplett mit Verka-\\nbelung und Anschlußkasten an der Standsäule"
 }

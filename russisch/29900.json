@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    29900\r\n                  ",
+  "id": "29900",
   "name": "Adress-Stempel UNI-F., Typ TRODAT PRINTY H4913",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n10\r\n                    \r\n                    ",
-  "description": "&quot;UNI-F&#xD6;RDERTECHNIK GmbH<br>Peiner Strasse 221 &#x2022; D-38229 Salzgitter<br>Tel.: 0049-(0)5341-8697-50 &#x2022; Fax: -8697-55<br>E-Mail: info@uni-f.de &#x2022; http://www.uni-f.de&quot;<br><br>Text zentriert<br>Fl&#xE4;che 58x22 mm<br>4zeilig<br>Schriftart: Arial<br>1. Zeile: fett; ca. 3,5 mm<br>2.-4. Zeile: Std; ca. 2,5 mm<br>Stempelfarbe blau"
+  "price": "0,00",
+  "amount": "10",
+  "description": "\"UNI-FÖRDERTECHNIK GmbH\\nPeiner Strasse 221 • D-38229 Salzgitter\\nTel.: 0049-(0)5341-8697-50 • Fax: -8697-55\\nE-Mail: info@uni-f.de • http://www.uni-f.de\"\\n\\nText zentriert\\nFläche 58x22 mm\\n4zeilig\\nSchriftart: Arial\\n1. Zeile: fett; ca. 3,5 mm\\n2.-4. Zeile: Std; ca. 2,5 mm\\nStempelfarbe blau"
 }

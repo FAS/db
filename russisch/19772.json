@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    19772\r\n                  ",
+  "id": "19772",
   "name": "Пневмозапорное устройство ",
   "weight": "10,05",
-  "price": "\r\n                  585,00\r\n                  ",
-  "amount": "\r\n                      \r\n2\r\n                    \r\n                    ",
-  "description": "NOVA Typ SN 115 SR &#x434;&#x43B;&#x44F; &#x43C;&#x43E;&#x43D;&#x442;&#x430;&#x436;&#x430; &#x43D;&#x430; <br>Argus &#x438;&#x43B;&#x438; Alpha 68 &#x448;&#x430;&#x440;&#x43E;&#x432;&#x44B;&#x435; &#x43A;&#x440;&#x430;&#x43D;&#x44B; DN 50"
+  "price": "585,00",
+  "amount": "2",
+  "description": "NOVA Typ SN 115 SR для монтажа на \\nArgus или Alpha 68 шаровые краны DN 50"
 }

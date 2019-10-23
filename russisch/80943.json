@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    80943\r\n                  ",
+  "id": "80943",
   "name": "alt",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Rechnung Friebe/Fa. FAR<br>Nr. 100 280 v. 21.04.93<br>4098,20 = 1/3"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Rechnung Friebe/Fa. FAR\\nNr. 100 280 v. 21.04.93\\n4098,20 = 1/3"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    34883\r\n                  ",
+  "id": "34883",
   "name": "Satz - Peripheriegeräte ",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "bestehend aus:<br>- Drucker mit Kabel und Steuerplatine<br>-Auswurfschale<br>-2x Netzteile<br>-Tastatur<br>-Kartenleser<br>-Not Aus- und Starttaster"
+  "price": "0,00",
+  "amount": "1",
+  "description": "bestehend aus:\\n- Drucker mit Kabel und Steuerplatine\\n-Auswurfschale\\n-2x Netzteile\\n-Tastatur\\n-Kartenleser\\n-Not Aus- und Starttaster"
 }

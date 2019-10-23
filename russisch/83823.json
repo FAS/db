@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    83823\r\n                  ",
+  "id": "83823",
   "name": "Block-Kugelhahn DN 20, PN 100,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n2\r\n                    \r\n                    ",
-  "description": "mit APZ nach DIN 50049/3.1, <br>Geh&#xE4;usewerkstoff 1.0570<br>einschlie&#xDF;lich &#xDC;berwurfmutter<br>22 und Schneidring 22<br>Stahl geh&#xE4;rtet nach DIN 2353.<br>automatisch schlie&#xDF;end (Federr&#xFC;ckstellung)<br>Typ BK8"
+  "price": "0,00",
+  "amount": "2",
+  "description": "mit APZ nach DIN 50049/3.1, \\nGehäusewerkstoff 1.0570\\neinschließlich Überwurfmutter\\n22 und Schneidring 22\\nStahl gehärtet nach DIN 2353.\\nautomatisch schließend (Federrückstellung)\\nTyp BK8"
 }

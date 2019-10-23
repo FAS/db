@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    34036\r\n                  ",
-  "name": "CHIP-Kartenleser für Tankautomat  Lümatic",
+  "id": "34036",
+  "name": "CHIP-Kartenleser für TankautomatLümatic",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "inklusive Netzteil<br>(Einbau in Typ: FAS-420_L mit CHIPKARTEN Tankautomaten)"
+  "price": "0,00",
+  "amount": "0",
+  "description": "inklusive Netzteil\\n(Einbau in Typ: FAS-420_L mit CHIPKARTEN Tankautomaten)"
 }

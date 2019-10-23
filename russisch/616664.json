@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    616664\r\n                  ",
+  "id": "616664",
   "name": "Mengenumwerter CORUS PTZ DS1 MID",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Elektronischer Zustandsmengenumwerter<br>Messbereich / Messdruck= 2,5 bar<br>K= 1<br>mit grafischer Anzeige 128 x 64 Pixel<br>mit men&#xFC;gef&#xFC;hrter Bedienung &#xFC;ber<br>5 Tasten und Anzeige im Klatext,<br>Ereignislogbuch mit 800 Datens&#xE4;tzen,<br>Stundenspeicher mit 1440 Datens&#xE4;tzen,<br>Tagesdatenspeicher mit 124 Datens&#xE4;tzen,<br>Monatsdatenspeicher mit 24 Datens&#xE4;tzen,<br>Hauptdatenspeicher mit bis zu 5900 Datens&#xE4;tzen,<br>eigensicher nach EEx ia IIC T4, entspricht EN 12405,<br>Temperatursensor in Vierleitertechnik,<br>2 NF-Ausg&#xE4;nge, 2 NF-Impulseing&#xE4;nge,<br>2 Meldeeing&#xE4;nge,<br>Monatsmaximum,<br>RS232,<br>optische Schnittstelle,<br>Messbereich: 0,9 - 10 bar absolut<br>Umgebungstemp.: -10 -- +60 Grad Celsius<br>Speicherintervall: 60 Minuten<br>Tageswechselzeit: 6.oo Uhr<br>Spannungsversorg.: Batterie<br>Materialnachweis nach DIN EN 10204 3.1"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Elektronischer Zustandsmengenumwerter\\nMessbereich / Messdruck= 2,5 bar\\nK= 1\\nmit grafischer Anzeige 128 x 64 Pixel\\nmit menügeführter Bedienung über\\n5 Tasten und Anzeige im Klatext,\\nEreignislogbuch mit 800 Datensätzen,\\nStundenspeicher mit 1440 Datensätzen,\\nTagesdatenspeicher mit 124 Datensätzen,\\nMonatsdatenspeicher mit 24 Datensätzen,\\nHauptdatenspeicher mit bis zu 5900 Datensätzen,\\neigensicher nach EEx ia IIC T4, entspricht EN 12405,\\nTemperatursensor in Vierleitertechnik,\\n2 NF-Ausgänge, 2 NF-Impulseingänge,\\n2 Meldeeingänge,\\nMonatsmaximum,\\nRS232,\\noptische Schnittstelle,\\nMessbereich: 0,9 - 10 bar absolut\\nUmgebungstemp.: -10 -- +60 Grad Celsius\\nSpeicherintervall: 60 Minuten\\nTageswechselzeit: 6.oo Uhr\\nSpannungsversorg.: Batterie\\nMaterialnachweis nach DIN EN 10204 3.1"
 }

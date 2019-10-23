@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    26337\r\n                  ",
+  "id": "26337",
   "name": "Drehstrom Motor mit Kurzschlußläufer",
   "weight": "0,00",
-  "price": "\r\n                  2.065,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "explosionsgesch&#xFC;tzt II 2 G EEx d IIC T 4<br>Fabrikat : Bartec Varnost.<br>Type : 4KTC 132 SA 2,<br>Leistung : 5,5 kW.<br>Drehzahl : 2.910 1/min.<br>Spannung : 400 / 690 Volt.<br>Frequenz : 50 Hz.<br>Iso.-Kl. : F.<br>Bauform : B 5. FF 265 / A 300 mm<br>Schutzart : iP 55.<br>Motorschutz : 3 eingebauten Kaltleitern.<br>Explosionsgruppe : II C.<br>Temperaturklasse : T4<br>Gewicht : 77 kg<br>einschl. aller Kabelverschraubungen n. ATEX"
+  "price": "2.065,00",
+  "amount": "0",
+  "description": "explosionsgeschützt II 2 G EEx d IIC T 4\\nFabrikat : Bartec Varnost.\\nType : 4KTC 132 SA 2,\\nLeistung : 5,5 kW.\\nDrehzahl : 2.910 1/min.\\nSpannung : 400 / 690 Volt.\\nFrequenz : 50 Hz.\\nIso.-Kl. : F.\\nBauform : B 5. FF 265 / A 300 mm\\nSchutzart : iP 55.\\nMotorschutz : 3 eingebauten Kaltleitern.\\nExplosionsgruppe : II C.\\nTemperaturklasse : T4\\nGewicht : 77 kg\\neinschl. aller Kabelverschraubungen n. ATEX"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    932450\r\n                  ",
+  "id": "932450",
   "name": "Doppeldrucktaster zum Fernentriegeln vom FAS-Schaltschrank.",
   "weight": "0,32",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n2\r\n                    \r\n                    ",
-  "description": "!!! Dieser Taster mu&#xDF; sich im Sichtbereich des Schaltschrankes befinden. !!!<br><br>Best&#xFC;ckt mit Hupe aus und Entriegeln sowie einer M25 Verschraubung."
+  "price": "0,00",
+  "amount": "2",
+  "description": "!!! Dieser Taster muß sich im Sichtbereich des Schaltschrankes befinden. !!!\\n\\nBestückt mit Hupe aus und Entriegeln sowie einer M25 Verschraubung."
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    10030\r\n                  ",
-  "name": "Адаптер 3 1/4\" ACME-AG x 2\" NPT-IG, сталь,      ",
+  "id": "10030",
+  "name": "Адаптер 3 1/4\" ACME-AG x 2\" NPT-IG, сталь,",
   "weight": "0,90",
-  "price": "\r\n                  145,00\r\n                  ",
-  "amount": "\r\n                      \r\n3\r\n                    \r\n                    ",
-  "description": "PN 25, &#x442;&#x438;&#x43F; RegO A5768H"
+  "price": "145,00",
+  "amount": "3",
+  "description": "PN 25, тип RegO A5768H"
 }

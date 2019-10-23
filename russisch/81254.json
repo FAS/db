@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    81254\r\n                  ",
+  "id": "81254",
   "name": "alt",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Reparatur <br>Kompressor, Typ Mehrer TEL 60/65"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Reparatur \\nKompressor, Typ Mehrer TEL 60/65"
 }

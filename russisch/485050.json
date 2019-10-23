@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    485050\r\n                  ",
+  "id": "485050",
   "name": "Auswerte-Software FAS-Basis für Tankautomat FAS-430_E,",
   "weight": "0,10",
-  "price": "\r\n                  600,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "mit folgendem Umfang:<br> - Einzelplatzlizenz, nicht Netzwerkf&#xE4;hig<br> - Stammdatenverwaltung<br> - Auswertung von 1 Tankautomat<br> - Auswertung von Km, Datum und Person oder Kfz<br> - Auswertung nach Abteilung und Kostenstelle<br> - Automatische Zuordnung &#xFC;ber Ausweiskennung<br> - Listengenerator mit Filterm&#xF6;glichkeiten<br><br>Systemvorraussetzungen:<br> - PC mit mind. Pentium II<br> - Serielle Schnittstelle RS232 oder USB-Schnittstelle<br> - Windows XP, Windows 7<br>"
+  "price": "600,00",
+  "amount": "1",
+  "description": "mit folgendem Umfang:\\n - Einzelplatzlizenz, nicht Netzwerkfähig\\n - Stammdatenverwaltung\\n - Auswertung von 1 Tankautomat\\n - Auswertung von Km, Datum und Person oder Kfz\\n - Auswertung nach Abteilung und Kostenstelle\\n - Automatische Zuordnung über Ausweiskennung\\n - Listengenerator mit Filtermöglichkeiten\\n\\nSystemvorraussetzungen:\\n - PC mit mind. Pentium II\\n - Serielle Schnittstelle RS232 oder USB-Schnittstelle\\n - Windows XP, Windows 7\\n"
 }

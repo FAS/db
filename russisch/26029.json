@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    26029\r\n                  ",
+  "id": "26029",
   "name": "Drehstrom-Stirnrad-Getriebe-Motor, ",
   "weight": "85,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Fabrikat: FLENDER  Type: E68-M132M4<br>7,50 kW 1.450/573 l/min 400 V 690 V<br>Klasse F,Vollwelle(V30x60),Faktor 1,95<br>Abtriebsmoment 118Nm,&#xDC;bersetzung 2,39<br>50 Hz B3 IP 55  (nicht Ex-gesch&#xFC;tzt)"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Fabrikat: FLENDERType: E68-M132M4\\n7,50 kW 1.450/573 l/min 400 V 690 V\\nKlasse F,Vollwelle(V30x60),Faktor 1,95\\nAbtriebsmoment 118Nm,Übersetzung 2,39\\n50 Hz B3 IP 55(nicht Ex-geschützt)"
 }

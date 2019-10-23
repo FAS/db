@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    72104\r\n                  ",
+  "id": "72104",
   "name": "Druckfeder für Feinfilter",
   "weight": "1,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "DF9x138x230x3xC<br>d x DM x LO x IF x WNR"
+  "price": "0,00",
+  "amount": "1",
+  "description": "DF9x138x230x3xC\\nd x DM x LO x IF x WNR"
 }

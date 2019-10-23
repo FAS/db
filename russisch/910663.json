@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    910663\r\n                  ",
+  "id": "910663",
   "name": "Sicherheitsventil, UNI-Typ RV500B-XXX,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Geh&#xE4;use Messing, Dichtung Viton, Feder Edelstahl, <br>P: 1/2&quot; NPT IG,<br>max. Betriebsdruck: 35 bar, <br>Temperaturbereich: -40&#xB0; C bis +100&#xB0; C (1/4&quot;)<br>                                  -40&#xB0; C bis +204&#xB0; C (1/2&quot;)<br><br><br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Gehäuse Messing, Dichtung Viton, Feder Edelstahl, \\nP: 1/2\" NPT IG,\\nmax. Betriebsdruck: 35 bar, \\nTemperaturbereich: -40° C bis +100° C (1/4\")\\n-40° C bis +204° C (1/2\")\\n\\n\\n"
 }

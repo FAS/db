@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    26276\r\n                  ",
+  "id": "26276",
   "name": "Inbetriebnahme einer Gaswarnanlage Typ Touchpoint/Unipoint",
   "weight": "0,00",
-  "price": "\r\n                  620,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "mit bis zu 2 St&#xFC;ck Gas-Fernmessk&#xF6;pfen, Einstellung der Alarm-<br>schwellen 20% / 40% UEG Propan, einschlie&#xDF;lich Erstellen <br>eines Inbetriebnahme-Protokolles"
+  "price": "620,00",
+  "amount": "1",
+  "description": "mit bis zu 2 Stück Gas-Fernmessköpfen, Einstellung der Alarm-\\nschwellen 20% / 40% UEG Propan, einschließlich Erstellen \\neines Inbetriebnahme-Protokolles"
 }

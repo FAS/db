@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    16153\r\n                  ",
+  "id": "16153",
   "name": "Druckregler, Niederdruck, 2. Stufe, DN 50, PN 16, ",
   "weight": "14,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n2\r\n                    \r\n                    ",
-  "description": "ohne SAV, ohne SBV, Vordruck 0,35 - 4 bar, <br>Hinterdruck 210 - 450 mbar, Leistung max. 525 kg/h<br><br>-Konformit&#xE4;tserkl&#xE4;rung u. CE-Kennzeichnung <br> nach DGRL 2014/68/EU"
+  "price": "0,00",
+  "amount": "2",
+  "description": "ohne SAV, ohne SBV, Vordruck 0,35 - 4 bar, \\nHinterdruck 210 - 450 mbar, Leistung max. 525 kg/h\\n\\n-Konformitätserklärung u. CE-Kennzeichnung \\n nach DGRL 2014/68/EU"
 }

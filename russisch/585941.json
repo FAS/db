@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    585941\r\n                  ",
+  "id": "585941",
   "name": "Kettenförderer-Unterbau 900mm gerade Ausführung",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Version:\t\tgerade<br>L&#xE4;nge:\t\t900mm<br>Etagen:\t\tzwei<br>Str&#xE4;nge:\t\tzwei<br>Kettenabstand:\t160/300<br>Material:\t\tStahl<br>Oberfl&#xE4;che:\tLackiert<br>Farbe:\t\tBlau"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Version:gerade\\nLänge:900mm\\nEtagen:zwei\\nStränge:zwei\\nKettenabstand:\t160/300\\nMaterial:Stahl\\nOberfläche:\tLackiert\\nFarbe:Blau"
 }

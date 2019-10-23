@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    925241\r\n                  ",
+  "id": "925241",
   "name": "Einstutzen Balgengaszähler, Typ BK-G6 V2 M6.01",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Me&#xDF;bereich 0,06-10m3/h, gefalztes Stahlgeh&#xE4;use,<br>Impulsmagnet f&#xFC;r l=0,01m3/lmp, Anschlussst&#xFC;ck DN25<br>f&#xFC;r G2,5-G6 verzinkt, inclusive Eichgeb&#xFC;hr"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Meßbereich 0,06-10m3/h, gefalztes Stahlgehäuse,\\nImpulsmagnet für l=0,01m3/lmp, Anschlussstück DN25\\nfür G2,5-G6 verzinkt, inclusive Eichgebühr"
 }

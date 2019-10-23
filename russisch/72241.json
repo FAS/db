@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    72241\r\n                  ",
+  "id": "72241",
   "name": "Пружина регулятора ",
   "weight": "0,25",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n5\r\n                    \r\n                    ",
-  "description": "Rombach TYP 233-12 - Einstellbereich 30-  70 mbar<br>Rombach TYP 233-  8 - Einstellbereich 70-140 mbar"
+  "price": "0,00",
+  "amount": "5",
+  "description": "Rombach TYP 233-12 - Einstellbereich 30-70 mbar\\nRombach TYP 233-8 - Einstellbereich 70-140 mbar"
 }

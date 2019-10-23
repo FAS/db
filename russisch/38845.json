@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    38845\r\n                  ",
+  "id": "38845",
   "name": "Impulsgenerator Typ UNI SP 714",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Betriebstemperatur: -40 - 85&#xB0;C<br>Eingangsspannung: 6 - 28 VDC; 5 mA @ 24 VDC<br>Eingangssignal: Frequenz: 0 - 10 kHz<br>                         Impendanz: 10K @ 10 kHz<br>Ausgangssignal: 6 - 28 VDC, proportional zur Eingangsspannung<br>                           "
+  "price": "0,00",
+  "amount": "0",
+  "description": "Betriebstemperatur: -40 - 85°C\\nEingangsspannung: 6 - 28 VDC; 5 mA @ 24 VDC\\nEingangssignal: Frequenz: 0 - 10 kHz\\nImpendanz: 10K @ 10 kHz\\nAusgangssignal: 6 - 28 VDC, proportional zur Eingangsspannung\\n"
 }

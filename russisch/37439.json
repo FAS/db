@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    37439\r\n                  ",
+  "id": "37439",
   "name": "Deckel für Anlage HongKong",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Durchmesser 756 mm, Werkstoff S355 J2 G3,<br>mit Bohrungen f&#xFC;r<br>- SV-Multiport<br>- &#xDC;berf&#xFC;llsicherung<br>- Bef&#xFC;llung<br>- Notentleerung<br>- Fl&#xFC;ssigentnahme<br>- Schleusenabsperrung<br>- Druckausgleich Pumpe<br>- Zapfs&#xE4;ulenr&#xFC;ckf&#xFC;hrung<br>- Anzeiger"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Durchmesser 756 mm, Werkstoff S355 J2 G3,\\nmit Bohrungen für\\n- SV-Multiport\\n- Überfüllsicherung\\n- Befüllung\\n- Notentleerung\\n- Flüssigentnahme\\n- Schleusenabsperrung\\n- Druckausgleich Pumpe\\n- Zapfsäulenrückführung\\n- Anzeiger"
 }

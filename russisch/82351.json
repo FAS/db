@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    82351\r\n                  ",
+  "id": "82351",
   "name": "alt",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Zahlung:<br>30% bei Bestellung bzw. Auftragsbest&#xE4;tigung ohne jeden Abzug<br>70% 14 Tage nach Rechnungsstellung ohne jeden Abzug<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Zahlung:\\n30% bei Bestellung bzw. Auftragsbestätigung ohne jeden Abzug\\n70% 14 Tage nach Rechnungsstellung ohne jeden Abzug\\n"
 }

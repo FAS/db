@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    589134\r\n                  ",
+  "id": "589134",
   "name": "Balgengaszähler, Zweirohrausführung G2.5",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Modell: G2.5<br>Max. Durchfluss: 4.0 m3/h<br>Min. Durchfluss: 0.025 m3/h<br>Max. Arbeitsdruck: 1.5 bar<br>Temperaturbereich.: -20 .. 60C<br>Gewinde Gasanschluss: M34x1,5&quot;<br>Ursprungsland; Korea"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Modell: G2.5\\nMax. Durchfluss: 4.0 m3/h\\nMin. Durchfluss: 0.025 m3/h\\nMax. Arbeitsdruck: 1.5 bar\\nTemperaturbereich.: -20 .. 60C\\nGewinde Gasanschluss: M34x1,5\"\\nUrsprungsland; Korea"
 }

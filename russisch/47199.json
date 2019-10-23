@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    47199\r\n                  ",
+  "id": "47199",
   "name": "Elektro-Schaltschrank zur Montage im Gebäude ",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "und au&#xDF;erhalb der Explosionsgef&#xE4;hrdeten Bereiche.<br>Ausf&#xFC;hrung ARAL,<br>komplett verdrahtet zum Anschluss von:<br>-\t1 elektronischer Zapfs&#xE4;ule; Typ ARAL<br>-\t1 _____ Tauchpumpenmotor (maximal 5KW)<br>-\t1 Differenzdruckschalter (eigensicher EEx ia)<br>-\t1 Entnahmemagnetventil \t230V<br>-\t1 R&#xFC;cklaufmagnetventil \t230V<br>-\t1 Pendelmagnetventil \t\t230V<br>-\t1 FAFNIR &#xDC;berf&#xFC;llsicherung Typ: LS500/LS300<br>-\t1 Mindestf&#xFC;llstands&#xFC;berwachung (externer Wechselkontakt)<br>-\t1 F&#xFC;llventil (elektrischer Kugelhahn 230V)<br>-\t1 Bedienpanel TKW f&#xFC;r Beh&#xE4;lterbef&#xFC;llung (FAS: 47.197)<br>-\t1 externes Bedien- und Meldetableau (FAS: 47.198)<br>-\t3 externe Not-Ausschalter<br>Der Schaltschrank selber ist mit Hauptschalter, Not-Ausschalter, FI-Schutzschalter, Quittiertaster und Meldeleuchten f&#xFC;r Betriebsbereitschaft bzw. St&#xF6;rungen einschlie&#xDF;lich Schalt- und Klemmpl&#xE4;nen ausgestattet.<br>Schaltschrankma&#xDF;e: 800 x 600 x 300 mm   H/B/T <br><br>"
+  "price": "0,00",
+  "amount": "1",
+  "description": "und außerhalb der Explosionsgefährdeten Bereiche.\\nAusführung ARAL,\\nkomplett verdrahtet zum Anschluss von:\\n-\t1 elektronischer Zapfsäule; Typ ARAL\\n-\t1 _____ Tauchpumpenmotor (maximal 5KW)\\n-\t1 Differenzdruckschalter (eigensicher EEx ia)\\n-\t1 Entnahmemagnetventil \t230V\\n-\t1 Rücklaufmagnetventil \t230V\\n-\t1 Pendelmagnetventil 230V\\n-\t1 FAFNIR Überfüllsicherung Typ: LS500/LS300\\n-\t1 Mindestfüllstandsüberwachung (externer Wechselkontakt)\\n-\t1 Füllventil (elektrischer Kugelhahn 230V)\\n-\t1 Bedienpanel TKW für Behälterbefüllung (FAS: 47.197)\\n-\t1 externes Bedien- und Meldetableau (FAS: 47.198)\\n-\t3 externe Not-Ausschalter\\nDer Schaltschrank selber ist mit Hauptschalter, Not-Ausschalter, FI-Schutzschalter, Quittiertaster und Meldeleuchten für Betriebsbereitschaft bzw. Störungen einschließlich Schalt- und Klemmplänen ausgestattet.\\nSchaltschrankmaße: 800 x 600 x 300 mmH/B/T \\n\\n"
 }

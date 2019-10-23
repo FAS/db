@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    471570\r\n                  ",
+  "id": "471570",
   "name": "Elektro-Schaltkasten aus Stahlblech mit LOGO 230 RCL-",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Steuerung zur Montage im Geb&#xE4;ude und au&#xDF;erhalb der Schutz-<br>zone.<br><br>Zm Anschluss von:<br> - 3,7 kW-HiFlow Veeder Root Pumpe.<br> - 1x Zapfs&#xE4;ule. Vorgesehen f&#xFC;r Typ FAS, aber auch andere Typen sind m&#xF6;glich<br> - 1x Magnetventil<br> - 1x Differenzdruckw&#xE4;chter<br> - bis zu zwei NOT-AUS Taster,<br> - Tankstellenbeleuchtung<br> - Einbindung von externer GOK IAF70 Beh&#xE4;lterinhaltsmessung zur Gew&#xE4;hr-<br>leistung von Abschaltung der Pumpe bei Beh&#xE4;lterf&#xFC;llstand<br>unter 15%<br><br>Mit potentialfreier Kontakt zur Fehlermeldung f&#xFC;r externe Auswertung<br><br>Abmessung: H: 500mm, B: 400mm, T: 250mm,<br>Dokumentation:<br> - Klemmen- und Verdrahtungsplan<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Steuerung zur Montage im Gebäude und außerhalb der Schutz-\\nzone.\\n\\nZm Anschluss von:\\n - 3,7 kW-HiFlow Veeder Root Pumpe.\\n - 1x Zapfsäule. Vorgesehen für Typ FAS, aber auch andere Typen sind möglich\\n - 1x Magnetventil\\n - 1x Differenzdruckwächter\\n - bis zu zwei NOT-AUS Taster,\\n - Tankstellenbeleuchtung\\n - Einbindung von externer GOK IAF70 Behälterinhaltsmessung zur Gewähr-\\nleistung von Abschaltung der Pumpe bei Behälterfüllstand\\nunter 15%\\n\\nMit potentialfreier Kontakt zur Fehlermeldung für externe Auswertung\\n\\nAbmessung: H: 500mm, B: 400mm, T: 250mm,\\nDokumentation:\\n - Klemmen- und Verdrahtungsplan\\n"
 }

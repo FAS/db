@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    36668\r\n                  ",
+  "id": "36668",
   "name": "Anklemmen der Autogas-Zapfsäule und Tankautomaten",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Elektroanschlu&#xDF; an die bauseits verlegten Daten- und Elektoleitungen"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Elektroanschluß an die bauseits verlegten Daten- und Elektoleitungen"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    218170\r\n                  ",
+  "id": "218170",
   "name": "Kompressorantrieb für 161/291 Dieselmotor",
   "weight": "105,10",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": " - Motor Typ: 1D81Z <br> - Drehzahl: 3000 U/min<br> - Leistung: 10,0 kW<br> - Kaltstarteinrichtung<br> - Drehzahlverstellregler<br> - automatische Einspritzpumpenentl&#xFC;ftung<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": " - Motor Typ: 1D81Z \\n - Drehzahl: 3000 U/min\\n - Leistung: 10,0 kW\\n - Kaltstarteinrichtung\\n - Drehzahlverstellregler\\n - automatische Einspritzpumpenentlüftung\\n"
 }

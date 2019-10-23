@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    265269\r\n                  ",
+  "id": "265269",
   "name": "Elektroschaltschrank für Dichtprüfeinheit",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "LOGO Steuerung mit Hauptschalter.<br><br>OHNE Not-Aus und FI-Schutzschalter. Dieser Schaltschrank ist nur in Verbindung mit einem Steuerschrank (z.B. 265.263) zu benutzen.<br><br>Anschlussklemmen f&#xFC;r:<br>- 6 Magnetventile<br>- 4 Lichtschranken<br>- 4 N&#xE4;herungssensoren<br>- 1 Gassensor<br>- externer Eingang: Kettenf&#xF6;rderer ein<br>- Schalter Betrieb aus/ein<br>- Schalter pr&#xFC;fen/Durchauf<br>- Schalter 5 kg / 11 kg<br>- Taster Reset<br>- Leuchte Betrieb<br>- Leuchte Dicht<br>- Leuchte Undicht<br><br><br>Lampen und Taster in der Schaltschrankt&#xFC;r:<br>- Leuchte Steuerspannung ein<br>- Leuchte Betrieb<br>- Leichte St&#xF6;rung<br>- Taster Reset"
+  "price": "0,00",
+  "amount": "0",
+  "description": "LOGO Steuerung mit Hauptschalter.\\n\\nOHNE Not-Aus und FI-Schutzschalter. Dieser Schaltschrank ist nur in Verbindung mit einem Steuerschrank (z.B. 265.263) zu benutzen.\\n\\nAnschlussklemmen für:\\n- 6 Magnetventile\\n- 4 Lichtschranken\\n- 4 Näherungssensoren\\n- 1 Gassensor\\n- externer Eingang: Kettenförderer ein\\n- Schalter Betrieb aus/ein\\n- Schalter prüfen/Durchauf\\n- Schalter 5 kg / 11 kg\\n- Taster Reset\\n- Leuchte Betrieb\\n- Leuchte Dicht\\n- Leuchte Undicht\\n\\n\\nLampen und Taster in der Schaltschranktür:\\n- Leuchte Steuerspannung ein\\n- Leuchte Betrieb\\n- Leichte Störung\\n- Taster Reset"
 }

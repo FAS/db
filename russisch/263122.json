@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    263122\r\n                  ",
+  "id": "263122",
   "name": "Temperaturschalter FEMA Ex-TAM 813",
   "weight": "0,66",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "- Cu Kapillarrohr 1,5 m<br>- F&#xFC;hlerpatrone 8 mm, L&#xE4;nge=100mm<br>- Einpoliger Umschalter 8A, 250V AC<br>- Schutzart IP 65<br>- Einstellbereich +80&#xB0; bis +130&#xB0;C<br>- Z&#xFC;ndschutzart II 2 E Ex db eb IIC TG<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "- Cu Kapillarrohr 1,5 m\\n- Fühlerpatrone 8 mm, Länge=100mm\\n- Einpoliger Umschalter 8A, 250V AC\\n- Schutzart IP 65\\n- Einstellbereich +80° bis +130°C\\n- Zündschutzart II 2 E Ex db eb IIC TG\\n"
 }

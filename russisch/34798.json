@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    34798\r\n                  ",
+  "id": "34798",
   "name": "ISDN-Terminaladapter für Tankautomat FAS 400,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "zus&#xE4;tzlich zu integriertem Terminaladapter,<br>wenn Polling ebenfalls &#xFC;ber ISDN erfolgen soll."
+  "price": "0,00",
+  "amount": "1",
+  "description": "zusätzlich zu integriertem Terminaladapter,\\nwenn Polling ebenfalls über ISDN erfolgen soll."
 }

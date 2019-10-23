@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    8835\r\n                  ",
+  "id": "8835",
   "name": "Aufpreis Beistellung zur Bestellung - Ausland EU,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "beinhaltet pauschal: <br> &gt; Zusammenstellen<br> &gt; Verpackung<br> &gt; Standardversand<br><br>Vorgabe: 1x f&#xFC;r erste Pos. &amp; je weitere Pos. 0,1x"
+  "price": "0,00",
+  "amount": "0",
+  "description": "beinhaltet pauschal: \\n > Zusammenstellen\\n > Verpackung\\n > Standardversand\\n\\nVorgabe: 1x für erste Pos. & je weitere Pos. 0,1x"
 }

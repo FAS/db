@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    34627\r\n                  ",
+  "id": "34627",
   "name": "Elektronischer Preisrechner EC 2000",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "Gilbarco / Salzkotten mit Protokoll Impulsschnittstelle,<br>Programmstand: IP-C54R<br>werksgepr&#xFC;ft<br>140528695"
+  "price": "0,00",
+  "amount": "1",
+  "description": "Gilbarco / Salzkotten mit Protokoll Impulsschnittstelle,\\nProgrammstand: IP-C54R\\nwerksgeprüft\\n140528695"
 }

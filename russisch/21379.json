@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    21379\r\n                  ",
+  "id": "21379",
   "name": "Hydraulikmotor Typ OMS 80, für Blackmerpumpe 3\"",
   "weight": "10,00",
-  "price": "\r\n                  845,00\r\n                  ",
-  "amount": "\r\n                      \r\n3\r\n                    \r\n                    ",
-  "description": "sowie Kompressor Typ 361, <br>Schluckvolumen 80,5 ccm/U<br>Betriebsvolumenstrom ca. 64 l/min<br>Betriebsdrehzahl n = 790 U/min<br>Leistung 10,0 kW bei 110bar"
+  "price": "845,00",
+  "amount": "3",
+  "description": "sowie Kompressor Typ 361, \\nSchluckvolumen 80,5 ccm/U\\nBetriebsvolumenstrom ca. 64 l/min\\nBetriebsdrehzahl n = 790 U/min\\nLeistung 10,0 kW bei 110bar"
 }

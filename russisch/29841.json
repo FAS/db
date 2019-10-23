@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    29841\r\n                  ",
+  "id": "29841",
   "name": "Batterien 'Mignon AAA' 1,5V",
   "weight": "0,01",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n100\r\n                    \r\n                    ",
-  "description": "Produktmarke:      Duracell  <br>Produkttyp:      Mignon AA (alkaline) <br>Hersteller-Nr:      DU1500 "
+  "price": "0,00",
+  "amount": "100",
+  "description": "Produktmarke:Duracell\\nProdukttyp:Mignon AA (alkaline) \\nHersteller-Nr:DU1500 "
 }

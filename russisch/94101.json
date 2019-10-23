@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    94101\r\n                  ",
-  "name": "<br> ",
+  "id": "94101",
+  "name": "\\n ",
   "weight": "0,00",
-  "price": "\r\n                  765,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "bestehend aus:<br>Epple 1x (43023165), joint 1x (43046368), <br>grooved ball bearing 1x (43000812), mechanical seal 1x (20057195), bearing bush 1 x (43002351), radial seal 1 x (43006722)"
+  "price": "765,00",
+  "amount": "0",
+  "description": "bestehend aus:\\nEpple 1x (43023165), joint 1x (43046368), \\ngrooved ball bearing 1x (43000812), mechanical seal 1x (20057195), bearing bush 1 x (43002351), radial seal 1 x (43006722)"
 }

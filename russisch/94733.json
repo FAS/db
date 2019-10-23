@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    94733\r\n                  ",
+  "id": "94733",
   "name": "Sicherheitsventil Macro Medical Typ RM",
   "weight": "0,01",
-  "price": "\r\n                  23,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "- Type Bezeichnung: RM02-2N030C<br>- Ventil Gr&#xF6;&#xDF;e: 1/8 - 27 NPT<br>- Material: Messing, Nickelplatte<br>- Dichtungsmaterial: Neopren<br>- Berstdruck: 30 PSI<br>- fett und &#xF6;lfrei nach CGA G-4.1 (Oxygen service)<br>"
+  "price": "23,00",
+  "amount": "0",
+  "description": "- Type Bezeichnung: RM02-2N030C\\n- Ventil Größe: 1/8 - 27 NPT\\n- Material: Messing, Nickelplatte\\n- Dichtungsmaterial: Neopren\\n- Berstdruck: 30 PSI\\n- fett und ölfrei nach CGA G-4.1 (Oxygen service)\\n"
 }

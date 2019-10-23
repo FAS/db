@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    111717\r\n                  ",
+  "id": "111717",
   "name": "LKW-Flüssiggas-Zapfsäulen Nacheichung - 1 Zapfpunkt",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "#########################################<br>( X ) Eichung bestanden<br>(  ) Eichung durchgefallen<br>(  ) Fehlfahrt (Grund: )<br><br>Aufpreis/e:<br>#########################################<br>(  ) 25% - Doppeleichung f&#xFC;r zwei Jahre<br>(  ) 25% - Auftr&#xE4;ge nach dem 01.07. mit g&#xFC;ltiger Eichung<br><br>Hinweis/e:<br>#########################################<br> - Alle Preise zuz&#xFC;glich Kosten f&#xFC;r den Eichbeamten. Rechnung wird <br>   direkt vom Eichamt an Sie gestellt.<br> - Der Preis gilt f&#xFC;r eine Nacheichung im Rahmen einer Verbundfahrt,<br>   etwaige Sonderfahrten werden separat abgerechnet.<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "\\n( X ) Eichung bestanden\\n() Eichung durchgefallen\\n() Fehlfahrt (Grund: )\\n\\nAufpreis/e:\\n\\n() 25% - Doppeleichung für zwei Jahre\\n() 25% - Aufträge nach dem 01.07. mit gültiger Eichung\\n\\nHinweis/e:\\n\\n - Alle Preise zuzüglich Kosten für den Eichbeamten. Rechnung wird \\ndirekt vom Eichamt an Sie gestellt.\\n - Der Preis gilt für eine Nacheichung im Rahmen einer Verbundfahrt,\\netwaige Sonderfahrten werden separat abgerechnet.\\n"
 }

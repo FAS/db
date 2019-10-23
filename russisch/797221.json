@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    797221\r\n                  ",
+  "id": "797221",
   "name": "Hilfsschalterbaustein 10 für ABB Leistungsschütz",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n16\r\n                    \r\n                    ",
-  "description": "1 Schlie&#xDF;er / 0 &#xD6;ffner"
+  "price": "0,00",
+  "amount": "16",
+  "description": "1 Schließer / 0 Öffner"
 }

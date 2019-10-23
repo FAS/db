@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    609992\r\n                  ",
+  "id": "609992",
   "name": "Druck-Voreinstellung im Werk Salzgitter ",
   "weight": "0,00",
-  "price": "\r\n                  37,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "bei einem &#xDC;berstr&#xF6;mventil, Gasdruck-Regler, &#xDC;berstr&#xF6;m-Regler, <br>SBV, SAV, Druckschalter/-w&#xE4;chter, <br>******************************************************************************<br><br>=&gt; eingestellt auf den Druck _______ bar<br><br>=&gt; bei Pos. _________<br><br>(nicht verplombt, nur Klebeschild an der Armatur mit dem vorein-<br>gestellten Druck)<br><br>"
+  "price": "37,00",
+  "amount": "0",
+  "description": "bei einem Überströmventil, Gasdruck-Regler, Überström-Regler, \\nSBV, SAV, Druckschalter/-wächter, \\n\\n\\n=> eingestellt auf den Druck _______ bar\\n\\n=> bei Pos. _________\\n\\n(nicht verplombt, nur Klebeschild an der Armatur mit dem vorein-\\ngestellten Druck)\\n\\n"
 }

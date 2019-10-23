@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    269226\r\n                  ",
+  "id": "269226",
   "name": "Elektro-Schaltkasten zur Montage innerhalb von Ex Zone 1",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "komplett verdrahtet zum Anschluss von<br>5 kW-Kompressor-Motor mit Stern/Dreieckanlauf, <br>min. und max. Gasdruck, &#xD6;ldruck und Temperatur&#xFC;berwachung,<br>F&#xFC;llstandssensor im Abscheider, <br>Doppeldrucktaster mit Kontrolleuchte,<br>Signalhupe und Blitzleuchte<br><br>Fertigung nach Zeichnungsnummer: FAS.EC............<br><br>Ausf&#xFC;hrung Geh&#xE4;use der Z&#xFC;ndschutzart Ex d mit Anschlussraumgeh&#xE4;use Ex e<br>f&#xFC;r Propan / Butan<br>Ex Mindestausf&#xFC;hrung: Ex de IIA T2"
+  "price": "0,00",
+  "amount": "0",
+  "description": "komplett verdrahtet zum Anschluss von\\n5 kW-Kompressor-Motor mit Stern/Dreieckanlauf, \\nmin. und max. Gasdruck, Öldruck und Temperaturüberwachung,\\nFüllstandssensor im Abscheider, \\nDoppeldrucktaster mit Kontrolleuchte,\\nSignalhupe und Blitzleuchte\\n\\nFertigung nach Zeichnungsnummer: FAS.EC............\\n\\nAusführung Gehäuse der Zündschutzart Ex d mit Anschlussraumgehäuse Ex e\\nfür Propan / Butan\\nEx Mindestausführung: Ex de IIA T2"
 }

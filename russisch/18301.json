@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    18301\r\n                  ",
+  "id": "18301",
   "name": "Redundante Überfüllsicherung",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "f&#xFC;r Beh&#xE4;lter der Gruppen C und D<br><br>&#xDC;berf&#xFC;llsicherung Typ CMT-CL mit Bauartzulasssung,<br>Sensor aus Edelstahl, Flansch DN 50, PN 40, <br>Stromversorgung 24 V (Netzger&#xE4;t bauseits)<br>Auswertelektronik als Einschub, einschlie&#xDF;lich Me&#xDF;umformer,<br>Schaltverst&#xE4;rker, Relais&#xFC;berwachung,<br>EEx i-Stromversorgung, Rack mit Verbindungs-<br>platine, &#xDC;berf&#xFC;llsicherung mit sicherheitsgerichteter<br>Abschaltung und betrieblicher Abschaltung (2% unter dem <br>Maximum),<br>Sondenl&#xE4;nge &#xDC;berf&#xFC;llsicherung _________ mm,<br>Umgebungstemperatur  - 25&#xB0; C ... + 60&#xB0; C,<br>zul. Betriebsdruck 25 bar,<br>&#xDC;berf&#xFC;llsicherung erf&#xFC;llt die Anforderungsklasse AK 5<br>nach DIN V 19250 und nach VdT&#xDC;V-Merkblatt &quot;&#xDC;berf&#xFC;ll-<br>sicherung&quot; 100, &#xDC;berf&#xFC;llsicherung gilt daher als redundant<br>gem&#xE4;&#xDF; TRB 801/25 Anlage.<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "für Behälter der Gruppen C und D\\n\\nÜberfüllsicherung Typ CMT-CL mit Bauartzulasssung,\\nSensor aus Edelstahl, Flansch DN 50, PN 40, \\nStromversorgung 24 V (Netzgerät bauseits)\\nAuswertelektronik als Einschub, einschließlich Meßumformer,\\nSchaltverstärker, Relaisüberwachung,\\nEEx i-Stromversorgung, Rack mit Verbindungs-\\nplatine, Überfüllsicherung mit sicherheitsgerichteter\\nAbschaltung und betrieblicher Abschaltung (2% unter dem \\nMaximum),\\nSondenlänge Überfüllsicherung _________ mm,\\nUmgebungstemperatur- 25° C ... + 60° C,\\nzul. Betriebsdruck 25 bar,\\nÜberfüllsicherung erfüllt die Anforderungsklasse AK 5\\nnach DIN V 19250 und nach VdTÜV-Merkblatt \"Überfüll-\\nsicherung\" 100, Überfüllsicherung gilt daher als redundant\\ngemäß TRB 801/25 Anlage.\\n"
 }

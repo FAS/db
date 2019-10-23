@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    485011\r\n                  ",
+  "id": "485011",
   "name": "USB-Anschluss für Tankautomaten FAS-430_E zum kabellosen",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Datenabruf, instaliert im Tankautomaten<br><br>ACHTUNG, nur USB Modul! Mit Kabel wird es Artikel 48501"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Datenabruf, instaliert im Tankautomaten\\n\\nACHTUNG, nur USB Modul! Mit Kabel wird es Artikel 48501"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    247435\r\n                  ",
+  "id": "247435",
   "name": "Ersatzteilpackung",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "bestehend aus:<br>- Magnetventil<br>- Manometer<br>-Set of electrical spare parts (Fuse , push bottom, ) <br>- Relay mit Hitzeschutz<br>- Kits for manual pump<br>- Check valves/ Excess flow<br>- Return Filters"
+  "price": "0,00",
+  "amount": "0",
+  "description": "bestehend aus:\\n- Magnetventil\\n- Manometer\\n-Set of electrical spare parts (Fuse , push bottom, ) \\n- Relay mit Hitzeschutz\\n- Kits for manual pump\\n- Check valves/ Excess flow\\n- Return Filters"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    92619\r\n                  ",
+  "id": "92619",
   "name": "Einsatz zur Propangas Volumenmessung (im gasförmigen Zustand",
   "weight": "5,60",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "1 Liter fl&#xFC;ssig = 0,53 Kg<br>1 Liter fl&#xFC;ssig = 0,25 m&#x2248; gasf&#xF6;rmig d. h. bei 50 Liter/h ca. 12,5 Nm&#x2248;/h<br>BK-G10 V6 Einst DN40<br>Einstutzen-Balgengasz&#xE4;hler<br>pmax 0,1 bar HTB<br>Messbereich 0,10 - 16 m&#x2248;/Imp<br>einschl. Anschlussst&#xFC;ck DIN3376-2 ASA40-40 vzkt."
+  "price": "0,00",
+  "amount": "0",
+  "description": "1 Liter flüssig = 0,53 Kg\\n1 Liter flüssig = 0,25 m≈ gasförmig d. h. bei 50 Liter/h ca. 12,5 Nm≈/h\\nBK-G10 V6 Einst DN40\\nEinstutzen-Balgengaszähler\\npmax 0,1 bar HTB\\nMessbereich 0,10 - 16 m≈/Imp\\neinschl. Anschlussstück DIN3376-2 ASA40-40 vzkt."
 }

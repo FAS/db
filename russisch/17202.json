@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    17202\r\n                  ",
+  "id": "17202",
   "name": "Digitales Anzeigegerät, Grad C",
   "weight": "0,30",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Messbereich: -100 bis +200&#xB0;C<br>Anzeige 3 1/2-stellig, rot,<br>Hilfsenergie 230 V, 50 Hz, Eingang 4 - 20 m A,<br>Anzeigeger&#xE4;t  f&#xFC;r Schalttafeleinbau 96 x 48 mm"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Messbereich: -100 bis +200°C\\nAnzeige 3 1/2-stellig, rot,\\nHilfsenergie 230 V, 50 Hz, Eingang 4 - 20 m A,\\nAnzeigegerätfür Schalttafeleinbau 96 x 48 mm"
 }

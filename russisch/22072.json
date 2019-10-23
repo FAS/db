@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    22072\r\n                  ",
+  "id": "22072",
   "name": "Flüssiggas-Lagerbehälter, oberirdisch, Nennfüllgewicht 2,1 t",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Rauminhalt 4850 l, mit Standardarmaturen, <br>Fl&#xFC;ssigentnahmeleitung mit 90&#xB0; Bogen und Flansch DN 32,<br>Kugelhahn DN 25 mit Schwei&#xDF;enden am Schauflansch f&#xFC;r <br>die R&#xFC;ckf&#xFC;hrleitung und Muffe 3/4&quot; NPT unter dem Kugelhahn am<br>Schauflansch mit Rohrleitung in die Gasphase"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Rauminhalt 4850 l, mit Standardarmaturen, \\nFlüssigentnahmeleitung mit 90° Bogen und Flansch DN 32,\\nKugelhahn DN 25 mit Schweißenden am Schauflansch für \\ndie Rückführleitung und Muffe 3/4\" NPT unter dem Kugelhahn am\\nSchauflansch mit Rohrleitung in die Gasphase"
 }

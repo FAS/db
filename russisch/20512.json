@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    20512\r\n                  ",
+  "id": "20512",
   "name": "Torpedo-Flüssiggasverdampfer, 24 kg/h, Typ ER, ",
   "weight": "29,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "indirekt elektrisch beheizt, Ex-gesch&#xFC;tzt, Zone 1,<br>Verdampferauslegung nach TRB 801,<br>zur Aufstellung innerhalb der Schutzzone 1, <br>Ausr&#xFC;stung &#xDC;berflutungsschutz redundant,<br>2 Magnetventile im Fl&#xFC;ssiggaseingang,<br>Anschlu&#xDF;wert: 4 kW, 230 V, 50 Hz, Schutzart IP54<br>mit  Schaltschrank in druckfester Kapselung (EExd) zur <br>Aufstellung in Schutzzone 1<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "indirekt elektrisch beheizt, Ex-geschützt, Zone 1,\\nVerdampferauslegung nach TRB 801,\\nzur Aufstellung innerhalb der Schutzzone 1, \\nAusrüstung Überflutungsschutz redundant,\\n2 Magnetventile im Flüssiggaseingang,\\nAnschlußwert: 4 kW, 230 V, 50 Hz, Schutzart IP54\\nmitSchaltschrank in druckfester Kapselung (EExd) zur \\nAufstellung in Schutzzone 1\\n"
 }

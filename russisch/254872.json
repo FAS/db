@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    254872\r\n                  ",
-  "name": "Hochdruckschlauchleitung,  DN 25, PN25",
+  "id": "254872",
+  "name": "Hochdruckschlauchleitung,DN 25, PN25",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Medium LPG<br>Anschl&#xFC;ss 1:Muffe 2&quot; NPT, <br>Anschluss 2:  Stutzen1&quot; NPT, <br><br>L&#xE4;nge I = 20meter<br><br>with inspection certificate"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Medium LPG\\nAnschlüss 1:Muffe 2\" NPT, \\nAnschluss 2:Stutzen1\" NPT, \\n\\nLänge I = 20meter\\n\\nwith inspection certificate"
 }

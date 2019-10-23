@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    64527\r\n                  ",
+  "id": "64527",
   "name": "Feuerlöscher PU 12",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Typ GEGH, 12 kg gef&#xFC;llt<br>bauartzugelassen,"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Typ GEGH, 12 kg gefüllt\\nbauartzugelassen,"
 }

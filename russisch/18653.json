@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    18653\r\n                  ",
+  "id": "18653",
   "name": "Spannungs-Wandler, Eingang 24 V Gleichstrom, Ausgang",
   "weight": "0,32",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "230V Wechselstrom zur Spannungsversorgung des<br>Grenzwertschalters FAS-Nr. 26311<br><br>#############################<br>Artikel nicht mehr lieferbar,<br>weil ohne ATEX<br>#############################"
+  "price": "0,00",
+  "amount": "0",
+  "description": "230V Wechselstrom zur Spannungsversorgung des\\nGrenzwertschalters FAS-Nr. 26311\\n\\n\\nArtikel nicht mehr lieferbar,\\nweil ohne ATEX\\n"
 }

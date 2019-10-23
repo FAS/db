@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    92576\r\n                  ",
+  "id": "92576",
   "name": "High Performance Sicherheitsventil, Type 441,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "geschlossene Federhaube, gasdichte Anl&#xFC;ftung H4,<br>F&#xFC;r D&#xE4;mpfe, Gase und Fl&#xFC;ssigkeitten<br><br>Geh&#xE4;usewerkstoff: 1.0619<br>Flanschanschluss Eintritt: DN50/PN40 nach DIN EN 1092<br>Flanschanschluss Austritt: DN80/PN16 nach DIN EN 1092<br>Ansprechdruck: 35bar"
+  "price": "0,00",
+  "amount": "0",
+  "description": "geschlossene Federhaube, gasdichte Anlüftung H4,\\nFür Dämpfe, Gase und Flüssigkeitten\\n\\nGehäusewerkstoff: 1.0619\\nFlanschanschluss Eintritt: DN50/PN40 nach DIN EN 1092\\nFlanschanschluss Austritt: DN80/PN16 nach DIN EN 1092\\nAnsprechdruck: 35bar"
 }

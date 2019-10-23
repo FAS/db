@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    72117\r\n                  ",
+  "id": "72117",
   "name": "Druckfeder ",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n50\r\n                    \r\n                    ",
-  "description": "nach Datenblatt <br>f&#xFC;r Schwimmerventil GBAS (18.709)"
+  "price": "0,00",
+  "amount": "50",
+  "description": "nach Datenblatt \\nfür Schwimmerventil GBAS (18.709)"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    38284\r\n                  ",
+  "id": "38284",
   "name": "Электронная платина ",
   "weight": "0,22",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n3\r\n                    \r\n                    ",
-  "description": "CPU 38288<br><br>Board Nr.: 81920 .....<br>Typ: 82574<br><br>Software: SR________ SL________ ST________"
+  "price": "0,00",
+  "amount": "3",
+  "description": "CPU 38288\\n\\nBoard Nr.: 81920 .....\\nTyp: 82574\\n\\nSoftware: SR________ SL________ ST________"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    28572\r\n                  ",
+  "id": "28572",
   "name": "Скоростной клапан Typ Fischer F131",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "&#x438;&#x437; &#x43B;&#x430;&#x442;&#x443;&#x43D;&#x438;, &#x432;&#x445;&#x43E;&#x434; 1 1/2&quot; NPT IG, &#x432;&#x44B;&#x445;&#x43E;&#x434; 1 1/2&quot;NPT IG, <br>&#x420;&#x430;&#x441;&#x445;&#x43E;&#x434; 60 GPM"
+  "price": "0,00",
+  "amount": "0",
+  "description": "из латуни, вход 1 1/2\" NPT IG, выход 1 1/2\"NPT IG, \\nРасход 60 GPM"
 }

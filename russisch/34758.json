@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    34758\r\n                  ",
-  "name": "Getriebe für  WIP ohne Impulsgeber",
+  "id": "34758",
+  "name": "Getriebe fürWIP ohne Impulsgeber",
   "weight": "1,27",
-  "price": "\r\n                  960,00\r\n                  ",
-  "amount": "\r\n                      \r\n9\r\n                    \r\n                    ",
-  "description": "Typ 55008646-0008<br>NUR f&#xFC;r FAS-Z&#xE4;hler Typ Y-I<br>"
+  "price": "960,00",
+  "amount": "9",
+  "description": "Typ 55008646-0008\\nNUR für FAS-Zähler Typ Y-I\\n"
 }

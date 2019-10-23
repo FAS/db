@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    67105\r\n                  ",
+  "id": "67105",
   "name": "Magnetkarte, codiert, für Tankautomat FAS-420_L,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Ausf&#xFC;hrung: Kartenfarbe wei&#xDF;/ Schriftfarbe schwarz<br>Laufende Nr.: _____ - _____<br>Achtung: Bei Nachbestellung vom Kunden letzte laufende <br>               Kartennummer erfragen !<br>Kunde: Drachen - Propangas<br>Projekt:<br>Autohaus Henry Deissler<br>Bieberer str. 147<br>63179 Obertshausen"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Ausführung: Kartenfarbe weiß/ Schriftfarbe schwarz\\nLaufende Nr.: _____ - _____\\nAchtung: Bei Nachbestellung vom Kunden letzte laufende \\nKartennummer erfragen !\\nKunde: Drachen - Propangas\\nProjekt:\\nAutohaus Henry Deissler\\nBieberer str. 147\\n63179 Obertshausen"
 }

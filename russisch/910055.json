@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    910055\r\n                  ",
+  "id": "910055",
   "name": "Nadelventil, UNI-Typ KLN750B, ",
   "weight": "0,83",
-  "price": "\r\n                  120,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Geh&#xE4;usematerial: Messing,<br>Spindel Messing oder Stahl, <br>Spindeldichtung Viton O-Ring, Teflonummantelt,<br>Max. Betriebsdruck: 350 bar Stahlausf&#xFC;hrung , <br>140 bar Messingausf&#xFC;hrung,<br>Temperaturbereich: -28&#xB0; C  bis +100&#xB0; C<br>P: 3/4&quot; NPT IG"
+  "price": "120,00",
+  "amount": "0",
+  "description": "Gehäusematerial: Messing,\\nSpindel Messing oder Stahl, \\nSpindeldichtung Viton O-Ring, Teflonummantelt,\\nMax. Betriebsdruck: 350 bar Stahlausführung , \\n140 bar Messingausführung,\\nTemperaturbereich: -28° Cbis +100° C\\nP: 3/4\" NPT IG"
 }

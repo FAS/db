@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    47083\r\n                  ",
+  "id": "47083",
   "name": "Elektro-Schaltkasten aus Stahlblech mit LOGO-Steuerung ",
   "weight": "15,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "zur Montage im Geb&#xE4;ude und au&#xDF;erhalb der Schutzzone<br><br>zum Anschluss von:<br> - 3,7 kW-Motor einer HiFlow Veeder Root Pumpe (f&#xFC;r diese Pum-<br>   pe ist ein besonderer Motorschutz (FAS: 790552 + FAS 79622) <br>   zu verwenden)<br> - 1x Zapfs&#xE4;ule Typ FAS 230<br> - 1x Zapfs&#xE4;ule Typ FAS 220<br> - 1x Magnetventil<br> - 1x Differenzdruckw&#xE4;chter<br> - bis zu drei NOT-AUS Taster<br> - Tankstellenbeleuchtung<br> - Signal einer bauseitigen Fafnir F&#xFC;llstand-Sonde zur Gew&#xE4;hrlei-<br>   stung von Abschaltung der Pumpe bei Beh&#xE4;lterf&#xFC;llstand unter 15%<br> - Anschluss eines bauseits vorhandenen D&#xE4;mmerungssensors zur <br>   Sperrung der Abgabe bei fehlender Beleuchtung<br><br>mit potentialfreien Kontakt zur Fehlermeldung f&#xFC;r externe Auswertung<br><br>Abmessung: H: 500mm, B: 400mm, T: 250mm<br><br>Dokumentation: Klemmen- und Verdrahtungsplan<br><br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "zur Montage im Gebäude und außerhalb der Schutzzone\\n\\nzum Anschluss von:\\n - 3,7 kW-Motor einer HiFlow Veeder Root Pumpe (für diese Pum-\\npe ist ein besonderer Motorschutz (FAS: 790552 + FAS 79622) \\nzu verwenden)\\n - 1x Zapfsäule Typ FAS 230\\n - 1x Zapfsäule Typ FAS 220\\n - 1x Magnetventil\\n - 1x Differenzdruckwächter\\n - bis zu drei NOT-AUS Taster\\n - Tankstellenbeleuchtung\\n - Signal einer bauseitigen Fafnir Füllstand-Sonde zur Gewährlei-\\nstung von Abschaltung der Pumpe bei Behälterfüllstand unter 15%\\n - Anschluss eines bauseits vorhandenen Dämmerungssensors zur \\nSperrung der Abgabe bei fehlender Beleuchtung\\n\\nmit potentialfreien Kontakt zur Fehlermeldung für externe Auswertung\\n\\nAbmessung: H: 500mm, B: 400mm, T: 250mm\\n\\nDokumentation: Klemmen- und Verdrahtungsplan\\n\\n"
 }

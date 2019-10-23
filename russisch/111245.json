@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    111245\r\n                  ",
+  "id": "111245",
   "name": "SV-1.1 - Überprüfung & Wartung einer Flüssiggas-Tankstelle",
   "weight": "0,00",
-  "price": "\r\n                  315,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "mit einem oberirdischen Beh&#xE4;lter, max. 5m oberidsiche <br>Ermeto-Rohrleitung zur Zapfs&#xE4;ule"
+  "price": "315,00",
+  "amount": "0",
+  "description": "mit einem oberirdischen Behälter, max. 5m oberidsiche \\nErmeto-Rohrleitung zur Zapfsäule"
 }

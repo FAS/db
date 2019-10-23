@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    111270\r\n                  ",
+  "id": "111270",
   "name": "SV-4.3.2 - Notdienst (7 Tage die Woche/24 Std. täglich)",
   "weight": "0,00",
-  "price": "\r\n                  367,50\r\n                  ",
-  "amount": "\r\n                      \r\n37\r\n                    \r\n                    ",
-  "description": "mit einer Reaktionzeit von 24 Std. inkl. Telefonsupport<br><br>Zeitraum: bis 31.12. des aktuellen Kalenderjahres<br><br>Abrechnung gem. Servicevereinbarung"
+  "price": "367,50",
+  "amount": "37",
+  "description": "mit einer Reaktionzeit von 24 Std. inkl. Telefonsupport\\n\\nZeitraum: bis 31.12. des aktuellen Kalenderjahres\\n\\nAbrechnung gem. Servicevereinbarung"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    13888\r\n                  ",
+  "id": "13888",
   "name": "Groundunit 105mm / 21/2\" ASA Flansch 150, Aviation",
   "weight": "3,10",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Anschlu&#xDF;: Flansch ASA 150PSI<br>TODO ISO 45<br>Betriebsdruck: 10,0bar / 145psi<br>Temp. Bereich: -20 - +80&#xB0;C / -4 - +176&#xB0;F<br>Geh&#xE4;usewerkstoff: Aluminium<br>Dichtungen: Viton (FKM)<br>Typ: 7901-1407<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Anschluß: Flansch ASA 150PSI\\nTODO ISO 45\\nBetriebsdruck: 10,0bar / 145psi\\nTemp. Bereich: -20 - +80°C / -4 - +176°F\\nGehäusewerkstoff: Aluminium\\nDichtungen: Viton (FKM)\\nTyp: 7901-1407\\n"
 }

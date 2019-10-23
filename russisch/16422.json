@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    16422\r\n                  ",
+  "id": "16422",
   "name": "Gasdruckregler DN 25 PN 25 Typ RB 4700,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "- mit Vorstufe und Steuerregler<br>- OHNE Sicherheitsabsperrventil (SAV)<br>- Druckstufe: PN 25<br>- Flansch-Ausf&#xFC;hrung<br>- Geh&#xE4;use: Sph&#xE4;ro-Guss / Stahl<br>- Dichtungen: NBR<br>- Temperaturbereich Gas: -20&#xB0;C - +60&#xB0;C<br>- Temperaturbereich Umgebung: -30&#xB0;C - +60&#xB0;C<br>- Eingangsdruck: pe = bis 25 bar<br>- Mindestdifferenzdruck 0,5 bar zw. Eingangs- und Ausgangsdruck<br>- Ausgangsdruck: <br>    (   )   pa = 20 - 68 mbar<br>    (   )   pa = 40 - 140 mbar<br>    (   )   pa = 80 - 280 mbar<br>    (   )   pa = 0,2 - 1,0 bar<br>    (   )   pa = 0,5 - 2,5 bar<br>    (   )   pa = 1,5 - 5,5 bar<br>    (   )   pa = 4,0 - 13,0 bar<br>- eingestellt auf: _________ mbar / bar<br>- mit Abnahmepr&#xFC;fzeugnis 3.1 nach EN 10 204"
+  "price": "0,00",
+  "amount": "0",
+  "description": "- mit Vorstufe und Steuerregler\\n- OHNE Sicherheitsabsperrventil (SAV)\\n- Druckstufe: PN 25\\n- Flansch-Ausführung\\n- Gehäuse: Sphäro-Guss / Stahl\\n- Dichtungen: NBR\\n- Temperaturbereich Gas: -20°C - +60°C\\n- Temperaturbereich Umgebung: -30°C - +60°C\\n- Eingangsdruck: pe = bis 25 bar\\n- Mindestdifferenzdruck 0,5 bar zw. Eingangs- und Ausgangsdruck\\n- Ausgangsdruck: \\n()pa = 20 - 68 mbar\\n()pa = 40 - 140 mbar\\n()pa = 80 - 280 mbar\\n()pa = 0,2 - 1,0 bar\\n()pa = 0,5 - 2,5 bar\\n()pa = 1,5 - 5,5 bar\\n()pa = 4,0 - 13,0 bar\\n- eingestellt auf: _________ mbar / bar\\n- mit Abnahmeprüfzeugnis 3.1 nach EN 10 204"
 }

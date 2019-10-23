@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    79276\r\n                  ",
+  "id": "79276",
   "name": "Tastschalter in Automatenform mit 1 Schließer/Öffner",
   "weight": "0,06",
-  "price": "\r\n                  50,00\r\n                  ",
-  "amount": "\r\n                      \r\n253\r\n                    \r\n                    ",
-  "description": "ausgelegt f&#xFC;r 230V/AC, 16A, rastbar auf Automatenschiene"
+  "price": "50,00",
+  "amount": "253",
+  "description": "ausgelegt für 230V/AC, 16A, rastbar auf Automatenschiene"
 }

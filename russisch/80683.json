@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    80683\r\n                  ",
+  "id": "80683",
   "name": "alt",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Elektro-Schaltkasten zur Montage au&#xDF;erhalb der Schutz-zone, komplett verdrahtet zum Anschlu&#xDF; der Treibgas-<br>Zapfs&#xE4;ule, Pumpenmotor und Magnetventil."
+  "price": "0,00",
+  "amount": "0",
+  "description": "Elektro-Schaltkasten zur Montage außerhalb der Schutz-zone, komplett verdrahtet zum Anschluß der Treibgas-\\nZapfsäule, Pumpenmotor und Magnetventil."
 }

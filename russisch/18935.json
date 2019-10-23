@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    18935\r\n                  ",
+  "id": "18935",
   "name": "Vorprüfung einer Meßanlage, DN 50, einschließlich Kosten",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "f&#xFC;r den Eichbeamten,<br>Me&#xDF;anlage Fabr./Typ: LC/MA7, SN-Nr...............................<br>**ACHTUNG: VORPR&#xDC;FUNG DER LC-MESSANLAGEN NUR BEI T&#xDC;V-<br>AUSF&#xDC;HRUNG MIT T&#xDC;V-TYPENSCHILD M&#xD6;GLICH!**"
+  "price": "0,00",
+  "amount": "1",
+  "description": "für den Eichbeamten,\\nMeßanlage Fabr./Typ: LC/MA7, SN-Nr...............................\\nACHTUNG: VORPRÜFUNG DER LC-MESSANLAGEN NUR BEI TÜV-\\nAUSFÜHRUNG MIT TÜV-TYPENSCHILD MÖGLICH!"
 }

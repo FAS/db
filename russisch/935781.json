@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    935781\r\n                  ",
+  "id": "935781",
   "name": "Elektroschaltschrank zum Montage außerhalb der Schutzzone",
   "weight": "0,00",
-  "price": "\r\n                  3.680,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "zum Ansteuern einer Kombi- Niederdruck- Gas- Luft- Mischanlage<br>vorbereitet zum Anschlie&#xDF;en von:<br>- 1x Verdampfer FAS 2000 170 Kg/h mit Ein, Aus Taster<br>- 3 Not-Aus Tastern<br>- 2x Druckschalter ( Beim Sinken des eingestellten Druckwertes von ____mbar wird die Anlage gestartet, beim erreichen des maximalen Druckwertes geht Anlage aus)<br>- Hupe, Blitzleuchte<br>- Gas, Feueralarm<br><br>Beim Abfallen des Druckes bis auf dem Druckschalter eingestellten Wert schaltet der Schrank den Verdampfer ein. Verdampfer erhitzt sich und dann beginnt der Mischvorgang, bis die Gasleitung bzw. Pufferbeh&#xE4;lter erforderlichen Druck erreicht. Dann geht die Anlage (Verdampfer) aus. Der Vorgang wiederholt sich wenn der Druck wieder bis auf minimalen Wert sinkt.<br>Die Anlage geht mit Hupe und Blitz aus wenn:<br><br>1. Feuer<br>2. Gas<br>3. Not-Aus<br>4. Max.Druck<br>"
+  "price": "3.680,00",
+  "amount": "0",
+  "description": "zum Ansteuern einer Kombi- Niederdruck- Gas- Luft- Mischanlage\\nvorbereitet zum Anschließen von:\\n- 1x Verdampfer FAS 2000 170 Kg/h mit Ein, Aus Taster\\n- 3 Not-Aus Tastern\\n- 2x Druckschalter ( Beim Sinken des eingestellten Druckwertes von ____mbar wird die Anlage gestartet, beim erreichen des maximalen Druckwertes geht Anlage aus)\\n- Hupe, Blitzleuchte\\n- Gas, Feueralarm\\n\\nBeim Abfallen des Druckes bis auf dem Druckschalter eingestellten Wert schaltet der Schrank den Verdampfer ein. Verdampfer erhitzt sich und dann beginnt der Mischvorgang, bis die Gasleitung bzw. Pufferbehälter erforderlichen Druck erreicht. Dann geht die Anlage (Verdampfer) aus. Der Vorgang wiederholt sich wenn der Druck wieder bis auf minimalen Wert sinkt.\\nDie Anlage geht mit Hupe und Blitz aus wenn:\\n\\n1. Feuer\\n2. Gas\\n3. Not-Aus\\n4. Max.Druck\\n"
 }

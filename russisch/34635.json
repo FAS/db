@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    34635\r\n                  ",
+  "id": "34635",
   "name": "Chipkarten, nicht codiert, für Tankautomat FAS-420_L",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "mit Chip Typ SLE4442<br><br>Kunde: Westfalen AG<br><br>Projekt: Autohaus Poser<br>            Schwarzer Weg 40<br>             06712 Zeitz<br><br><br>                 Laufende Nr.: fortlaufend : 0001- 0100<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "mit Chip Typ SLE4442\\n\\nKunde: Westfalen AG\\n\\nProjekt: Autohaus Poser\\nSchwarzer Weg 40\\n06712 Zeitz\\n\\n\\nLaufende Nr.: fortlaufend : 0001- 0100\\n"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    38049\r\n                  ",
+  "id": "38049",
   "name": "Messanlage M-5-C-2 für Jet-A1 fuel",
   "weight": "25,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "mit folgender Ausr&#xFC;stung:<br>- Messkammer mit 1 1/2&quot; Gegenflanschen<br>- Schmutzf&#xE4;nger<br>- Abscheider<br>- Gefedertes R&#xFC;ckschlagventil am Eingang der Messanlage<br><br># ohne mechanisches Z&#xE4;hlwerk aber mit Adapter f&#xFC;r Veeder-Root EMR3 Kopf<br>(Adapter ist identisch wie f&#xFC;r mechanisches Z&#xE4;hlwerk)"
+  "price": "0,00",
+  "amount": "0",
+  "description": "mit folgender Ausrüstung:\\n- Messkammer mit 1 1/2\" Gegenflanschen\\n- Schmutzfänger\\n- Abscheider\\n- Gefedertes Rückschlagventil am Eingang der Messanlage\\n\\n# ohne mechanisches Zählwerk aber mit Adapter für Veeder-Root EMR3 Kopf\\n(Adapter ist identisch wie für mechanisches Zählwerk)"
 }

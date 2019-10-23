@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    9949\r\n                  ",
-  "name": "Defekt des Gerätes laut Ihrer Aussage<br>######################",
+  "id": "9949",
+  "name": "Defekt des Gerätes laut Ihrer Aussage\\n",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "###############################<br><br>(X) Um Ihnen schnellst m&#xF6;glich helfen zu k&#xF6;nnen,<br>     senden wir Ihnen vorerst kostenlos aus Lager-<br>     vorrat Ersatzware(n) zu.<br><br>(X) Bitte senden Sie uns die defekte(n) Ware(n) ,<br>     unter Angabe der RMA-Nr., an unseren Partner <br>     FASHIMMASCH zur&#xFC;ck.<br><br>Adresse:<br>OOO FASHIMMASCH<br>Region Nizhnij Novgorod<br>Lomonosowa Str. 38<br>RU 603104 Kstovo<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "\\n\\n(X) Um Ihnen schnellst möglich helfen zu können,\\nsenden wir Ihnen vorerst kostenlos aus Lager-\\nvorrat Ersatzware(n) zu.\\n\\n(X) Bitte senden Sie uns die defekte(n) Ware(n) ,\\nunter Angabe der RMA-Nr., an unseren Partner \\nFASHIMMASCH zurück.\\n\\nAdresse:\\nOOO FASHIMMASCH\\nRegion Nizhnij Novgorod\\nLomonosowa Str. 38\\nRU 603104 Kstovo\\n"
 }

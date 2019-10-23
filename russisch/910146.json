@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    910146\r\n                  ",
+  "id": "910146",
   "name": "Nadelventil, UNI-Typ MFG250BF, ",
   "weight": "0,20",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n8\r\n                    \r\n                    ",
-  "description": "Geh&#xE4;usematerial: Messing,<br>Spindel Messing, Sicherungsmutter Messing, <br>A (NPT): 1/4&quot; <br>B (UNS-2B): 1/2&quot;-27<br>Max. Betriebsdruck: 350 bar hydraulisch , 140 bar Luft <br>Temperaturbereich: -40&#xB0; C bis +260&#xB0; C<br>Minimaler Berstdruck: 550 bar<br><br>"
+  "price": "0,00",
+  "amount": "8",
+  "description": "Gehäusematerial: Messing,\\nSpindel Messing, Sicherungsmutter Messing, \\nA (NPT): 1/4\" \\nB (UNS-2B): 1/2\"-27\\nMax. Betriebsdruck: 350 bar hydraulisch , 140 bar Luft \\nTemperaturbereich: -40° C bis +260° C\\nMinimaler Berstdruck: 550 bar\\n\\n"
 }

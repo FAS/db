@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    25454\r\n                  ",
-  "name": "Dichtungssatz für Rohrdrehgelenk  DN 80",
+  "id": "25454",
+  "name": "Dichtungssatz für RohrdrehgelenkDN 80",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Typ FAS / Klaas<br>bestehend aus: <br>- 1 St. Mediumdichtung, &#xD8; 106   (FAS 25449)<br>- 2 St. O-Ringe   86 x 4                (FAS 25447)<br>- 1 St. O-Ring   103 x 2                (FAS 25448)"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Typ FAS / Klaas\\nbestehend aus: \\n- 1 St. Mediumdichtung, Ø 106(FAS 25449)\\n- 2 St. O-Ringe86 x 4(FAS 25447)\\n- 1 St. O-Ring103 x 2(FAS 25448)"
 }

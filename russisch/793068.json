@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    793068\r\n                  ",
+  "id": "793068",
   "name": "Болт зажимной ",
   "weight": "0,10",
-  "price": "\r\n                  34,00\r\n                  ",
-  "amount": "\r\n                      \r\n4\r\n                    \r\n                    ",
-  "description": "&#x434;&#x43B;&#x44F; &#x43A;&#x43E;&#x43C;&#x43F;&#x440;&#x435;&#x441;&#x441;&#x43E;&#x440;&#x43E;&#x432; Typ LB 361A, LB 362B"
+  "price": "34,00",
+  "amount": "4",
+  "description": "для компрессоров Typ LB 361A, LB 362B"
 }

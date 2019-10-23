@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    160281\r\n                  ",
+  "id": "160281",
   "name": "Druckregler PN 25, Mitteldruck, mit DIN-DVGW-Zulassung",
   "weight": "2,90",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "und &quot;E&quot; gepr&#xFC;ft, mit Sicherheitsabsperrventil (SAV) und<br>Sicherheitsabblaseventil (SBV), mit Schutzvorrichtung<br>gegen Vereisung und Notversorgungsanschlu&#xDF;<br>Vordruck:         bis 16 bar<br>Hinterdruck:     0,7 bar<br>Leistung:           24 kg/h<br>Anschlu&#xDF;:          Eingang: POL    Ausgang: RVS 18 mm<br>mit Werksbescheinigung 2.1 nach EN 10 204"
+  "price": "0,00",
+  "amount": "0",
+  "description": "und \"E\" geprüft, mit Sicherheitsabsperrventil (SAV) und\\nSicherheitsabblaseventil (SBV), mit Schutzvorrichtung\\ngegen Vereisung und Notversorgungsanschluß\\nVordruck:bis 16 bar\\nHinterdruck:0,7 bar\\nLeistung:24 kg/h\\nAnschluß:Eingang: POLAusgang: RVS 18 mm\\nmit Werksbescheinigung 2.1 nach EN 10 204"
 }

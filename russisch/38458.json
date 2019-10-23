@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    38458\r\n                  ",
+  "id": "38458",
   "name": "Temperaturkompensation für LCR mit MA7",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "bestehend aus:<br>eichtechnisch vorgepr&#xFC;ftem PT100-F&#xFC;hler,<br>Anschlu&#xDF;kabel, Kabelschutz und<br>Kabelverschraubungen."
+  "price": "0,00",
+  "amount": "0",
+  "description": "bestehend aus:\\neichtechnisch vorgeprüftem PT100-Fühler,\\nAnschlußkabel, Kabelschutz und\\nKabelverschraubungen."
 }

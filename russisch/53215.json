@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    53215\r\n                  ",
+  "id": "53215",
   "name": "Tandberg SLR40 Drive Kit SCSI intern",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "20/40 GB, Transferrate max. 4 MB/s., <br>inkl. internes SCSI Kabel mit Terminator, <br>Media Cartridge, Cleaning Cartridge, <br>Treiber f&#xFC;r SUN Solaris, AIX, SCO-Unix, UnixWare, UNIX, HP-UX, Linux Supported in Operating System, Mac, Windows98, NT Workstation, 3 Jahre Herstellergarantie"
+  "price": "0,00",
+  "amount": "1",
+  "description": "20/40 GB, Transferrate max. 4 MB/s., \\ninkl. internes SCSI Kabel mit Terminator, \\nMedia Cartridge, Cleaning Cartridge, \\nTreiber für SUN Solaris, AIX, SCO-Unix, UnixWare, UNIX, HP-UX, Linux Supported in Operating System, Mac, Windows98, NT Workstation, 3 Jahre Herstellergarantie"
 }

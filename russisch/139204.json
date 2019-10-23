@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    139204\r\n                  ",
+  "id": "139204",
   "name": "Abreisskupplung SBC 25, Typ MANN TEK,",
   "weight": "3,30",
-  "price": "\r\n                  2.240,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "einerseits 1-1/4&quot; NPT IG, andererseits Flansch DN 32,<br>mit Viton O-Ringen<br>Bruchkraft: 4,8 kN<br>Betriebsdruck: PN 25 bar"
+  "price": "2.240,00",
+  "amount": "0",
+  "description": "einerseits 1-1/4\" NPT IG, andererseits Flansch DN 32,\\nmit Viton O-Ringen\\nBruchkraft: 4,8 kN\\nBetriebsdruck: PN 25 bar"
 }

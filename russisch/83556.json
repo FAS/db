@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    83556\r\n                  ",
+  "id": "83556",
   "name": "alt",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Gutschrift f&#xFC;r bezahlte Verpackungs- und Frachtkosten<br>BP Gas Salzburg     - AB: 940095, RE: 702303 - 245,03 DM<br>BP Gas Klagenfurt  - AB: 940244, RE: 702304 -      1,13 DM<br>BP Gas Linz            - AB: 940250, RE: 702368  -   60,36 DM"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Gutschrift für bezahlte Verpackungs- und Frachtkosten\\nBP Gas Salzburg- AB: 940095, RE: 702303 - 245,03 DM\\nBP Gas Klagenfurt- AB: 940244, RE: 702304 -1,13 DM\\nBP Gas Linz- AB: 940250, RE: 702368-60,36 DM"
 }

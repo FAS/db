@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    40211\r\n                  ",
+  "id": "40211",
   "name": "Blackmer-Drehschieberpumpe, Typ XB1P-N, Buna-Buna",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Drehschieber aus Duravane,<br>mit internem &#xFC;berstr&#xF6;mventil, max. Differenzdruck 8,6 bar"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Drehschieber aus Duravane,\\nmit internem überströmventil, max. Differenzdruck 8,6 bar"
 }

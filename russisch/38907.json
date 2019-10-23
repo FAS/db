@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    38907\r\n                  ",
+  "id": "38907",
   "name": "Ölzähler für Mineralöle und Schweröle bis 3 m≈/h",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "mit mechanischem Rollenz&#xE4;hlwerk, Summierz&#xE4;hler, nicht r&#xFC;ckstellbar<br>Anschl&#xFC;sse: 1&quot;<br>Nenndruck: 16 bar<br>Temperatur: max. 70&#xB0;C<br>max. Durchfluss: 3000 l/h<br>min. Durchfluss: 75 l/h<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "mit mechanischem Rollenzählwerk, Summierzähler, nicht rückstellbar\\nAnschlüsse: 1\"\\nNenndruck: 16 bar\\nTemperatur: max. 70°C\\nmax. Durchfluss: 3000 l/h\\nmin. Durchfluss: 75 l/h\\n"
 }

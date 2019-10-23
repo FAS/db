@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    26587\r\n                  ",
+  "id": "26587",
   "name": "Stromschleifen - Panelmeter",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Me&#xDF;eingang  0/4 bis 20 mA,Gravur %<br>ATEX II 1G EEx ia IIB, T6<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Meßeingang0/4 bis 20 mA,Gravur %\\nATEX II 1G EEx ia IIB, T6\\n"
 }

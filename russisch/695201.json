@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    695201\r\n                  ",
+  "id": "695201",
   "name": "Mehrpreis für zusätzliche Rohrdurchführung",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "nachtr&#xE4;glich angebracht im Werk FAS<br><br>(   ) DN   80 <br>(   ) DN 100<br><br>Positionierung muss durch Kunden bei Auftragserteilung festgelegt werden!<br><br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "nachträglich angebracht im Werk FAS\\n\\n() DN80 \\n() DN 100\\n\\nPositionierung muss durch Kunden bei Auftragserteilung festgelegt werden!\\n\\n"
 }

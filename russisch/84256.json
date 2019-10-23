@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    84256\r\n                  ",
+  "id": "84256",
   "name": "Gaswarngerät Typ BIAS 1",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Steuerungseinheit f&#xFC;r Wandmontage f&#xFC;r 1 Me&#xDF;stelle,<br>Steuerger&#xE4;t ohne Ex-Schutz zur Montage au&#xDF;erhalb des<br>Ex-Bereiches, 2 Alarmschwellen einstellbar im Bereich<br>10 - 90 % UEG, Gaskonzentrationsanzeige 0 - 100 % UEG<br>in 10 %-Schritten mit roten Leuchtdioden, Kontrolllampen<br>f&#xFC;r Vor- und Hauptalarm, St&#xF6;rung und Betrieb<br>Schaltausgang mit potentialfreien Umschaltkontakten f&#xFC;r 2<br>Alarmrelais und St&#xF6;rmelderelais, <br>Spannungsversorgung: 24 V DC/230 V AC<br><br>Kompl. mit 1 Fernme&#xDF;kopf Typ Signal Point, <br>zum Einsatz innerhalb von Geb&#xE4;uden, komplett mit Klemmkasten in Schutzart Ex e, mit ATEX-Zulassung,"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Steuerungseinheit für Wandmontage für 1 Meßstelle,\\nSteuergerät ohne Ex-Schutz zur Montage außerhalb des\\nEx-Bereiches, 2 Alarmschwellen einstellbar im Bereich\\n10 - 90 % UEG, Gaskonzentrationsanzeige 0 - 100 % UEG\\nin 10 %-Schritten mit roten Leuchtdioden, Kontrolllampen\\nfür Vor- und Hauptalarm, Störung und Betrieb\\nSchaltausgang mit potentialfreien Umschaltkontakten für 2\\nAlarmrelais und Störmelderelais, \\nSpannungsversorgung: 24 V DC/230 V AC\\n\\nKompl. mit 1 Fernmeßkopf Typ Signal Point, \\nzum Einsatz innerhalb von Gebäuden, komplett mit Klemmkasten in Schutzart Ex e, mit ATEX-Zulassung,"
 }

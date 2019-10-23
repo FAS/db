@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    908680\r\n                  ",
+  "id": "908680",
   "name": "Sicherheitsventil 5262.6584, Typ 526, API Serie,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Eingang 6&quot; (300 lbs nach ASME B16.5)), Ausgang 8&quot; (150 lbs nach ASME B16.5), Einstelldruck 17,65 bar<br>Geh&#xE4;use-Werkstoff 10204-3.1 (H03), f&#xFC;r D&#xE4;mpfe, Gase und Fl&#xFC;ssigkeiten<br>Abhahmepr&#xFC;fzeugnis 3.1 nach DIN EN 10204"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Eingang 6\" (300 lbs nach ASME B16.5)), Ausgang 8\" (150 lbs nach ASME B16.5), Einstelldruck 17,65 bar\\nGehäuse-Werkstoff 10204-3.1 (H03), für Dämpfe, Gase und Flüssigkeiten\\nAbhahmeprüfzeugnis 3.1 nach DIN EN 10204"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    18360\r\n                  ",
+  "id": "18360",
   "name": "Steuerung Typ FEC 475 ",
   "weight": "5,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "zur Grenzstanddetektion und kontinuierliche F&#xFC;llstandsmessung<br>mit LED-F&#xFC;llstandsanzeige, zugelassen als &#xDC;berf&#xFC;llsicherung <br>nach VdT&#xDC;V 100, 1 System im Baugruppentr&#xE4;ger 84 TE,  <br>Ausf&#xFC;hrung mit eigensicheren Stromkreisen, potentialfreier &#xD6;ffner<br>zur St&#xF6;rungsmeldung, und potentialfreier Umschaltkontakt<br>zur Freigabe der Bef&#xFC;llung"
+  "price": "0,00",
+  "amount": "0",
+  "description": "zur Grenzstanddetektion und kontinuierliche Füllstandsmessung\\nmit LED-Füllstandsanzeige, zugelassen als Überfüllsicherung \\nnach VdTÜV 100, 1 System im Baugruppenträger 84 TE,\\nAusführung mit eigensicheren Stromkreisen, potentialfreier Öffner\\nzur Störungsmeldung, und potentialfreier Umschaltkontakt\\nzur Freigabe der Befüllung"
 }

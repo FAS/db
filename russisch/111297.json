@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    111297\r\n                  ",
+  "id": "111297",
   "name": "3.c Tyto-Vertrag - Mehrpreise",
   "weight": "0,00",
-  "price": "\r\n                  30,00\r\n                  ",
-  "amount": "\r\n                      \r\n64\r\n                    \r\n                    ",
-  "description": "###############################<br>Mehrpreis f&#xFC;r &#xC4;u&#xDF;ere  Pr&#xFC;fung - Fl&#xFC;ssigphase -RL &gt; DN 25<br>wiederkehrende &#xC4;u&#xDF;ere Pr&#xFC;fung der Fl&#xFC;ssigphasenleitung <br>durch bP BSV &#xA7;15 (5.6) mit Anhang 5 Nr. 13 (1)"
+  "price": "30,00",
+  "amount": "64",
+  "description": "\\nMehrpreis für ÄußerePrüfung - Flüssigphase -RL > DN 25\\nwiederkehrende Äußere Prüfung der Flüssigphasenleitung \\ndurch bP BSV §15 (5.6) mit Anhang 5 Nr. 13 (1)"
 }

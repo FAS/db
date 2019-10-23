@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    98995\r\n                  ",
+  "id": "98995",
   "name": "Запчасти для генератора Typ KOHLER REZG 150",
   "weight": "50,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Ein Satz besteht aus:<br><br>HEATER BLOCK\t                GM23005\t<br>FITTING, BULKHEAD DRAIN\tGM59015\t<br>PANEL FRONT BOTTOM\tGM65678\t<br>PANEL FRONT TOP\tGM65683\t<br>END CAP, SKID\t                GM64365"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Ein Satz besteht aus:\\n\\nHEATER BLOCK\tGM23005\t\\nFITTING, BULKHEAD DRAIN\tGM59015\t\\nPANEL FRONT BOTTOM\tGM65678\t\\nPANEL FRONT TOP\tGM65683\t\\nEND CAP, SKID\tGM64365"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    19529\r\n                  ",
+  "id": "19529",
   "name": "TÜV-Druckprüfung für RegO-Multiport, PN 25",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "Pr&#xFC;fdruck ____ bar, mit Bescheinigung durch <br>T&#xDC;V Hannover"
+  "price": "0,00",
+  "amount": "1",
+  "description": "Prüfdruck ____ bar, mit Bescheinigung durch \\nTÜV Hannover"
 }

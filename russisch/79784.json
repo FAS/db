@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    79784\r\n                  ",
+  "id": "79784",
   "name": "Digitales Anzeigeinstrument, 96 x 48 mm,",
   "weight": "1,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Me&#xDF;eingang: 4 - 20 mA, Anzeige 3 1/2-stellig in &quot;m3&quot;,<br>frei skalierbar, eingebaut im Kunststoffgeh&#xE4;use,<br>Abmessung: 120 x 122 x 91 mm (B x H x T),<br>Z&#xFC;ndschutzart: EEx ia II B T6,<br>mit Baumusterpr&#xFC;fbescheinigung ATEX II 1G<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Meßeingang: 4 - 20 mA, Anzeige 3 1/2-stellig in \"m3\",\\nfrei skalierbar, eingebaut im Kunststoffgehäuse,\\nAbmessung: 120 x 122 x 91 mm (B x H x T),\\nZündschutzart: EEx ia II B T6,\\nmit Baumusterprüfbescheinigung ATEX II 1G\\n"
 }

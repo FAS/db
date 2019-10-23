@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    14111\r\n                  ",
+  "id": "14111",
   "name": "Mehrpreis für Material-Abnahmeprüfzeugnis 3.1 nach",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "EN 10 204 pro St&#xFC;ck<br><br>*** f&#xFC;r Pos ____________ ***<br><br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "EN 10 204 pro Stück\\n\\n für Pos ____________ \\n\\n"
 }

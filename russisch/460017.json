@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    460017\r\n                  ",
+  "id": "460017",
   "name": "FAS Flüssiggas Pumpe Typ NZ 40-8-15",
   "weight": "0,00",
-  "price": "\r\n                  6.895,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "f&#xFC;r Fl&#xFC;ssiggas nach DIN 51622 ohne Feststoffe und Pumpenwerkstoffe nicht angreifend.<br>Nennf&#xF6;rderstrom QN = 40 m3/h<br>Differenzdruck = 8bar<br>NPSH = 2,7 m<br>Gleitringdichtung<br><br>Anschl&#xFC;sse: <br>Saugflansch DN80, PN40 nach DIN EN 1092-2<br>Druckflansch DN 65, PN 40 nach DIN EN 1092-2<br><br>Pumpenwerkstoffe:<br>Geh&#xE4;useteile : EN-GJS-400-18-LT<br>Laufr&#xE4;der : CuSn10-C<br>Welle: 1.4057<br>O-Ringe: FPM<br>"
+  "price": "6.895,00",
+  "amount": "0",
+  "description": "für Flüssiggas nach DIN 51622 ohne Feststoffe und Pumpenwerkstoffe nicht angreifend.\\nNennförderstrom QN = 40 m3/h\\nDifferenzdruck = 8bar\\nNPSH = 2,7 m\\nGleitringdichtung\\n\\nAnschlüsse: \\nSaugflansch DN80, PN40 nach DIN EN 1092-2\\nDruckflansch DN 65, PN 40 nach DIN EN 1092-2\\n\\nPumpenwerkstoffe:\\nGehäuseteile : EN-GJS-400-18-LT\\nLaufräder : CuSn10-C\\nWelle: 1.4057\\nO-Ringe: FPM\\n"
 }

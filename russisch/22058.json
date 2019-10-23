@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    22058\r\n                  ",
+  "id": "22058",
   "name": "Mehrpreis für Elektro-Schaltkasten zur Montage",
   "weight": "7,80",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "im Geb&#xE4;ude und au&#xDF;erhalb der Schutzzone, <br>komplett verdrahtet zum Anschlu&#xDF; von<br>Zapfs&#xE4;ule Typ FAS-210 (mechan. Ausf&#xFC;hrung),<br>oder Zapfs&#xE4;ule Typ FAS-220 (elektron. Ausf&#xFC;hrung),<br>Pumpenmotor bis 5 kW und Magnetventil"
+  "price": "0,00",
+  "amount": "0",
+  "description": "im Gebäude und außerhalb der Schutzzone, \\nkomplett verdrahtet zum Anschluß von\\nZapfsäule Typ FAS-210 (mechan. Ausführung),\\noder Zapfsäule Typ FAS-220 (elektron. Ausführung),\\nPumpenmotor bis 5 kW und Magnetventil"
 }

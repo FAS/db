@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    16407\r\n                  ",
+  "id": "16407",
   "name": "Gasdruckregler DN 25 PN 25 Typ RB 4730,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "- ohne SAV<br>- Druckstufe: PN 25<br>- Flansch-Ausf&#xFC;hrung<br>- Geh&#xE4;use: Sph&#xE4;ro-Guss / Stahl<br>- Dichtungen: NBR<br>- Temperaturbereich Gas: -20&#xB0;C - +60&#xB0;C<br>- Temperaturbereich Umgebung: -30&#xB0;C - +60&#xB0;C<br>- Eingangsdruck: pe = bis 25 bar<br>- Ausgangsdruck: pa = 1,5 - 5,5 bar<br>- Regler eingestellt auf: _________ bar<br>- Duchflussrichtung<br>    (  ) von rechts nach links<br>    (  ) von links nach rechts<br>- Leistung z.B. bei<br>  pe = 3,5 bar und pa = 3,0 bar, min 25 kg/h, max. 850 kg/h<br>- mit Konformit&#xE4;tserkl&#xE4;rung u. CE Kennzeichnung nach <br>  DGRL 2014/68/EU, Kategorie II, Modul A1"
+  "price": "0,00",
+  "amount": "0",
+  "description": "- ohne SAV\\n- Druckstufe: PN 25\\n- Flansch-Ausführung\\n- Gehäuse: Sphäro-Guss / Stahl\\n- Dichtungen: NBR\\n- Temperaturbereich Gas: -20°C - +60°C\\n- Temperaturbereich Umgebung: -30°C - +60°C\\n- Eingangsdruck: pe = bis 25 bar\\n- Ausgangsdruck: pa = 1,5 - 5,5 bar\\n- Regler eingestellt auf: _________ bar\\n- Duchflussrichtung\\n() von rechts nach links\\n() von links nach rechts\\n- Leistung z.B. bei\\npe = 3,5 bar und pa = 3,0 bar, min 25 kg/h, max. 850 kg/h\\n- mit Konformitätserklärung u. CE Kennzeichnung nach \\nDGRL 2014/68/EU, Kategorie II, Modul A1"
 }

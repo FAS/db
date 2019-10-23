@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    27545\r\n                  ",
+  "id": "27545",
   "name": "Elektroplanung, Konstruktion und Dokumentation",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "f&#xFC;r eine Fl&#xFC;ssiggasanlage Gruppe A<br>bestehend aus:<br><br>-Anlagenbeschreibung<br>-Baugruppenst&#xFC;ckliste<br>-Schaltplan<br>-Klemmenplan<br>-Schaltschrankaufrisse<br>-Bedienfeldaufrisse<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "für eine Flüssiggasanlage Gruppe A\\nbestehend aus:\\n\\n-Anlagenbeschreibung\\n-Baugruppenstückliste\\n-Schaltplan\\n-Klemmenplan\\n-Schaltschrankaufrisse\\n-Bedienfeldaufrisse\\n"
 }

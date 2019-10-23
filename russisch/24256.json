@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    24256\r\n                  ",
+  "id": "24256",
   "name": "Wartungseinheit 2-Teilig, für Druckluft, H-FRC-1/2",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "bestehend aus Filterdruckminderer, &#xD6;ler, Manometer, Kunststoff-<br>beh&#xE4;lter und Ablassventil, Anschluss: R 1/2&quot; IG"
+  "price": "0,00",
+  "amount": "1",
+  "description": "bestehend aus Filterdruckminderer, Öler, Manometer, Kunststoff-\\nbehälter und Ablassventil, Anschluss: R 1/2\" IG"
 }

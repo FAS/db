@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    553010\r\n                  ",
+  "id": "553010",
   "name": "Leistungsschalter für den Motorschutz von Ex e und d Motoren",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "im Kunststoffgeh&#xE4;use mit 2 Kabelverscraubungen M25 x 1,5 und einem M25 Verschlussstopfen.<br><br>Einstellbereich: 9 - 12,5 A<br><br>Z&#xFC;ndschutzart: II 2 G Ex de IIC T5<br>mit ATEX-Zulassung"
+  "price": "0,00",
+  "amount": "0",
+  "description": "im Kunststoffgehäuse mit 2 Kabelverscraubungen M25 x 1,5 und einem M25 Verschlussstopfen.\\n\\nEinstellbereich: 9 - 12,5 A\\n\\nZündschutzart: II 2 G Ex de IIC T5\\nmit ATEX-Zulassung"
 }

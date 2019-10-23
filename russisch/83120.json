@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    83120\r\n                  ",
+  "id": "83120",
   "name": "Gasentnahmeventil mit Grenzwertgeber, PN 25, mit Entnahme-",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "ventil, Manometer, Peilventil, Schaltpunkt bei 570 mm,<br>Typ S + R, Tankanschlu&#xDF; 3/4&quot; NPT-AG, kompatible<br>&#xDC;berf&#xFC;llsicherung f&#xFC;r Fl&#xFC;ssiggasbeh&#xE4;lter"
+  "price": "0,00",
+  "amount": "0",
+  "description": "ventil, Manometer, Peilventil, Schaltpunkt bei 570 mm,\\nTyp S + R, Tankanschluß 3/4\" NPT-AG, kompatible\\nÜberfüllsicherung für Flüssiggasbehälter"
 }

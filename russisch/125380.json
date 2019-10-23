@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    125380\r\n                  ",
+  "id": "125380",
   "name": "Disco-Rückschlagventil ",
   "weight": "2,60",
-  "price": "\r\n                  345,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Bezeichnung:                Disco-R&#xFC;ckschlagventil<br>Baul&#xE4;nge:                     nach DIN EN558-1, Reihe 49<br>Typ:                               932<br>Nennweite:                    DN 80<br>Temperaturbereich:       -50&#xB0;C bis 300&#xB0;C<br>Druckbereich:                 0 bis 40 bar<br>Flanschanschluss:          PN 6 bis 40 (+ ASME B16.5/ANSI 150 und 300)<br>Werkstoff Geh&#xE4;use:        Edelstahl 1.4408<br>Werkstoff Scheibe:         Edelstahl 1.4408<br>Werkstoff Feder:             Edelstahl 1.4571<br>Dichtung:                       Metallisch<br><br>"
+  "price": "345,00",
+  "amount": "0",
+  "description": "Bezeichnung:Disco-Rückschlagventil\\nBaulänge:nach DIN EN558-1, Reihe 49\\nTyp:932\\nNennweite:DN 80\\nTemperaturbereich:-50°C bis 300°C\\nDruckbereich:0 bis 40 bar\\nFlanschanschluss:PN 6 bis 40 (+ ASME B16.5/ANSI 150 und 300)\\nWerkstoff Gehäuse:Edelstahl 1.4408\\nWerkstoff Scheibe:Edelstahl 1.4408\\nWerkstoff Feder:Edelstahl 1.4571\\nDichtung:Metallisch\\n\\n"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    38433\r\n                  ",
-  "name": "Knopf für Drehschalter  LCR",
+  "id": "38433",
+  "name": "Knopf für DrehschalterLCR",
   "weight": "0,01",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
+  "price": "0,00",
+  "amount": "1",
   "description": "Typ 70471 rot"
 }

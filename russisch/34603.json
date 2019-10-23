@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    34603\r\n                  ",
+  "id": "34603",
   "name": "Datenaustauschchipschlüssel, für TA 630/T/E",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n12\r\n                    \r\n                    ",
-  "description": "zum Datenaustausch (Tank- und Stammdaten) zwischen Tankautomat und <br>Auswerteprogramm.<br><br>"
+  "price": "0,00",
+  "amount": "12",
+  "description": "zum Datenaustausch (Tank- und Stammdaten) zwischen Tankautomat und \\nAuswerteprogramm.\\n\\n"
 }

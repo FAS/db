@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    26227\r\n                  ",
+  "id": "26227",
   "name": "Steuereinschub E 292, für Gaswarngerät",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "mit Digitalanzeige des Me&#xDF;wertes,<br>2 eingestellte Alarmschwellen, 1 St&#xF6;rungsalarm,<br>Testfunktion f&#xFC;r Messtellen-Ausgangssignal<br>und Alarmschwellen,<br>BAM-gepr&#xFC;ft"
+  "price": "0,00",
+  "amount": "0",
+  "description": "mit Digitalanzeige des Meßwertes,\\n2 eingestellte Alarmschwellen, 1 Störungsalarm,\\nTestfunktion für Messtellen-Ausgangssignal\\nund Alarmschwellen,\\nBAM-geprüft"
 }

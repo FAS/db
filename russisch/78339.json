@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    78339\r\n                  ",
-  "name": "Stehlager UCP  204  KDF",
+  "id": "78339",
+  "name": "Stehlager UCP204KDF",
   "weight": "0,73",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n5\r\n                    \r\n                    ",
-  "description": "Geh&#xE4;uselagereinheit  KDF ; f&#xFC;r  Wellendurchm. 20"
+  "price": "0,00",
+  "amount": "5",
+  "description": "GehäuselagereinheitKDF ; fürWellendurchm. 20"
 }

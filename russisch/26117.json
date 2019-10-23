@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    26117\r\n                  ",
+  "id": "26117",
   "name": "Drehstrommotor mit Käfigläufer 1,85 kW, ",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Leistung: 1,85 KW, Z&#xFC;ndschutzart: EEx e II T3<br>Spannung: 230/400V, 50 Hz<br>Schutzart IP 55, Bauform IM B5 Flansch,<br>Drehzahl: 3000 1/min<br>mit EG-Baumusterpr&#xFC;fbescheinigung / ATEX"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Leistung: 1,85 KW, Zündschutzart: EEx e II T3\\nSpannung: 230/400V, 50 Hz\\nSchutzart IP 55, Bauform IM B5 Flansch,\\nDrehzahl: 3000 1/min\\nmit EG-Baumusterprüfbescheinigung / ATEX"
 }

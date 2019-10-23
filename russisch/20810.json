@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    20810\r\n                  ",
+  "id": "20810",
   "name": "Wasserbad-Verdampfer, Q160V, indirekt gasbeheizt",
   "weight": "1.362,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Brenner 220 V 50 Hz, max. Leistung 305 kg/h<br>W&#xE4;rme&#xFC;bertragungsmedium Wasser/ Glycol-Gemisch<br>Eingang 3/4&quot; NPT IG, Ausgang 1 1/4 &quot; NPT IG<br>Ausr&#xFC;stung entsprechend beigef&#xFC;gter Spezifikation"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Brenner 220 V 50 Hz, max. Leistung 305 kg/h\\nWärmeübertragungsmedium Wasser/ Glycol-Gemisch\\nEingang 3/4\" NPT IG, Ausgang 1 1/4 \" NPT IG\\nAusrüstung entsprechend beigefügter Spezifikation"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    76116\r\n                  ",
-  "name": "Handschlagstempel  QS 3",
+  "id": "76116",
+  "name": "HandschlagstempelQS 3",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n2\r\n                    \r\n                    ",
-  "description": "bis 2000 N/mm2<br>Schrifth&#xF6;he: 3 mm"
+  "price": "0,00",
+  "amount": "2",
+  "description": "bis 2000 N/mm2\\nSchrifthöhe: 3 mm"
 }

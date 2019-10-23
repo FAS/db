@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    111723\r\n                  ",
-  "name": "Tyczka - An- & Abfahrtspauschale<br>",
+  "id": "111723",
+  "name": "Tyczka - An- & Abfahrtspauschale\\n",
   "weight": "0,00",
-  "price": "\r\n                  265,00\r\n                  ",
-  "amount": "\r\n                      \r\n2.2\r\n                    \r\n                    ",
-  "description": "###############################<br>Pauschale f&#xFC;r die An- &amp; Abfahrt eines Kundendiensttechnikers,<br>gem. Rahmenvereinbarung f&#xFC;r Serviceeins&#xE4;tze vom 01.05.2015.<br><br>Staffelpreise:<br>095,- EUR = f&#xFC;r St&#xF6;rungen mit freier Termineinteilung f&#xFC;r FAS<br>265,- EUR = Standardst&#xF6;rung<br><br>Aufpreise:<br>(  ) zzgl.   50% f&#xFC;r Reaktionszeit innerhalb von 12 Stunden<br>(  ) zzgl.   50% f&#xFC;r Eins&#xE4;tze an Samstagen<br>(  ) zzgl. 100% f&#xFC;r Eins&#xE4;tze an Sonn- &amp; Feiertagen"
+  "price": "265,00",
+  "amount": "2.2",
+  "description": "\\nPauschale für die An- & Abfahrt eines Kundendiensttechnikers,\\ngem. Rahmenvereinbarung für Serviceeinsätze vom 01.05.2015.\\n\\nStaffelpreise:\\n095,- EUR = für Störungen mit freier Termineinteilung für FAS\\n265,- EUR = Standardstörung\\n\\nAufpreise:\\n() zzgl.50% für Reaktionszeit innerhalb von 12 Stunden\\n() zzgl.50% für Einsätze an Samstagen\\n() zzgl. 100% für Einsätze an Sonn- & Feiertagen"
 }

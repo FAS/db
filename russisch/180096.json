@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    180096\r\n                  ",
+  "id": "180096",
   "name": "Kompakt-Überwachungseinheit Modular (CSU-3) zur Fernanzeige",
   "weight": "0,20",
-  "price": "\r\n                  730,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "des Beh&#xE4;lter-F&#xFC;llstandes, f&#xFC;r Schaltschrankeinbau,<br>f&#xFC;r 35mm DIN Hutschienenmontage,<br>Typ 4370S04151E, f&#xFC;r Me&#xDF;wertgeber <br>Fabr. Rochester, digitale Anzeige in % bezogen<br>auf den Gesamtinhalt, mit: <br> - Stromversorgung 230 VAC +/-10%, 50/60Hz<br> - 4 x einstellbarer Grenzwert<br> - 4 x Relaisausgang 250 VAC / 2A<br> - Stromausgang 4...20 mA<br> - Kommunikationsschnittstelle RS485<br> - Abmessungen 160x90x60mm  (H x B x T)<br> - Schutzart IP 20 <br> - CE-Konformit&#xE4;tserkl&#xE4;rung"
+  "price": "730,00",
+  "amount": "1",
+  "description": "des Behälter-Füllstandes, für Schaltschrankeinbau,\\nfür 35mm DIN Hutschienenmontage,\\nTyp 4370S04151E, für Meßwertgeber \\nFabr. Rochester, digitale Anzeige in % bezogen\\nauf den Gesamtinhalt, mit: \\n - Stromversorgung 230 VAC +/-10%, 50/60Hz\\n - 4 x einstellbarer Grenzwert\\n - 4 x Relaisausgang 250 VAC / 2A\\n - Stromausgang 4...20 mA\\n - Kommunikationsschnittstelle RS485\\n - Abmessungen 160x90x60mm(H x B x T)\\n - Schutzart IP 20 \\n - CE-Konformitätserklärung"
 }

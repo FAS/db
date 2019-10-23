@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    35228\r\n                  ",
+  "id": "35228",
   "name": "CORE процессор тип PUCK",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "&#x434;&#x43B;&#x44F; &#x441;&#x435;&#x43D;&#x441;&#x43E;&#x440;&#x430; Emerson R200<br>&#x43C;&#x43E;&#x434;&#x435;&#x43B;&#x44C; 700"
+  "price": "0,00",
+  "amount": "0",
+  "description": "для сенсора Emerson R200\\nмодель 700"
 }

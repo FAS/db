@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    333049\r\n                  ",
+  "id": "333049",
   "name": "Wellendichtung komplett",
   "weight": "0,45",
-  "price": "\r\n                  215,00\r\n                  ",
-  "amount": "\r\n                      \r\n2\r\n                    \r\n                    ",
-  "description": "Material Stahl/Buna-N/Kohlenstoff/Teflon,<br>f&#xFC;r Blackmer Pumpe  X(R)LS 1 1/4, XLS 1 1/2, XS 1 1/2"
+  "price": "215,00",
+  "amount": "2",
+  "description": "Material Stahl/Buna-N/Kohlenstoff/Teflon,\\nfür Blackmer PumpeX(R)LS 1 1/4, XLS 1 1/2, XS 1 1/2"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    26722\r\n                  ",
+  "id": "26722",
   "name": "Schlüsselschalter im Isolierstoffgehäuse,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Schl&#xFC;ssel nur in Stellung &quot;0&quot; abziebar<br>(ohne Ex-Schutz)"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Schlüssel nur in Stellung \"0\" abziebar\\n(ohne Ex-Schutz)"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    98930\r\n                  ",
+  "id": "98930",
   "name": "Elektronisches Zählwerk Typ ME3000 ",
   "weight": "13,80",
-  "price": "\r\n                  4.995,00\r\n                  ",
-  "amount": "\r\n                      \r\n2\r\n                    \r\n                    ",
-  "description": "Electronic calculator ME3000 incl:<br>- 1 pc IO board<br>- 1 pc  ME3000 EB for Printer <br>- 1 pc console<br><br>Operation language :                ____________________<br>(to confirm separately)<br><br>ticket information according :    ____________________<br>(to confirm separately)<br><br>Display information:<br>Field 2: LPG<br>Field 3: XXX kg/min<br>Field 6: T:  XXX kg (total)<br>Field 7: P:  XXX kg (delivered)<br><br>MID version    YES _________  NO ________<br><br>"
+  "price": "4.995,00",
+  "amount": "2",
+  "description": "Electronic calculator ME3000 incl:\\n- 1 pc IO board\\n- 1 pcME3000 EB for Printer \\n- 1 pc console\\n\\nOperation language :____________________\\n(to confirm separately)\\n\\nticket information according :____________________\\n(to confirm separately)\\n\\nDisplay information:\\nField 2: LPG\\nField 3: XXX kg/min\\nField 6: T:XXX kg (total)\\nField 7: P:XXX kg (delivered)\\n\\nMID versionYES _________NO ________\\n\\n"
 }

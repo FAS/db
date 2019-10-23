@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    195301\r\n                  ",
+  "id": "195301",
   "name": "FAS-Einstellbescheinigung für RegO-Sicherheitsventile,",
   "weight": "0,01",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n8\r\n                    \r\n                    ",
-  "description": "Einstelldruck _____ bar<br>einschlie&#xDF;lich der Kennzeichnung mit der Seriennummer des Sicherheitsventils f&#xFC;r Polen,<br>einschlie&#xDF;lich der Einrichtung, Montage und Eindichten<br><br>Dokumentation:<br> - mit 3.1 Zeugnis Einstellung und Verwei&#xDF; auf EG-Konformit&#xE4;tserkl&#xE4;rung<br>"
+  "price": "0,00",
+  "amount": "8",
+  "description": "Einstelldruck _____ bar\\neinschließlich der Kennzeichnung mit der Seriennummer des Sicherheitsventils für Polen,\\neinschließlich der Einrichtung, Montage und Eindichten\\n\\nDokumentation:\\n - mit 3.1 Zeugnis Einstellung und Verweiß auf EG-Konformitätserklärung\\n"
 }

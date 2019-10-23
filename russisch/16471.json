@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    16471\r\n                  ",
+  "id": "16471",
   "name": "Druckregler, Typ Fiorentini DIVAL 512 / 180TR,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Eingangsdruck: max. 20 bar, Eingang: Flansch DN 25,<br>Ausgang: DN 40, Ausgangsdruckbereich: 300 - 3000 mbar, <br>Durchflu&#xDF;menge gem&#xE4;&#xDF; Datenblatt (Durchflu&#xDF;menge <br>ca. 230 kg/h bei Eingangsdruck=Ausgangsdruck + 1,5bar, <br>ca. 310 kg/h bei Eingangsdruck=Ausgangsdruck + 3,0bar),<br>mit SAV und SBV<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Eingangsdruck: max. 20 bar, Eingang: Flansch DN 25,\\nAusgang: DN 40, Ausgangsdruckbereich: 300 - 3000 mbar, \\nDurchflußmenge gemäß Datenblatt (Durchflußmenge \\nca. 230 kg/h bei Eingangsdruck=Ausgangsdruck + 1,5bar, \\nca. 310 kg/h bei Eingangsdruck=Ausgangsdruck + 3,0bar),\\nmit SAV und SBV\\n"
 }

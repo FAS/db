@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    111175\r\n                  ",
+  "id": "111175",
   "name": "Stellung von Hilfsmitteln/Werkzeugen - V1",
   "weight": "0,00",
-  "price": "\r\n                  70,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "###############################<br>(  ) Dreibein<br>(  ) Absaugpumpe<br>(  ) CMT-Justageeinheit<br>(  ) GWG-Pr&#xFC;feinheit<br>(  ) Verdampferpr&#xFC;feinheit<br>(  ) Methanolf&#xFC;llvorrichtung<br>(  ) Schlagschrauber<br>(  ) L&#xF6;tbrenner"
+  "price": "70,00",
+  "amount": "0",
+  "description": "\\n() Dreibein\\n() Absaugpumpe\\n() CMT-Justageeinheit\\n() GWG-Prüfeinheit\\n() Verdampferprüfeinheit\\n() Methanolfüllvorrichtung\\n() Schlagschrauber\\n() Lötbrenner"
 }

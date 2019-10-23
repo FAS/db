@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    76939\r\n                  ",
-  "name": "Transportkiste 2160 x 870 x 850 mm  (LxBxH)",
+  "id": "76939",
+  "name": "Transportkiste 2160 x 870 x 850 mm(LxBxH)",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n10\r\n                    \r\n                    ",
-  "description": "Innenma&#xDF;"
+  "price": "0,00",
+  "amount": "10",
+  "description": "Innenmaß"
 }

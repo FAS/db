@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    21579\r\n                  ",
+  "id": "21579",
   "name": "Hydraulikpumpe für Motor OMR 100 ",
   "weight": "25,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Typ PA 80, F&#xF6;rdermenge 80 ccm/U <br>Betriebsdruck: 350 bar (Spitzendruck 500 bar)<br>Drehzahl max. 1500 U/min.<br>F&#xF6;rdervolumen entspricht ca. 60  l/min bei 750 U/min    <br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Typ PA 80, Fördermenge 80 ccm/U \\nBetriebsdruck: 350 bar (Spitzendruck 500 bar)\\nDrehzahl max. 1500 U/min.\\nFördervolumen entspricht ca. 60l/min bei 750 U/min\\n"
 }

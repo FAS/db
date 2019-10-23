@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    111145\r\n                  ",
+  "id": "111145",
   "name": "Kleinmaterial/Lecksuchspray/Instandsetzermeldung",
   "weight": "0,00",
-  "price": "\r\n                  9,00\r\n                  ",
-  "amount": "\r\n                      \r\n50\r\n                    \r\n                    ",
-  "description": "###############################"
+  "price": "9,00",
+  "amount": "50",
+  "description": ""
 }

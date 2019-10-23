@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    915934\r\n                  ",
+  "id": "915934",
   "name": "Pumpenaggregat für Wasser",
   "weight": "160,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "bestehend aus:<br>Einstufige Pumpeneinheit in Kompaktbauweise Typ ZLKD,<br>Eingang: Flansch DN65, Ausgang: Flansch DN40<br>Leistung 30m3/h, F&#xF6;rderh&#xF6;he 74 m, NPSHR 2,0 m,<br>komplett mit Ex-Motor 15,0 kW, Drehzahl 3000 1/min, <br>400/690 V, 50 Hz,  IP 55<br>"
+  "price": "0,00",
+  "amount": "1",
+  "description": "bestehend aus:\\nEinstufige Pumpeneinheit in Kompaktbauweise Typ ZLKD,\\nEingang: Flansch DN65, Ausgang: Flansch DN40\\nLeistung 30m3/h, Förderhöhe 74 m, NPSHR 2,0 m,\\nkomplett mit Ex-Motor 15,0 kW, Drehzahl 3000 1/min, \\n400/690 V, 50 Hz,IP 55\\n"
 }

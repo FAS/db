@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    930110\r\n                  ",
+  "id": "930110",
   "name": "Pumpenaggregat UEAB 8006 AA DBG 1A 1",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Werkstoff GGG40.3, F&#xF6;rdermedium: Propan Butan, Dichte: 540 kg/m3,<br>F&#xF6;rderstrom: 30 - 120 m3/h, max Differenzdruck: 6.5 bar, <br>Drehzahl: 1450 l/min., Antriebsleistung 22 kW, EEXD II C, IP 55, 400/690 V,<br>Aggregatzubeh&#xF6;r: Grundrahmen, Kupplung DBG, Kupplungsschutz. <br>gem&#xE4;&#xDF; ATEX und PED Standard, mit Werkszeugnis 2.2 <br>Eingang DN 150<br>Ausgang DN 80"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Werkstoff GGG40.3, Fördermedium: Propan Butan, Dichte: 540 kg/m3,\\nFörderstrom: 30 - 120 m3/h, max Differenzdruck: 6.5 bar, \\nDrehzahl: 1450 l/min., Antriebsleistung 22 kW, EEXD II C, IP 55, 400/690 V,\\nAggregatzubehör: Grundrahmen, Kupplung DBG, Kupplungsschutz. \\ngemäß ATEX und PED Standard, mit Werkszeugnis 2.2 \\nEingang DN 150\\nAusgang DN 80"
 }

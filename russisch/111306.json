@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    111306\r\n                  ",
+  "id": "111306",
   "name": "Программное обеспечение для Siemens LOGO",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "&#x432;&#x435;&#x440;&#x441;&#x438;&#x44F; 6.0"
+  "price": "0,00",
+  "amount": "0",
+  "description": "версия 6.0"
 }

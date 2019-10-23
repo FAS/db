@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    26145\r\n                  ",
+  "id": "26145",
   "name": "Mehrpreis pro angefangene 100 mm Sondenlänge",
   "weight": "0,01",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n55\r\n                    \r\n                    ",
-  "description": "Sondenl&#xE4;nge Grenzstand (220-6000mm) : _________"
+  "price": "0,00",
+  "amount": "55",
+  "description": "Sondenlänge Grenzstand (220-6000mm) : _________"
 }

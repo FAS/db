@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    263705\r\n                  ",
-  "name": "S7-1200 Analoge E/A Baugruppe mit 4 AI und 2 AO<br>\t<br>",
+  "id": "263705",
+  "name": "S7-1200 Analoge E/A Baugruppe mit 4 AI und 2 AO\\n\t\\n",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n3\r\n                    \r\n                    ",
-  "description": "SIMATIC S7-1200, ANALOGE E/A SM 1234, 4 AI / 2 AO, +/-10V, 14 BIT AUFLOESUNG, OD. 0-20 MA, 13 BIT AUFLOESUNG,<br>"
+  "price": "0,00",
+  "amount": "3",
+  "description": "SIMATIC S7-1200, ANALOGE E/A SM 1234, 4 AI / 2 AO, +/-10V, 14 BIT AUFLOESUNG, OD. 0-20 MA, 13 BIT AUFLOESUNG,\\n"
 }

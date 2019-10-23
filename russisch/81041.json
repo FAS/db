@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    81041\r\n                  ",
+  "id": "81041",
   "name": "Sensormodul BGW, zur Überwachung von brennbaren",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Gasen, Me&#xDF;bereich 0 - 100 %, Einjustiert auf 20/40 % UEG"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Gasen, Meßbereich 0 - 100 %, Einjustiert auf 20/40 % UEG"
 }

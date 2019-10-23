@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    80316\r\n                  ",
+  "id": "80316",
   "name": "alt",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Frachtkosten f&#xFC;r die Anlieferung der Ersatzpumpe<br>lt. Rechnungsbeleg:"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Frachtkosten für die Anlieferung der Ersatzpumpe\\nlt. Rechnungsbeleg:"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    84010\r\n                  ",
+  "id": "84010",
   "name": "Drehstrommotor 13,5 Kw, Drehzahl 1500 U/min.,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Spannung 500V, 50 Hz, Typ Siemens 1MA5 166-5NB50,<br>Ee xe II T3 (Ex EG3 - alte Bezeichnung)"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Spannung 500V, 50 Hz, Typ Siemens 1MA5 166-5NB50,\\nEe xe II T3 (Ex EG3 - alte Bezeichnung)"
 }

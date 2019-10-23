@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    939220\r\n                  ",
+  "id": "939220",
   "name": "2/2 электромагнитный клапан тип ASCO",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "230V/50Hz &#x434;&#x43B;&#x44F; CNG, &#x43F;&#x43E;&#x434;&#x43A;&#x43B;&#x44E;&#x447;&#x435;&#x43D;&#x438;&#x435;: 1/2&quot;"
+  "price": "0,00",
+  "amount": "0",
+  "description": "230V/50Hz для CNG, подключение: 1/2\""
 }

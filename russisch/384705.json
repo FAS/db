@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    384705\r\n                  ",
+  "id": "384705",
   "name": "Softwareupdate für Communication BOX SUC-485EU",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
+  "price": "0,00",
+  "amount": "0",
   "description": "Update der Software der Communication Box SUC-485EU zum Ausdruck von mehreren Belegdrucken."
 }

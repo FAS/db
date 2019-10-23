@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    290861\r\n                  ",
-  "name": "Austausch-Füllpistole Typ ZVG 2 / FAS 130841, PN 25<br>",
+  "id": "290861",
+  "name": "Austausch-Füllpistole Typ ZVG 2 / FAS 130841, PN 25\\n",
   "weight": "1,40",
-  "price": "\r\n                  255,00\r\n                  ",
-  "amount": "\r\n                      \r\n20\r\n                    \r\n                    ",
-  "description": "- mit Feststelleinrichtung<br>- M30x1.5links AG x 1 3/4&quot; ACME<br>- mit Sicherheitsf&#xFC;llkupplung <br>- mit R&#xFC;ckschlagventil"
+  "price": "255,00",
+  "amount": "20",
+  "description": "- mit Feststelleinrichtung\\n- M30x1.5links AG x 1 3/4\" ACME\\n- mit Sicherheitsfüllkupplung \\n- mit Rückschlagventil"
 }

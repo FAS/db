@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    22404\r\n                  ",
+  "id": "22404",
   "name": "Magnetschalter zum Abruf der Gesamtsummen",
   "weight": "0,20",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "f&#xFC;r Kienzle ER4/5 Elektronik mit Magnet"
+  "price": "0,00",
+  "amount": "0",
+  "description": "für Kienzle ER4/5 Elektronik mit Magnet"
 }

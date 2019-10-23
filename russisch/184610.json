@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    184610\r\n                  ",
-  "name": "Druckschalter Ex-geschützt Richtlinie 94/9/CE<br>",
+  "id": "184610",
+  "name": "Druckschalter Ex-geschützt Richtlinie 94/9/CE\\n",
   "weight": "1,70",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "ATEX II 2 G et D, Ex d II C T5 ou T6<br>Ta -20&#xB0;C+70&#xB0;C, Gefahrbereich 1, 2, 21, 22<br>Wechsler Standard (1 x SPDT)<br>Prozessanschlu&#xDF; G 1/2<br>Einstellbereich mit 2 eingestellten Schlatpunkten:<br>6 bar CLOSE, 5 bar OPEN<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "ATEX II 2 G et D, Ex d II C T5 ou T6\\nTa -20°C+70°C, Gefahrbereich 1, 2, 21, 22\\nWechsler Standard (1 x SPDT)\\nProzessanschluß G 1/2\\nEinstellbereich mit 2 eingestellten Schlatpunkten:\\n6 bar CLOSE, 5 bar OPEN\\n"
 }

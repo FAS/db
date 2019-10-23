@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    85006\r\n                  ",
+  "id": "85006",
   "name": "Anschluss Baugruppe zur Absaugung in engen Domschächten",
   "weight": "0,00",
-  "price": "\r\n                  235,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "komplett eingedicht, grundiert und lackiert<br>bestehend aus:<br>Anschlussst&#xFC;ck 1 3/4&quot; ACME-AG x 3/4&quot; NPT-AG<br>F&#xFC;llventilkuppkung 1 3/4&quot; ACME-IG<br>Winkel 90&#xB0;<br>Adapter 1 3/4&quot; ACME mit Feinsieb<br><br>Montage gem&#xE4;&#xDF; Kundenbild"
+  "price": "235,00",
+  "amount": "0",
+  "description": "komplett eingedicht, grundiert und lackiert\\nbestehend aus:\\nAnschlussstück 1 3/4\" ACME-AG x 3/4\" NPT-AG\\nFüllventilkuppkung 1 3/4\" ACME-IG\\nWinkel 90°\\nAdapter 1 3/4\" ACME mit Feinsieb\\n\\nMontage gemäß Kundenbild"
 }

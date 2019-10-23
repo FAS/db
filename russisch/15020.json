@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    15020\r\n                  ",
+  "id": "15020",
   "name": "Austausch-Sicherheitsventil PN 25,",
   "weight": "0,00",
-  "price": "\r\n                  99,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "ohne Schlie&#xDF;ventil und Signaleinrichtung,<br>Einschraubgewinde M 32 x 1,5 AG,<br>Ansprechdruck 15,6 bar,<br>bauteilgepr&#xFC;ft und T&#xDC;V- abgenommen"
+  "price": "99,00",
+  "amount": "0",
+  "description": "ohne Schließventil und Signaleinrichtung,\\nEinschraubgewinde M 32 x 1,5 AG,\\nAnsprechdruck 15,6 bar,\\nbauteilgeprüft und TÜV- abgenommen"
 }

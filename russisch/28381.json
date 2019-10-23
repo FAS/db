@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    28381\r\n                  ",
+  "id": "28381",
   "name": "Предохранительный клапан Typ RegO RS3131",
   "weight": "0,48",
-  "price": "\r\n                  39,00\r\n                  ",
-  "amount": "\r\n                      \r\n122\r\n                    \r\n                    ",
-  "description": "&#x441; 3/4&quot; NPSM &#x440;&#x435;&#x437;&#x44C;&#x431;&#x43E;&#x439;, &#x434;&#x43B;&#x44F; check device 1 1/4&quot; NPT<br>&#x443;&#x441;&#x442;&#x430;&#x43D;&#x43E;&#x432;&#x43B;&#x435;&#x43D;&#x43D;&#x43E;&#x435; &#x434;&#x430;&#x432;&#x43B;&#x435;&#x43D;&#x438;&#x435;: 15,6 bar<br><br>"
+  "price": "39,00",
+  "amount": "122",
+  "description": "с 3/4\" NPSM резьбой, для check device 1 1/4\" NPT\\nустановленное давление: 15,6 bar\\n\\n"
 }

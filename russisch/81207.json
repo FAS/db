@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    81207\r\n                  ",
+  "id": "81207",
   "name": "alt",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Wir berechnen Ihnen gem&#xE4;&#xDF; unseren Lieferungs-<br>und Zahlungsbedingungen eine R&#xFC;cknahmegeb&#xFC;hr von 10%<br>auf den Nettowarenwert."
+  "price": "0,00",
+  "amount": "0",
+  "description": "Wir berechnen Ihnen gemäß unseren Lieferungs-\\nund Zahlungsbedingungen eine Rücknahmegebühr von 10%\\nauf den Nettowarenwert."
 }

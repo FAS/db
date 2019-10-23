@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    98754\r\n                  ",
+  "id": "98754",
   "name": "Software zur Auswertung der Füllstandsfernüberwachung",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "wird einmalig zur Einrichtung eines Netzwerkes ben&#xF6;tigt,<br>Typ SIWAS - LPG <br>Leistungen:<br>- mehrsprachige Bedienoberfl&#xE4;che<br>- integrierter Druck Reportgenerator<br>- Echtzeit Transaktionsmonitor<br>- Geosystem Integration f&#xFC;r die Tourenplanung<br>- Optimierung von LKW Ladung und Fahrtst&#xB4;recke<br>- Flexinle Anpassung an Kundenanforderungen<br>- Einsatz im Einzelplatz- und Netzwerkbetrieb<br>- Bidirektionale Kommunikation mit den Signalgebern<br>- Skalierbarkeit &#xFC;ber mehrere Verteiler Hierachien<br>- Schnittstellenarchitektur f&#xFC;r die Anbindung von Fremdsystemen<br>- komplette Echtzeit&#xFC;bersicht f&#xFC;r alle Kundentanks<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "wird einmalig zur Einrichtung eines Netzwerkes benötigt,\\nTyp SIWAS - LPG \\nLeistungen:\\n- mehrsprachige Bedienoberfläche\\n- integrierter Druck Reportgenerator\\n- Echtzeit Transaktionsmonitor\\n- Geosystem Integration für die Tourenplanung\\n- Optimierung von LKW Ladung und Fahrtst´recke\\n- Flexinle Anpassung an Kundenanforderungen\\n- Einsatz im Einzelplatz- und Netzwerkbetrieb\\n- Bidirektionale Kommunikation mit den Signalgebern\\n- Skalierbarkeit über mehrere Verteiler Hierachien\\n- Schnittstellenarchitektur für die Anbindung von Fremdsystemen\\n- komplette Echtzeitübersicht für alle Kundentanks\\n"
 }

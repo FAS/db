@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    50321\r\n                  ",
-  "name": "* Sonderanfertigung *  Rückgabe ausgeschlossen",
+  "id": "50321",
+  "name": "* Sonderanfertigung *Rückgabe ausgeschlossen",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n3\r\n                    \r\n                    ",
-  "description": "<br>"
+  "price": "0,00",
+  "amount": "3",
+  "description": "\\n"
 }

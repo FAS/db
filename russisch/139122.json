@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    139122\r\n                  ",
+  "id": "139122",
   "name": "alt",
   "weight": "8,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Edelstahl, f&#xFC;r LPG, 25 bar Betriebsdruck,<br>DGC-V 80-F 3&quot; ASA 300 SS/FKM"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Edelstahl, für LPG, 25 bar Betriebsdruck,\\nDGC-V 80-F 3\" ASA 300 SS/FKM"
 }

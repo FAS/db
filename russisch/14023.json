@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    14023\r\n                  ",
+  "id": "14023",
   "name": "Schmutzfänger DN 25, PN 16, mit Flanschanschluß",
   "weight": "4,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n2\r\n                    \r\n                    ",
-  "description": "Maschenweite 1,00 mm, Geh&#xE4;use aus Graugu&#xDF; GG 25,<br>max. Arbeitsdruck 16 bar, ohne Materialzertifikat<br>mit Werkszeugnis 2.2 nach EN 10 204 (DIN 50.049-202)"
+  "price": "0,00",
+  "amount": "2",
+  "description": "Maschenweite 1,00 mm, Gehäuse aus Grauguß GG 25,\\nmax. Arbeitsdruck 16 bar, ohne Materialzertifikat\\nmit Werkszeugnis 2.2 nach EN 10 204 (DIN 50.049-202)"
 }

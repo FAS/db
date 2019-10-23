@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    82335\r\n                  ",
+  "id": "82335",
   "name": "alt",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Betrag unserer Rechnung Nr. 50 25 25 vom 24.07.92      <br>setzt sich zusammen aus:<br>- 1 Stk. Aquavaire Verdampfer  <br>- 15 % MwSt."
+  "price": "0,00",
+  "amount": "0",
+  "description": "Betrag unserer Rechnung Nr. 50 25 25 vom 24.07.92\\nsetzt sich zusammen aus:\\n- 1 Stk. Aquavaire Verdampfer\\n- 15 % MwSt."
 }

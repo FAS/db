@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    81447\r\n                  ",
+  "id": "81447",
   "name": "alt",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Die Kosten f&#xFC;r die T&#xDC;V Abnahme (Sachverst&#xE4;ndiger) und<br>R&#xF6;ntgen der Schwei&#xDF;n&#xE4;hte sind in diesem Preis nicht ent-<br>halten und werden auf Nachweis abgerechnet.<br><br>Weiterhin sind bauseits zu stellen :<br>Stickstoff zum Sp&#xFC;len der Rohrleitung und Druckprobe, <br>Gas und Sauerstoff f&#xFC;r Schwei&#xDF;arbeiten<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Die Kosten für die TÜV Abnahme (Sachverständiger) und\\nRöntgen der Schweißnähte sind in diesem Preis nicht ent-\\nhalten und werden auf Nachweis abgerechnet.\\n\\nWeiterhin sind bauseits zu stellen :\\nStickstoff zum Spülen der Rohrleitung und Druckprobe, \\nGas und Sauerstoff für Schweißarbeiten\\n"
 }

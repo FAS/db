@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    376161\r\n                  ",
+  "id": "376161",
   "name": "Kolbenzähler Typ FAS-MK-III-S für TEstzwecke",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "(Druckpr&#xFC;fung mit 3-fachen Betriebsdruck und <br>Umgebungstemperatur von -20 &#xB0;C)<br> - ACHTUNG: nur Leergeh&#xE4;use ohne innere Bauteile<br> - f&#xFC;r Medium Fl&#xFC;ssiggas (Propan/Butan)<br> - DN 20, Verbindung Ovalflansch<br> - PN 25<br>"
+  "price": "0,00",
+  "amount": "1",
+  "description": "(Druckprüfung mit 3-fachen Betriebsdruck und \\nUmgebungstemperatur von -20 °C)\\n - ACHTUNG: nur Leergehäuse ohne innere Bauteile\\n - für Medium Flüssiggas (Propan/Butan)\\n - DN 20, Verbindung Ovalflansch\\n - PN 25\\n"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    263534\r\n                  ",
+  "id": "263534",
   "name": "LOGO!-Steuerungsmodul 24 CE 0BA8",
   "weight": "0,10",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "Versorgungsspannung AC/DC 20,4..28,8 V<br>8 Digitaleing&#xE4;nge  AC/DC 20,4..28,8 V<br>4 digitale Ausg&#xE4;nge<br>mit integrierter Zeitschaltuhr,<br>Erweiterbar auf max. 24 digitale und 8 Analoge Eing&#xE4;nge, 20 digitale Ausg&#xE4;nge<br><br>&#xDC;ber Ethernet bis zu 8 LOGO! Ger&#xE4;te vernetzbar<br>Kommunikation zwischen LOGO! und S7 m&#xF6;glich<br>"
+  "price": "0,00",
+  "amount": "1",
+  "description": "Versorgungsspannung AC/DC 20,4..28,8 V\\n8 DigitaleingängeAC/DC 20,4..28,8 V\\n4 digitale Ausgänge\\nmit integrierter Zeitschaltuhr,\\nErweiterbar auf max. 24 digitale und 8 Analoge Eingänge, 20 digitale Ausgänge\\n\\nÜber Ethernet bis zu 8 LOGO! Geräte vernetzbar\\nKommunikation zwischen LOGO! und S7 möglich\\n"
 }

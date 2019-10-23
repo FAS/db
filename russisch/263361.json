@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    263361\r\n                  ",
+  "id": "263361",
   "name": "Hitachi Frequenzumrichter",
   "weight": "0,00",
-  "price": "\r\n                  7.070,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Type : SJ700 D-550HFEF3<br>&#xDC;berlastf&#xE4;higkeit : 150 % f&#xFC;r 60 sec.<br>max. Motorleistung : 55 kW (4pol.)<br>Netzspannung : 3 AC 380 V. - 10%<br>: bis 480 V. + 10%<br>Netzfrequenz : 50 / 60 Hz<br>Netzstrom : 123 Amp.<br>Ausgangsnennstrom: 112 Amp.<br>Ausgangsspannung : 3 AC, 0 V - Netzspannung<br>Ausgangsfrequenz : 0,1 bis 400 Hz.<br>Taktfrequenz : 0,5 - 15 kHz.<br>Regelungsverfahren : PWM sinuskodiert,<br>spannungsgef&#xFC;hrt, sensorlose Vektorregelung<br>Eing&#xE4;nge : 5 anal. Eing&#xE4;nge<br>: + 1 Kaltleiter<br>: 8 dig. Eing&#xE4;nge<br>Ausg&#xE4;nge : 2 anal. Ausgang<br>: 0 - 10 V oder 0 - 20 mA<br>: 5 dig. Ausg&#xE4;nge<br>Relais Ausg&#xE4;nge : 1 pot. freie Ausg&#xE4;nge<br>Ma&#xDF;e B x H x T : 390 x 550 x 250 mm<br>Umgebungs- : - 10&#xB0;C ohne Betauung<br>temperatur : bis + 50&#xB0;C<br>Schutzart : IP 20<br>Zulassung : CE, UL und cUL<br>Gewicht : 30 kg<br>mit aufgebautem Bedienteil OPE-SBK"
+  "price": "7.070,00",
+  "amount": "0",
+  "description": "Type : SJ700 D-550HFEF3\\nÜberlastfähigkeit : 150 % für 60 sec.\\nmax. Motorleistung : 55 kW (4pol.)\\nNetzspannung : 3 AC 380 V. - 10%\\n: bis 480 V. + 10%\\nNetzfrequenz : 50 / 60 Hz\\nNetzstrom : 123 Amp.\\nAusgangsnennstrom: 112 Amp.\\nAusgangsspannung : 3 AC, 0 V - Netzspannung\\nAusgangsfrequenz : 0,1 bis 400 Hz.\\nTaktfrequenz : 0,5 - 15 kHz.\\nRegelungsverfahren : PWM sinuskodiert,\\nspannungsgeführt, sensorlose Vektorregelung\\nEingänge : 5 anal. Eingänge\\n: + 1 Kaltleiter\\n: 8 dig. Eingänge\\nAusgänge : 2 anal. Ausgang\\n: 0 - 10 V oder 0 - 20 mA\\n: 5 dig. Ausgänge\\nRelais Ausgänge : 1 pot. freie Ausgänge\\nMaße B x H x T : 390 x 550 x 250 mm\\nUmgebungs- : - 10°C ohne Betauung\\ntemperatur : bis + 50°C\\nSchutzart : IP 20\\nZulassung : CE, UL und cUL\\nGewicht : 30 kg\\nmit aufgebautem Bedienteil OPE-SBK"
 }

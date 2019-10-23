@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    299590\r\n                  ",
+  "id": "299590",
   "name": "Prüfplaketten - Elektro-Check - Geprüft gemäß VDE",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n50\r\n                    \r\n                    ",
-  "description": "Pr&#xFC;fplaketten f&#xFC;r VDE Pr&#xFC;fung gem&#xE4;&#xDF; BGV A3.<br>Gr&#xF6;&#xDF;e 20 mm; Farbe gelb-schwarz"
+  "price": "0,00",
+  "amount": "50",
+  "description": "Prüfplaketten für VDE Prüfung gemäß BGV A3.\\nGröße 20 mm; Farbe gelb-schwarz"
 }

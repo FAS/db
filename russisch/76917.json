@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    76917\r\n                  ",
+  "id": "76917",
   "name": "Gestellung Autokran TK (30/40/50/60/80 o. 100)",
   "weight": "0,10",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n213.5\r\n                    \r\n                    ",
-  "description": "<br>zum Heben von G&#xFC;tern <br><br>Hakengewicht max. ___ to.<br><br>Zeitpunkt: __.__. 20..  in der Zeit von 0:00 - 0:00<br><br><br>Ort: Fl&#xFC;ssiggas-Anlagen GmbH<br>       Peiner Str. 217<br>       38229 Salzgitter-Engelnstedt<br><br><br><br>-Stundensatz  75,-&#x20AC; f&#xFC;r TK 30-60 <br>                      85,-&#x20AC; f&#xFC;r TK 80 130,- &#x20AC; f&#xFC;r TK 100<br>-An- u. Abfahrt : insgesammt 1,0 St. <br>- 5% Hakenlastversicherung <br><br><br>"
+  "price": "0,00",
+  "amount": "213.5",
+  "description": "\\nzum Heben von Gütern \\n\\nHakengewicht max. ___ to.\\n\\nZeitpunkt: __.__. 20..in der Zeit von 0:00 - 0:00\\n\\n\\nOrt: Flüssiggas-Anlagen GmbH\\nPeiner Str. 217\\n38229 Salzgitter-Engelnstedt\\n\\n\\n\\n-Stundensatz75,-€ für TK 30-60 \\n85,-€ für TK 80 130,- € für TK 100\\n-An- u. Abfahrt : insgesammt 1,0 St. \\n- 5% Hakenlastversicherung \\n\\n\\n"
 }

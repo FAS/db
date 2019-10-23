@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    25413\r\n                  ",
+  "id": "25413",
   "name": "Lagerblock oben für Hydraulikzylinder, Werkstoff Stahl",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "bestehend aus:<br>1 St&#xFC;ck   Anlenkblech St 37   FAS 37.261<br>1 St&#xFC;ck   St&#xFC;tzblech St 37     FAS 37.260<br>1 St&#xFC;ck   Anschwei&#xDF;buchse   FAS 37.257"
+  "price": "0,00",
+  "amount": "0",
+  "description": "bestehend aus:\\n1 StückAnlenkblech St 37FAS 37.261\\n1 StückStützblech St 37FAS 37.260\\n1 StückAnschweißbuchseFAS 37.257"
 }

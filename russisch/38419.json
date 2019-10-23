@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    38419\r\n                  ",
-  "name": "Zählerkopf LCR  Export besteht aus:",
+  "id": "38419",
+  "name": "Zählerkopf LCRExport besteht aus:",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "- Digitalanzeige in Liter <br>- Softwareversion SR200 SL200 ST200<br>- Basissoftware, Betriebssprache englisch,<br>  Standardticket<br>- Beschriftung englisch<br>- interner Impulsgeber<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "- Digitalanzeige in Liter \\n- Softwareversion SR200 SL200 ST200\\n- Basissoftware, Betriebssprache englisch,\\nStandardticket\\n- Beschriftung englisch\\n- interner Impulsgeber\\n"
 }

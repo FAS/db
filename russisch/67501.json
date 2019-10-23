@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    67501\r\n                  ",
-  "name": "Aufkleber  Schriftzug \"Autogas \"",
+  "id": "67501",
+  "name": "AufkleberSchriftzug \"Autogas \"",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Schriftfarbe: Gelb RAL1003<br>Schriftart: JET set sans kursiv<br>f&#xFC;r allgemeineTankstellen&#xFC;berdachung <br>auf Fl&#xE4;che 2000x 130mm"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Schriftfarbe: Gelb RAL1003\\nSchriftart: JET set sans kursiv\\nfür allgemeineTankstellenüberdachung \\nauf Fläche 2000x 130mm"
 }

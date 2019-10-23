@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    111189\r\n                  ",
+  "id": "111189",
   "name": "Miet-Pauschale",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "###############################<br>Vereinbarte Pauschale f&#xFC;r Miete des u.a. Objektes.<br><br>Mietobjekt:<br><br>SN-Nr.:<br><br>Mietzeitraum:"
+  "price": "0,00",
+  "amount": "0",
+  "description": "\\nVereinbarte Pauschale für Miete des u.a. Objektes.\\n\\nMietobjekt:\\n\\nSN-Nr.:\\n\\nMietzeitraum:"
 }

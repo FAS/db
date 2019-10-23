@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    48642\r\n                  ",
+  "id": "48642",
   "name": "LNG Rohrleitung Typ \"VIP\" Vakuumisoliert 1 1/4\" - DN 32",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "PN 25<br>Flussmenge DN 1: 1,35 l/m<br>Flussmenge DN 2: 2,13 l/m<br>Gewicht: 7,5 kg/m<br>Biegeradius: 1000mm"
+  "price": "0,00",
+  "amount": "0",
+  "description": "PN 25\\nFlussmenge DN 1: 1,35 l/m\\nFlussmenge DN 2: 2,13 l/m\\nGewicht: 7,5 kg/m\\nBiegeradius: 1000mm"
 }

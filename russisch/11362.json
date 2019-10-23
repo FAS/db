@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    11362\r\n                  ",
+  "id": "11362",
   "name": "Переходник ДУ 100/65,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n10\r\n                    \r\n                    ",
-  "description": "&#x43F;&#x43E;&#x434;&#x43A;&#x43B;&#x44E;&#x447;&#x435;&#x43D;&#x438;&#x435; 114,3 / 76,1 &#x43C;&#x43C;, DIN 2616,<br>St 35.8 III &#x422; APZ DIN 50.049 - 3.1"
+  "price": "0,00",
+  "amount": "10",
+  "description": "подключение 114,3 / 76,1 мм, DIN 2616,\\nSt 35.8 III Т APZ DIN 50.049 - 3.1"
 }

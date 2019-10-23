@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    12051\r\n                  ",
-  "name": "Rohrbruchventil, Typ MGM 166I,  2\", PN 25, ",
+  "id": "12051",
+  "name": "Rohrbruchventil, Typ MGM 166I,2\", PN 25, ",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "aus Stahl ASTM 105A,<br>geeignet zum Einbau zwischen 2 Flanschen, DN 50<br>Schlie&#xDF;menge ca. 170 l/min,<br>mit Werkszeugnis 2.2 nach EN 10 204 "
+  "price": "0,00",
+  "amount": "1",
+  "description": "aus Stahl ASTM 105A,\\ngeeignet zum Einbau zwischen 2 Flanschen, DN 50\\nSchließmenge ca. 170 l/min,\\nmit Werkszeugnis 2.2 nach EN 10 204 "
 }

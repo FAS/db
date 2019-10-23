@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    67923\r\n                  ",
+  "id": "67923",
   "name": "Transponder-Rundmarken, codiert, Lümatic,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "###########################<br>f&#xFC;r Fabrik-Nr. 081924497<br>aus AB-Nr. 2921020<br><br><br>Standort:<br>###############################<br>Paul &amp; Co. GmbH &amp; Co. KG<br>Sudetenstra&#xDF;e 10<br>97772 Wildflecken<br><br>###############################<br>Lfd.-Nr. *** bis ****<br>###############################<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "\\nfür Fabrik-Nr. 081924497\\naus AB-Nr. 2921020\\n\\n\\nStandort:\\n\\nPaul & Co. GmbH & Co. KG\\nSudetenstraße 10\\n97772 Wildflecken\\n\\n\\nLfd.-Nr.  bis \\n\\n"
 }

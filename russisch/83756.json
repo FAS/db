@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    83756\r\n                  ",
+  "id": "83756",
   "name": "2/2 Magnetventil-direkt gesteuert, Typ MK 20 NC GGD",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Material, Stahl verzinkt, Anschlu&#xDF; G3/4&quot;, 0-40bar,<br>Spannung 12V VDC, Medium Butan/Propan,<br>stromlos geschlossen"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Material, Stahl verzinkt, Anschluß G3/4\", 0-40bar,\\nSpannung 12V VDC, Medium Butan/Propan,\\nstromlos geschlossen"
 }

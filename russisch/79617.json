@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    79617\r\n                  ",
-  "name": "Конечная платина, серая, для рядных клем<br>",
+  "id": "79617",
+  "name": "Конечная платина, серая, для рядных клем\\n",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Dient zur Trennung von Klemmen, die mit 50-pol Querbr&#xFC;ckern verbunden sind."
+  "price": "0,00",
+  "amount": "0",
+  "description": "Dient zur Trennung von Klemmen, die mit 50-pol Querbrückern verbunden sind."
 }

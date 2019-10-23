@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    262506\r\n                  ",
+  "id": "262506",
   "name": "Gassensor Sensepoint,",
   "weight": "0,09",
-  "price": "\r\n                  575,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "zur Messung von brennbaren<br>Gasen 0-100% UEG Methan<br>Material: Polyphenylensulfid<br>Messbereich: 0-100% UEG<br>Ex Zulassung : ATEX Ex II 2GD EExd<br>IIC T6<br>Schutzart : IP65<br>Vergiftungsresistentes<br>elektrokatalytisches<br>Sensorelement<br>Dreileiter mV-Br&#xFC;ckensignal<br>Anschlussklemmenkasten<br>Material: Flammwidrig GFP<br>ATEX Ex II GD EExe II T6<br>"
+  "price": "575,00",
+  "amount": "0",
+  "description": "zur Messung von brennbaren\\nGasen 0-100% UEG Methan\\nMaterial: Polyphenylensulfid\\nMessbereich: 0-100% UEG\\nEx Zulassung : ATEX Ex II 2GD EExd\\nIIC T6\\nSchutzart : IP65\\nVergiftungsresistentes\\nelektrokatalytisches\\nSensorelement\\nDreileiter mV-Brückensignal\\nAnschlussklemmenkasten\\nMaterial: Flammwidrig GFP\\nATEX Ex II GD EExe II T6\\n"
 }

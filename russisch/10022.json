@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    10022\r\n                  ",
+  "id": "10022",
   "name": "Соединительный элемент, 1 3/4\" ACME-AG x 3/4\" NPT-IG",
   "weight": "0,34",
-  "price": "\r\n                  26,00\r\n                  ",
-  "amount": "\r\n                      \r\n3\r\n                    \r\n                    ",
-  "description": "&#x41B;&#x430;&#x442;&#x443;&#x43D;&#x44C;, PN 25, Typ RegO 5764D"
+  "price": "26,00",
+  "amount": "3",
+  "description": "Латунь, PN 25, Typ RegO 5764D"
 }

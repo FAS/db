@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    47006\r\n                  ",
+  "id": "47006",
   "name": "PCM-Fahrzeugsender, vollständig",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "zur Daten&#xFC;bermittlung Fahrzeug / Tankautomat<br>je Fahrzeug einmal erforderlich<br><br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "zur Datenübermittlung Fahrzeug / Tankautomat\\nje Fahrzeug einmal erforderlich\\n\\n"
 }

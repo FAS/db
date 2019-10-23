@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    604911\r\n                  ",
+  "id": "604911",
   "name": "Schweißnaht DN 10 bis DN 25",
   "weight": "0,20",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "OHNE Festigkeitspr&#xFC;fung"
+  "price": "0,00",
+  "amount": "0",
+  "description": "OHNE Festigkeitsprüfung"
 }

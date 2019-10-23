@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    220361\r\n                  ",
+  "id": "220361",
   "name": "Elektro-Schaltkasten aus Stahlblech mit LOGO 230 RCL-",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n3\r\n                    \r\n                    ",
-  "description": "Steuerung zur Montage im Geb&#xE4;ude und au&#xDF;erhalb der Schutz-<br>zone, komplett verdrahtet zum Anschlu&#xDF; von elektronischer <br>Zapfs&#xE4;ule Typ FAS-120, FAS-140, FAS-220, FAS-240 oder <br>elektronischer Doppel-Zapfs&#xE4;ule Typ FAS-230 oder elektronischer <br>Zapfs&#xE4;ule mit eingebautem Tankautomaten Typ FAS-420, FAS-430,<br>____ kW-Tauchpumpenmotor (kleiner als 5 kW, max. 10A), <br>Magnetventil, Differenzdruckw&#xE4;chter und NOT-AUS Taster,<br>Anschluss f&#xFC;r Tankstellenbeleuchtung, Einbindung von <br>externer GOK IAF70 Beh&#xE4;lterinhaltsmessung zur Gew&#xE4;hr-<br>leistung von Abschaltung der Pumpe bei Beh&#xE4;lterf&#xFC;llstand<br>unter 15%<br>Abmessung: H: 500mm, B: 400mm, T: 250mm,<br>Dokumentation:<br> - Klemmen- und Verdrahtungsplan<br>"
+  "price": "0,00",
+  "amount": "3",
+  "description": "Steuerung zur Montage im Gebäude und außerhalb der Schutz-\\nzone, komplett verdrahtet zum Anschluß von elektronischer \\nZapfsäule Typ FAS-120, FAS-140, FAS-220, FAS-240 oder \\nelektronischer Doppel-Zapfsäule Typ FAS-230 oder elektronischer \\nZapfsäule mit eingebautem Tankautomaten Typ FAS-420, FAS-430,\\n____ kW-Tauchpumpenmotor (kleiner als 5 kW, max. 10A), \\nMagnetventil, Differenzdruckwächter und NOT-AUS Taster,\\nAnschluss für Tankstellenbeleuchtung, Einbindung von \\nexterner GOK IAF70 Behälterinhaltsmessung zur Gewähr-\\nleistung von Abschaltung der Pumpe bei Behälterfüllstand\\nunter 15%\\nAbmessung: H: 500mm, B: 400mm, T: 250mm,\\nDokumentation:\\n - Klemmen- und Verdrahtungsplan\\n"
 }

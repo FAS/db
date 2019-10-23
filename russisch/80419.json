@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    80419\r\n                  ",
+  "id": "80419",
   "name": "alt",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Berechnung des getankten Fl&#xFC;ssiggases erfolgt sp&#xE4;ter"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Berechnung des getankten Flüssiggases erfolgt später"
 }

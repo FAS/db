@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    914199\r\n                  ",
+  "id": "914199",
   "name": "Pumpenaggregat Typ FAS/FD 150, mit druckfesten",
   "weight": "130,00",
-  "price": "\r\n                  4.935,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Motor, komplett mit Kupplung und Kupplungsschutz <br>auf einer Grundplatte aufgebaut, grundiert und lackiert,<br>bestehend aus:<br>Pumpe:<br> - Corken Typ FD 150, <br>   # Eingang: Flansch DN 40 PN 40 nach EN 1092-1 (DIN 2635),<br>   #  Ausgang: Flansch DN 25 PN 40 nach EN 1092-1 (DIN 2635)<br>   # Leistung: ca. 85 L/min bei 10,0 bar Differenzdruck, ca. 140 L/min <br>      bei 5,0 bar Differenzdruck<br>   # max. Differenzdruck (Pumpe): 17,2 bar<br>Motor:<br> - Drehstrommotor, druckfeste Ausf&#xFC;hrung<br> - Leistung: 5,5 kW<br> - Z&#xFC;ndschutzart: Exd IIC T4<br> - Spannung: 400/690 V, 50 Hz<br> - Schutzart: IP 65<br> - Isolierstoffklasse: F<br>Dokumentation<br> - Betriebsanleitung f&#xFC;r Pumpe und Motor"
+  "price": "4.935,00",
+  "amount": "0",
+  "description": "Motor, komplett mit Kupplung und Kupplungsschutz \\nauf einer Grundplatte aufgebaut, grundiert und lackiert,\\nbestehend aus:\\nPumpe:\\n - Corken Typ FD 150, \\n# Eingang: Flansch DN 40 PN 40 nach EN 1092-1 (DIN 2635),\\n#Ausgang: Flansch DN 25 PN 40 nach EN 1092-1 (DIN 2635)\\n# Leistung: ca. 85 L/min bei 10,0 bar Differenzdruck, ca. 140 L/min \\nbei 5,0 bar Differenzdruck\\n# max. Differenzdruck (Pumpe): 17,2 bar\\nMotor:\\n - Drehstrommotor, druckfeste Ausführung\\n - Leistung: 5,5 kW\\n - Zündschutzart: Exd IIC T4\\n - Spannung: 400/690 V, 50 Hz\\n - Schutzart: IP 65\\n - Isolierstoffklasse: F\\nDokumentation\\n - Betriebsanleitung für Pumpe und Motor"
 }

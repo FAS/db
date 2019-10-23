@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    23415\r\n                  ",
+  "id": "23415",
   "name": "Automatic filling head for click-on valves",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "is adapted to the type of cylinder valve,<br>according to the technical specification of the customer.<br>consists of:<br>- 1 x pneumatic cylinder;<br>- 1x pneumatic filling head (for click-on valve)<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "is adapted to the type of cylinder valve,\\naccording to the technical specification of the customer.\\nconsists of:\\n- 1 x pneumatic cylinder;\\n- 1x pneumatic filling head (for click-on valve)\\n"
 }

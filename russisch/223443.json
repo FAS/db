@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    223443\r\n                  ",
+  "id": "223443",
   "name": "Drehschalter Ein/Aus 1-Polig (ETI)",
   "weight": "0,07",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n42\r\n                    \r\n                    ",
-  "description": "Ein/Aus Schalter 1- Polig<br>CS 10 90 U<br>10A"
+  "price": "0,00",
+  "amount": "42",
+  "description": "Ein/Aus Schalter 1- Polig\\nCS 10 90 U\\n10A"
 }

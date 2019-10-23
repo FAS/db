@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    111161\r\n                  ",
+  "id": "111161",
   "name": "Westfalen-AG - An- & Abfahrtspauschale",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "###############################<br>Pauschale f&#xFC;r die An- &amp; Abfahrt eines Kundendiensttechnikers,<br>gem. WAG-Sonderkonditionen f&#xFC;r Serviceeins&#xE4;tze vom 24.03.2009.<br><br>Staffelpreise:<br>095,- EUR = Kleine Anfahrt<br>225,- EUR = gr&#xFC;n<br>315,- EUR = gelb<br>225,- EUR = Begleitung Einspeisemessung<br><br>Aufpreise:<br>(  ) zzgl.   50% f&#xFC;r Reaktionszeit innerhalb von 12 Stunden<br>(  ) zzgl.   50% f&#xFC;r Eins&#xE4;tze an Samstagen<br>(  ) zzgl. 100% f&#xFC;r Eins&#xE4;tze an Sonn- &amp; Feiertagen"
+  "price": "0,00",
+  "amount": "0",
+  "description": "\\nPauschale für die An- & Abfahrt eines Kundendiensttechnikers,\\ngem. WAG-Sonderkonditionen für Serviceeinsätze vom 24.03.2009.\\n\\nStaffelpreise:\\n095,- EUR = Kleine Anfahrt\\n225,- EUR = grün\\n315,- EUR = gelb\\n225,- EUR = Begleitung Einspeisemessung\\n\\nAufpreise:\\n() zzgl.50% für Reaktionszeit innerhalb von 12 Stunden\\n() zzgl.50% für Einsätze an Samstagen\\n() zzgl. 100% für Einsätze an Sonn- & Feiertagen"
 }

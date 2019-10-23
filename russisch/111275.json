@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    111275\r\n                  ",
+  "id": "111275",
   "name": "2.1.1 Tyto-Vertrag - Komponentenerfassung",
   "weight": "0,00",
-  "price": "\r\n                  100,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "###############################<br>Einmalige Erstellung des Komponentendatenblattes gem&#xE4;&#xDF;<br>Anhang 1 f&#xFC;r von FAS gelieferte AUTOGAS-Tankstellen."
+  "price": "100,00",
+  "amount": "0",
+  "description": "\\nEinmalige Erstellung des Komponentendatenblattes gemäß\\nAnhang 1 für von FAS gelieferte AUTOGAS-Tankstellen."
 }

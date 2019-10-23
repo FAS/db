@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    589157\r\n                  ",
+  "id": "589157",
   "name": "Balgengaszähler BK-G100",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Gr&#xF6;&#xDF;e: \t\tG100<br>Max. Durchfluss: \t160 m3/h<br>Min. Durchfluss: \t1 m3/h<br>Max. Arbeitsdruck: \t0.1bar<br>Op. Temp.: \t-10 .. 55C<br>Anschluss: \tG100<br><br>Ursprungsland \tGermany<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Größe: G100\\nMax. Durchfluss: \t160 m3/h\\nMin. Durchfluss: \t1 m3/h\\nMax. Arbeitsdruck: \t0.1bar\\nOp. Temp.: \t-10 .. 55C\\nAnschluss: \tG100\\n\\nUrsprungsland \tGermany\\n"
 }

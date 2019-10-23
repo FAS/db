@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    20815\r\n                  ",
+  "id": "20815",
   "name": "Wasserbadverdampfer Q 960V, indirekt gasbeheizt",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Brenner 220 V 50 Hz, max. Leistung 1.840 kg/h<br>W&#xE4;rme&#xFC;bertragungsmedium Wasser/ Glycol-Gemisch<br>Eingang 1&quot; NPT IG, Ausgang 2&quot; NPT IG<br>Ausr&#xFC;stung entsprechend beigef&#xFC;gter Spezifikation"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Brenner 220 V 50 Hz, max. Leistung 1.840 kg/h\\nWärmeübertragungsmedium Wasser/ Glycol-Gemisch\\nEingang 1\" NPT IG, Ausgang 2\" NPT IG\\nAusrüstung entsprechend beigefügter Spezifikation"
 }

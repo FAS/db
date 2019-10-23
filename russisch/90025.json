@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    90025\r\n                  ",
+  "id": "90025",
   "name": "Sicherheitsventil 22.0 bar",
   "weight": "0,20",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Typ RegO AA3130 <br>mit test report 2.2 nach EEN 10204"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Typ RegO AA3130 \\nmit test report 2.2 nach EEN 10204"
 }

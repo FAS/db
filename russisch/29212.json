@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    29212\r\n                  ",
+  "id": "29212",
   "name": "Typenschild für Treibgasbetankungsanlage",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n1304\r\n                    \r\n                    ",
-  "description": "Ma&#xDF;e: 115x50x1,5 mm; Material: Aluminium,<br>mit 4 Bohrungen &#xF8;3,2 mm, Bohrungsabstand 105x40 mm,<br>schwarzer Untergrund mit silberner Schrift, <br>mit 2-farbigem Firmenlogo, laut Zeichnung 29212-1/2/4"
+  "price": "0,00",
+  "amount": "1304",
+  "description": "Maße: 115x50x1,5 mm; Material: Aluminium,\\nmit 4 Bohrungen ø3,2 mm, Bohrungsabstand 105x40 mm,\\nschwarzer Untergrund mit silberner Schrift, \\nmit 2-farbigem Firmenlogo, laut Zeichnung 29212-1/2/4"
 }

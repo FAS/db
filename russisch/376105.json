@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    376105\r\n                  ",
+  "id": "376105",
   "name": "Pneumatikzylinder Typ DNC-100-320-PPV",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Hubl&#xE4;nge 320mm, Kolben&#xD8; 100mm,<br>D&#xE4;mpfung  PPV: pneumatische D&#xE4;mpfung beidseitig einstellbar,<br>Betriebsdruck  0,6 ... 12 bar, Kolbenstangenende: AG M20x1,5<br>Doppeltwirkend, Umgebungstemperatur  -20 ... 80 &#xB0;C,     "
+  "price": "0,00",
+  "amount": "0",
+  "description": "Hublänge 320mm, KolbenØ 100mm,\\nDämpfungPPV: pneumatische Dämpfung beidseitig einstellbar,\\nBetriebsdruck0,6 ... 12 bar, Kolbenstangenende: AG M20x1,5\\nDoppeltwirkend, Umgebungstemperatur-20 ... 80 °C,"
 }

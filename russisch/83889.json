@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    83889\r\n                  ",
-  "name": "DruckreglerRR 16, Niederdruck, mit Steuerregler<br>",
+  "id": "83889",
+  "name": "DruckreglerRR 16, Niederdruck, mit Steuerregler\\n",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "2. Stufe, Flansch DN 25, PN 16, mit SAV<br>mit  Abnahmepr&#xFC;fzeugnis 3.1.B nach EN 10204 <br>(DIN 50.049-3.1 B) <br>Vordruck ca. 5 bar, Medium Propan/ Butan<br>Hinterdruck eingestellt auf 140 mbar<br>bis zu 400 m3/h"
+  "price": "0,00",
+  "amount": "0",
+  "description": "2. Stufe, Flansch DN 25, PN 16, mit SAV\\nmitAbnahmeprüfzeugnis 3.1.B nach EN 10204 \\n(DIN 50.049-3.1 B) \\nVordruck ca. 5 bar, Medium Propan/ Butan\\nHinterdruck eingestellt auf 140 mbar\\nbis zu 400 m3/h"
 }

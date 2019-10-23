@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    111288\r\n                  ",
+  "id": "111288",
   "name": "Sonntags- und Feiertagszuschlag (75%) für:",
   "weight": "0,00",
-  "price": "\r\n                  43,60\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "=&gt; Service- und Montagepersonal<br><br>###############################<br>WESTFA-Sonderpreise gem. Vereinbarung vom 01.01.2011.<br>###############################"
+  "price": "43,60",
+  "amount": "0",
+  "description": "=> Service- und Montagepersonal\\n\\n\\nWESTFA-Sonderpreise gem. Vereinbarung vom 01.01.2011.\\n"
 }

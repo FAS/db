@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    79762\r\n                  ",
+  "id": "79762",
   "name": "FI - Schutzschalter 40A/0,3A - 4polig",
   "weight": "0,33",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Hersteller \tHager<br>Hersteller Typ \tCFA440D<br>Artikelklasse \tFehlerstrom-Schutzschalter<br>Polzahl \t4<br>Bemessungsspannung \t400 V<br>Bemessungsstrom \t40 A<br>Bemessungsfehlerstrom \t0,3 A<br>Montageart \tDIN-Schiene (REG)<br>Fehlerstrom-Typ \tA<br>Selektiver-Typ \tNein<br>Kurzschlussfestigkeit (Icw) \t6 kA<br>Sto&#xDF;stromfestigkeit \t0,25 kA<br>Schutzart (IP) \tIP20<br>Breite in Teilungseinheiten \t4<br>Kurzzeitverz&#xF6;gerter Typ \tNein<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Hersteller \tHager\\nHersteller Typ \tCFA440D\\nArtikelklasse \tFehlerstrom-Schutzschalter\\nPolzahl \t4\\nBemessungsspannung \t400 V\\nBemessungsstrom \t40 A\\nBemessungsfehlerstrom \t0,3 A\\nMontageart \tDIN-Schiene (REG)\\nFehlerstrom-Typ \tA\\nSelektiver-Typ \tNein\\nKurzschlussfestigkeit (Icw) \t6 kA\\nStoßstromfestigkeit \t0,25 kA\\nSchutzart (IP) \tIP20\\nBreite in Teilungseinheiten \t4\\nKurzzeitverzögerter Typ \tNein\\n"
 }

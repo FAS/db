@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    263704\r\n                  ",
-  "name": "S7-1200 Digitale E/A Baugruppe mit 16 DI und 16 DO<br>\t<br>",
+  "id": "263704",
+  "name": "S7-1200 Digitale E/A Baugruppe mit 16 DI und 16 DO\\n\t\\n",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "SIMATIC S7-1200, DIGITALE E/A SM 1223, 16 DI / 16 DO, 16 DI DC 24 V, SINK/SOURCE, 16 DO, RELAIS 2A<br>"
+  "price": "0,00",
+  "amount": "1",
+  "description": "SIMATIC S7-1200, DIGITALE E/A SM 1223, 16 DI / 16 DO, 16 DI DC 24 V, SINK/SOURCE, 16 DO, RELAIS 2A\\n"
 }

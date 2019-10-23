@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    22831\r\n                  ",
+  "id": "22831",
   "name": "Domschacht, l = 3000 mm, b = 1500 mm, h = 1100 mm,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "in loser Ausf&#xFC;hrung, zur bauseitigen Montage vorbereitet,<br>begehbare Ausf&#xFC;hrung, Deckel aufklappbar, Schacht innen<br>mit Bitumenanstrich, au&#xDF;en isoliert wie der Beh&#xE4;lter, Deckel<br>verzinkt, ohne Rohrdurchf&#xFC;hrungen"
+  "price": "0,00",
+  "amount": "0",
+  "description": "in loser Ausführung, zur bauseitigen Montage vorbereitet,\\nbegehbare Ausführung, Deckel aufklappbar, Schacht innen\\nmit Bitumenanstrich, außen isoliert wie der Behälter, Deckel\\nverzinkt, ohne Rohrdurchführungen"
 }

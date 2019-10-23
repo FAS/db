@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    12090\r\n                  ",
+  "id": "12090",
   "name": "Rohrbruchventil 3\", Typ FAS 166 K, PN 40",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "geeignet zum Einbau zwischen 2 Flanschen, DN 80, <br>Geh&#xE4;use aus Edelstahl 1.4301, Feder aus Edelstahl, <br>Schlie&#xDF;menge ca. 770 l/min. fl&#xFC;ssig Propan,  <br>1,1bar Druckverlust"
+  "price": "0,00",
+  "amount": "0",
+  "description": "geeignet zum Einbau zwischen 2 Flanschen, DN 80, \\nGehäuse aus Edelstahl 1.4301, Feder aus Edelstahl, \\nSchließmenge ca. 770 l/min. flüssig Propan,\\n1,1bar Druckverlust"
 }

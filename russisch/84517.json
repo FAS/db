@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    84517\r\n                  ",
-  "name": "Kompressoraggregat bestehend aus:<br>",
+  "id": "84517",
+  "name": "Kompressoraggregat bestehend aus:\\n",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "zweistufigem Trockenlauf-Kolbenkompressor, Typ HDL612<br>&#xF6;lfrei, aus Sph&#xE4;rogu&#xDF;, mit wassergek&#xFC;hltem Zylinderkopf und<br>Zylinder TNT beschichtet, mit Zwischenk&#xFC;hler aus Edelstahl, <br>mit doppelter Kolbenstangenabdichtung, O-Ringe Etylen/Propylen<br>Kolbenringe aus polygef&#xFC;lltem Teflon f&#xFC;r trockene Gase,<br>Anschlu&#xDF; Flansche Eingang DN 50, Ausgang DN 40 PN 40,<br>Manometer Gasein- bzw ausgang, &#xD6;ldruckmanometer,<br>Motor 10 kW, IP 54, 400/690 V, 50 Hz, EExeIIT3<br>mit Keilriemenantrieb aufgebaut auf einer gemeinsamen <br>Grundplatte, grundiert<br><br>F&#xF6;rderleistung           (Nm3/h):  39,4<br>Drehzahl                      (1/min):  680<br><br>                                                        1. Stufe             2. Stufe<br>Eingangsdruck               (bar):          0,00                 3,07<br>Ausgangsdruck               (bar):          3,28                15,10<br><br>Eingangstemperatur       (&#xB0;C):            32                   66<br>Austrittstemperatur      (&#xB0;C):           126                 160<br><br>erf. Antriebsleistung      (kW):             8,5 kW<br><br>erf. K&#xFC;hlwassermenge (l/min):               7,6  <br>bei 27 &#xB0;C  &#x2206;T=7 &#xB0;C<br><br>Medium: Erdgas mit Schwefelwasserstoff- Anteilen"
+  "price": "0,00",
+  "amount": "0",
+  "description": "zweistufigem Trockenlauf-Kolbenkompressor, Typ HDL612\\nölfrei, aus Sphäroguß, mit wassergekühltem Zylinderkopf und\\nZylinder TNT beschichtet, mit Zwischenkühler aus Edelstahl, \\nmit doppelter Kolbenstangenabdichtung, O-Ringe Etylen/Propylen\\nKolbenringe aus polygefülltem Teflon für trockene Gase,\\nAnschluß Flansche Eingang DN 50, Ausgang DN 40 PN 40,\\nManometer Gasein- bzw ausgang, Öldruckmanometer,\\nMotor 10 kW, IP 54, 400/690 V, 50 Hz, EExeIIT3\\nmit Keilriemenantrieb aufgebaut auf einer gemeinsamen \\nGrundplatte, grundiert\\n\\nFörderleistung(Nm3/h):39,4\\nDrehzahl(1/min):680\\n\\n1. Stufe2. Stufe\\nEingangsdruck(bar):0,003,07\\nAusgangsdruck(bar):3,2815,10\\n\\nEingangstemperatur(°C):3266\\nAustrittstemperatur(°C):126160\\n\\nerf. Antriebsleistung(kW):8,5 kW\\n\\nerf. Kühlwassermenge (l/min):7,6\\nbei 27 °C∆T=7 °C\\n\\nMedium: Erdgas mit Schwefelwasserstoff- Anteilen"
 }

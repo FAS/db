@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    98642\r\n                  ",
+  "id": "98642",
   "name": "Mobiles Zählwerk zum Anschluss an eine Tankwagenmessanlage",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "zur Verwendung mit &quot;TRANSGAS&quot; eigener Ballonflaschenf&#xFC;lleinrichtung,<br>geeignet f&#xFC;r Propan / Butan, PN25, auf einer kudenseitig beigestellten<br>Siebdruckplatte montiert, grundiert und lackiert, bestehend aus:<br> - &#xDC;berstr&#xF6;mventil FAS 19324<br> - Elektronisches Durchflu&#xDF;me&#xDF;ger&#xE4;t FAS 18377, geneigt montiert<br>   Leistung: Qmin = 40 L/min, Qmax = 400 L/min, einfach demontierbar<br>   per ACME-Verschraubung<br> - Kugelhahn 1-1/4 NPT-IG <br> - Sicherheitsventil 25 bar mit Abblaseleitung<br> - Manometer, geneigt montiert<br>Anschl&#xFC;sse:<br> - Eingang : 1-3/4&quot; ACME-AG<br> - Ausgang : 1 x Schlauchleitung DN 19 x 5m mit F&#xFC;llpistole Typ <br>   ZVG mit Feststelleinrichtung<br> - R&#xFC;ckf&#xFC;hrung : 1 x Schlauchleitung DN 32 x 5m mit STW Kugelhahn<br> - inklusive Verschlusskappen<br>Zeichnung:<br> - 98642-1/1/4<br>Dokumentation:<br> - mit Konformit&#xE4;tserkl&#xE4;rung gem&#xE4;&#xDF; Richtlinie 2014/68/EU &#xFC;ber Druckger&#xE4;te<br> - Betriebsanleitung<br><br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "zur Verwendung mit \"TRANSGAS\" eigener Ballonflaschenfülleinrichtung,\\ngeeignet für Propan / Butan, PN25, auf einer kudenseitig beigestellten\\nSiebdruckplatte montiert, grundiert und lackiert, bestehend aus:\\n - Überströmventil FAS 19324\\n - Elektronisches Durchflußmeßgerät FAS 18377, geneigt montiert\\nLeistung: Qmin = 40 L/min, Qmax = 400 L/min, einfach demontierbar\\nper ACME-Verschraubung\\n - Kugelhahn 1-1/4 NPT-IG \\n - Sicherheitsventil 25 bar mit Abblaseleitung\\n - Manometer, geneigt montiert\\nAnschlüsse:\\n - Eingang : 1-3/4\" ACME-AG\\n - Ausgang : 1 x Schlauchleitung DN 19 x 5m mit Füllpistole Typ \\nZVG mit Feststelleinrichtung\\n - Rückführung : 1 x Schlauchleitung DN 32 x 5m mit STW Kugelhahn\\n - inklusive Verschlusskappen\\nZeichnung:\\n - 98642-1/1/4\\nDokumentation:\\n - mit Konformitätserklärung gemäß Richtlinie 2014/68/EU über Druckgeräte\\n - Betriebsanleitung\\n\\n"
 }

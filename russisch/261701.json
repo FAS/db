@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    261701\r\n                  ",
+  "id": "261701",
   "name": "Externe Anzeige- und Bedienungseinheit VEGADIS 82",
   "weight": "0,00",
-  "price": "\r\n                  455,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Das VEGADIS 82 ist geeignet zur Messwertanzeige und Bedienung von<br>4 &#x2026; 20 mA-Sensoren optional mit HART-Protokoll. Das Ger&#xE4;t wird an beliebiger Stelle direkt in die Signalleitung eingeschleift. Es arbeitet als reines Anzeigeinstrument in einer 4 &#x2026; 20 mA-Stromschleife.<br>Optional k&#xF6;nnen Sensoren mit HART-Protokoll bedient werden. <br>bestehend aus:<br>- digitale und quasianaloge Anzeige des Messwertes<br>- Zulassung ATEX II 1G, 2G Ex ia IIC T6 Ga, Gb<br>- Zweileiter 4 ... 20 mA/HART<br>- Geh&#xE4;use Aluminium, Schutzart IP66/IP68 NEMA 6P (0,2bar)<br>- Kabeleinf&#xFC;hrung M20x1,5 / Kabelverschraubung PA schwarz<br>  (&#xF8;5-9mm), Standard<br>- f&#xFC;r Wandmontage<br>- EU Konformit&#xE4;tserkl&#xE4;rung<br>"
+  "price": "455,00",
+  "amount": "0",
+  "description": "Das VEGADIS 82 ist geeignet zur Messwertanzeige und Bedienung von\\n4 … 20 mA-Sensoren optional mit HART-Protokoll. Das Gerät wird an beliebiger Stelle direkt in die Signalleitung eingeschleift. Es arbeitet als reines Anzeigeinstrument in einer 4 … 20 mA-Stromschleife.\\nOptional können Sensoren mit HART-Protokoll bedient werden. \\nbestehend aus:\\n- digitale und quasianaloge Anzeige des Messwertes\\n- Zulassung ATEX II 1G, 2G Ex ia IIC T6 Ga, Gb\\n- Zweileiter 4 ... 20 mA/HART\\n- Gehäuse Aluminium, Schutzart IP66/IP68 NEMA 6P (0,2bar)\\n- Kabeleinführung M20x1,5 / Kabelverschraubung PA schwarz\\n(ø5-9mm), Standard\\n- für Wandmontage\\n- EU Konformitätserklärung\\n"
 }

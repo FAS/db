@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    84339\r\n                  ",
-  "name": "Flüssiggas-Zentrifugalpumpe PN 40, 2-stufig,<br>",
+  "id": "84339",
+  "name": "Flüssiggas-Zentrifugalpumpe PN 40, 2-stufig,\\n",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Geh&#xE4;use GGG 40.3, f&#xFC;r Zulaufbetrieb, mit Magnetkupplung,<br>Flansche PN 25/40, DN 80/65 mit Motor 30,00 kW, 400/690 V,<br>E Exe II T3, aufgebaut auf einer gemeinsamen Grundplatte, <br>grundiert <br><br>F&#xF6;rderstrom                95 m3/h<br>F&#xF6;rderh&#xF6;he                   80 m Ws"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Gehäuse GGG 40.3, für Zulaufbetrieb, mit Magnetkupplung,\\nFlansche PN 25/40, DN 80/65 mit Motor 30,00 kW, 400/690 V,\\nE Exe II T3, aufgebaut auf einer gemeinsamen Grundplatte, \\ngrundiert \\n\\nFörderstrom95 m3/h\\nFörderhöhe80 m Ws"
 }

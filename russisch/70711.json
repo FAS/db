@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    70711\r\n                  ",
+  "id": "70711",
   "name": "Knotenkette 2,0 mm, verzinkt",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "DIN 5686   gal. Zn"
+  "price": "0,00",
+  "amount": "0",
+  "description": "DIN 5686gal. Zn"
 }

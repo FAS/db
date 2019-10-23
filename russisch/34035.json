@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    34035\r\n                  ",
-  "name": "Magnet-Kartendurchzugsleser für Tankautomat  Lümatic",
+  "id": "34035",
+  "name": "Magnet-Kartendurchzugsleser für TankautomatLümatic",
   "weight": "0,09",
-  "price": "\r\n                  650,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "(Einbau in Typ: FAS-420_L &amp; FAS-420_L _EC mit Magnetkarten Tankautomaten)"
+  "price": "650,00",
+  "amount": "0",
+  "description": "(Einbau in Typ: FAS-420_L & FAS-420_L _EC mit Magnetkarten Tankautomaten)"
 }

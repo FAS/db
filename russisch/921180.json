@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    921180\r\n                  ",
+  "id": "921180",
   "name": "Elektrischer Drehantrieb mit Federrückstellung",
   "weight": "4,20",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "stromlos geschlossen,  explosionsgesch&#xFC;tzt<br>24 VAC/DC - 230 VAC/DC (autom. Einstellung), <br>IP66, vollst&#xE4;ndig ge&#xF6;ffnet in 15 Sek., vollst&#xE4;ndig geschlossen <br>in 3 Sek., inkl Ex-Klemmkasten, EEx d ia IIC T6, Baul&#xE4;nge <br>l = 120 mm,<br>- mit ATEX-Bescheinigung<br>- GIP : ohne CE-Kennzeichnung nach DGRL 2014/68/EU<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "stromlos geschlossen,explosionsgeschützt\\n24 VAC/DC - 230 VAC/DC (autom. Einstellung), \\nIP66, vollständig geöffnet in 15 Sek., vollständig geschlossen \\nin 3 Sek., inkl Ex-Klemmkasten, EEx d ia IIC T6, Baulänge \\nl = 120 mm,\\n- mit ATEX-Bescheinigung\\n- GIP : ohne CE-Kennzeichnung nach DGRL 2014/68/EU\\n"
 }

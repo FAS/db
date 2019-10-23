@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    82041\r\n                  ",
+  "id": "82041",
   "name": "alt",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Pauschalkosten f&#xFC;r Rohrformst&#xFC;cke, Dichtungen,<br>Verschraubungen, Stutzen, Muffen, Schrauben, Muttern,<br>Rohre, (Nettopreis)"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Pauschalkosten für Rohrformstücke, Dichtungen,\\nVerschraubungen, Stutzen, Muffen, Schrauben, Muttern,\\nRohre, (Nettopreis)"
 }

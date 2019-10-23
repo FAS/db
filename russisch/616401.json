@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    616401\r\n                  ",
+  "id": "616401",
   "name": "Konischer Stahlfilter",
   "weight": "0,00",
-  "price": "\r\n                  60,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Anfahrsieb Code: FDN80<br>gem&#xE4;&#xDF; Skizze<br>Werkstoff: 1.4301<br>Flanschdicke: 1 mm<br>Maschenweite: 0,5 mm<br>Draht-&#xF8;: 0,2 mm"
+  "price": "60,00",
+  "amount": "0",
+  "description": "Anfahrsieb Code: FDN80\\ngemäß Skizze\\nWerkstoff: 1.4301\\nFlanschdicke: 1 mm\\nMaschenweite: 0,5 mm\\nDraht-ø: 0,2 mm"
 }

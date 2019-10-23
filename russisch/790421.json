@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    790421\r\n                  ",
-  "name": "Motorschutzrelais  (ETI)",
+  "id": "790421",
+  "name": "Motorschutzrelais(ETI)",
   "weight": "0,10",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n5\r\n                    \r\n                    ",
-  "description": "&#xDC;berlastrelais RE27D-6,3<br>Einstellbereich 4-6,3A"
+  "price": "0,00",
+  "amount": "5",
+  "description": "Überlastrelais RE27D-6,3\\nEinstellbereich 4-6,3A"
 }

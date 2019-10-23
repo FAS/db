@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    16109\r\n                  ",
+  "id": "16109",
   "name": "Sicherheitsabsperrventil SAV 1\"NPT IG,PN 25,",
   "weight": "2,50",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Einstellbereich: 1,75 - 3,85 bar, eingestellt<br>auf ___ bar, mit DIN DVGW-Zulassung und<br>Abnahmepr&#xFC;fzeugnis DIN 50.049-3.1<br>f&#xFC;r Funktions- und Druckprobe"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Einstellbereich: 1,75 - 3,85 bar, eingestellt\\nauf ___ bar, mit DIN DVGW-Zulassung und\\nAbnahmeprüfzeugnis DIN 50.049-3.1\\nfür Funktions- und Druckprobe"
 }

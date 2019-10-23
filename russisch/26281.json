@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    26281\r\n                  ",
+  "id": "26281",
   "name": "Gaswarngerät Typ Tetra 3, mobil,",
   "weight": "1,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "mit eingebauter Ansaugpumpe,<br>best&#xFC;ckt mit 2 Sensoren:<br>Propan: 0 - 100 % UEG - C3H8<br>Sauerstoff 0 - 25% Volumen - 02<br>mit eingebauter Ansaugpumpe,<br>mit wiederaufladbarem Li-ion Batterien<br>ATEX - Baumusterpr&#xFC;fbescheinigung EEx ia d IIC T4"
+  "price": "0,00",
+  "amount": "1",
+  "description": "mit eingebauter Ansaugpumpe,\\nbestückt mit 2 Sensoren:\\nPropan: 0 - 100 % UEG - C3H8\\nSauerstoff 0 - 25% Volumen - 02\\nmit eingebauter Ansaugpumpe,\\nmit wiederaufladbarem Li-ion Batterien\\nATEX - Baumusterprüfbescheinigung EEx ia d IIC T4"
 }

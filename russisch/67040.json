@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    67040\r\n                  ",
+  "id": "67040",
   "name": "Chipkarten, nicht codiert, für Tankautomat FAS-420_L",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "mit Chip Typ SLE4442<br>Vorderseite: mit Autogas Tankkarte<br>Laufende Nr.: fortlaufend 001 - 050<br>R&#xFC;ckseite: mit Logo siehe Vorlage<br><br><br>Projekt: Haase Hausbau<br>                 "
+  "price": "0,00",
+  "amount": "0",
+  "description": "mit Chip Typ SLE4442\\nVorderseite: mit Autogas Tankkarte\\nLaufende Nr.: fortlaufend 001 - 050\\nRückseite: mit Logo siehe Vorlage\\n\\n\\nProjekt: Haase Hausbau\\n"
 }

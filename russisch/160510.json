@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    160510\r\n                  ",
+  "id": "160510",
   "name": "Niederdruckregler, Typ Fisher CS800IR-8DC7,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Ein-/Ausgang: 1-1/2&quot; NPT-IG, Leistung: ca. 230 kg/h <br>(10460000 BTU/h), Eingangsdruck: max. 2,1 bar <br>(30 psig), Ausgangsdruck: 25 - 40 mbar (10 - 16 inWC)<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Ein-/Ausgang: 1-1/2\" NPT-IG, Leistung: ca. 230 kg/h \\n(10460000 BTU/h), Eingangsdruck: max. 2,1 bar \\n(30 psig), Ausgangsdruck: 25 - 40 mbar (10 - 16 inWC)\\n"
 }

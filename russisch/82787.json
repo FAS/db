@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    82787\r\n                  ",
-  "name": "Flüssiggas-Seitenkanalpumpe, 7-stufig, <br>",
+  "id": "82787",
+  "name": "Flüssiggas-Seitenkanalpumpe, 7-stufig, \\n",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Geh&#xE4;use aus GGG 40.3<br>mit Magnetantrieb, komplett mit Ex-Motor <br>auf einer Grundplatte montiert<br>Motor: 230/400 V, 2,5 kW, EExeIIT3<br>Pumpe: Eingang DN 40, Ausgang DN 20<br>Leistung: ca.  1 m3/h bei 7 bar Differenzdruck <br>Hsmax. = 2,5 m"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Gehäuse aus GGG 40.3\\nmit Magnetantrieb, komplett mit Ex-Motor \\nauf einer Grundplatte montiert\\nMotor: 230/400 V, 2,5 kW, EExeIIT3\\nPumpe: Eingang DN 40, Ausgang DN 20\\nLeistung: ca.1 m3/h bei 7 bar Differenzdruck \\nHsmax. = 2,5 m"
 }

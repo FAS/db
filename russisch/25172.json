@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    25172\r\n                  ",
+  "id": "25172",
   "name": "Drehgelenk - Durchgangsform, Anschlusse 1\" x 1\" NPT IG;",
   "weight": "1,00",
-  "price": "\r\n                  395,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "max. Betriebsdruck 25 bar, min. Temperatur -40 &#xB0; C,<br>mit Werkzeugnis 2.1 nach EN 10 204 <br>**ACHTUNG: Drehgelenke d&#xFC;rfen keiner Wasserdruckpr&#xFC;fung<br>unterzogen werden!**"
+  "price": "395,00",
+  "amount": "0",
+  "description": "max. Betriebsdruck 25 bar, min. Temperatur -40 ° C,\\nmit Werkzeugnis 2.1 nach EN 10 204 \\nACHTUNG: Drehgelenke dürfen keiner Wasserdruckprüfung\\nunterzogen werden!"
 }

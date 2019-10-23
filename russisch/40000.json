@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    40000\r\n                  ",
+  "id": "40000",
   "name": "Pumpenaggregat, Typ TM AG350",
   "weight": "40,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "= Pumpe =<br>Gusseisen, rechtsdrehend<br>mit mechanischer Gleitringdichtung Kohlenstoff/Stahl/FKM,<br>Elastomere FKM; Lager aus Gusseisen<br>mit internem &#xDC;berstr&#xF6;mventil<br>Eingang/Ausgang: 33/42 mm mit Gegenflanschen<br><br>= Antrieb =<br>mit Keilriemenantrieb 0,55 kW; 1500 1/min; 50 Hz; ohne Ex-Schutz, das Aggregat kann mit 60 Hz betrieben werden.<br><br>F&#xF6;rderleistung: 1230 l/h<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "= Pumpe =\\nGusseisen, rechtsdrehend\\nmit mechanischer Gleitringdichtung Kohlenstoff/Stahl/FKM,\\nElastomere FKM; Lager aus Gusseisen\\nmit internem Überströmventil\\nEingang/Ausgang: 33/42 mm mit Gegenflanschen\\n\\n= Antrieb =\\nmit Keilriemenantrieb 0,55 kW; 1500 1/min; 50 Hz; ohne Ex-Schutz, das Aggregat kann mit 60 Hz betrieben werden.\\n\\nFörderleistung: 1230 l/h\\n"
 }

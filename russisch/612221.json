@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    612221\r\n                  ",
+  "id": "612221",
   "name": "Konformitätsbewertung einer Abfüllwaage/Kontrollwaage",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Durch das zust&#xE4;ndige Eichamt.<br>Bitte, bei der Bestellung den Aufstellungsort angeben."
+  "price": "0,00",
+  "amount": "0",
+  "description": "Durch das zuständige Eichamt.\\nBitte, bei der Bestellung den Aufstellungsort angeben."
 }

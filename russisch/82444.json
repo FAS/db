@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    82444\r\n                  ",
-  "name": "Kompressoraggregat bestehend aus:<br>",
+  "id": "82444",
+  "name": "Kompressoraggregat bestehend aus:\\n",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "zweistufigem Trockenlauf-Kolbenkompressor Typ HDL 372A-CO,<br>wassergek&#xFC;hlter Kopf und Zylinder mit Zwischenk&#xFC;hler<br>Eingang Flansche DN 32 PN 40, Ausgang Flansch DN 25 PN 40<br>Manometer f&#xFC;r &#xD6;ldruck und Gasein- bzw. Gasausgang (0-40 bar)<br>Keilriemenantrieb durch Drehstrommotor 380/660 V, 50 Hz, 10,0 kW<br>aufgebaut auf einer Grundplatte, grundiert und lackiert  <br><br>F&#xF6;rderleistung               (Nm3/h):      68            75<br>Drehzahl                           (1/min):      370          410<br>Eingangsdruck                 (bar a ):        4               4<br>Ausgangsdruck              (bar a ):        25             25<br>Eingangstemp.                ( &#xB0;C    ):        37             37<br>Austrittstemp.                   ( &#xB0;C    ):      106           106<br>erf. Antriebsleistung        ( kW  ):      5,2            6,2<br>erf. K&#xFC;hlwassermenge    (l/min):      3,8            3,8    <br>bei 29 &#xB0;C, &#x2206;T= 9 &#xB0;C"
+  "price": "0,00",
+  "amount": "1",
+  "description": "zweistufigem Trockenlauf-Kolbenkompressor Typ HDL 372A-CO,\\nwassergekühlter Kopf und Zylinder mit Zwischenkühler\\nEingang Flansche DN 32 PN 40, Ausgang Flansch DN 25 PN 40\\nManometer für Öldruck und Gasein- bzw. Gasausgang (0-40 bar)\\nKeilriemenantrieb durch Drehstrommotor 380/660 V, 50 Hz, 10,0 kW\\naufgebaut auf einer Grundplatte, grundiert und lackiert\\n\\nFörderleistung(Nm3/h):6875\\nDrehzahl(1/min):370410\\nEingangsdruck(bar a ):44\\nAusgangsdruck(bar a ):2525\\nEingangstemp.( °C):3737\\nAustrittstemp.( °C):106106\\nerf. Antriebsleistung( kW):5,26,2\\nerf. Kühlwassermenge(l/min):3,83,8\\nbei 29 °C, ∆T= 9 °C"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    916510\r\n                  ",
+  "id": "916510",
   "name": "Flüssigkeitsring-Vakuumpumpe Typ SIHI LEMB 126 AZAA14B02C",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Wellendichtung:<br>Einzelgleitringdichtung, nicht entlastet, ungek&#xFC;hlt<br>Norm:                              DIN EN 12756<br>Hersteller:                        SIHI<br>Typ:                                FK<br>Werkstoffkombination:     GBVGG<br><br>Materialausf&#xFC;hrung:<br>Vakuumgeh&#xE4;use:            1.4408   G-X5 Cr Ni Mo 19 11 2<br>Mittelk&#xF6;rper:                   1.4408   G-X5 Cr Ni Mo 17 12 2<br>Steuerscheibe:               1.4404   X2 Cr Ni Mo 17 12 2<br>Fl&#xFC;gelrad:                      1.4408   G-X5 Cr Ni Mo 17 12 2<br>Motordaten<br>Nennleistung [kW] bei 50 Hz :4,00<br>Nennleistung [kW] bei 60 Hz :4,50<br>Synchrondrehzahl [1/min] 50 Hz:3.000<br>Synchrondrehzahl [1/min] 60 Hz:3.600<br>Bauform :IMB35<br>Baugr&#xF6;&#xDF;e :112M<br>Y-Spannung [V] bei 50 Hz :380-420<br>D-Spannung [V] bei 50 Hz :220-240<br>Y-Spannung [V] bei 60 Hz :440-480<br>D-Spannung [V] bei 60 Hz :254-280<br>Frequenz [Hz] :60<br>Schutzart :IP 55<br>Isolierklasse :F<br>Kaltleiteranzahl :3<br>Lage Klemmenkasten :oben<br>Wirkungsgradklasse :IE3<br><br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Wellendichtung:\\nEinzelgleitringdichtung, nicht entlastet, ungekühlt\\nNorm:DIN EN 12756\\nHersteller:SIHI\\nTyp:FK\\nWerkstoffkombination:GBVGG\\n\\nMaterialausführung:\\nVakuumgehäuse:1.4408G-X5 Cr Ni Mo 19 11 2\\nMittelkörper:1.4408G-X5 Cr Ni Mo 17 12 2\\nSteuerscheibe:1.4404X2 Cr Ni Mo 17 12 2\\nFlügelrad:1.4408G-X5 Cr Ni Mo 17 12 2\\nMotordaten\\nNennleistung [kW] bei 50 Hz :4,00\\nNennleistung [kW] bei 60 Hz :4,50\\nSynchrondrehzahl [1/min] 50 Hz:3.000\\nSynchrondrehzahl [1/min] 60 Hz:3.600\\nBauform :IMB35\\nBaugröße :112M\\nY-Spannung [V] bei 50 Hz :380-420\\nD-Spannung [V] bei 50 Hz :220-240\\nY-Spannung [V] bei 60 Hz :440-480\\nD-Spannung [V] bei 60 Hz :254-280\\nFrequenz [Hz] :60\\nSchutzart :IP 55\\nIsolierklasse :F\\nKaltleiteranzahl :3\\nLage Klemmenkasten :oben\\nWirkungsgradklasse :IE3\\n\\n"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    909080\r\n                  ",
+  "id": "909080",
   "name": "Предохранительный клапан M45 x 2 metric, Typ Rego RS3145",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "&#x434;&#x43B;&#x44F; check device CD45, M45 x 2 metric<br>&#x443;&#x441;&#x442;&#x430;&#x43D;&#x43E;&#x432;. &#x434;&#x430;&#x432;&#x43B;&#x435;&#x43D;&#x438;&#x435; 12bar, <br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "для check device CD45, M45 x 2 metric\\nустанов. давление 12bar, \\n"
 }

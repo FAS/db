@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    98498\r\n                  ",
+  "id": "98498",
   "name": "Schulungskoffer mit LCR-TE550 Elektronik",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "montiert und komplett verdrahtet in einer tragbaren AL-Box,<br>bestehend aus:<br>- Elektronik Typ TE550, truck Version<br>- Betriebsspannung 24VDC<br>- Display LKI<br>- Impulsgeber Typ POD1<br>- Belegdrucker Typ Epson 295<br>- PT 100<br>- Leuchtmelder f&#xFC;r MV 1<br>- Leuchtmelder f&#xFC;r MV 2<br>- Netzteil 230VAC / 24VDC<br>- Anschlusskabel 230VAC<br>- VET Softwarepacket FAS 38885<br>   + Kommunikationskabel Lap TOP =&gt; TE550<br>   + USB-Stick mit VET Software und Dokumentation<br>- USB Adapter f&#xFC;r Kommunikationskabel FAS 35229<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "montiert und komplett verdrahtet in einer tragbaren AL-Box,\\nbestehend aus:\\n- Elektronik Typ TE550, truck Version\\n- Betriebsspannung 24VDC\\n- Display LKI\\n- Impulsgeber Typ POD1\\n- Belegdrucker Typ Epson 295\\n- PT 100\\n- Leuchtmelder für MV 1\\n- Leuchtmelder für MV 2\\n- Netzteil 230VAC / 24VDC\\n- Anschlusskabel 230VAC\\n- VET Softwarepacket FAS 38885\\n+ Kommunikationskabel Lap TOP => TE550\\n+ USB-Stick mit VET Software und Dokumentation\\n- USB Adapter für Kommunikationskabel FAS 35229\\n"
 }

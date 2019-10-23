@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    16238\r\n                  ",
+  "id": "16238",
   "name": "Mitteldruckregler, Typ GOK 01403-02,",
   "weight": "0,30",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Eingangsdruck bis 16 bar,<br>Ausgangsdruck eingestellt auf 0,5 bar,<br>Ein- und Ausgang 1/2&quot;,<br>Leistung 3 kg/h"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Eingangsdruck bis 16 bar,\\nAusgangsdruck eingestellt auf 0,5 bar,\\nEin- und Ausgang 1/2\",\\nLeistung 3 kg/h"
 }

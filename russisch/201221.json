@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    201221\r\n                  ",
+  "id": "201221",
   "name": "Plattenwärmeübertrager ST12TDL 5000 kg/h aus 1.4404,",
   "weight": "0,00",
-  "price": "\r\n                  24.275,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "warmwasserbeheizt f&#xFC;r Propan/Butan, Gaseingang DN 50, <br>Gasausgang DN 50<br>Warmwasser:  R&#xFC;cklauf DN 50; Vorlauf DN 50<br>Auslegdaten:<br>Berechnungsdruck: 25/25 bar (Gas/Wasser)<br>Zul.Betriebstemperatur: -20&#xB0;/100&#xB0; C (Gas/Wasser)<br>Leistung:<br>Vollumenstrom 5000 kg/h Propan, W&#xE4;rmestrom  514,21 kW<br>W&#xE4;rmetr&#xE4;ger: Ethylenglykol 34%  23865,5 l/h<br>Wassertemperatur 90/70&#xB0; C<br><br>"
+  "price": "24.275,00",
+  "amount": "0",
+  "description": "warmwasserbeheizt für Propan/Butan, Gaseingang DN 50, \\nGasausgang DN 50\\nWarmwasser:Rücklauf DN 50; Vorlauf DN 50\\nAuslegdaten:\\nBerechnungsdruck: 25/25 bar (Gas/Wasser)\\nZul.Betriebstemperatur: -20°/100° C (Gas/Wasser)\\nLeistung:\\nVollumenstrom 5000 kg/h Propan, Wärmestrom514,21 kW\\nWärmeträger: Ethylenglykol 34%23865,5 l/h\\nWassertemperatur 90/70° C\\n\\n"
 }

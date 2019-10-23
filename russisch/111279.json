@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    111279\r\n                  ",
+  "id": "111279",
   "name": "2.2.2 Tyto-Vertrag - Wartung",
   "weight": "0,00",
-  "price": "\r\n                  365,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "###############################<br>Leistungen gem&#xE4;&#xDF; Anhang 2 und 3 f&#xFC;r <br>Baugruppe II (AUTOGAS/MOTOGAS mit einem geeichtem Z&#xE4;hlwerk)."
+  "price": "365,00",
+  "amount": "0",
+  "description": "\\nLeistungen gemäß Anhang 2 und 3 für \\nBaugruppe II (AUTOGAS/MOTOGAS mit einem geeichtem Zählwerk)."
 }

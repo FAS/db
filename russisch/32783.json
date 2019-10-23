@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    32783\r\n                  ",
+  "id": "32783",
   "name": "Manometer Entnahme",
   "weight": "0,50",
-  "price": "\r\n                  230,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
+  "price": "230,00",
+  "amount": "0",
   "description": "Typ Reg0 6428-400"
 }

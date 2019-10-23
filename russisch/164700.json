@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    164700\r\n                  ",
+  "id": "164700",
   "name": "Druckregler, Typ Fiorentini DIVAL 522 / 180MB,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Eingangsdruck: 0,5 - 20 bar, Ein-/Ausgang: Flansch <br>DN 50, Ausgangsdruckbereich: 100 - 300 mbar, <br>Durchflu&#xDF;menge gem&#xE4;&#xDF; Datenblatt"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Eingangsdruck: 0,5 - 20 bar, Ein-/Ausgang: Flansch \\nDN 50, Ausgangsdruckbereich: 100 - 300 mbar, \\nDurchflußmenge gemäß Datenblatt"
 }

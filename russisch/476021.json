@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    476021\r\n                  ",
+  "id": "476021",
   "name": "Ex-Steuerung für Schrumpfmaschine (23.169)",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "komplett verdrahtet zum Anschlu&#xDF; von einer Schrumpfmaschine mit eingebauter Heizung 3,25 kW.<br><br>Abmessungen: H=____mm, B=____mm, T=____mm<br>Dokumentation:<br>- Klemm- und Verdrahtungsplan<br><br>Ausf&#xFC;hrung: Ex de IIB T4 -20&#xB0;C - +50&#xB0;C"
+  "price": "0,00",
+  "amount": "0",
+  "description": "komplett verdrahtet zum Anschluß von einer Schrumpfmaschine mit eingebauter Heizung 3,25 kW.\\n\\nAbmessungen: H=____mm, B=____mm, T=____mm\\nDokumentation:\\n- Klemm- und Verdrahtungsplan\\n\\nAusführung: Ex de IIB T4 -20°C - +50°C"
 }

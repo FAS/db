@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    96803\r\n                  ",
+  "id": "96803",
   "name": "Sechskantmutter für Argon, Helium und Stickstoff Anwendungen",
   "weight": "0,08",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Material: Messing<br>Arbeitsdruck: 3000 PSI = 206,8 bar<br>Anschlu&#xDF; CGA 580<br>Gewindeseite: .960&quot;-14NGO-RH-EXT"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Material: Messing\\nArbeitsdruck: 3000 PSI = 206,8 bar\\nAnschluß CGA 580\\nGewindeseite: .960\"-14NGO-RH-EXT"
 }

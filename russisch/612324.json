@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    612324\r\n                  ",
+  "id": "612324",
   "name": "Frequenzumrichter",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Type : NES1-022HBE<br>&#xDC;berlastf&#xE4;higkeit : 150 % f&#xFC;r 60 sec.<br>max. Motorleistung : 2,2 kW (4pol.)<br>Netzspannung : 3 AC 380 V. - 10%<br>: bis 480 V. + 10%<br>Netzfrequenz : 50 / 60 Hz -/+ 5%<br>Ausgangsnennstrom: 5,5 Amp.<br>Ausgangsspannung : 1 AC, 0 V - Netzspannung<br>Ausgangsfrequenz : 0,1 bis 400 Hz.<br>Taktfrequenz : 2,0 - 15 kHz.<br>Eing&#xE4;nge : 1 anal. Eing&#xE4;nge<br>: 5 dig. Eing&#xE4;nge<br>Ausg&#xE4;nge : 1 dig. Ausg&#xE4;nge<br>Relais Ausg&#xE4;nge : 1 pot. freie Ausg&#xE4;nge<br>Ma&#xDF;e B x H x T : 108 x 128 x 125 mm<br>Umgebungs- : - 10&#xB0;C ohne Betauung<br>temperatur : bis + 50&#xB0;C<br>Schutzart : IP 20<br>Zulassung : RoHS, CE, UL, cUL, c-Tick,<br>GOST<br>Gewicht : 1,2 kg<br>mit integriertem Bedienteil, zur Parametrierung wird<br>das Bedienteil NES1-OP oder OPE-SRmini ben&#xF6;tigt"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Type : NES1-022HBE\\nÜberlastfähigkeit : 150 % für 60 sec.\\nmax. Motorleistung : 2,2 kW (4pol.)\\nNetzspannung : 3 AC 380 V. - 10%\\n: bis 480 V. + 10%\\nNetzfrequenz : 50 / 60 Hz -/+ 5%\\nAusgangsnennstrom: 5,5 Amp.\\nAusgangsspannung : 1 AC, 0 V - Netzspannung\\nAusgangsfrequenz : 0,1 bis 400 Hz.\\nTaktfrequenz : 2,0 - 15 kHz.\\nEingänge : 1 anal. Eingänge\\n: 5 dig. Eingänge\\nAusgänge : 1 dig. Ausgänge\\nRelais Ausgänge : 1 pot. freie Ausgänge\\nMaße B x H x T : 108 x 128 x 125 mm\\nUmgebungs- : - 10°C ohne Betauung\\ntemperatur : bis + 50°C\\nSchutzart : IP 20\\nZulassung : RoHS, CE, UL, cUL, c-Tick,\\nGOST\\nGewicht : 1,2 kg\\nmit integriertem Bedienteil, zur Parametrierung wird\\ndas Bedienteil NES1-OP oder OPE-SRmini benötigt"
 }

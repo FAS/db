@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    37363\r\n                  ",
-  "name": "Mantelrohr für SSBV  DN25",
+  "id": "37363",
+  "name": "Mantelrohr für SSBVDN25",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Werkstoff TTSt35N (alternativ: St 35.8 III),  <br>&#xF8;114,3 x 3,6 mm, l=97 mm"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Werkstoff TTSt35N (alternativ: St 35.8 III),\\nø114,3 x 3,6 mm, l=97 mm"
 }

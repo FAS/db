@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    613702\r\n                  ",
+  "id": "613702",
   "name": "Komlpette Pumpeneinheit für flüssiges CO2. ",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "nach PID_40.002.0006 konzipiert und gebaut,<br>besteht aus folgengen Hauptkomponenten:<br>- Triplex Plungerpumpe NP 25/50  ~ 400-800 kg / h.<br>- komplette Rohrleitungen<br>- Ventile, <br>- Schalttafel mit Frequenzumrichter, <br>- Zus&#xE4;tzliche Klemmenanschl&#xFC;sse f&#xFC;r externe Steuerung f&#xFC;r Ein / Aus, Drehzahlregulierung (4-20mA), R&#xFC;cklaufventil in Betrieb<br><br>Technische Daten:<br>- Spannungsversorgung: 3 x 400V / 50 Hz<br>- Leistungsaufnahme: 2-4 kW<br>- Ma&#xDF;e (LxBxH): 900 x 900 x 1670 mm <br><br>Dokumentation und Standards<br>- Druckger&#xE4;telinie 2014/68/EU<br>- Niederspannungsrichtlinie 2006/95/EG<br>- CE Kenzeichnung<br><br><br><br><br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "nach PID_40.002.0006 konzipiert und gebaut,\\nbesteht aus folgengen Hauptkomponenten:\\n- Triplex Plungerpumpe NP 25/50~ 400-800 kg / h.\\n- komplette Rohrleitungen\\n- Ventile, \\n- Schalttafel mit Frequenzumrichter, \\n- Zusätzliche Klemmenanschlüsse für externe Steuerung für Ein / Aus, Drehzahlregulierung (4-20mA), Rücklaufventil in Betrieb\\n\\nTechnische Daten:\\n- Spannungsversorgung: 3 x 400V / 50 Hz\\n- Leistungsaufnahme: 2-4 kW\\n- Maße (LxBxH): 900 x 900 x 1670 mm \\n\\nDokumentation und Standards\\n- Druckgerätelinie 2014/68/EU\\n- Niederspannungsrichtlinie 2006/95/EG\\n- CE Kenzeichnung\\n\\n\\n\\n\\n"
 }

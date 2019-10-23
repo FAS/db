@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    84408\r\n                  ",
-  "name": "Kompressoraggregat bestehend aus:<br>",
+  "id": "84408",
+  "name": "Kompressoraggregat bestehend aus:\\n",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "zweistufigem Trockenlauf-Kolbenkompressor, Typ HDL612<br>&#xF6;lfrei, aus Sph&#xE4;rogu&#xDF;, mit wassergek&#xFC;hltem Zylinderkopf und<br>Zylinder mit Zwischenk&#xFC;hler aus Messing, <br>mit doppelter Kolbenstangenabdichtung, <br>Kolbenringe aus polygef&#xFC;lltem Teflon f&#xFC;r trockene Gase,<br>Zylinderfl&#xE4;chen TNT 12 als Verschlei&#xDF;schutz beschichtet,<br>Anschlu&#xDF; Flansche Eingang DN 50, Ausgang DN 40 PN 40,<br>Manometer Gasein- bzw ausgang (0-4 MPa) mit Absperrventil, <br>&#xD6;ldruckmanometer,<br>Motor 22 kW, IP 55, 380/660 V, 50 Hz, mit Sillstandsheizung, <br>mit Keilriemenantrieb aufgebaut auf einer gemeinsamen Grundplatte, grundiert<br><br>F&#xF6;rderleistung           (Nm3/h):  180<br>Drehzahl                      (1/min):  535<br><br>                                                        1. Stufe             2. Stufe<br>Eingangsdruck               (bar):          3,45                13,17<br>Ausgangsdruck               (bar):       13,38                 22,00<br><br>Eingangstemperatur       (&#xB0;C):            15                   36<br>Austrittstemperatur      (&#xB0;C):           125                 82<br><br>erf. Antriebsleistung      (kW):             18,5 kW<br><br>erf. K&#xFC;hlwassermenge (l/min):               3,8  <br>bei 27 &#xB0;C  &#x2206;T=32 &#xB0;C"
+  "price": "0,00",
+  "amount": "0",
+  "description": "zweistufigem Trockenlauf-Kolbenkompressor, Typ HDL612\\nölfrei, aus Sphäroguß, mit wassergekühltem Zylinderkopf und\\nZylinder mit Zwischenkühler aus Messing, \\nmit doppelter Kolbenstangenabdichtung, \\nKolbenringe aus polygefülltem Teflon für trockene Gase,\\nZylinderflächen TNT 12 als Verschleißschutz beschichtet,\\nAnschluß Flansche Eingang DN 50, Ausgang DN 40 PN 40,\\nManometer Gasein- bzw ausgang (0-4 MPa) mit Absperrventil, \\nÖldruckmanometer,\\nMotor 22 kW, IP 55, 380/660 V, 50 Hz, mit Sillstandsheizung, \\nmit Keilriemenantrieb aufgebaut auf einer gemeinsamen Grundplatte, grundiert\\n\\nFörderleistung(Nm3/h):180\\nDrehzahl(1/min):535\\n\\n1. Stufe2. Stufe\\nEingangsdruck(bar):3,4513,17\\nAusgangsdruck(bar):13,3822,00\\n\\nEingangstemperatur(°C):1536\\nAustrittstemperatur(°C):12582\\n\\nerf. Antriebsleistung(kW):18,5 kW\\n\\nerf. Kühlwassermenge (l/min):3,8\\nbei 27 °C∆T=32 °C"
 }

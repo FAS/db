@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    260725\r\n                  ",
+  "id": "260725",
   "name": "Lastwächter zur Überwachung des Leistungsfaktors (bis 16A)",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "f&#xFC;r Drehstrommotoren<br>&#xDC;berwachung induktiver und kapazitiver Verbraucher<br>Multifunktion<br>Temperatur&#xFC;berwachung der Motorwicklung<br>ResetTaste, Fehlerspeicher<br>Frequenzbereich 10-100Hz<br><br>Typ: G4CM690V16ATL20<br>mit Powermodul: TR3-230V AC"
+  "price": "0,00",
+  "amount": "0",
+  "description": "für Drehstrommotoren\\nÜberwachung induktiver und kapazitiver Verbraucher\\nMultifunktion\\nTemperaturüberwachung der Motorwicklung\\nResetTaste, Fehlerspeicher\\nFrequenzbereich 10-100Hz\\n\\nTyp: G4CM690V16ATL20\\nmit Powermodul: TR3-230V AC"
 }

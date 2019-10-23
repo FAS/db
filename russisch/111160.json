@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    111160\r\n                  ",
+  "id": "111160",
   "name": "An- & Abfahrtspauschale",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "###############################<br>Pauschale f&#xFC;r die An- &amp; Abfahrt eines Kundendiensttechnikers,<br>gem. Sonderkonditionen f&#xFC;r Serviceeins&#xE4;tze vom 27.02.2009.<br><br>Staffelpreise:<br>250,- EUR = gr&#xFC;n<br>315,- EUR = gelb<br>450,- EUR = rot <br><br>Aufpreise:<br>(  ) zzgl.   50% f&#xFC;r Reaktionszeit innerhalb von 12 Stunden<br>(  ) zzgl.   50% f&#xFC;r Eins&#xE4;tze an Samstagen<br>(  ) zzgl. 100% f&#xFC;r Eins&#xE4;tze an Sonn- &amp; Feiertagen"
+  "price": "0,00",
+  "amount": "0",
+  "description": "\\nPauschale für die An- & Abfahrt eines Kundendiensttechnikers,\\ngem. Sonderkonditionen für Serviceeinsätze vom 27.02.2009.\\n\\nStaffelpreise:\\n250,- EUR = grün\\n315,- EUR = gelb\\n450,- EUR = rot \\n\\nAufpreise:\\n() zzgl.50% für Reaktionszeit innerhalb von 12 Stunden\\n() zzgl.50% für Einsätze an Samstagen\\n() zzgl. 100% für Einsätze an Sonn- & Feiertagen"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    26336\r\n                  ",
+  "id": "26336",
   "name": "Frequenzumrichter Mitsubishi, Typ FR-A 740-00930- EC",
   "weight": "23,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Eingangsspannung 3 x 380-480/500 V, 50/60 Hz, <br>Schutzart IP 00<br>( - 15%, + 10% )<br>( - 10&#xB0;C bis + 50&#xB0;C Umgebungstemperatur<br>max. Auftellungsh&#xF6;he 1.000m &#xFC;ber n.N.<br>Ger&#xE4;tenennstrom 71Amp.<br>Motornennleistung 37kW <br>60 Sek. &#xDC;berlast 150%<br>3 Sek. &#xDC;berlast 200%<br>Ger&#xE4;tenennstrom 57Amp.<br>Motornennleistung 30kW <br>60 Sek. &#xDC;berlast 200%<br>3 Sek. &#xDC;berlast 250%<br>Umgebungstemperatur 50&#xB0;C<br>mit integriertem EMV Filter f&#xFC;r 2. Ungebung (Industrieumgebungen)<br>PTC - Eingang<br>BxHxT= 325x550x195mm, Gewicht: 23kg<br>Bestehend:<br>1x Steuereinheit FR-CA 70 EC<br>1x Leistungsteil FR-AF740-00930-EC<br><br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Eingangsspannung 3 x 380-480/500 V, 50/60 Hz, \\nSchutzart IP 00\\n( - 15%, + 10% )\\n( - 10°C bis + 50°C Umgebungstemperatur\\nmax. Auftellungshöhe 1.000m über n.N.\\nGerätenennstrom 71Amp.\\nMotornennleistung 37kW \\n60 Sek. Überlast 150%\\n3 Sek. Überlast 200%\\nGerätenennstrom 57Amp.\\nMotornennleistung 30kW \\n60 Sek. Überlast 200%\\n3 Sek. Überlast 250%\\nUmgebungstemperatur 50°C\\nmit integriertem EMV Filter für 2. Ungebung (Industrieumgebungen)\\nPTC - Eingang\\nBxHxT= 325x550x195mm, Gewicht: 23kg\\nBestehend:\\n1x Steuereinheit FR-CA 70 EC\\n1x Leistungsteil FR-AF740-00930-EC\\n\\n"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    34032\r\n                  ",
-  "name": "Folientastatur für Tankautomat  Lümatic",
+  "id": "34032",
+  "name": "Folientastatur für TankautomatLümatic",
   "weight": "0,03",
-  "price": "\r\n                  210,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
+  "price": "210,00",
+  "amount": "0",
   "description": ""
 }

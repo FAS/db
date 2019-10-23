@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    22104\r\n                  ",
+  "id": "22104",
   "name": "Programmpaket Typ B023",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Chrono  (Abspeicherung von 1.633 <br>Einzeltankungen)"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Chrono(Abspeicherung von 1.633 \\nEinzeltankungen)"
 }

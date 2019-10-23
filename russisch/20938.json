@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    20938\r\n                  ",
+  "id": "20938",
   "name": "alt",
   "weight": "0,10",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Thermoelement (80 / 40H)<br>bitte FAS20941 benutzen"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Thermoelement (80 / 40H)\\nbitte FAS20941 benutzen"
 }

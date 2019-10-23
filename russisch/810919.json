@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    810919\r\n                  ",
+  "id": "810919",
   "name": "Kreuzstücke, UNI-Typ HP1225-1,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "aus Messing,<br>Betriebsdruck: 310 bar<br>A (IG): 1/2&quot; NPT<br>B (IG): 1/2&quot; NPT<br>C (IG): 1/2&quot; NPT<br>D (IG): 1/2&quot; NPT"
+  "price": "0,00",
+  "amount": "0",
+  "description": "aus Messing,\\nBetriebsdruck: 310 bar\\nA (IG): 1/2\" NPT\\nB (IG): 1/2\" NPT\\nC (IG): 1/2\" NPT\\nD (IG): 1/2\" NPT"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    67075\r\n                  ",
+  "id": "67075",
   "name": "Chipkarten, nicht codiert, für Tankautomat FAS-420_L",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "mit Chip Typ SLE4442<br><br>Vorderseite: mit Logo Autogas Tankkarte<br><br>R&#xFC;ckseite: mit Logo Naumann<br>                 Laufende Nr.: fortlaufend ____ - ____<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "mit Chip Typ SLE4442\\n\\nVorderseite: mit Logo Autogas Tankkarte\\n\\nRückseite: mit Logo Naumann\\nLaufende Nr.: fortlaufend ____ - ____\\n"
 }

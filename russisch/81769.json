@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    81769\r\n                  ",
+  "id": "81769",
   "name": "alt",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Kosten f&#xFC;r Umbau- und Ausbesserungsarbeiten, f&#xFC;r Montage,<br>f&#xFC;r &#xDC;berpr&#xFC;fung des Elektroschaltkasten, f&#xFC;r Kleinmaterial"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Kosten für Umbau- und Ausbesserungsarbeiten, für Montage,\\nfür Überprüfung des Elektroschaltkasten, für Kleinmaterial"
 }

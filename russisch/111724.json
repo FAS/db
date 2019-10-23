@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    111724\r\n                  ",
+  "id": "111724",
   "name": "Äußere Behälterprüfung durch ZÜS-Sachverständiger ",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "###############################<br>Wir berechnen Ihnen den Rechnungsbetrag zzgl. einem Regiezuschlag <br>MIT g&#xFC;ltiger Servicevereinbarung von 10%, jedoch mind. 30,00 EUR bzw. <br>OHNE g&#xFC;ltiger Servicevereinbarung  von 10%, jedoch mind. 75,00 EUR:<br><br>=&gt; RE-Nr.<br><br>M&#xE4;ngelbehebung bauseits:<br>###############################<br><br>M&#xE4;ngelbehebung durch FAS:<br>###############################"
+  "price": "0,00",
+  "amount": "0",
+  "description": "\\nWir berechnen Ihnen den Rechnungsbetrag zzgl. einem Regiezuschlag \\nMIT gültiger Servicevereinbarung von 10%, jedoch mind. 30,00 EUR bzw. \\nOHNE gültiger Servicevereinbarungvon 10%, jedoch mind. 75,00 EUR:\\n\\n=> RE-Nr.\\n\\nMängelbehebung bauseits:\\n\\n\\nMängelbehebung durch FAS:\\n"
 }

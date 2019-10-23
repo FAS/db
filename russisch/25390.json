@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    25390\r\n                  ",
+  "id": "25390",
   "name": "Anlieferung und Aufstellung der Verladearmstation durch ",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "einen FAS-Monteur auf das bauseits fertiggestellte Fundament, <br>zwei Monteure m&#xFC;ssen zur Aufstellung der Verladearmstation <br>vom Kunden beigestellt werden, Gestellung von Hebezeug zum <br>Abladen und Aufstellen b a u s e i t s, bei Tarifentfernung:<br><br>- 300 km =  410,00 EURO<br>- 500 km =  620,00 EURO<br>- 800 km =  830,00 EURO"
+  "price": "0,00",
+  "amount": "0",
+  "description": "einen FAS-Monteur auf das bauseits fertiggestellte Fundament, \\nzwei Monteure müssen zur Aufstellung der Verladearmstation \\nvom Kunden beigestellt werden, Gestellung von Hebezeug zum \\nAbladen und Aufstellen b a u s e i t s, bei Tarifentfernung:\\n\\n- 300 km =410,00 EURO\\n- 500 km =620,00 EURO\\n- 800 km =830,00 EURO"
 }

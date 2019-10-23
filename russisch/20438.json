@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    20438\r\n                  ",
+  "id": "20438",
   "name": "Reparatursatz für Trockenverdampfer, Typ FAS-2000",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "f&#xFC;r Verdampfer 32, 60 und 100 kg/h, bestehend aus <br>je 1 St&#xFC;ck:<br>-FAS-Nr. 20445 Magnetventil, 230 V, 50 Hz<br>-FAS-Nr. 20441 Temperatur-Regler 55 &#xB0;C, Schlie&#xDF;er<br>-FAS-Nr. 20442 Temperatur-Regler 75 &#xB0;C, &#xD6;ffner<br>-FAS-Nr. 20443 Temperatur-Begrenzer 100 &#xB0;C, &#xD6;ffner"
+  "price": "0,00",
+  "amount": "0",
+  "description": "für Verdampfer 32, 60 und 100 kg/h, bestehend aus \\nje 1 Stück:\\n-FAS-Nr. 20445 Magnetventil, 230 V, 50 Hz\\n-FAS-Nr. 20441 Temperatur-Regler 55 °C, Schließer\\n-FAS-Nr. 20442 Temperatur-Regler 75 °C, Öffner\\n-FAS-Nr. 20443 Temperatur-Begrenzer 100 °C, Öffner"
 }

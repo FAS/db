@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    80825\r\n                  ",
+  "id": "80825",
   "name": "alt",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Ausl&#xF6;sungsanteil"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Auslösungsanteil"
 }

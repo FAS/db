@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    9937\r\n                  ",
+  "id": "9937",
   "name": "Mustersendung",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "###############################<br>Sie erhalten von uns die untenstehenden Position(en)<br>kostenlos f&#xFC;r *** Wochen zur Ansicht, sollten wir diese <br>bis nach der Ansichtzeit nicht zur&#xFC;ckerhalten haben, <br>werden wir Ihnen diese berechnen.<br><br><br>Wir senden Ihnen zur kostenlosen Ansicht:"
+  "price": "0,00",
+  "amount": "0",
+  "description": "\\nSie erhalten von uns die untenstehenden Position(en)\\nkostenlos für  Wochen zur Ansicht, sollten wir diese \\nbis nach der Ansichtzeit nicht zurückerhalten haben, \\nwerden wir Ihnen diese berechnen.\\n\\n\\nWir senden Ihnen zur kostenlosen Ansicht:"
 }

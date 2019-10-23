@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    264750\r\n                  ",
+  "id": "264750",
   "name": "Zeitrelais für Stern-Dreieck-Anlauf CRM-2T (ETI)",
   "weight": "0,10",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n17\r\n                    \r\n                    ",
-  "description": "Relais f&#xFC;r Start mit Stern-Dreieck-Schaltung CRM-2T<br>Ausgangskontakte: 2x16A<br>Spannungsversorgung : 12V-240V AC/DC"
+  "price": "0,00",
+  "amount": "17",
+  "description": "Relais für Start mit Stern-Dreieck-Schaltung CRM-2T\\nAusgangskontakte: 2x16A\\nSpannungsversorgung : 12V-240V AC/DC"
 }

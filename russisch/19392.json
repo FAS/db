@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    19392\r\n                  ",
+  "id": "19392",
   "name": "Magnetventil ,Ex-geschützt, DN 20, PN 25,",
   "weight": "8,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "0 - 25 bar, 50 Hz, stromlos geschlossen,<br>Einbaulage: Magnetsystem stehend,<br>Betriebsspannung 230V/50Hz,<br>Z&#xFC;ndschutzart Ex II G Ex de II G T4/ATEX<br>ATEX-Baumusterpr&#xFC;fbescheinigung"
+  "price": "0,00",
+  "amount": "0",
+  "description": "0 - 25 bar, 50 Hz, stromlos geschlossen,\\nEinbaulage: Magnetsystem stehend,\\nBetriebsspannung 230V/50Hz,\\nZündschutzart Ex II G Ex de II G T4/ATEX\\nATEX-Baumusterprüfbescheinigung"
 }

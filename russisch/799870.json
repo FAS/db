@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    799870\r\n                  ",
+  "id": "799870",
   "name": "ATEX geeignetes Kabel",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "3x 1,5mm&#xB2; zum Anschluss von Atex Bauteilen"
+  "price": "0,00",
+  "amount": "0",
+  "description": "3x 1,5mm² zum Anschluss von Atex Bauteilen"
 }

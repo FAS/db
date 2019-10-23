@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    98871\r\n                  ",
+  "id": "98871",
   "name": "Registrier- und Anzeigegerät für FAS-Messanlage",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Typ Memograph M, RSG40<br>Registrierger&#xE4;t, Farbgrafik<br>6 x Digitaleingang<br>6 x Relais<br>Klartext-Dialogbedienung + Navigator<br>4 x Bedientaste<br>Ethernet + RS232/485<br>IP65 Front, NEMA 4<br>PC-Softwarepaket Read Win 2000<br>4 x USB + Kabel<br>Integration, 100 Grenzwerte<br>24V Hilfsausgangsspannung<br>Display 7 Zoll<br>interner Speicher 256MB<br>inkl. Benutzerverwaltung FDA 21CFR11<br>Signaleingang: 4 x Multifunkt. U,I,TC,RTD<br>                        Impuls-/Frequenzeingang 10 kHz<br>Dig.Eingang; Ausgang: 6 x Didital, 25Hz, 6 x Relais (1x SPDT+5x SPST)<br>Hilfsenergie: 100-230VAC (+/- 10%)<br>Kommunikation: Modbus RTU, max, 40xAnalog, 14xDigital<br>Schnittstelle: Ethernet + RS232/485 + 1 x USB<br>                     Funktion (Front), 1 x USB Host (Front), 2 x USB Host (R&#xFC;ckseite) <br>Datentr&#xE4;ger: SD Karte 256MB<br>Geh&#xE4;use: Schalttafel 149x195mm, IP65, NEMA 4<br>Bediensprache: Mittel / Westeuropa (de,en,fr,it,nl)<br>Zulassung: Ex-freier Bereich<br><br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Typ Memograph M, RSG40\\nRegistriergerät, Farbgrafik\\n6 x Digitaleingang\\n6 x Relais\\nKlartext-Dialogbedienung + Navigator\\n4 x Bedientaste\\nEthernet + RS232/485\\nIP65 Front, NEMA 4\\nPC-Softwarepaket Read Win 2000\\n4 x USB + Kabel\\nIntegration, 100 Grenzwerte\\n24V Hilfsausgangsspannung\\nDisplay 7 Zoll\\ninterner Speicher 256MB\\ninkl. Benutzerverwaltung FDA 21CFR11\\nSignaleingang: 4 x Multifunkt. U,I,TC,RTD\\nImpuls-/Frequenzeingang 10 kHz\\nDig.Eingang; Ausgang: 6 x Didital, 25Hz, 6 x Relais (1x SPDT+5x SPST)\\nHilfsenergie: 100-230VAC (+/- 10%)\\nKommunikation: Modbus RTU, max, 40xAnalog, 14xDigital\\nSchnittstelle: Ethernet + RS232/485 + 1 x USB\\nFunktion (Front), 1 x USB Host (Front), 2 x USB Host (Rückseite) \\nDatenträger: SD Karte 256MB\\nGehäuse: Schalttafel 149x195mm, IP65, NEMA 4\\nBediensprache: Mittel / Westeuropa (de,en,fr,it,nl)\\nZulassung: Ex-freier Bereich\\n\\n"
 }

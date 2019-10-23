@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    84052\r\n                  ",
+  "id": "84052",
   "name": "Druckluftangetriebene Flüssiggkeitspumpe",
   "weight": "4,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Modell MCP-21 / Fl&#xFC;ssiggasausf&#xFC;hrung<br>Luftantriebsdruck: 1,8 bis 8,6 bar<br>Luftbedarf bei 7 bar Antriebsdruck und maximaler F&#xF6;rdermenge<br>0,43 Nm3/min, &#xDC;bersetzung etwa 21:1<br>Max. Betriebsdruck f&#xFC;r kontinuierlichen und intermittierenden<br>Betrieb 180 bar<br>Leistungsbeispiel, siehe dazu Leistungsdiagram M-LP Seite 2<br>Antriebsdruck (bar) : 5<br>F&#xF6;rderdruck (bar): 60<br>F&#xF6;rdermenge (l/min): 1,5<br>max. Leerlauff&#xF6;rdermenge (l/min): 3,0<br>Enddruck (bar) : ca. 110<br><br>Diese Pumpe ist speziell f&#xFC;r die F&#xF6;rderung von Fl&#xFC;ssiggasen<br>modifiziert, d. h., der Vordruck des Gases bewirkt den R&#xFC;ckhub<br>des Kolbens. Dadurch kann die F&#xF6;rdermenge geringf&#xFC;gig von den<br>o. g. Werten abweichen.<br>Werkstoffe des Hydraulikteils u. a.          Anschl&#xFC;sse an der Pumpe<br>Dichtung: PTFE                                         Drucklufteinla&#xDF;: 1/4&quot; NPT<br>Pumpenk&#xF6;rper: 1.4305                           Fl&#xFC;ssigkeitseinla&#xDF;: 3/8&quot; NPT<br>Kolben: 1.4532                                        Fl&#xFC;ssigkeitsausla&#xDF;: 1/4&quot; NPT<br><br>Ma&#xDF;e (H&#xF6;he x Breite x Tiefe in mm) : 213 x 125 x 81<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Modell MCP-21 / Flüssiggasausführung\\nLuftantriebsdruck: 1,8 bis 8,6 bar\\nLuftbedarf bei 7 bar Antriebsdruck und maximaler Fördermenge\\n0,43 Nm3/min, Übersetzung etwa 21:1\\nMax. Betriebsdruck für kontinuierlichen und intermittierenden\\nBetrieb 180 bar\\nLeistungsbeispiel, siehe dazu Leistungsdiagram M-LP Seite 2\\nAntriebsdruck (bar) : 5\\nFörderdruck (bar): 60\\nFördermenge (l/min): 1,5\\nmax. Leerlauffördermenge (l/min): 3,0\\nEnddruck (bar) : ca. 110\\n\\nDiese Pumpe ist speziell für die Förderung von Flüssiggasen\\nmodifiziert, d. h., der Vordruck des Gases bewirkt den Rückhub\\ndes Kolbens. Dadurch kann die Fördermenge geringfügig von den\\no. g. Werten abweichen.\\nWerkstoffe des Hydraulikteils u. a.Anschlüsse an der Pumpe\\nDichtung: PTFEDrucklufteinlaß: 1/4\" NPT\\nPumpenkörper: 1.4305Flüssigkeitseinlaß: 3/8\" NPT\\nKolben: 1.4532Flüssigkeitsauslaß: 1/4\" NPT\\n\\nMaße (Höhe x Breite x Tiefe in mm) : 213 x 125 x 81\\n"
 }

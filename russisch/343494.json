@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    343494\r\n                  ",
+  "id": "343494",
   "name": "FuelData account - Kunden-Kredit-Abrechnung für TA HecStar",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "- Einplatz-System - Grundversion<br>- Einfache Komplettl&#xF6;sung an der Betriebstankstelle mit Verbrauchs&#xFC;bersicht der Fahrzeuge<br>- Stammdate- und Kommunikaationsmodul in Verbindung mit anderen Fuhrpark- oder Abrechnungspprogrammen.<br>Leistungsmerkmale:<br>- Men&#xFC;verwaltung mit Fernwartung / Diagnosesystem<br>- Stammdaten (Kartenausgeber, Ausweise etc.)<br>- Protokolle/Listen f&#xFC;r Tankdaten<br>- Importdatei (ASCII-Format); Hectronic Kienzle Stardad MKL Datei<br>- Exportdatei (ASCII-Format); Stadd MKL Datei, variabler Export, GWS A9, F4050, S1100R3, weitere auf Anfrage<br>- Modemverwaltung<br>-F&#xFC;llstandsverwaltung (rechnerisch + OPTILEVEL)<br>- Erfassung von Tankdaten<br>- Automatische Datensicherung<br>- Verwaltung Terminal/Preise<br>.<br>Zus&#xE4;tzliche Merkmale, ACCOUNT-spezifisch:<br>- Stammdaten (Kunden, Kundengruppen)<br>- Kundenabrechnung (Sammel-/Einzelnachweis)<br>- Bankeinzug &#xFC;ber DTAUS0 (Bankdiskette/DF&#xDC;)<br>- FiBu-Schnittstelle Standard FuelData, weitere optional auf Anfrage<br>- Kunden Dielnachweis<br>.<br>Lizenzpreis f&#xFC;r 1 Tankautomaten."
+  "price": "0,00",
+  "amount": "0",
+  "description": "- Einplatz-System - Grundversion\\n- Einfache Komplettlösung an der Betriebstankstelle mit Verbrauchsübersicht der Fahrzeuge\\n- Stammdate- und Kommunikaationsmodul in Verbindung mit anderen Fuhrpark- oder Abrechnungspprogrammen.\\nLeistungsmerkmale:\\n- Menüverwaltung mit Fernwartung / Diagnosesystem\\n- Stammdaten (Kartenausgeber, Ausweise etc.)\\n- Protokolle/Listen für Tankdaten\\n- Importdatei (ASCII-Format); Hectronic Kienzle Stardad MKL Datei\\n- Exportdatei (ASCII-Format); Stadd MKL Datei, variabler Export, GWS A9, F4050, S1100R3, weitere auf Anfrage\\n- Modemverwaltung\\n-Füllstandsverwaltung (rechnerisch + OPTILEVEL)\\n- Erfassung von Tankdaten\\n- Automatische Datensicherung\\n- Verwaltung Terminal/Preise\\n.\\nZusätzliche Merkmale, ACCOUNT-spezifisch:\\n- Stammdaten (Kunden, Kundengruppen)\\n- Kundenabrechnung (Sammel-/Einzelnachweis)\\n- Bankeinzug über DTAUS0 (Bankdiskette/DFÜ)\\n- FiBu-Schnittstelle Standard FuelData, weitere optional auf Anfrage\\n- Kunden Dielnachweis\\n.\\nLizenzpreis für 1 Tankautomaten."
 }

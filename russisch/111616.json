@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    111616\r\n                  ",
+  "id": "111616",
   "name": "Pauschale zur Überprüfung & ggf. Austausch von Tokheim DHV",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "###############################<br>im Auftrage der Firma Tokheim, freie Zeiteinteilung des Einsatzes<br><br>190,- EUR - Pr&#xFC;fen der Funktion DHV<br>315,- EUR - Pr&#xFC;fen der Funktion &amp; Austausch 1 DHV<br>375,- EUR - Pr&#xFC;fen der Funktion &amp; Austausch 2 DHV"
+  "price": "0,00",
+  "amount": "0",
+  "description": "\\nim Auftrage der Firma Tokheim, freie Zeiteinteilung des Einsatzes\\n\\n190,- EUR - Prüfen der Funktion DHV\\n315,- EUR - Prüfen der Funktion & Austausch 1 DHV\\n375,- EUR - Prüfen der Funktion & Austausch 2 DHV"
 }

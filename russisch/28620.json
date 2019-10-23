@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    28620\r\n                  ",
+  "id": "28620",
   "name": "Gasaentnahmeventil mit Durchströmbegrenzer",
   "weight": "1,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n9\r\n                    \r\n                    ",
-  "description": "f&#xFC;r LPG Treibgastanks, max. Betriebsdruck: 30 bar, <br>Temperaturbereich: -25&#xB0; C bis +70&#xB0; C, Typ 077214,<br>Geh&#xE4;use aus Messing "
+  "price": "0,00",
+  "amount": "9",
+  "description": "für LPG Treibgastanks, max. Betriebsdruck: 30 bar, \\nTemperaturbereich: -25° C bis +70° C, Typ 077214,\\nGehäuse aus Messing "
 }

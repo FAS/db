@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    180098\r\n                  ",
+  "id": "180098",
   "name": "Kompakt-Überwachungseinheit Modular (CSU) zur Fernanzeige",
   "weight": "0,20",
-  "price": "\r\n                  1.038,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "des Beh&#xE4;lter-F&#xFC;llstandes, im Geh&#xE4;use zur Wandmontage,<br>mit durchsichtiger Abdeckung<br>Typ 6370S90001IB, f&#xFC;r Me&#xDF;wertgeber <br>Fabr. Rochester, digitale Anzeige in % bezogen<br>auf den Gesamtinhalt, mit: <br> - Stromversorgung 230 VAC +/-10%, 50/60Hz<br> - 4 x einstellbarer Grenzwert<br> - Stromausgang 4...20 mA<br> - USB 2.0 Ausgang<br> - Kommunikationsschnittstelle RS485<br> - Abmessungen 220x170x80 (H x B x T)<br> - Schutzart IP 65 <br> - CE-Konformit&#xE4;tserkl&#xE4;rung<br>"
+  "price": "1.038,00",
+  "amount": "0",
+  "description": "des Behälter-Füllstandes, im Gehäuse zur Wandmontage,\\nmit durchsichtiger Abdeckung\\nTyp 6370S90001IB, für Meßwertgeber \\nFabr. Rochester, digitale Anzeige in % bezogen\\nauf den Gesamtinhalt, mit: \\n - Stromversorgung 230 VAC +/-10%, 50/60Hz\\n - 4 x einstellbarer Grenzwert\\n - Stromausgang 4...20 mA\\n - USB 2.0 Ausgang\\n - Kommunikationsschnittstelle RS485\\n - Abmessungen 220x170x80 (H x B x T)\\n - Schutzart IP 65 \\n - CE-Konformitätserklärung\\n"
 }

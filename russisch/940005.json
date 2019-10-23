@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    940005\r\n                  ",
-  "name": "<br><br>",
+  "id": "940005",
+  "name": "\\n\\n",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "<br>"
+  "price": "0,00",
+  "amount": "1",
+  "description": "\\n"
 }

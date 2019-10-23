@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    9928\r\n                  ",
+  "id": "9928",
   "name": "Kostenweiterbelastung",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Kostenweiterbelastung<br>###############################<br>Wir weisen Sie darauf hin, dass uns durch die oben genannte Reklamation<br>einige Kosten (z.B. Montage, Sondertransport, etc.) entstanden sind und <br>werden diese, nach Erhalt Ihrer Stellungnahme, an Sie weiterbelasten."
+  "price": "0,00",
+  "amount": "0",
+  "description": "Kostenweiterbelastung\\n\\nWir weisen Sie darauf hin, dass uns durch die oben genannte Reklamation\\neinige Kosten (z.B. Montage, Sondertransport, etc.) entstanden sind und \\nwerden diese, nach Erhalt Ihrer Stellungnahme, an Sie weiterbelasten."
 }

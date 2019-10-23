@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    13958\r\n                  ",
+  "id": "13958",
   "name": "Kupplung Typ WECO RD64A,",
   "weight": "0,00",
-  "price": "\r\n                  745,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "3&quot; WECO IG X 3 1/4&quot; ACME IG"
+  "price": "745,00",
+  "amount": "0",
+  "description": "3\" WECO IG X 3 1/4\" ACME IG"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    94138\r\n                  ",
+  "id": "94138",
   "name": "Erweiterte Gewährleistungsregelung für GVR Tauchpumpe",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Typ Premier auf Grundlage der BP-ARAL Bedingungen.<br>Sollte im Gew&#xE4;hrleistungszeitraum die Pumpe defekt sein und <br>ausgetauscht werden, werden alle nachfolgenden Kosten <br>(welche vom Pumpenhersteller zum gr&#xF6;&#xDF;tenteil nicht &#xFC;bernommen werden)<br>komplett von FAS &#xFC;bernommen:<br>- neue Pumpenlieferung<br>- Beh&#xE4;lterabsaugung<br>- Pumpenwechsel<br>- Inbetriebnahme<br>- alle anfallenden Fahrt- und Arbeitskosten."
+  "price": "0,00",
+  "amount": "0",
+  "description": "Typ Premier auf Grundlage der BP-ARAL Bedingungen.\\nSollte im Gewährleistungszeitraum die Pumpe defekt sein und \\nausgetauscht werden, werden alle nachfolgenden Kosten \\n(welche vom Pumpenhersteller zum größtenteil nicht übernommen werden)\\nkomplett von FAS übernommen:\\n- neue Pumpenlieferung\\n- Behälterabsaugung\\n- Pumpenwechsel\\n- Inbetriebnahme\\n- alle anfallenden Fahrt- und Arbeitskosten."
 }

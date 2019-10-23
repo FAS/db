@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    28601\r\n                  ",
+  "id": "28601",
   "name": "Multivalve für Flüssiggas, bestehend aus:",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "- F&#xFC;llventil mit automatischer F&#xFC;llstands-<br>begrenzung bei 80% Tankvolumen,<br>- Entnahmeventil mit manuellem Verschlu&#xDF;<br>und mit Durchflu&#xDF;begrenzer<br>- innenliegendes Sicherheitsventil<br>- dirket ablesbarer F&#xFC;llstandsanzeiger<br>Anschl&#xFC;sse nach Norm SAE-NPT<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "- Füllventil mit automatischer Füllstands-\\nbegrenzung bei 80% Tankvolumen,\\n- Entnahmeventil mit manuellem Verschluß\\nund mit Durchflußbegrenzer\\n- innenliegendes Sicherheitsventil\\n- dirket ablesbarer Füllstandsanzeiger\\nAnschlüsse nach Norm SAE-NPT\\n"
 }

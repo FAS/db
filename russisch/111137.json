@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    111137\r\n                  ",
+  "id": "111137",
   "name": "Schulung von Service-Personal",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "###############################<br>Schulung am: <br>Schulungsthema:<br>Name des Teilnehmers:<br>von Firma:<br><br>Im Preis inklusive sind:<br> - Schulung<br> - Schulungsunterlagen<br> - Schulungsbest&#xE4;tigung<br> - Mittagessen"
+  "price": "0,00",
+  "amount": "0",
+  "description": "\\nSchulung am: \\nSchulungsthema:\\nName des Teilnehmers:\\nvon Firma:\\n\\nIm Preis inklusive sind:\\n - Schulung\\n - Schulungsunterlagen\\n - Schulungsbestätigung\\n - Mittagessen"
 }

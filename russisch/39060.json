@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    39060\r\n                  ",
-  "name": "Meßkammer für LC Zähler  M-5-1",
+  "id": "39060",
+  "name": "Meßkammer für LC ZählerM-5-1",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "bestehend aus Geh&#xE4;use, Lagerdeckel und Rotoren,<br>ohne Seitendeckel"
+  "price": "0,00",
+  "amount": "0",
+  "description": "bestehend aus Gehäuse, Lagerdeckel und Rotoren,\\nohne Seitendeckel"
 }

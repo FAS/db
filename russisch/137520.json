@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    137520\r\n                  ",
+  "id": "137520",
   "name": "Füllpistole GG10 HiFlow, 1 3/4\"ACME-IG x 1\"NPT-IG",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "bis 380 l/min Durchflussrate, Temperaturbereich -40&#xB0; bis +80&#xB0;C<br>mit R&#xFC;ckschlagventil Typ LG11<br>"
+  "price": "0,00",
+  "amount": "1",
+  "description": "bis 380 l/min Durchflussrate, Temperaturbereich -40° bis +80°C\\nmit Rückschlagventil Typ LG11\\n"
 }

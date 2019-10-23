@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    26050\r\n                  ",
+  "id": "26050",
   "name": "Drehstrom-Kurzschlußläufer-Normmotor",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Schutzart EEx de II C T4, Leistung: 7,5 kW, druckfeste Ausf&#xFC;hrung,<br>Spannung: 400/690 V, 50 Hz, Drehzahl: 1500 U/min,<br>Bauform B3, Schutzart IP 55, Klemmenkasten oben, <br>mit PTB-Zulassung"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Schutzart EEx de II C T4, Leistung: 7,5 kW, druckfeste Ausführung,\\nSpannung: 400/690 V, 50 Hz, Drehzahl: 1500 U/min,\\nBauform B3, Schutzart IP 55, Klemmenkasten oben, \\nmit PTB-Zulassung"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    999901\r\n                  ",
+  "id": "999901",
   "name": "Handlingspauschale für Kundenbeistellungen",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "==========================================<br><br>=&gt; F&#xFC;r die Koordination der Kundenbeistellungen und den administrativen Aufwand wird eine Handlingspauschale berechnet<br><br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "==========================================\\n\\n=> Für die Koordination der Kundenbeistellungen und den administrativen Aufwand wird eine Handlingspauschale berechnet\\n\\n"
 }

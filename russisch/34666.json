@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    34666\r\n                  ",
+  "id": "34666",
   "name": "Schnittstelleninterface ER600 für Protokoll ER3",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n6\r\n                    \r\n                    ",
-  "description": "zur Verbindung Tankautomat 630/8 zum Kienzle Rechner.<br>Achtung!! maximal 8 Zapfpunkte m&#xF6;glich<br>"
+  "price": "0,00",
+  "amount": "6",
+  "description": "zur Verbindung Tankautomat 630/8 zum Kienzle Rechner.\\nAchtung!! maximal 8 Zapfpunkte möglich\\n"
 }

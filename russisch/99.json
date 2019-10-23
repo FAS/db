@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    99\r\n                  ",
+  "id": "99",
   "name": "Kolbenzähler und Steuerkopf sind mit Plomben gesichert,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "etwaige Garantieanspr&#xFC;che werden nur dann anerkannt, <br>wenn die Plombensicherung nicht besch&#xE4;digt ist.<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "etwaige Garantieansprüche werden nur dann anerkannt, \\nwenn die Plombensicherung nicht beschädigt ist.\\n"
 }

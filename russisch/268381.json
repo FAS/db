@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    268381\r\n                  ",
+  "id": "268381",
   "name": "Befehlstaster, Öffner",
   "weight": "0,02",
-  "price": "\r\n                  55,00\r\n                  ",
-  "amount": "\r\n                      \r\n4\r\n                    \r\n                    ",
-  "description": "Baureihe 8082<br>Einfach-Kontaktelement"
+  "price": "55,00",
+  "amount": "4",
+  "description": "Baureihe 8082\\nEinfach-Kontaktelement"
 }

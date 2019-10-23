@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    460904\r\n                  ",
+  "id": "460904",
   "name": "Pumpenaggregat EDUR - LBU 403 C120L für MEA - Lösung",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "mit folgenden Eigenschaften:<br><br>F&#xF6;rdermenge [m&#xB3;/h]                                       21,7<br>F&#xF6;rderh&#xF6;he [m]                                              44,9<br>Temperatur [&#xB0;C]                                             48,0<br>Wellenabdichtung                                         GLRD/433.4420/Kohle-SiC-EPDM<br>Nennweite Saug -/Druckstutzen                     65 / 40<br>Motor kW                                                       5,5 (5,0 @ UT50&#xB0;C)<br>Drehzahl [1/min]                                           2900<br>Medium -%:                                                  Wasser/MEA/CO2 - 89,3/10,0/0,7<br>Dichte:                                                          1,015 kg/dm&#xB3;<br>Viskosit&#xE4;t:                                                      ca. 1,0 cP<br><br>Pumpenmaterial<br><br>Geh&#xE4;useteile:                                               EN-GJL-250<br>Laufrad:                                                       1.4517<br>Welle:                                                          1.4057<br>O-Ring:                                                         PTFE"
+  "price": "0,00",
+  "amount": "0",
+  "description": "mit folgenden Eigenschaften:\\n\\nFördermenge [m³/h]21,7\\nFörderhöhe [m]44,9\\nTemperatur [°C]48,0\\nWellenabdichtungGLRD/433.4420/Kohle-SiC-EPDM\\nNennweite Saug -/Druckstutzen65 / 40\\nMotor kW5,5 (5,0 @ UT50°C)\\nDrehzahl [1/min]2900\\nMedium -%:Wasser/MEA/CO2 - 89,3/10,0/0,7\\nDichte:1,015 kg/dm³\\nViskosität:ca. 1,0 cP\\n\\nPumpenmaterial\\n\\nGehäuseteile:EN-GJL-250\\nLaufrad:1.4517\\nWelle:1.4057\\nO-Ring:PTFE"
 }

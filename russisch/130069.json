@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    130069\r\n                  ",
+  "id": "130069",
   "name": "Kupplung für Füllventil, 1-3/4\" ACME-ÜM x 2\" NPT-AG, ",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n2\r\n                    \r\n                    ",
-  "description": "bestehend aus:<br> - Kupplung f&#xFC;r F&#xFC;llventil aus Messing (FAS 13053),<br>   1&quot; NPT-AG x 1-3/4&quot; ACME-&#xDC;M, Typ RegO 3175A<br> - Reduzierst&#xFC;ck aus Stahl ASTM A 105, 2&quot; NPT-AG<br>   x 1&quot; NPT-IG (FAS 10192)<br>Dokumentation:<br> - Werkszeugnis 2.2 nach EN 10204"
+  "price": "0,00",
+  "amount": "2",
+  "description": "bestehend aus:\\n - Kupplung für Füllventil aus Messing (FAS 13053),\\n1\" NPT-AG x 1-3/4\" ACME-ÜM, Typ RegO 3175A\\n - Reduzierstück aus Stahl ASTM A 105, 2\" NPT-AG\\nx 1\" NPT-IG (FAS 10192)\\nDokumentation:\\n - Werkszeugnis 2.2 nach EN 10204"
 }

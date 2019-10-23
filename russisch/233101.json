@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    233101\r\n                  ",
+  "id": "233101",
   "name": "Zusätzliches Armaturenset bestehend aus",
   "weight": "19,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "- &#xDC;berf&#xFC;llsicherung Beh&#xE4;lter<br>- Magnetventil f&#xFC;r Entnahme<br>- Magnetventil f&#xFC;r R&#xFC;ckf&#xFC;hrung"
+  "price": "0,00",
+  "amount": "0",
+  "description": "- Überfüllsicherung Behälter\\n- Magnetventil für Entnahme\\n- Magnetventil für Rückführung"
 }

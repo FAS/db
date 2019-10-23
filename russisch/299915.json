@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    299915\r\n                  ",
+  "id": "299915",
   "name": "Dell Legacy Adapter LD17,",
   "weight": "0,30",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "zum Anschluss von:<br> - Parallel port<br> - Serial port<br> - Gigabit Ethernet<br> - USB 2.0"
+  "price": "0,00",
+  "amount": "0",
+  "description": "zum Anschluss von:\\n - Parallel port\\n - Serial port\\n - Gigabit Ethernet\\n - USB 2.0"
 }

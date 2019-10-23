@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    81167\r\n                  ",
+  "id": "81167",
   "name": "Fernsensor Typ 910",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "f&#xFC;r elektro-katalytische Sensor-Elemente.<br>Schutzart (Ex) esd 3n G5.<br>Mit Anschlu&#xDF;klemmenkasten Typ 8130/111-C 767 <br>und steckbarem Sensor-Element 1 Paar SG7B mit <br>Verst&#xE4;rkung 1,7.<br>PTG-gepr&#xFC;ft, Nr. III B/E 30157"
+  "price": "0,00",
+  "amount": "0",
+  "description": "für elektro-katalytische Sensor-Elemente.\\nSchutzart (Ex) esd 3n G5.\\nMit Anschlußklemmenkasten Typ 8130/111-C 767 \\nund steckbarem Sensor-Element 1 Paar SG7B mit \\nVerstärkung 1,7.\\nPTG-geprüft, Nr. III B/E 30157"
 }

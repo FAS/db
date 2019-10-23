@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    111448\r\n                  ",
+  "id": "111448",
   "name": "Messkopfvorderteil mit Sensor für ExDetector HC-100",
   "weight": "0,13",
-  "price": "\r\n                  340,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Material: Edelstahl<br>Z&#xFC;ndschutzart: II 2G Ex d IIC T4"
+  "price": "340,00",
+  "amount": "0",
+  "description": "Material: Edelstahl\\nZündschutzart: II 2G Ex d IIC T4"
 }

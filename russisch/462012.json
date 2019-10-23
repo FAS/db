@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    462012\r\n                  ",
+  "id": "462012",
   "name": "FAS Pumpe Typ NZ 100",
   "weight": "0,00",
-  "price": "\r\n                  18.750,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "f&#xFC;r Fl&#xFC;ssiggas nach DIN 51622 ohne Feststoffe und Pumpenwerkstoffe nicht angreifend.<br>Nennf&#xF6;rderstrom QN = max. 130m3/h<br>Differenzdruck = max. 10,3 bar<br>NPSHR = 1,8m<br>Doppelte Gleitringdichtung Tandemanordnung<br>in druckloser Quenchvorlage (API 610, Plan 52)<br>ohne Vorlagebeh&#xE4;lter<br><br>Anschl&#xFC;sse: <br>Saugflansch DN 125, PN40 nach DIN EN 1092-2<br>Druckflansch DN 100, PN 40 nach DIN EN 1092-2<br><br>Pumpenwerkstoffe:<br>Geh&#xE4;useteile : EN-GJS-400-18-LT<br>Laufr&#xE4;der : EN-GJS-400-15<br>Welle: 1.4057<br>O-Ringe: FPM<br><br>ohne Motor mit freiem Wellenende<br>"
+  "price": "18.750,00",
+  "amount": "0",
+  "description": "für Flüssiggas nach DIN 51622 ohne Feststoffe und Pumpenwerkstoffe nicht angreifend.\\nNennförderstrom QN = max. 130m3/h\\nDifferenzdruck = max. 10,3 bar\\nNPSHR = 1,8m\\nDoppelte Gleitringdichtung Tandemanordnung\\nin druckloser Quenchvorlage (API 610, Plan 52)\\nohne Vorlagebehälter\\n\\nAnschlüsse: \\nSaugflansch DN 125, PN40 nach DIN EN 1092-2\\nDruckflansch DN 100, PN 40 nach DIN EN 1092-2\\n\\nPumpenwerkstoffe:\\nGehäuseteile : EN-GJS-400-18-LT\\nLaufräder : EN-GJS-400-15\\nWelle: 1.4057\\nO-Ringe: FPM\\n\\nohne Motor mit freiem Wellenende\\n"
 }

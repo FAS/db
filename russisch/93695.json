@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    93695\r\n                  ",
+  "id": "93695",
   "name": "Соленоид электромагнитного клапана CSA",
   "weight": "1,10",
-  "price": "\r\n                  145,00\r\n                  ",
-  "amount": "\r\n                      \r\n4\r\n                    \r\n                    ",
-  "description": "&#x42D;&#x41C;&#x41A; - 24 V DC, 18-26 V DC, 1000 mA"
+  "price": "145,00",
+  "amount": "4",
+  "description": "ЭМК - 24 V DC, 18-26 V DC, 1000 mA"
 }

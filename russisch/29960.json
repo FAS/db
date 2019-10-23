@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    29960\r\n                  ",
+  "id": "29960",
   "name": "Aufkleber Zählerkopf -Kienzle-, mit Zulassungszeichen, 0,1 l",
   "weight": "0,01",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "f&#xFC;r Anzeige 0,1 Liter, f&#xFC;r Fl&#xFC;ssiggas, DN 50, PN 25, <br>Durchflu&#xDF; max. 380 l/min, min.: 76 l/min, Vc=0,681l, <br>kleinste Me&#xDF;menge : 200 l, Aufkleberfolie silber"
+  "price": "0,00",
+  "amount": "0",
+  "description": "für Anzeige 0,1 Liter, für Flüssiggas, DN 50, PN 25, \\nDurchfluß max. 380 l/min, min.: 76 l/min, Vc=0,681l, \\nkleinste Meßmenge : 200 l, Aufkleberfolie silber"
 }

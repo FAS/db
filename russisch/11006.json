@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    11006\r\n                  ",
+  "id": "11006",
   "name": "Kupplung, beiderseits ACME-AG, 3 1/4\" ACME, Typ FAS",
   "weight": "1,40",
-  "price": "\r\n                  560,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "aus Messing, mit Werksbescheinigung 2.1 nach EN 10 204 <br>- GIP : ohne CE-Kennzeichnung nach DGRL 2014/68/EU"
+  "price": "560,00",
+  "amount": "0",
+  "description": "aus Messing, mit Werksbescheinigung 2.1 nach EN 10 204 \\n- GIP : ohne CE-Kennzeichnung nach DGRL 2014/68/EU"
 }

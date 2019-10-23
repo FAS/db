@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    18934\r\n                  ",
+  "id": "18934",
   "name": "Überprüfung Mastermeter, Typ _________",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "___ Durchl&#xE4;ufe<br>min. Durchlu&#xDF;menge ___ l/min.<br>mittlere Durchflu&#xDF;menge ___ l/min.<br>max. Durchflu&#xDF;menge ___ l/min."
+  "price": "0,00",
+  "amount": "0",
+  "description": "___ Durchläufe\\nmin. Durchlußmenge ___ l/min.\\nmittlere Durchflußmenge ___ l/min.\\nmax. Durchflußmenge ___ l/min."
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    260830\r\n                  ",
+  "id": "260830",
   "name": "Zange mit Aufrollautomatik",
   "weight": "12,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "mit 15 m isoliertem Kabel f&#xFC;r  Zone 1, 2<br>Explosionsschutz: EX II 2 G Ex ib IIB T6, EX II 2 G IIB C T6,<br>Umgebungstemperatur: - 20 up to  + 60&#xB0;C"
+  "price": "0,00",
+  "amount": "0",
+  "description": "mit 15 m isoliertem Kabel fürZone 1, 2\\nExplosionsschutz: EX II 2 G Ex ib IIB T6, EX II 2 G IIB C T6,\\nUmgebungstemperatur: - 20 up to+ 60°C"
 }

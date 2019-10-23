@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    79758\r\n                  ",
-  "name": "UAE - ISDN Anschlussdose  AP",
+  "id": "79758",
+  "name": "UAE - ISDN AnschlussdoseAP",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n50\r\n                    \r\n                    ",
+  "price": "0,00",
+  "amount": "50",
   "description": "2 x4 -polig, 2-fach, Typ 13010109"
 }

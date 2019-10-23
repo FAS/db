@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    34354\r\n                  ",
+  "id": "34354",
   "name": "Konfigurations- / Pollingsoftware für TA 2326,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "32bit Windows-Version, mit Stammdaten,<br>Auslesen der Datens&#xE4;tze in eine ASCII-Datei,<br>weitere Datenverarbeitung, z.B. mit Excel,<br>SAP etc. m&#xF6;glich."
+  "price": "0,00",
+  "amount": "0",
+  "description": "32bit Windows-Version, mit Stammdaten,\\nAuslesen der Datensätze in eine ASCII-Datei,\\nweitere Datenverarbeitung, z.B. mit Excel,\\nSAP etc. möglich."
 }

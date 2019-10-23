@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    26176\r\n                  ",
+  "id": "26176",
   "name": "Drehstrommotor 17,5 KW mit Käfigläufer EEx ell C T3",
   "weight": "200,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "mit VIK - Sonderausf&#xFC;hrung , Typ K21R 180 M2 L4<br>Fabrikat : VEM,EN 50014/50019 , ATEX 100a<br>SPG/Freq.: 400/690 V,  50Hz.,Drehzahl : 1475 U/min<br>Bauform : B5-FF 300 / A 350mm,Schutzart : IP 55<br>Kategorie: 2G,Ger&#xE4;tegruppe: II"
+  "price": "0,00",
+  "amount": "0",
+  "description": "mit VIK - Sonderausführung , Typ K21R 180 M2 L4\\nFabrikat : VEM,EN 50014/50019 , ATEX 100a\\nSPG/Freq.: 400/690 V,50Hz.,Drehzahl : 1475 U/min\\nBauform : B5-FF 300 / A 350mm,Schutzart : IP 55\\nKategorie: 2G,Gerätegruppe: II"
 }

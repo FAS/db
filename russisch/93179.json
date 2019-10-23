@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    93179\r\n                  ",
+  "id": "93179",
   "name": "Hydraulikpumpe",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Typ PA 50<br>F&#xF6;rdervolumen entspricht ca. 50  l/min bei 1000U/min    <br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Typ PA 50\\nFördervolumen entspricht ca. 50l/min bei 1000U/min\\n"
 }

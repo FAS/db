@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    26990\r\n                  ",
+  "id": "26990",
   "name": "SPS-Steuerung für autom. Filterreinigung ",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n2\r\n                    \r\n                    ",
-  "description": "DCF 400, 800 und 1600 mit Differenzdruch&#xFC;berwachung Eingang/Ausgang,<br>kompl. verdrahtet im Schaltkasten"
+  "price": "0,00",
+  "amount": "2",
+  "description": "DCF 400, 800 und 1600 mit Differenzdruchüberwachung Eingang/Ausgang,\\nkompl. verdrahtet im Schaltkasten"
 }

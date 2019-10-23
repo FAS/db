@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    75740\r\n                  ",
+  "id": "75740",
   "name": "Blech DIN 1543, s=80,0 mm, nach DIN 1543, St52-3N",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "mit Abnahmepr&#xFC;fzeugnis 3.1 nach EN 10204 <br>und KPZ bei -20&#xB0; C, Lieferbedingung nach <br>AD W1 / TRD 101 / TRB 100 und<br>und Ultraschalpr&#xFC;fung<br>Anlieferung: 2000x1000x80 mm"
+  "price": "0,00",
+  "amount": "0",
+  "description": "mit Abnahmeprüfzeugnis 3.1 nach EN 10204 \\nund KPZ bei -20° C, Lieferbedingung nach \\nAD W1 / TRD 101 / TRB 100 und\\nund Ultraschalprüfung\\nAnlieferung: 2000x1000x80 mm"
 }

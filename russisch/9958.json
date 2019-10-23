@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    9958\r\n                  ",
+  "id": "9958",
   "name": "FAS-Kommissionslager",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "###############################<br>Diese Sendung ist zur Wiederauff&#xFC;llung Ihres FAS-Kommissionslagers.<br><br>Die Bauteile wurden am *** f&#xFC;r den Einsatz an folgenden <br>Standort verrwendet:<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "\\nDiese Sendung ist zur Wiederauffüllung Ihres FAS-Kommissionslagers.\\n\\nDie Bauteile wurden am  für den Einsatz an folgenden \\nStandort verrwendet:\\n"
 }

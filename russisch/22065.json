@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    22065\r\n                  ",
+  "id": "22065",
   "name": "Frachtkosten Treibgasbetankungsanlage/Kompaktanlage",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "unabgeladen, Gestellung von Hebezeug zum Abladen und <br>Aufstellen  b a u s e i t s, bei Tarifentfernung ab Salzgitter:<br>***********************************************<br>- 200 km =   550,00 EURO<br>- 400 km =   690,00 EURO<br>- 800 km =   790,00 EURO"
+  "price": "0,00",
+  "amount": "0",
+  "description": "unabgeladen, Gestellung von Hebezeug zum Abladen und \\nAufstellenb a u s e i t s, bei Tarifentfernung ab Salzgitter:\\n\\n- 200 km =550,00 EURO\\n- 400 km =690,00 EURO\\n- 800 km =790,00 EURO"
 }

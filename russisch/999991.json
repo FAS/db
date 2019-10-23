@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    999991\r\n                  ",
+  "id": "999991",
   "name": "Pauschalsatz Verbrauchsmaterial",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Darunter fallen:<br><br>Aderendh&#xFC;lsen<br>Kabelbinder<br>Etiketten<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Darunter fallen:\\n\\nAderendhülsen\\nKabelbinder\\nEtiketten\\n"
 }

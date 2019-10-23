@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    26069\r\n                  ",
+  "id": "26069",
   "name": "Ex-Steuerung für Drehstrom-Motor, Schutzart E Ex de,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "mit Stern-Dreieck-Anlaufschaltung f&#xFC;r Motoren bis<br>11 kW, 400 V, mit Hauptschalter und Steuertrafo, <br>sowie 2 Drucktaster und Leuchtmelder im Deckel<br>eingebaut, anschlu&#xDF;fertig verdrahtet, Ausf&#xFC;hrung<br>ohne Druckw&#xE4;chter und F&#xFC;llstandssensor im Abscheider"
+  "price": "0,00",
+  "amount": "0",
+  "description": "mit Stern-Dreieck-Anlaufschaltung für Motoren bis\\n11 kW, 400 V, mit Hauptschalter und Steuertrafo, \\nsowie 2 Drucktaster und Leuchtmelder im Deckel\\neingebaut, anschlußfertig verdrahtet, Ausführung\\nohne Druckwächter und Füllstandssensor im Abscheider"
 }

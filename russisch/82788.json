@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    82788\r\n                  ",
+  "id": "82788",
   "name": "alt",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Wir berechnen Ihnen Vorkasse<br>(Ihre Bestell-Nr: 21-15/8/94/HS, <br>unsere Auftragsbest&#xE4;tigung-Nr. 940155)"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Wir berechnen Ihnen Vorkasse\\n(Ihre Bestell-Nr: 21-15/8/94/HS, \\nunsere Auftragsbestätigung-Nr. 940155)"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    81204\r\n                  ",
+  "id": "81204",
   "name": "alt",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Ventiloberteil, bestehend aus:<br>Federspanndeckel,<br>Flache Sechskantmutter,<br>Druckfeder, F&#xFC;hrungsbuchse,<br>F&#xFC;hrungsstange,<br>Ventilkegel,<br>Ventilsitzdichtung,<br>Ventilteller,<br>Ventilsitz,<br>Ventilinnendichtung,<br>Ventilau&#xDF;endichtung,<br>Federspannschraube"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Ventiloberteil, bestehend aus:\\nFederspanndeckel,\\nFlache Sechskantmutter,\\nDruckfeder, Führungsbuchse,\\nFührungsstange,\\nVentilkegel,\\nVentilsitzdichtung,\\nVentilteller,\\nVentilsitz,\\nVentilinnendichtung,\\nVentilaußendichtung,\\nFederspannschraube"
 }

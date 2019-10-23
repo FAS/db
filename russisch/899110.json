@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    899110\r\n                  ",
+  "id": "899110",
   "name": "Auswertgerät zur Grenzstandmeldung Vegator 121 Ex,",
   "weight": "0,23",
-  "price": "\r\n                  635,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Einkanaliges Steuerger&#xE4;t zur Grenzstanderfassung f&#xFC;r <br>8/16 mA-Sensoren,<br>Zulassung: ATEX II (1) G/D [Ex ia Ga/Da] IIC/IIIC, <br>I (M1) [Ex ia Ma] I + WHG<br>Ausf&#xFC;hrung: Einkanalig (8/16mA), Grenzstanderfassung <br>mit St&#xF6;rmelderelais<br>Geh&#xE4;use / Schutzart: Kunststoff / IP20<br><br># nur funktionsf&#xE4;hig in Verbindung mit Vegaswing 63 #<br><br>"
+  "price": "635,00",
+  "amount": "0",
+  "description": "Einkanaliges Steuergerät zur Grenzstanderfassung für \\n8/16 mA-Sensoren,\\nZulassung: ATEX II (1) G/D [Ex ia Ga/Da] IIC/IIIC, \\nI (M1) [Ex ia Ma] I + WHG\\nAusführung: Einkanalig (8/16mA), Grenzstanderfassung \\nmit Störmelderelais\\nGehäuse / Schutzart: Kunststoff / IP20\\n\\n# nur funktionsfähig in Verbindung mit Vegaswing 63 #\\n\\n"
 }

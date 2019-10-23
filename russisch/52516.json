@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    52516\r\n                  ",
+  "id": "52516",
   "name": "Druckregler P 12, Niederdruck, mit Steuerregler ",
   "weight": "48,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n2\r\n                    \r\n                    ",
-  "description": "1. und 2. Stufe, Flanschanschlu&#xDF; DN 25, PN 40, mit SAV, <br>Einstellbereich 0.5 -3.0 bar, eingestellt auf 1 bar, <br>Eingangsdruck min 5 bar, Leistung 40 - 780 kg/h <br>mit  Abnahmepr&#xFC;fzeugnis 3.1.B nach EN 10204  <br>(DIN 50.049-3.1 B) "
+  "price": "0,00",
+  "amount": "2",
+  "description": "1. und 2. Stufe, Flanschanschluß DN 25, PN 40, mit SAV, \\nEinstellbereich 0.5 -3.0 bar, eingestellt auf 1 bar, \\nEingangsdruck min 5 bar, Leistung 40 - 780 kg/h \\nmitAbnahmeprüfzeugnis 3.1.B nach EN 10204\\n(DIN 50.049-3.1 B) "
 }

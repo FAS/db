@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    80215\r\n                  ",
+  "id": "80215",
   "name": "alt",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Zuschlag f&#xFC;r Sonntagsarbeit (70%)"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Zuschlag für Sonntagsarbeit (70%)"
 }

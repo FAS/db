@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    910138\r\n                  ",
+  "id": "910138",
   "name": "Игольчатый клапан UNI-Typ MFA125B,",
   "weight": "0,12",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "&#x43C;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43B; &#x43A;&#x43E;&#x440;&#x43F;&#x443;&#x441;&#x430;: &#x43B;&#x430;&#x442;&#x443;&#x43D;&#x44C;<br>A (NPT): 1/8&quot; <br>B (UNS-2B): 1/2&quot;-27<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "материал корпуса: латунь\\nA (NPT): 1/8\" \\nB (UNS-2B): 1/2\"-27\\n"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    29507\r\n                  ",
+  "id": "29507",
   "name": "Aufkleber mit FAS-Betriebsanweisung",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "f&#xFC;r Fl&#xFC;siggasanlagen mit ortsfesten Beh&#xE4;ltern,<br>Ma&#xDF;e: .....x.....x......mm mit Befestigungsbohrungen ....mm<br><br>Hinweis f&#xFC;r die Anbringung:<br>&#xFC;berfahrbare unterirdische Beh&#xE4;lter im Domschacht,<br>nicht &#xFC;berfahrbare Beh&#xE4;lter im Domschacht"
+  "price": "0,00",
+  "amount": "1",
+  "description": "für Flüsiggasanlagen mit ortsfesten Behältern,\\nMaße: .....x.....x......mm mit Befestigungsbohrungen ....mm\\n\\nHinweis für die Anbringung:\\nüberfahrbare unterirdische Behälter im Domschacht,\\nnicht überfahrbare Behälter im Domschacht"
 }

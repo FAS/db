@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    20319\r\n                  ",
+  "id": "20319",
   "name": "Verdampfer, Typ ES, 800 kg/h, Ausführung Ex-A",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Eingang DN 32, Ausgang DN 65, indirekt elektr. beheizt,<br>2 Magnetventile am Fl&#xFC;ssiggaseingang, Schrankbauform<br>ausger&#xFC;stet nach TRB 801/25, VDE 0165, PTB-gepr&#xFC;ft,<br>DIN-DVGW zugelassen, Schutzart IP 54<br>Anschlu&#xDF;wert 112,5 kW"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Eingang DN 32, Ausgang DN 65, indirekt elektr. beheizt,\\n2 Magnetventile am Flüssiggaseingang, Schrankbauform\\nausgerüstet nach TRB 801/25, VDE 0165, PTB-geprüft,\\nDIN-DVGW zugelassen, Schutzart IP 54\\nAnschlußwert 112,5 kW"
 }

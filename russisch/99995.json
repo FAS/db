@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    99995\r\n                  ",
+  "id": "99995",
   "name": "Schaltkasten für die externe Freigabe der mech. Zapfsäule",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n9999999\r\n                    \r\n                    ",
-  "description": "komplett in einem Klemmkasten verdrahtet,<br>zum Anschlu&#xDF; einer mech. Zapfs&#xE4;ule,<br>Freigabesignal zu einer Pumpensteuerung"
+  "price": "0,00",
+  "amount": "9999999",
+  "description": "komplett in einem Klemmkasten verdrahtet,\\nzum Anschluß einer mech. Zapfsäule,\\nFreigabesignal zu einer Pumpensteuerung"
 }

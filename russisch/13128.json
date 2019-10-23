@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    13128\r\n                  ",
+  "id": "13128",
   "name": "Schlüssel für ACME-Kupplung",
   "weight": "0,42",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n2\r\n                    \r\n                    ",
-  "description": "Schl&#xFC;sselweite 3 1/4&quot;<br>"
+  "price": "0,00",
+  "amount": "2",
+  "description": "Schlüsselweite 3 1/4\"\\n"
 }

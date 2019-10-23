@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    268380\r\n                  ",
+  "id": "268380",
   "name": "Befehlstaster, Schließer",
   "weight": "0,01",
-  "price": "\r\n                  55,00\r\n                  ",
-  "amount": "\r\n                      \r\n4\r\n                    \r\n                    ",
-  "description": "Baureihe 8082<br>Einfach-Kontaktelement"
+  "price": "55,00",
+  "amount": "4",
+  "description": "Baureihe 8082\\nEinfach-Kontaktelement"
 }

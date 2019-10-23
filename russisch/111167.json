@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    111167\r\n                  ",
-  "name": "Pauschale für die An- & Abfahrt zur Behältereinlagerung<br>",
+  "id": "111167",
+  "name": "Pauschale für die An- & Abfahrt zur Behältereinlagerung\\n",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "###############################<br>Pauschale f&#xFC;r die An- &amp; Abfahrt eines Kundendiensttechnikers<br>z.B. als separate Anreise f&#xFC;r Beh&#xE4;ltereinlagerung<br><br>Aufpreise:<br>(  ) zzgl.   50% f&#xFC;r Reaktionszeit innerhalb von 12 Stunden<br>(  ) zzgl.   50% f&#xFC;r Eins&#xE4;tze an Samstagen<br>(  ) zzgl. 100% f&#xFC;r Eins&#xE4;tze an Sonn- &amp; Feiertagen"
+  "price": "0,00",
+  "amount": "0",
+  "description": "\\nPauschale für die An- & Abfahrt eines Kundendiensttechnikers\\nz.B. als separate Anreise für Behältereinlagerung\\n\\nAufpreise:\\n() zzgl.50% für Reaktionszeit innerhalb von 12 Stunden\\n() zzgl.50% für Einsätze an Samstagen\\n() zzgl. 100% für Einsätze an Sonn- & Feiertagen"
 }

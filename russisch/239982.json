@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    239982\r\n                  ",
+  "id": "239982",
   "name": "Drehgelenk für Druckluft und elektr. Strom",
   "weight": "40,55",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Exgesch&#xFC;tzt, Zone 1, 230V/AC, 16A, 3kW max,<br>-20&#xB0;C bis +40&#xB0;C, Kabell&#xE4;nge 10 Meter<br>Luft: Eingang / Ausgang 1&quot; NPT-IG"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Exgeschützt, Zone 1, 230V/AC, 16A, 3kW max,\\n-20°C bis +40°C, Kabellänge 10 Meter\\nLuft: Eingang / Ausgang 1\" NPT-IG"
 }

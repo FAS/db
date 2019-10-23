@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    11900\r\n                  ",
+  "id": "11900",
   "name": "ERKLÄRUNG/BESTÄTIGUNG",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "der Firma Luhmann GmbH, 49451 Holdorf<br>-----------------------------------------------------------------------------------------------------------<br>Hiermit best&#xE4;tigt die Firma Luhmann, dass die von FAS bezogenen<br>Tauchpumpeneinheiten mit GVR oder EBSRAY Tauchpumpen nicht<br>selber nachgebaut bzw. die Konstruktion und Entwicklung der <br>Pumpensystemeinheit an Dritte weitergegben wird bzw. &#xFC;ber Dritte <br>(mit Ausnahme VPS)  bezogen wird.<br><br><br>________________________<br>Datum, Stempel, Unterschrift<br><br><br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "der Firma Luhmann GmbH, 49451 Holdorf\\n-----------------------------------------------------------------------------------------------------------\\nHiermit bestätigt die Firma Luhmann, dass die von FAS bezogenen\\nTauchpumpeneinheiten mit GVR oder EBSRAY Tauchpumpen nicht\\nselber nachgebaut bzw. die Konstruktion und Entwicklung der \\nPumpensystemeinheit an Dritte weitergegben wird bzw. über Dritte \\n(mit Ausnahme VPS)bezogen wird.\\n\\n\\n________________________\\nDatum, Stempel, Unterschrift\\n\\n\\n"
 }

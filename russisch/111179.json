@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    111179\r\n                  ",
+  "id": "111179",
   "name": "Verbundfahrts-Pauschale für nicht dringende Störungen",
   "weight": "0,00",
-  "price": "\r\n                  125,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "###############################<br>Pauschale f&#xFC;r die An- &amp; Abfahrt im Rahmen einer Verbundfahrt.<br><br>Hinweis:<br>Hierbeit handelt es sich um eine planbare Verbundfahrt,<br>bei der es sich um eine nicht dringende St&#xF6;rung handelt.<br>Die Durchf&#xFC;hrung erfolgt mit freier Termineinteilung ohne <br>Terminvorgabe seitens des Kundens."
+  "price": "125,00",
+  "amount": "0",
+  "description": "\\nPauschale für die An- & Abfahrt im Rahmen einer Verbundfahrt.\\n\\nHinweis:\\nHierbeit handelt es sich um eine planbare Verbundfahrt,\\nbei der es sich um eine nicht dringende Störung handelt.\\nDie Durchführung erfolgt mit freier Termineinteilung ohne \\nTerminvorgabe seitens des Kundens."
 }

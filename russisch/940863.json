@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    940863\r\n                  ",
+  "id": "940863",
   "name": "Steckernetzteil",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n2\r\n                    \r\n                    ",
-  "description": "&#x2022; Steckernetzteil<br>&#x2022; Eingangsspannung: 240V AC<br>&#x2022; Ausgangsspannung: 15V DC<br>&#x2022; Ausgangsstrom: 1200mA<br>&#x2022; Ma&#xDF;e (L x B x T): 113 x 87 x 60 mm"
+  "price": "0,00",
+  "amount": "2",
+  "description": "• Steckernetzteil\\n• Eingangsspannung: 240V AC\\n• Ausgangsspannung: 15V DC\\n• Ausgangsstrom: 1200mA\\n• Maße (L x B x T): 113 x 87 x 60 mm"
 }

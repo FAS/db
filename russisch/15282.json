@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    15282\r\n                  ",
+  "id": "15282",
   "name": "Предохранительный клапан 1/2\" NPT AG, Typ RegO 3129",
   "weight": "0,20",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "&#x43B;&#x430;&#x442;&#x443;&#x43D;&#x44C;<br>Einstelldruck            FAS-Nr.<br>250 PSI          -&gt;     90.100 (mit UL-Kennzeichen) - 17,2 bar<br>275 PSI          -&gt;     90.101 (mit UL-Kennzeichen) - 18,9 bar<br>300 PSI          -&gt;     90.105 (mit UL-Kennzeichen) - 20,7 bar P&quot;<br>312 PSI          -&gt;     90.106 (mit UL-Kennzeichen)<br>350 PSI          -&gt;     90.102 (mit UL-Kennzeichen)<br>375 PSI          -&gt;     90.103 (mit UL-Kennzeichen)<br>400 PSI          -&gt;     90.104 (mit UL-Kennzeichen)<br>450 PSI          -&gt;     90.107 (mit UL-Kennzeichen)<br><br>  5,0 bar         -&gt;     90.108<br>  4,0 bar         -&gt;     90.130<br>10,0 bar         -&gt;     90.131<br>15,6 bar         -&gt;     90.132<br>17,2 bar         -&gt;     90.133<br>20,0 bar         -&gt;     90.134<br>22,0 bar         -&gt;     90.135<br>24,1 bar         -&gt;     90.136<br>25,0 bar         -&gt;     90.137<br>25,9 bar         -&gt;     90.138<br>27,0 bar         -&gt;     90.139<br>16,0 bar         -&gt;     90.140<br>  2,7 bar         -&gt;     90.141<br>19,0 bar         -&gt;     90.142<br>17,0 bar         -&gt;     90.149<br>21,0 bar         -&gt;     90.150"
+  "price": "0,00",
+  "amount": "0",
+  "description": "латунь\\nEinstelldruckFAS-Nr.\\n250 PSI->90.100 (mit UL-Kennzeichen) - 17,2 bar\\n275 PSI->90.101 (mit UL-Kennzeichen) - 18,9 bar\\n300 PSI->90.105 (mit UL-Kennzeichen) - 20,7 bar P\"\\n312 PSI->90.106 (mit UL-Kennzeichen)\\n350 PSI->90.102 (mit UL-Kennzeichen)\\n375 PSI->90.103 (mit UL-Kennzeichen)\\n400 PSI->90.104 (mit UL-Kennzeichen)\\n450 PSI->90.107 (mit UL-Kennzeichen)\\n\\n5,0 bar->90.108\\n4,0 bar->90.130\\n10,0 bar->90.131\\n15,6 bar->90.132\\n17,2 bar->90.133\\n20,0 bar->90.134\\n22,0 bar->90.135\\n24,1 bar->90.136\\n25,0 bar->90.137\\n25,9 bar->90.138\\n27,0 bar->90.139\\n16,0 bar->90.140\\n2,7 bar->90.141\\n19,0 bar->90.142\\n17,0 bar->90.149\\n21,0 bar->90.150"
 }

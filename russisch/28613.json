@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    28613\r\n                  ",
+  "id": "28613",
   "name": "Flüssiggas-Entnahmeventil, elektromagnetisch",
   "weight": "1,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n8\r\n                    \r\n                    ",
-  "description": "bet&#xE4;tigt, mit Durchstr&#xF6;mbegrenzer, Spannung 12V, DC,<br>max. Betriebsdruck: 30 bar, Sitzdurchmesser: 3,2 mm,<br>Temperaturbereich: -25&#xB0; C bis +70&#xB0; C, Typ 071305,<br>Geh&#xE4;use aus Messing"
+  "price": "0,00",
+  "amount": "8",
+  "description": "betätigt, mit Durchströmbegrenzer, Spannung 12V, DC,\\nmax. Betriebsdruck: 30 bar, Sitzdurchmesser: 3,2 mm,\\nTemperaturbereich: -25° C bis +70° C, Typ 071305,\\nGehäuse aus Messing"
 }

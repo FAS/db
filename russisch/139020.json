@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    139020\r\n                  ",
+  "id": "139020",
   "name": "Füllpistole zur Autogasbetankung mit italienischem",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Anschluss und Feststelleinrichtung, Typ VPP02, PN25,<br>Eingang: G1&quot;-IG<br>Temperaturbereich: -30 &#xB0;C - +60 &#xB0;C<br>Einstufung: EEx II 2G IIA <br><br>=&gt; Ausf&#xFC;hrung mit Stabmagnet Typ P&amp;A"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Anschluss und Feststelleinrichtung, Typ VPP02, PN25,\\nEingang: G1\"-IG\\nTemperaturbereich: -30 °C - +60 °C\\nEinstufung: EEx II 2G IIA \\n\\n=> Ausführung mit Stabmagnet Typ P&A"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    79739\r\n                  ",
+  "id": "79739",
   "name": "Реле- пускатель для моторов мощностью до 22кВт АС3",
   "weight": "0,99",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n3\r\n                    \r\n                    ",
-  "description": "Ohmsche Last 53 kW/80 A bei AC-1 dreipolig 40&#xB0;C<br>Spulenanschlu&#xDF; 230V,50/60Hz<br>2 &#xD6;ffner, 2 Schlie&#xDF;er als Hilfskontaktblock mit dabei"
+  "price": "0,00",
+  "amount": "3",
+  "description": "Ohmsche Last 53 kW/80 A bei AC-1 dreipolig 40°C\\nSpulenanschluß 230V,50/60Hz\\n2 Öffner, 2 Schließer als Hilfskontaktblock mit dabei"
 }

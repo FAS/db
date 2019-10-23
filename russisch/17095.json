@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    17095\r\n                  ",
+  "id": "17095",
   "name": "Auswertgerät mit 4-stelliger Druckanzeige,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "geeignet zum Einbau im Schaltschrank, mit <br>Netzteil 220V, Signalausgang 0 ... 20 m A,<br>2 Relais mit je 1 Umschaltkontakt<br>zur beliebigen Einstellung von 2 Grenzwerten"
+  "price": "0,00",
+  "amount": "0",
+  "description": "geeignet zum Einbau im Schaltschrank, mit \\nNetzteil 220V, Signalausgang 0 ... 20 m A,\\n2 Relais mit je 1 Umschaltkontakt\\nzur beliebigen Einstellung von 2 Grenzwerten"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    16120\r\n                  ",
+  "id": "16120",
   "name": "Sicherheitsabsperrventil DN 50, PN 25,",
   "weight": "16,60",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Baureihe SL-IZ M.1, mit Membranbruchsicherung,<br>Opso (SAV) f&#xFC;r Schaltung bei Druckanstieg,<br>Einstellbereich 0,6 - 6,6 bar, <br>eingestellt auf ____ bar<br>DIN/DVGW zugelassen, <br>konform mit Druckger&#xE4;terichtlinie 2014/68/EU<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Baureihe SL-IZ M.1, mit Membranbruchsicherung,\\nOpso (SAV) für Schaltung bei Druckanstieg,\\nEinstellbereich 0,6 - 6,6 bar, \\neingestellt auf ____ bar\\nDIN/DVGW zugelassen, \\nkonform mit Druckgeräterichtlinie 2014/68/EU\\n"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    99992\r\n                  ",
+  "id": "99992",
   "name": "Anlagendokumentation laut TYTO-Spezifikation",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "===========================================================<br> - Betriebsanleitung inklusive Zeichnung<br> - Konformit&#xE4;tserkl&#xE4;rung nach Richtlinie 2014/68/EU &#xFC;ber<br>   Druckger&#xE4;te f&#xFC;r die Gesamtanlage<br> - Konformit&#xE4;tserkl&#xE4;rungen nach Richtlinie 94/9/EG (ATEX)<br>   f&#xFC;r verbaute Einzelteile<br> - Verlade- und Transportanweisung <br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "===========================================================\\n - Betriebsanleitung inklusive Zeichnung\\n - Konformitätserklärung nach Richtlinie 2014/68/EU über\\nDruckgeräte für die Gesamtanlage\\n - Konformitätserklärungen nach Richtlinie 94/9/EG (ATEX)\\nfür verbaute Einzelteile\\n - Verlade- und Transportanweisung \\n"
 }

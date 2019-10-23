@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    26199\r\n                  ",
+  "id": "26199",
   "name": "Sicherheitsschalter, ohne Ex-Schutz",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n2\r\n                    \r\n                    ",
-  "description": "zum Einsatz als Not-Aus-Einrichtung <br>25 A, 3-polig, 400 V, 50 Hz,<br>Schutzart: IP 65, Schaltgriff rot, Schutzkragen gelb,<br>abschlie&#xDF;bar in Aus-Stellung, mit Vorh&#xE4;ngeschlo&#xDF;<br>"
+  "price": "0,00",
+  "amount": "2",
+  "description": "zum Einsatz als Not-Aus-Einrichtung \\n25 A, 3-polig, 400 V, 50 Hz,\\nSchutzart: IP 65, Schaltgriff rot, Schutzkragen gelb,\\nabschließbar in Aus-Stellung, mit Vorhängeschloß\\n"
 }

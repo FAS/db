@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    9950\r\n                  ",
+  "id": "9950",
   "name": "Waren aus Kulanz ohne Berechnung",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "###############################<br>Die oben aufgef&#xFC;hrten Waren haben bzw. werden<br>wir Ihnen aus Kulanz zur Verf&#xFC;gung stellen.<br>Eine Berechnung erfolgt daher nicht.<br><br>Hinweis:<br>=&gt; Waren aus Kulanz, ohne Anerkennung einer Rechtspflicht."
+  "price": "0,00",
+  "amount": "0",
+  "description": "\\nDie oben aufgeführten Waren haben bzw. werden\\nwir Ihnen aus Kulanz zur Verfügung stellen.\\nEine Berechnung erfolgt daher nicht.\\n\\nHinweis:\\n=> Waren aus Kulanz, ohne Anerkennung einer Rechtspflicht."
 }

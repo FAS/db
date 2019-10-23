@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    18566\r\n                  ",
+  "id": "18566",
   "name": "Ersatzteilset für Siemens Ringkolbenzähler DN 50,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "bestehend aus:<br>- Teile-Nr. 2<br>- Teile-Nr. 3 (enth&#xE4;lt Teile Nr. 4, 6 - 10)<br>- Teile-Nr. 5<br>- Teile-Nr. 11<br>- Teile-Nr. 12 (enth&#xE4;lt Teile Nr. 13 - 26)<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "bestehend aus:\\n- Teile-Nr. 2\\n- Teile-Nr. 3 (enthält Teile Nr. 4, 6 - 10)\\n- Teile-Nr. 5\\n- Teile-Nr. 11\\n- Teile-Nr. 12 (enthält Teile Nr. 13 - 26)\\n"
 }

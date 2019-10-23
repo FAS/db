@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    25344\r\n                  ",
+  "id": "25344",
   "name": "Anschlag für Verladarmstation Indien linker und rechter Arm",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "bestehend aus:<br>- Flachstahl 80x6x292 mm, gebogen und gebohrt, aus St 37<br>   (FAS 75.666)<br>- quadradrisches Profilrohr 40x3x283 mm, aus St 37.2<br>   beidseitig Gehrung 45&#xB0; (FAS 75.241)"
+  "price": "0,00",
+  "amount": "0",
+  "description": "bestehend aus:\\n- Flachstahl 80x6x292 mm, gebogen und gebohrt, aus St 37\\n(FAS 75.666)\\n- quadradrisches Profilrohr 40x3x283 mm, aus St 37.2\\nbeidseitig Gehrung 45° (FAS 75.241)"
 }

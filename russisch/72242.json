@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    72242\r\n                  ",
+  "id": "72242",
   "name": "Пружина регулятора",
   "weight": "0,10",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n6\r\n                    \r\n                    ",
-  "description": "140-300 &#x43C;&#x431;&#x430;&#x440;"
+  "price": "0,00",
+  "amount": "6",
+  "description": "140-300 мбар"
 }

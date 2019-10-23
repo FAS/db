@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    346615\r\n                  ",
+  "id": "346615",
   "name": "Update Auswerteprogramm zur Fuhrparkauswertung",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "f&#xFC;r TA 630/T/E auf aktuellste Version <br>(  ) Basis<br>(  ) Vollversion<br><br>Systemvorraussetzungen:<br> - PC mit mind. Pentium II<br> - Serielle Schnittstelle, au&#xDF;er bei Betrieb &#xFC;ber Netzwerk per TCP/IP<br> - Internetverbindung mit Downloadberechtigung<br> - Windows XP, Windows 7<br><br>Download der Software ist nur &#xFC;ber Onlineverbindung m&#xF6;glich &#x2013; keine <br>CD-Version mehr erh&#xE4;ltlich!<br><br>Hinweis:<br>=&gt; Ggf. Masterupdate &#xFC;ber FAS-111.572 notwendig.<br>"
+  "price": "0,00",
+  "amount": "1",
+  "description": "für TA 630/T/E auf aktuellste Version \\n() Basis\\n() Vollversion\\n\\nSystemvorraussetzungen:\\n - PC mit mind. Pentium II\\n - Serielle Schnittstelle, außer bei Betrieb über Netzwerk per TCP/IP\\n - Internetverbindung mit Downloadberechtigung\\n - Windows XP, Windows 7\\n\\nDownload der Software ist nur über Onlineverbindung möglich – keine \\nCD-Version mehr erhältlich!\\n\\nHinweis:\\n=> Ggf. Masterupdate über FAS-111.572 notwendig.\\n"
 }

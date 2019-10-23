@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    376103\r\n                  ",
+  "id": "376103",
   "name": "Zahnstange aus sonderbehandeltem Blankstahl C45KG",
   "weight": "5,55",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "Modul 4,0, gefr&#xE4;ste Z&#xE4;hne, sauber gerichtet<br>Zahnbreite 40mm, L = 500mm,<br>Verzahnungsqualit&#xE4;t 8d25 analog DIN 3962, 3967, 3968<br>Eingriffswinkel 20&#xB0;"
+  "price": "0,00",
+  "amount": "1",
+  "description": "Modul 4,0, gefräste Zähne, sauber gerichtet\\nZahnbreite 40mm, L = 500mm,\\nVerzahnungsqualität 8d25 analog DIN 3962, 3967, 3968\\nEingriffswinkel 20°"
 }

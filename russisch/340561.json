@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    340561\r\n                  ",
-  "name": "EC-Terminal OPP B50  für Tankautomat mit Tastatur",
+  "id": "340561",
+  "name": "EC-Terminal OPP B50für Tankautomat mit Tastatur",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "konfiguriert f&#xFC;r ISDN-WEAT<br>(Einbau in Typ: FAS-420_L_EC Tankautomaten)"
+  "price": "0,00",
+  "amount": "0",
+  "description": "konfiguriert für ISDN-WEAT\\n(Einbau in Typ: FAS-420_L_EC Tankautomaten)"
 }

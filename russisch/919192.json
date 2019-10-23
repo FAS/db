@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    919192\r\n                  ",
+  "id": "919192",
   "name": "Horizontale, selbstansaugende Kreiselpumpe UEAB05010",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Segmenttyp mit geschlossenem R&#xE4;dern.<br>freies Wellenende<br><br>Wellendichtung:           DNE<br>einfache, vorgesteuerte, ungek&#xFC;hlte Gleitringdichtung<br>gem&#xE4;&#xDF; DIN 24690<br>Hersteller:         Pacific<br>Typ:                      610 (Q)<br>Material:                 SANGG, Chromstahl/Kohlenstoff/Perbunan<br>mit API-Drosselbuchse"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Segmenttyp mit geschlossenem Rädern.\\nfreies Wellenende\\n\\nWellendichtung:DNE\\neinfache, vorgesteuerte, ungekühlte Gleitringdichtung\\ngemäß DIN 24690\\nHersteller:Pacific\\nTyp:610 (Q)\\nMaterial:SANGG, Chromstahl/Kohlenstoff/Perbunan\\nmit API-Drosselbuchse"
 }

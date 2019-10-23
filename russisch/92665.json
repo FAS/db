@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    92665\r\n                  ",
+  "id": "92665",
   "name": "Reparatursatz für 2-Jährigen Betrieb, bestehend aus:",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "- Verschlei&#xDF;teil- und Dichungssatz f&#xFC;r pneumatischen<br>F&#xFC;llanschlu&#xDF; (F&#xFC;llwaage)<br>- Wellendichtung f&#xFC;r LPG Pumpe<br>- Reparatursatz/Servicekit f&#xFC;r Ausr&#xFC;stung f&#xFC;r Flaschenf&#xFC;llanlage<br>- Dichtungssatz f&#xFC;r Verladearmstation"
+  "price": "0,00",
+  "amount": "0",
+  "description": "- Verschleißteil- und Dichungssatz für pneumatischen\\nFüllanschluß (Füllwaage)\\n- Wellendichtung für LPG Pumpe\\n- Reparatursatz/Servicekit für Ausrüstung für Flaschenfüllanlage\\n- Dichtungssatz für Verladearmstation"
 }

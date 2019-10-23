@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    86054\r\n                  ",
+  "id": "86054",
   "name": "Benötigte Kleinteile nach Kundenvorgabe",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "(Verschraubungen,Reduzierungen, Pr&#xE4;zisionsrohr)<br>2x - FAS-10075<br>2x - FAS-10147<br>2x - FAS-10712<br>2x - FAS-10718<br>1m - FAS-10626<br>1m - FAS-10627<br>2x - FAS-10147<br>2x - FAS-10711<br>2x - FAS-61537<br>2x - FAS-10087<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "(Verschraubungen,Reduzierungen, Präzisionsrohr)\\n2x - FAS-10075\\n2x - FAS-10147\\n2x - FAS-10712\\n2x - FAS-10718\\n1m - FAS-10626\\n1m - FAS-10627\\n2x - FAS-10147\\n2x - FAS-10711\\n2x - FAS-61537\\n2x - FAS-10087\\n"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    468019\r\n                  ",
+  "id": "468019",
   "name": "3/2-Wege-Ventil",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Typ : A7546/0604/.328-FM-NG<br>Steuerungsart : direktgesteuert<br>Konstruktion : Sitzventil mit Nippeldichtung<br>Funktion : im Ruhezustand P nach A zu, entl&#xFC;ftet von A nach R<br>Anschlu&#xDF; : 3x Muffe 1/4&quot; NPT, Sitz 5 mm<br>Druckbereich : 0-12 bar<br>Medium : Luft<br>Mediumtemperatur : -10&#xB0;/+60&#xB0;C<br>Umgebungstemperatur : -30&#xB0;/+60&#xB0;C<br>Viskosit&#xE4;t : 22 mm&#xB2;/s<br>Ventilgeh&#xE4;use : Niro 1.4305<br>Innenteile : Niro 1.4104<br>Dichtung : PTFE<br>Einbaulage : beliebig, vorzugsweise mit stehendem Magneten<br>mit<br>Magnet K0523210<br>FM-Approvals<br>Class I Devison 2 Groups A,B,C,D T4<br>Class II/III Devision 2 Groups E,F,G T4<br>Spannung : 24 VDC<br>Strom : 0,94A<br>Leistung : 23W<br>Schutzart : IP65<br>Anschlu&#xDF;art : Kabelende"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Typ : A7546/0604/.328-FM-NG\\nSteuerungsart : direktgesteuert\\nKonstruktion : Sitzventil mit Nippeldichtung\\nFunktion : im Ruhezustand P nach A zu, entlüftet von A nach R\\nAnschluß : 3x Muffe 1/4\" NPT, Sitz 5 mm\\nDruckbereich : 0-12 bar\\nMedium : Luft\\nMediumtemperatur : -10°/+60°C\\nUmgebungstemperatur : -30°/+60°C\\nViskosität : 22 mm²/s\\nVentilgehäuse : Niro 1.4305\\nInnenteile : Niro 1.4104\\nDichtung : PTFE\\nEinbaulage : beliebig, vorzugsweise mit stehendem Magneten\\nmit\\nMagnet K0523210\\nFM-Approvals\\nClass I Devison 2 Groups A,B,C,D T4\\nClass II/III Devision 2 Groups E,F,G T4\\nSpannung : 24 VDC\\nStrom : 0,94A\\nLeistung : 23W\\nSchutzart : IP65\\nAnschlußart : Kabelende"
 }

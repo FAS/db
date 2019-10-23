@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    17116\r\n                  ",
+  "id": "17116",
   "name": "Thermometer, Typ RG1250-4006, 1/2\" NPT-AG",
   "weight": "0,16",
-  "price": "\r\n                  190,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "Messbereich:\t\t-70C bis +50&#xB0;C<br>\t\t\t-90&#xB0;F bis 130&#xB0;F<br>Skalendurchmesser:\t\t2&quot;\t\t\t<br>Schaftl&#xE4;nge:\t\t6&quot;<br>Anschluss:\t\t1/2&quot; NPT AG<br>Material:\t\t\tEdelstahl"
+  "price": "190,00",
+  "amount": "1",
+  "description": "Messbereich:-70C bis +50°C\\n-90°F bis 130°F\\nSkalendurchmesser:2\"\\nSchaftlänge:6\"\\nAnschluss:1/2\" NPT AG\\nMaterial:Edelstahl"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    23090\r\n                  ",
+  "id": "23090",
   "name": "Filterdruckminderer G 3/8\"",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Durchflussrate bei 6 bar<br>max. 105 m3/h"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Durchflussrate bei 6 bar\\nmax. 105 m3/h"
 }

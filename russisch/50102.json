@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    50102\r\n                  ",
+  "id": "50102",
   "name": "Restlieferung",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n138\r\n                    \r\n                    ",
-  "description": "<br>"
+  "price": "0,00",
+  "amount": "138",
+  "description": "\\n"
 }

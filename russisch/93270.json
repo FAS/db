@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    93270\r\n                  ",
+  "id": "93270",
   "name": "Steuerung für Massezähler mit EWon und optionales Bedienpult",
   "weight": "12,30",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "Schaltschrank zur Fernauswertung der Massez&#xE4;hlerdaten<br>&#xFC;ber ISDN oder Analog Modem.<br>geeignet zur Auswertung der FAS Monitoring Anlage 98655.<br><br>Mit Bedienpult FAS 93557in der T&#xFC;r.<br><br>"
+  "price": "0,00",
+  "amount": "1",
+  "description": "Schaltschrank zur Fernauswertung der Massezählerdaten\\nüber ISDN oder Analog Modem.\\ngeeignet zur Auswertung der FAS Monitoring Anlage 98655.\\n\\nMit Bedienpult FAS 93557in der Tür.\\n\\n"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    220650\r\n                  ",
+  "id": "220650",
   "name": "Mehrpreis für die Anlieferung mit Kranfahrzeug",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "=====================================<br>als Zulage zur Fracht nach km-Staffelung<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "=====================================\\nals Zulage zur Fracht nach km-Staffelung\\n"
 }

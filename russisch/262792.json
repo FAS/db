@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    262792\r\n                  ",
+  "id": "262792",
   "name": "PC Software zur Auswertung Gaswarngerät Gasman",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "zum Kalibrieren, Konfigurien und Auslesen des Ereignisloggers<br>Software geeignet f&#xFC;r Crowcon Gasman, Tetra-3, Tetra<br>Zum Anschlu&#xDF; ist die Ladestation / Interface FAS 262790 erforderlich.<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "zum Kalibrieren, Konfigurien und Auslesen des Ereignisloggers\\nSoftware geeignet für Crowcon Gasman, Tetra-3, Tetra\\nZum Anschluß ist die Ladestation / Interface FAS 262790 erforderlich.\\n"
 }

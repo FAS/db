@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    9953\r\n                  ",
+  "id": "9953",
   "name": "Kostenvoranschlag unter Vorbehalt",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "###############################<br>Wir sind sehr bem&#xFC;ht unsere Kostenvoranschl&#xE4;ge mit gro&#xDF;er Sorgfalt<br>auszuarbeiten, weisen Sie aber vorsorglich daraufhin, dass aufgrund<br>des Schadensbildes evtl. einige Bauteile noch zus&#xE4;tzlich ausgetauscht<br>werden m&#xFC;ssen.<br>Dieses  liegt daran, dass einige Sch&#xE4;den an Bauteilen erst bei der<br>Instandsetzung bzw. beim Probelauf nach erfolgter Reparatur festgestellt <br>werden k&#xF6;nnen.<br>Die Einholung einer zus&#xE4;tzlichen Freigabe erfolgt nur, wenn der Wert<br>des Zusatzaufwandes mehr als 20% der freigegebenen KVA-Summe <br>&#xFC;bersteigt. Unter 20% der freigegebenen KVA-Summe erfolgt die<br>Zusatzreparatur automatisch und wird separat in der Rechnung aus-<br>gewiesen."
+  "price": "0,00",
+  "amount": "0",
+  "description": "\\nWir sind sehr bemüht unsere Kostenvoranschläge mit großer Sorgfalt\\nauszuarbeiten, weisen Sie aber vorsorglich daraufhin, dass aufgrund\\ndes Schadensbildes evtl. einige Bauteile noch zusätzlich ausgetauscht\\nwerden müssen.\\nDiesesliegt daran, dass einige Schäden an Bauteilen erst bei der\\nInstandsetzung bzw. beim Probelauf nach erfolgter Reparatur festgestellt \\nwerden können.\\nDie Einholung einer zusätzlichen Freigabe erfolgt nur, wenn der Wert\\ndes Zusatzaufwandes mehr als 20% der freigegebenen KVA-Summe \\nübersteigt. Unter 20% der freigegebenen KVA-Summe erfolgt die\\nZusatzreparatur automatisch und wird separat in der Rechnung aus-\\ngewiesen."
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    400100\r\n                  ",
+  "id": "400100",
   "name": "Handpumpe, Typ PA 210 A, Flügelzellenpumpe, ",
   "weight": "6,00",
-  "price": "\r\n                  255,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Standardausf&#xFC;hrung ohne Zubeh&#xF6;r, Geh&#xE4;use aus Gu&#xDF;eisen,<br>Drehschieber aus Kohlenstoff, Flachdichtung, <br>mit 3/4 &quot; NPT IG-Anschl&#xFC;ssen, F&#xF6;rdermenge:  38 l bei 115 1/min, max. Druck 0,7 bar, max. Temperatur 149&#xB0;C, max. Viskosit&#xE4;t 420 Cs<br><br>"
+  "price": "255,00",
+  "amount": "0",
+  "description": "Standardausführung ohne Zubehör, Gehäuse aus Gußeisen,\\nDrehschieber aus Kohlenstoff, Flachdichtung, \\nmit 3/4 \" NPT IG-Anschlüssen, Fördermenge:38 l bei 115 1/min, max. Druck 0,7 bar, max. Temperatur 149°C, max. Viskosität 420 Cs\\n\\n"
 }

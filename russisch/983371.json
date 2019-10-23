@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    983371\r\n                  ",
+  "id": "983371",
   "name": "Hochdruckregler, Typ SRG 517-060-1004",
   "weight": "2,40",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Regulierbar<br>Druckbegrenzung: PN 25<br>Eingang:              1/2&quot; weiblich<br>Ausgang:              1/2&quot; weiblich<br>Eingangsbereich:  1,2 - 16 bar<br>Ausgangsbereich:  2 - 4 bar<br>Nenndruck: 4,5 bar<br>Farbe: blau<br>Mit Manometer<br><br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Regulierbar\\nDruckbegrenzung: PN 25\\nEingang:1/2\" weiblich\\nAusgang:1/2\" weiblich\\nEingangsbereich:1,2 - 16 bar\\nAusgangsbereich:2 - 4 bar\\nNenndruck: 4,5 bar\\nFarbe: blau\\nMit Manometer\\n\\n"
 }

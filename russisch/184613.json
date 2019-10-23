@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    184613\r\n                  ",
+  "id": "184613",
   "name": "Druckschalter , explosionsgeschützt (ex-d) 0,8-6 bar",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "im Aluminiumgeh&#xE4;use<br>Schutzart IP 66<br>Prozessanschluss: Adapter 1/2 NPT-M<br>Schaltpunkt:   0,8 .. 6 bar  einstellbar, <br>Z&#xFC;ndschutzart II 2G Ex d IIC T6/T4<br>Mikroschalter: einpoliger Wechsler 15A/250V-AC<br>Elektrischer Anschluss: M20<br>mit Baumusterpr&#xFC;fbescheinigung/ATEX (Ex d)<br>mit Zulassung f&#xFC;r SIL-2"
+  "price": "0,00",
+  "amount": "0",
+  "description": "im Aluminiumgehäuse\\nSchutzart IP 66\\nProzessanschluss: Adapter 1/2 NPT-M\\nSchaltpunkt:0,8 .. 6 bareinstellbar, \\nZündschutzart II 2G Ex d IIC T6/T4\\nMikroschalter: einpoliger Wechsler 15A/250V-AC\\nElektrischer Anschluss: M20\\nmit Baumusterprüfbescheinigung/ATEX (Ex d)\\nmit Zulassung für SIL-2"
 }

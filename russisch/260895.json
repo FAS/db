@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    260895\r\n                  ",
+  "id": "260895",
   "name": "Füllstandssensor Typ VEGAFLEX 81, für Propan/Butan",
   "weight": "0,00",
-  "price": "\r\n                  3.215,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Sensor zur kontinuierlichen F&#xFC;llstandsmessung.<br>Zulassung : ATEX II 1/2G, II 2G Ex d IIC T6...T1 Ga/Gb, Gb<br>Ausf&#xFC;hrung / Werkstoff: Koaxialausf&#xFC;hrung d=21,3mm<br>                                        mit Vielfachlochung / 316L<br>f&#xFC;r Tankdurchmesser: ***1700mm***<br>L&#xE4;nge (ab Dichtfl&#xE4;che): __________mm<br>Prozessanschluss: Gewinde 3/4&quot; NPT AG PN40 / 316L<br>Dichtung / Prozesstemperatur: EPDM (A+P 75.5/KW75F) / mit / -40...+150&#xB0;C<br>Elektronik : Vierleiter Modbus (Konverter in zweiter Kammer)<br>Geh&#xE4;use:: Aluminium-Zweikammer / IP66/IP68 (0,2bar)<br>Kabeleinf&#xFC;hrung: M20x1,5 / Kabelverschraubung Messing<br>Kabeldurchmesser: 6 - 12mm<br>Anzeige-/Bedienmodul (PLICSCOM) : eingebaut<br>Sprache des Men&#xFC;s:DE oder alternativ ___<br>Betriebsanleitung in: Deutsch oder alternativ ______<br>"
+  "price": "3.215,00",
+  "amount": "0",
+  "description": "Sensor zur kontinuierlichen Füllstandsmessung.\\nZulassung : ATEX II 1/2G, II 2G Ex d IIC T6...T1 Ga/Gb, Gb\\nAusführung / Werkstoff: Koaxialausführung d=21,3mm\\nmit Vielfachlochung / 316L\\nfür Tankdurchmesser: 1700mm\\nLänge (ab Dichtfläche): __________mm\\nProzessanschluss: Gewinde 3/4\" NPT AG PN40 / 316L\\nDichtung / Prozesstemperatur: EPDM (A+P 75.5/KW75F) / mit / -40...+150°C\\nElektronik : Vierleiter Modbus (Konverter in zweiter Kammer)\\nGehäuse:: Aluminium-Zweikammer / IP66/IP68 (0,2bar)\\nKabeleinführung: M20x1,5 / Kabelverschraubung Messing\\nKabeldurchmesser: 6 - 12mm\\nAnzeige-/Bedienmodul (PLICSCOM) : eingebaut\\nSprache des Menüs:DE oder alternativ ___\\nBetriebsanleitung in: Deutsch oder alternativ ______\\n"
 }

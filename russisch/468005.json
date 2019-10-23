@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    468005\r\n                  ",
+  "id": "468005",
   "name": "Plattenwärmeübertrager ST 3 VEN TDL aus 1.4404,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Regelwerk ASME Section VIII Div. 1<br>wasserkek&#xFC;hlt  gasformige Stickstoff , <br>Gaseingang 1&quot; Class 300 ASME B. 16.5, <br>Gasausgang 1&quot; Class 300 ASME B. 16.5<br>Wasser:<br>R&#xFC;cklauf 1&quot; Class 300 ASME B. 16.5<br>Vorlauf 1&quot; Class 300 ASME B. 16.5<br>Auslegdaten:<br>Berechnungsdruck: 30/30 bar (Gas/Wasser)<br>Betr.Zulaessigetemperatur :200/5&#xB0; C (Gas/Wasser)<br>Leistung:68,7 kg/h Stickstoff, W&#xE4;rmestrom 2,25 KW<br>Wassertemperatur 29/40&#xB0; C<br>Plattenzahl 12 St."
+  "price": "0,00",
+  "amount": "0",
+  "description": "Regelwerk ASME Section VIII Div. 1\\nwasserkekühltgasformige Stickstoff , \\nGaseingang 1\" Class 300 ASME B. 16.5, \\nGasausgang 1\" Class 300 ASME B. 16.5\\nWasser:\\nRücklauf 1\" Class 300 ASME B. 16.5\\nVorlauf 1\" Class 300 ASME B. 16.5\\nAuslegdaten:\\nBerechnungsdruck: 30/30 bar (Gas/Wasser)\\nBetr.Zulaessigetemperatur :200/5° C (Gas/Wasser)\\nLeistung:68,7 kg/h Stickstoff, Wärmestrom 2,25 KW\\nWassertemperatur 29/40° C\\nPlattenzahl 12 St."
 }

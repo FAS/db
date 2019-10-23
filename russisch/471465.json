@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    471465\r\n                  ",
+  "id": "471465",
   "name": "Elektro-Schaltkasten aus Kunststoff",
   "weight": "10,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Sch&#xFC;tz-Steuerung zur Montage im Geb&#xE4;ude und au&#xDF;erhalb der<br>Schutzzone, komplett verdrahtet zum Anschlu&#xDF; von<br>Anschlu&#xDF; f&#xFC;r 1 Fl&#xFC;ssiggaszapfs&#xE4;ule Typ FAS,<br>______ kW-Pumpenmotor (max. 5 kW) mit Leistungs-<br>w&#xE4;chter, Magnetventil, Hupe, Blitzleuchte und Not/Aus-Taster"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Schütz-Steuerung zur Montage im Gebäude und außerhalb der\\nSchutzzone, komplett verdrahtet zum Anschluß von\\nAnschluß für 1 Flüssiggaszapfsäule Typ FAS,\\n______ kW-Pumpenmotor (max. 5 kW) mit Leistungs-\\nwächter, Magnetventil, Hupe, Blitzleuchte und Not/Aus-Taster"
 }

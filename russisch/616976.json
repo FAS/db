@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    616976\r\n                  ",
+  "id": "616976",
   "name": "Option für GSM Modem mit Wifi",
   "weight": "0,00",
-  "price": "\r\n                  1.750,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Funktion und Datenportal:<br>Es werden &#xFC;ber ein Modem mit einer Sim-Karte des Kunden Daten an ein Internetportal gesendet und sichtbar gemacht.<br>Schutzart IP54<br><br>F&#xFC;r Akkumulatorenspeicher FAS 616974"
+  "price": "1.750,00",
+  "amount": "0",
+  "description": "Funktion und Datenportal:\\nEs werden über ein Modem mit einer Sim-Karte des Kunden Daten an ein Internetportal gesendet und sichtbar gemacht.\\nSchutzart IP54\\n\\nFür Akkumulatorenspeicher FAS 616974"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    80184\r\n                  ",
+  "id": "80184",
   "name": "Bauseitige Leistungen",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "die nicht in unserem Lieferumfang enthalten sind:<br>Erd-, Maurer-, Putz- und Stemmarbeiten<br>Malerarbeiten<br>Blitzschutzarbeiten<br>Gas- und Sauerstoff sowie Stickstoff f&#xFC;r die <br>Druckpr&#xFC;fung<br>Gestellunge von Arbeitsger&#xFC;sten und Hebezeugen<br>Elektroinstallation und Potentionalausgleich<br>T&#xFC;v-Abnahmen und sonstige Abnahmegeb&#xFC;hren"
+  "price": "0,00",
+  "amount": "0",
+  "description": "die nicht in unserem Lieferumfang enthalten sind:\\nErd-, Maurer-, Putz- und Stemmarbeiten\\nMalerarbeiten\\nBlitzschutzarbeiten\\nGas- und Sauerstoff sowie Stickstoff für die \\nDruckprüfung\\nGestellunge von Arbeitsgerüsten und Hebezeugen\\nElektroinstallation und Potentionalausgleich\\nTüv-Abnahmen und sonstige Abnahmegebühren"
 }

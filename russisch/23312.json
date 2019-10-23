@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    23312\r\n                  ",
+  "id": "23312",
   "name": "Dichtprüfanlage handbetätigt",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "bestehend aus:<br>- S&#xE4;ule<br>- Druckluft-Einspeisung mit Kugelhahn<br>- pneumatischer Schaltkasten<br>- Sensor<br>- Pr&#xFC;fglocke<br>- Klemmenkasten<br>- Fruischluftstutzen<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "bestehend aus:\\n- Säule\\n- Druckluft-Einspeisung mit Kugelhahn\\n- pneumatischer Schaltkasten\\n- Sensor\\n- Prüfglocke\\n- Klemmenkasten\\n- Fruischluftstutzen\\n"
 }

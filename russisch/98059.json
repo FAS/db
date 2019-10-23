@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    98059\r\n                  ",
+  "id": "98059",
   "name": "Druckmessumformer Typ VEGABAR 82,",
   "weight": "0,71",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "mit keramischer Me&#xDF;zelle, <br>- Geltungsbereich EUROPA<br>- f&#xFC;r Ex-freie Bereiche<br>- Manometerstutzen G1/2&quot;<br>- Werkstoff 316L<br>- Messbereich 0 ... 10 bar<br>- Elektronik: Zweileiter 4 ... 20 mA/HART&#xAE;<br>- Geh&#xE4;use Kuststoff IP66/IP67<br>- BA in Deutsch"
+  "price": "0,00",
+  "amount": "0",
+  "description": "mit keramischer Meßzelle, \\n- Geltungsbereich EUROPA\\n- für Ex-freie Bereiche\\n- Manometerstutzen G1/2\"\\n- Werkstoff 316L\\n- Messbereich 0 ... 10 bar\\n- Elektronik: Zweileiter 4 ... 20 mA/HART®\\n- Gehäuse Kuststoff IP66/IP67\\n- BA in Deutsch"
 }

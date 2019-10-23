@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    111235\r\n                  ",
+  "id": "111235",
   "name": "Grundpreis inkl. Auslösung zzgl. Zuschläge für:",
   "weight": "0,00",
-  "price": "\r\n                  72,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "=&gt; Service- und Montagepersonal"
+  "price": "72,00",
+  "amount": "0",
+  "description": "=> Service- und Montagepersonal"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    38805\r\n                  ",
+  "id": "38805",
   "name": "Liquid Control Flüssigkeitszähler, Typ M-7-A-27",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "mit nullstellbarem Z&#xE4;hlwerk und nichtnullstellbarem Summierz&#xE4;hler,<br>Anschlu&#xDF; Flansch 2&quot;NPT, Dichtungen Teflon, Geh&#xE4;use Gu&#xDF;eisen; <br><br>Medien u.a. D&#xFC;ngemittel ohne Feststoffe<br>Leistung 76 bis 380 l/min,<br>Betriebsdruck max. 10.0 bar,<br>Temperaturbereich -40&#xB0; C bis + 71&#xB0; C<br><br>Linearit&#xE4;t: +/- 0.5  % im Bereich   5:1<br>Wiederholgenauigkeit: +/- 0.05 % im Bereich  100:1<br><br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "mit nullstellbarem Zählwerk und nichtnullstellbarem Summierzähler,\\nAnschluß Flansch 2\"NPT, Dichtungen Teflon, Gehäuse Gußeisen; \\n\\nMedien u.a. Düngemittel ohne Feststoffe\\nLeistung 76 bis 380 l/min,\\nBetriebsdruck max. 10.0 bar,\\nTemperaturbereich -40° C bis + 71° C\\n\\nLinearität: +/- 0.5% im Bereich5:1\\nWiederholgenauigkeit: +/- 0.05 % im Bereich100:1\\n\\n"
 }

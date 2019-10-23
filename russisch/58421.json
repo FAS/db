@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    58421\r\n                  ",
+  "id": "58421",
   "name": "Netzgerät NG 1000/4/0",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "24 V,  2 A"
+  "price": "0,00",
+  "amount": "1",
+  "description": "24 V,2 A"
 }

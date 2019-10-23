@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    91625\r\n                  ",
+  "id": "91625",
   "name": "Pumpen-Aggregat Typ UEAY10009",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Durchflu&#xDF;rate 170 m3/h, F&#xF6;rderh&#xF6;he 170 m, <br>NPSH 1,3m, mit Ex-Motor 50 Hz, 75 kW, mit druckfestem Motor<br>EEXDE II C, T4, IP 55, komplett aufgebaut auf einer Grundplatte <br>mit Kupplung und Kupplungsschutz"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Durchflußrate 170 m3/h, Förderhöhe 170 m, \\nNPSH 1,3m, mit Ex-Motor 50 Hz, 75 kW, mit druckfestem Motor\\nEEXDE II C, T4, IP 55, komplett aufgebaut auf einer Grundplatte \\nmit Kupplung und Kupplungsschutz"
 }

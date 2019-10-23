@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    90910\r\n                  ",
+  "id": "90910",
   "name": "Sciherheitsventil Typ RegO RS3131",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "nicht eingestellt, nicht verstiftet,<br>zum einstellen auf 8 bar"
+  "price": "0,00",
+  "amount": "0",
+  "description": "nicht eingestellt, nicht verstiftet,\\nzum einstellen auf 8 bar"
 }

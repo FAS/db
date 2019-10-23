@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    16423\r\n                  ",
+  "id": "16423",
   "name": "Sicherheitsabsperrventil SAV Typ RMG720",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "mit folgender Konfiguration:<br>Nennweite, Eingang: DN50<br>Druckstufe: PN16<br>Kontrollger&#xE4;t: K6<br>Bereich Who [bar]: 0,6 - 2,0<br>Bereich Whu [bar]: 0,12 - 0,03<br>Sollwert psu [bar]: 0,12<br>Bedienseite: rechts<br>Farbe: RAL6011 - Resedagr&#xFC;n<br>Fernanzeige: NJ2-14GM-N-V1<br>Gasart: Erdgas<br>Probeausl&#xF6;sung: ohne Probeausl&#xF6;sung<br>Werkstoff: Stahlguss<br>Baul&#xE4;nge: 254 mm<br>CE-PIN: CE-0085AT0071<br>Freiluftausf&#xFC;hrung: Nein<br>Durchmesser Ventilsitz [mm]: 50<br>Werkstoff: Stahlguss<br>pe max [bar]: 16<br>p zul [bar]: 16<br> Flansch Norm: EN 1092<br>mit RMG 915<br>WAZ 3.1<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "mit folgender Konfiguration:\\nNennweite, Eingang: DN50\\nDruckstufe: PN16\\nKontrollgerät: K6\\nBereich Who [bar]: 0,6 - 2,0\\nBereich Whu [bar]: 0,12 - 0,03\\nSollwert psu [bar]: 0,12\\nBedienseite: rechts\\nFarbe: RAL6011 - Resedagrün\\nFernanzeige: NJ2-14GM-N-V1\\nGasart: Erdgas\\nProbeauslösung: ohne Probeauslösung\\nWerkstoff: Stahlguss\\nBaulänge: 254 mm\\nCE-PIN: CE-0085AT0071\\nFreiluftausführung: Nein\\nDurchmesser Ventilsitz [mm]: 50\\nWerkstoff: Stahlguss\\npe max [bar]: 16\\np zul [bar]: 16\\n Flansch Norm: EN 1092\\nmit RMG 915\\nWAZ 3.1\\n"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    29413\r\n                  ",
+  "id": "29413",
   "name": "Briefumschlag FAS,",
   "weight": "0,01",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n50\r\n                    \r\n                    ",
-  "description": "wei&#xDF;, Druck 2-farbig mit Raster,<br>Gr&#xF6;&#xDF;e: 219 x 110 mm, mit Sichtfenster,<br>Vorderseite mit Firmenlogo,<br>R&#xFC;ckseite mit Firmenlogo, Werbetext,<br>auf dem Schlie&#xDF;rand vollst&#xE4;ndige Adresse"
+  "price": "0,00",
+  "amount": "50",
+  "description": "weiß, Druck 2-farbig mit Raster,\\nGröße: 219 x 110 mm, mit Sichtfenster,\\nVorderseite mit Firmenlogo,\\nRückseite mit Firmenlogo, Werbetext,\\nauf dem Schließrand vollständige Adresse"
 }

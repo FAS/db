@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    688333\r\n                  ",
+  "id": "688333",
   "name": "Steuerung, Typ Logo für selbstreinigende Filtersysteme",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Anschluss: 230 V, Wechselspannung, 50 Hz<br><br>Sollwerte f&#xFC;r Reinigung und Entleerung k&#xF6;nnen &#xFC;ber das Textdisplay im Schaltschrank eingegeben werden.<br><br>Aufstellung:  Filter und Steuerung exfreier Bereich<br><br>Zeitsteuerung im Standardbetrieb und Dauerreinigung bei dP Signal &quot;Ein&quot;"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Anschluss: 230 V, Wechselspannung, 50 Hz\\n\\nSollwerte für Reinigung und Entleerung können über das Textdisplay im Schaltschrank eingegeben werden.\\n\\nAufstellung:Filter und Steuerung exfreier Bereich\\n\\nZeitsteuerung im Standardbetrieb und Dauerreinigung bei dP Signal \"Ein\""
 }

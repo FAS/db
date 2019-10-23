@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    86211\r\n                  ",
-  "name": "Bogen  3\" xs ( 7,62 )",
+  "id": "86211",
+  "name": "Bogen3\" xs ( 7,62 )",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n8\r\n                    \r\n                    ",
-  "description": "ANSI B 16.9, aus ASTM A 420 <br>Grad LR 90&#xB0;, WPL 6 <br>mit Abnahmepr&#xFC;fzeugnis 3.1 "
+  "price": "0,00",
+  "amount": "8",
+  "description": "ANSI B 16.9, aus ASTM A 420 \\nGrad LR 90°, WPL 6 \\nmit Abnahmeprüfzeugnis 3.1 "
 }

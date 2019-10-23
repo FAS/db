@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    36224\r\n                  ",
+  "id": "36224",
   "name": "Magnetkarten, codiert, für Tankautomat FAS-420_L,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "Kartenfarbe: wei&#xDF;<br>Aufschrift Vorderseite: Beschriftung gem&#xE4;&#xDF; Kundenvorlage<br>Laufende Nr.: _____ - _____<br>ACHTUNG: bei Nachbestellungen bitte letzte laufende<br>                   Kartennummer angeben !<br>Projekt: <br>Opel-Autohaus a. d. Hansastra&#xDF;e<br>Hansastr. 212<br>13051 Berlin<br><br>"
+  "price": "0,00",
+  "amount": "1",
+  "description": "Kartenfarbe: weiß\\nAufschrift Vorderseite: Beschriftung gemäß Kundenvorlage\\nLaufende Nr.: _____ - _____\\nACHTUNG: bei Nachbestellungen bitte letzte laufende\\nKartennummer angeben !\\nProjekt: \\nOpel-Autohaus a. d. Hansastraße\\nHansastr. 212\\n13051 Berlin\\n\\n"
 }

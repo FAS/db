@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    16727\r\n                  ",
+  "id": "16727",
   "name": "Druckregler, PN 4, Niederdruck (2. Stufe),",
   "weight": "0,00",
-  "price": "\r\n                  395,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "mit Sicherheitsabsperrventil (SAV) , mit<br>thermischer Absperreinrichtung (TAE)<br>und Sicherheitsmembran,<br>Vordruck:      0,5 - 2,0 bar<br>Hinterdruck:30mbar<br>Leistung:        6 kg/h<br>Anschlu&#xDF;: <br>- Eingang 1/2&quot; IG<br>- Ausgang 3/4&quot; IG<br>EG-Baumusterpr&#xFC;fung nach DGR<br>"
+  "price": "395,00",
+  "amount": "0",
+  "description": "mit Sicherheitsabsperrventil (SAV) , mit\\nthermischer Absperreinrichtung (TAE)\\nund Sicherheitsmembran,\\nVordruck:0,5 - 2,0 bar\\nHinterdruck:30mbar\\nLeistung:6 kg/h\\nAnschluß: \\n- Eingang 1/2\" IG\\n- Ausgang 3/4\" IG\\nEG-Baumusterprüfung nach DGR\\n"
 }

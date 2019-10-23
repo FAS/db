@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    11314\r\n                  ",
-  "name": "Muffe aus Stahl St 35.8 III, G 3/4\"IG, nach DIN ISO 228,   ",
+  "id": "11314",
+  "name": "Muffe aus Stahl St 35.8 III, G 3/4\"IG, nach DIN ISO 228,",
   "weight": "0,07",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n3\r\n                    \r\n                    ",
-  "description": "L&#xE4;nge = 25 mm, Abnahmepr&#xFC;fzeugnis f&#xFC;r das Vormaterial<br>3.1.B nach EN 10204 (DIN 50.049)"
+  "price": "0,00",
+  "amount": "3",
+  "description": "Länge = 25 mm, Abnahmeprüfzeugnis für das Vormaterial\\n3.1.B nach EN 10204 (DIN 50.049)"
 }

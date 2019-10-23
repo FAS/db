@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    83982\r\n                  ",
-  "name": "Kompensator in Stahl, DN 125, PN  40, ",
+  "id": "83982",
+  "name": "Kompensator in Stahl, DN 125, PN40, ",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Balg aus Edelstahl 1.4541, beiderseits mit Flansch C 22.8, <br>Dehnung: axial &#xB1; 20 mm, lateral &#xB1; 12 mm, mit Abnahme-<br>pr&#xFC;fzeugnis 3.1 nach EN 10 204 "
+  "price": "0,00",
+  "amount": "0",
+  "description": "Balg aus Edelstahl 1.4541, beiderseits mit Flansch C 22.8, \\nDehnung: axial ± 20 mm, lateral ± 12 mm, mit Abnahme-\\nprüfzeugnis 3.1 nach EN 10 204 "
 }

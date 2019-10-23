@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    34732\r\n                  ",
+  "id": "34732",
   "name": "Erweiterung für FAS 411-Controller",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "2. Controller, im selben Geh&#xE4;use eingebaut,<br>zur Teilung der Tankstelle."
+  "price": "0,00",
+  "amount": "0",
+  "description": "2. Controller, im selben Gehäuse eingebaut,\\nzur Teilung der Tankstelle."
 }

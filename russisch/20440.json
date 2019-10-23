@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    20440\r\n                  ",
+  "id": "20440",
   "name": "Temperatur-Begrenzer 110° C, Öffner",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "f&#xFC;r Fl&#xFC;ssiggas-Verdampfer Typ FAS 2000,<br>Typ  R 27 05 N 11034 110&#xB1;5/M<br>1100440"
+  "price": "0,00",
+  "amount": "0",
+  "description": "für Flüssiggas-Verdampfer Typ FAS 2000,\\nTypR 27 05 N 11034 110±5/M\\n1100440"
 }

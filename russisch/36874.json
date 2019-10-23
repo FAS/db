@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    36874\r\n                  ",
+  "id": "36874",
   "name": "Magnetkörper 8441",
   "weight": "6,57",
-  "price": "\r\n                  480,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Spannung: 230V, 40 - 60HZ<br>Schutz-Art: EEx meII T3, IP 65<br>Ex II  2G T 140&#xB0;C<br>Anschlussgeh&#xE4;use f&#xFC;r Kabel 7-9mm<br>Kabeleinf&#xFC;hrung M16 x 1,5<br>Aufn. Betrieb 195 mA<br>"
+  "price": "480,00",
+  "amount": "0",
+  "description": "Spannung: 230V, 40 - 60HZ\\nSchutz-Art: EEx meII T3, IP 65\\nEx II2G T 140°C\\nAnschlussgehäuse für Kabel 7-9mm\\nKabeleinführung M16 x 1,5\\nAufn. Betrieb 195 mA\\n"
 }

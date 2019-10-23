@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    810575\r\n                  ",
+  "id": "810575",
   "name": "Sicherheitsventil, UNI-Typ PRV9434T340",
   "weight": "0,14",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n180\r\n                    \r\n                    ",
-  "description": "in Messingausf&#xFC;hrung, 1/2&quot; NPT, <br>Einstelldruck: 340 PSI (23,4bar)<br>mit Entw&#xE4;sserungsbohrung, ohne Adapter<br>&#xF6;l-und fettfrei, ohne T&#xDC;V-Abnahme<br>mit CE-Kennzeichnung nach PED 2014/68/EU"
+  "price": "0,00",
+  "amount": "180",
+  "description": "in Messingausführung, 1/2\" NPT, \\nEinstelldruck: 340 PSI (23,4bar)\\nmit Entwässerungsbohrung, ohne Adapter\\nöl-und fettfrei, ohne TÜV-Abnahme\\nmit CE-Kennzeichnung nach PED 2014/68/EU"
 }

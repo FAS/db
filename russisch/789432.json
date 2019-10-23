@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    789432\r\n                  ",
+  "id": "789432",
   "name": "Konsole für Rohrleitung DN32",
   "weight": "8,90",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n2\r\n                    \r\n                    ",
-  "description": "Masse: H = 430; L = 155; B = 230<br>verzinkt <br>"
+  "price": "0,00",
+  "amount": "2",
+  "description": "Masse: H = 430; L = 155; B = 230\\nverzinkt \\n"
 }

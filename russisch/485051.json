@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    485051\r\n                  ",
+  "id": "485051",
   "name": "Auswerte-Software für Tankautomat FAS-430_E,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "SONDERAUSF&#xDC;HRUNG Projekt Paulaner,<br>mit folgendem Umfang:<br> - Einzelplatzlizenz, nicht Netzwerkf&#xE4;hig<br> - Stammdatenverwaltung<br> - Auswertung von 1 Tankautomat<br> - Auswertung von Km, Datum und Person oder Kfz<br> - Auswertung nach Abteilung und Kostenstelle<br> - Automatische Zuordnung &#xFC;ber Ausweiskennung<br> - Tankungen &#xFC;ber Fahrzeugnummer<br> - Listengenerator mit Filterm&#xF6;glichkeiten<br><br>Systemvorraussetzungen:<br> - PC mit mind. Pentium II<br> - Serielle Schnittstelle RS232 oder USB-Schnittstelle<br> - Windows XP, Windows 7<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "SONDERAUSFÜHRUNG Projekt Paulaner,\\nmit folgendem Umfang:\\n - Einzelplatzlizenz, nicht Netzwerkfähig\\n - Stammdatenverwaltung\\n - Auswertung von 1 Tankautomat\\n - Auswertung von Km, Datum und Person oder Kfz\\n - Auswertung nach Abteilung und Kostenstelle\\n - Automatische Zuordnung über Ausweiskennung\\n - Tankungen über Fahrzeugnummer\\n - Listengenerator mit Filtermöglichkeiten\\n\\nSystemvorraussetzungen:\\n - PC mit mind. Pentium II\\n - Serielle Schnittstelle RS232 oder USB-Schnittstelle\\n - Windows XP, Windows 7\\n"
 }

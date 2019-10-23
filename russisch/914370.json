@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    914370\r\n                  ",
+  "id": "914370",
   "name": "Drehstrommotor 3,3 kW, für FAS-91.437,",
   "weight": "32,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n2\r\n                    \r\n                    ",
-  "description": "Leistung: 3,30 KW, Z&#xFC;ndschutzart: EEx e II T3<br>Spannung: 400V, 50 Hz<br>Schutzart IP 55, Bauform IMB35 Flansch,<br>Drehzahl: 3000 1/min<br>mit EG-Baumusterpr&#xFC;fbescheinigung / ATEX"
+  "price": "0,00",
+  "amount": "2",
+  "description": "Leistung: 3,30 KW, Zündschutzart: EEx e II T3\\nSpannung: 400V, 50 Hz\\nSchutzart IP 55, Bauform IMB35 Flansch,\\nDrehzahl: 3000 1/min\\nmit EG-Baumusterprüfbescheinigung / ATEX"
 }

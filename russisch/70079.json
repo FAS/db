@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    70079\r\n                  ",
+  "id": "70079",
   "name": "Oberflächentemperatursensor PT100 4-Leiter",
   "weight": "0,20",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "Messbereich -50&#xB0;C bis +250&#xB0;C"
+  "price": "0,00",
+  "amount": "1",
+  "description": "Messbereich -50°C bis +250°C"
 }

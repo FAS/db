@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    80386\r\n                  ",
+  "id": "80386",
   "name": "alt",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Viking-Pumpe HJ 195-G Nr. 900020572<br>repariert lt. Kostenvoranschlag vom 13/01/93"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Viking-Pumpe HJ 195-G Nr. 900020572\\nrepariert lt. Kostenvoranschlag vom 13/01/93"
 }

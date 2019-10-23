@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    95171\r\n                  ",
+  "id": "95171",
   "name": "Druckregler, Typ IGT A400",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Eingang: 3/8&quot; NPT IG<br>Ausgang: 3/8&quot; NPT IG<br>Ausgangsdruck: 37 mbar<br>Leistung: 4,0 kg/h"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Eingang: 3/8\" NPT IG\\nAusgang: 3/8\" NPT IG\\nAusgangsdruck: 37 mbar\\nLeistung: 4,0 kg/h"
 }

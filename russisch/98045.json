@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    98045\r\n                  ",
+  "id": "98045",
   "name": "Speisetrenner Typ RN221N (E&H)",
   "weight": "0,00",
-  "price": "\r\n                  325,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Messumformerspeisung 4-20mA SIL<br>Geh&#xE4;use 22,5mm, Tragschiene 35mm, IP20,<br>f&#xFC;r Schaltschrankeinbau,<br>Zulassung: ATEX II (1)GD (Ex ia) IIC<br>Hilfsenergie; Diagnose: 20-250VDC/AC; HART durchl&#xE4;ssig"
+  "price": "325,00",
+  "amount": "0",
+  "description": "Messumformerspeisung 4-20mA SIL\\nGehäuse 22,5mm, Tragschiene 35mm, IP20,\\nfür Schaltschrankeinbau,\\nZulassung: ATEX II (1)GD (Ex ia) IIC\\nHilfsenergie; Diagnose: 20-250VDC/AC; HART durchlässig"
 }

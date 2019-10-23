@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    25083\r\n                  ",
+  "id": "25083",
   "name": "Rohrdrehgelenk DN 80, PN 25,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "aus Stahl, beiderseits Flanschanschlu&#xDF; DN 80 <br>nach DIN EN 1092-1 (DIN 2635), <br>Baul&#xE4;nge = 277 mm, <br>Ausf&#xFC;hrung gem&#xE4;&#xDF; Z-Nr. 25083/1/1/3,<br>Material mit Abnahmepr&#xFC;fzeugnis 3.1 nach EN 10204"
+  "price": "0,00",
+  "amount": "0",
+  "description": "aus Stahl, beiderseits Flanschanschluß DN 80 \\nnach DIN EN 1092-1 (DIN 2635), \\nBaulänge = 277 mm, \\nAusführung gemäß Z-Nr. 25083/1/1/3,\\nMaterial mit Abnahmeprüfzeugnis 3.1 nach EN 10204"
 }

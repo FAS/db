@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    10086\r\n                  ",
+  "id": "10086",
   "name": "Переходник PN 40, с внутренней и наружней резьбой из стали",
   "weight": "0,20",
-  "price": "\r\n                  9,00\r\n                  ",
-  "amount": "\r\n                      \r\n56\r\n                    \r\n                    ",
-  "description": "1&quot; NPT AG x 1/2&quot; NPT IG"
+  "price": "9,00",
+  "amount": "56",
+  "description": "1\" NPT AG x 1/2\" NPT IG"
 }

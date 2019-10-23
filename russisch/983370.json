@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    983370\r\n                  ",
+  "id": "983370",
   "name": "Niederdruckregler, Typ SRG 541",
   "weight": "0,30",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Eingang: 20 mm, mit Durchflussbegrenzer<br>Ausgang:10 mm<br>Nenndruck: 30 mbar<br>Farbe: hellblau / grau<br><br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Eingang: 20 mm, mit Durchflussbegrenzer\\nAusgang:10 mm\\nNenndruck: 30 mbar\\nFarbe: hellblau / grau\\n\\n"
 }

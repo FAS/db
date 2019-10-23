@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    18743\r\n                  ",
+  "id": "18743",
   "name": "Elektronischer Zähler, Typ Movimat C 724, ",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "f&#xFC;nfstelliger Z&#xE4;hler mit Impulseingang zur Mengenanzeige,<br>Anzeige: Ist-Menge, Gesamtmenge und Durchflu&#xDF;, <br>umschaltbar.<br>Die Bedienung erfolgt &#xFC;ber Drucktasten in der <br>Fronttafel. Schalttafeleinbau-Geh&#xE4;use<br>nach DIN mit Frontrahmen 96 x 48 mm,<br>Stromversorgung 230 V, 50 Hz"
+  "price": "0,00",
+  "amount": "0",
+  "description": "fünfstelliger Zähler mit Impulseingang zur Mengenanzeige,\\nAnzeige: Ist-Menge, Gesamtmenge und Durchfluß, \\numschaltbar.\\nDie Bedienung erfolgt über Drucktasten in der \\nFronttafel. Schalttafeleinbau-Gehäuse\\nnach DIN mit Frontrahmen 96 x 48 mm,\\nStromversorgung 230 V, 50 Hz"
 }

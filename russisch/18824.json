@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    18824\r\n                  ",
+  "id": "18824",
   "name": "Umbau einer Meßanlage von mechanischem Zählerkopf",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "auf elektronischen Z&#xE4;hlerkopf inklusive Eichung."
+  "price": "0,00",
+  "amount": "0",
+  "description": "auf elektronischen Zählerkopf inklusive Eichung."
 }

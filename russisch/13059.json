@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    13059\r\n                  ",
+  "id": "13059",
   "name": "Муфта для наполняющего клапана",
   "weight": "3,10",
-  "price": "\r\n                  310,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "3&quot; NPT x 3 1/4&quot; ACME"
+  "price": "310,00",
+  "amount": "0",
+  "description": "3\" NPT x 3 1/4\" ACME"
 }

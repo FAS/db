@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    34982\r\n                  ",
+  "id": "34982",
   "name": "Bedien-/Programmiergerät Typ WWC-UAK",
   "weight": "0,50",
-  "price": "\r\n                  1.300,00\r\n                  ",
-  "amount": "\r\n                      \r\n2\r\n                    \r\n                    ",
-  "description": "mit Anschlu&#xDF;kabel, f&#xFC;r Tokheimrechner"
+  "price": "1.300,00",
+  "amount": "2",
+  "description": "mit Anschlußkabel, für Tokheimrechner"
 }

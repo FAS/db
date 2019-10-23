@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    13659\r\n                  ",
-  "name": "Adapter  einerseits 1 3/4\" ACME AG, anderseits 1 1/4\" ACME I",
+  "id": "13659",
+  "name": "Adaptereinerseits 1 3/4\" ACME AG, anderseits 1 1/4\" ACME I",
   "weight": "0,60",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "bestehend aus:<br>- FAS 13061<br>- FAS 10114<br>- FAS 10021"
+  "price": "0,00",
+  "amount": "0",
+  "description": "bestehend aus:\\n- FAS 13061\\n- FAS 10114\\n- FAS 10021"
 }

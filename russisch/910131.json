@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    910131\r\n                  ",
+  "id": "910131",
   "name": "Nadelventil, UNI-Typ NVA1250, ",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Geh&#xE4;usematerial: Messing,<br>A (NPT): 1/8&quot; <br>B (UNS-2B): 1/2&quot;-27<br>Feingewinde und langer Kegel der Spindel<br>erm&#xF6;glichen eine genaue Regulierung und<br>leckfreies Schlie&#xDF;en ; <br>Spindelsicherung gegen Herausschrauben aus dem Geh&#xE4;use ; <br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Gehäusematerial: Messing,\\nA (NPT): 1/8\" \\nB (UNS-2B): 1/2\"-27\\nFeingewinde und langer Kegel der Spindel\\nermöglichen eine genaue Regulierung und\\nleckfreies Schließen ; \\nSpindelsicherung gegen Herausschrauben aus dem Gehäuse ; \\n"
 }

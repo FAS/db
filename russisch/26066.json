@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    26066\r\n                  ",
+  "id": "26066",
   "name": "Drehstrom-Kurzschlußläufer-Normmotor",
   "weight": "22,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n5\r\n                    \r\n                    ",
-  "description": "2,0 kW, 1500 1/min., 220V/380V, 50Hz<br>Fabrikat Siemens,IP 54, EEx e II T3,<br>Bauform B14 (Flansch)"
+  "price": "0,00",
+  "amount": "5",
+  "description": "2,0 kW, 1500 1/min., 220V/380V, 50Hz\\nFabrikat Siemens,IP 54, EEx e II T3,\\nBauform B14 (Flansch)"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    83597\r\n                  ",
+  "id": "83597",
   "name": "Ingenieursleistungen:",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Erstellung aller anforderlichen Zeichnungen, St&#xFC;cklisten,<br>Schaltschema und sonstige Dokumentationen, die zum ord-<br>nungsgem&#xE4;&#xDF;en Betrieb der Anlage notwendig sind."
+  "price": "0,00",
+  "amount": "0",
+  "description": "Erstellung aller anforderlichen Zeichnungen, Stücklisten,\\nSchaltschema und sonstige Dokumentationen, die zum ord-\\nnungsgemäßen Betrieb der Anlage notwendig sind."
 }

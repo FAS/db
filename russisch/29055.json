@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    29055\r\n                  ",
+  "id": "29055",
   "name": "Generalüberholung eines Multiport-Gehäuses 4\",",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Typ Reg0 TA8570, ohne Metalldichtung, ohne<br>Sicherheitsventile<br>folgende Reparaturen bzw. Arbeiten werden durchgef&#xFC;hrt:<br>- Reinigen und Entrosten<br>- Sandstrahlen<br>- Grundieren<br>- Austauschen von Dichtungen und beweglichen Elementen<br>- Druckprobe / Dichtheitspr&#xFC;fung"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Typ Reg0 TA8570, ohne Metalldichtung, ohne\\nSicherheitsventile\\nfolgende Reparaturen bzw. Arbeiten werden durchgeführt:\\n- Reinigen und Entrosten\\n- Sandstrahlen\\n- Grundieren\\n- Austauschen von Dichtungen und beweglichen Elementen\\n- Druckprobe / Dichtheitsprüfung"
 }

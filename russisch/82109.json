@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    82109\r\n                  ",
+  "id": "82109",
   "name": "Schmutzfänger, DN 150 PN 25/40",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Geh&#xE4;use aus GS-C 25, Baul&#xE4;nge 480 mm,<br>Schr&#xE4;gsitzform mit Flanschenanschlu&#xDF;<br>nach DIN EN 1092-1 (DIN 2635), Maschenweite 1,2 mm,<br>Innensieb aus Edelstahldrahtgewebe <br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Gehäuse aus GS-C 25, Baulänge 480 mm,\\nSchrägsitzform mit Flanschenanschluß\\nnach DIN EN 1092-1 (DIN 2635), Maschenweite 1,2 mm,\\nInnensieb aus Edelstahldrahtgewebe \\n"
 }

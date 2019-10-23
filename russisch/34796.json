@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    34796\r\n                  ",
+  "id": "34796",
   "name": "Interface zur Sender - Programmierung",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Wird ben&#xF6;tigt, um in Verbindung mit einem PC<br>und der mitgelieferten Software die Fahrzeugdaten<br>in den Sender zu laden.<br><br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Wird benötigt, um in Verbindung mit einem PC\\nund der mitgelieferten Software die Fahrzeugdaten\\nin den Sender zu laden.\\n\\n"
 }

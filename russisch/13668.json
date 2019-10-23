@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    13668\r\n                  ",
+  "id": "13668",
   "name": "Autogas-Adapter Set für Norwegen",
   "weight": "0,68",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "bestehend aus:<br>- FAS 13518 (ACME)<br>- FAS 13665 (DISH)<br>- FAS 13667 (BAJONET)"
+  "price": "0,00",
+  "amount": "0",
+  "description": "bestehend aus:\\n- FAS 13518 (ACME)\\n- FAS 13665 (DISH)\\n- FAS 13667 (BAJONET)"
 }

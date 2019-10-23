@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    16038\r\n                  ",
-  "name": "Druckregler, Mitteldruck, Eingang POL IG  x Ausgang 1/2\" NPT",
+  "id": "16038",
+  "name": "Druckregler, Mitteldruck, Eingang POL IGx Ausgang 1/2\" NPT",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Leistung max. 25 kg/h, Typ RegO 2403 U9 &quot;Red Giant&quot;,<br>Vordruck bis 10 bar, Hinterdruck 0,5 - 1,4 bar<br>mit Werkszeugnis 2.2 nach EN 10 204 "
+  "price": "0,00",
+  "amount": "0",
+  "description": "Leistung max. 25 kg/h, Typ RegO 2403 U9 \"Red Giant\",\\nVordruck bis 10 bar, Hinterdruck 0,5 - 1,4 bar\\nmit Werkszeugnis 2.2 nach EN 10 204 "
 }

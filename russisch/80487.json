@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    80487\r\n                  ",
+  "id": "80487",
   "name": "Behälterreglerkombination mit SAV und SBV,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "10 kg/h, Vordruck 1,5 - 16 bar, Hinterdruck<br>50 mbar, Eingang POL-Anschlu&#xDF;"
+  "price": "0,00",
+  "amount": "0",
+  "description": "10 kg/h, Vordruck 1,5 - 16 bar, Hinterdruck\\n50 mbar, Eingang POL-Anschluß"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    90705\r\n                  ",
-  "name": "Sicherheitsventil 2\" NPT AG,  Typ RegO 8434, aus Stahl,",
+  "id": "90705",
+  "name": "Sicherheitsventil 2\" NPT AG,Typ RegO 8434, aus Stahl,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Einstelldruck 23.2 bar, ohne Bauteilpr&#xFC;fung, ohne <br>T&#xDC;V-Einstellbescheinigung, mit UL-Kennzeichnung,<br>mit Gummischutzkappe, mit Werkszeugnis 2.2 nach <br>EN 10 204 "
+  "price": "0,00",
+  "amount": "0",
+  "description": "Einstelldruck 23.2 bar, ohne Bauteilprüfung, ohne \\nTÜV-Einstellbescheinigung, mit UL-Kennzeichnung,\\nmit Gummischutzkappe, mit Werkszeugnis 2.2 nach \\nEN 10 204 "
 }

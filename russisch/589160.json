@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    589160\r\n                  ",
+  "id": "589160",
   "name": "BK-G16 V6 DN40 mit M-Bus - Einstutzen Balgengaszähler",
   "weight": "5,60",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": " - Z&#xE4;hlwerk mit Encoder AE3 M-Bus<br> - Fabrikat Elster, Messbereich: 0,16 - 25m&#xB3;/h<br> - Anschluss DN40<br> - Pmax 0,1bar HTB<br> - inkl. Eichgeb&#xFC;hr<br> - zugelassen nach DIN EN 1359<br> - Gastemperatur: -10&#xB0;C bis +40&#xB0;C <br> - Encoderdaten: M-Bus Standard nach EN 13757; BaudRate: 2400;<br>   Prim&#xE4;radresse: 0<br><br><br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": " - Zählwerk mit Encoder AE3 M-Bus\\n - Fabrikat Elster, Messbereich: 0,16 - 25m³/h\\n - Anschluss DN40\\n - Pmax 0,1bar HTB\\n - inkl. Eichgebühr\\n - zugelassen nach DIN EN 1359\\n - Gastemperatur: -10°C bis +40°C \\n - Encoderdaten: M-Bus Standard nach EN 13757; BaudRate: 2400;\\nPrimäradresse: 0\\n\\n\\n"
 }

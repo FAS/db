@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    10090\r\n                  ",
+  "id": "10090",
   "name": "Переходник PN 40 с NPT-внутренней и наружной резьбой",
   "weight": "0,35",
-  "price": "\r\n                  17,00\r\n                  ",
-  "amount": "\r\n                      \r\n15\r\n                    \r\n                    ",
-  "description": "&#x438;&#x437; &#x441;&#x442;&#x430;&#x43B;&#x438; ASTM A 105<br>1 1/2&quot; NPT-AG x 1&quot; NPT IG"
+  "price": "17,00",
+  "amount": "15",
+  "description": "из стали ASTM A 105\\n1 1/2\" NPT-AG x 1\" NPT IG"
 }

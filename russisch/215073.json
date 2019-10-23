@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    215073\r\n                  ",
+  "id": "215073",
   "name": "Flüssiggas-Seitenkanalpumpe, CEHA 3102NL LA DBG 1A 0AN",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Horizontale, selbstansaugende, gasmitf&#xF6;rdernde Seitenkanalpumpe in Gliedergeh&#xE4;usebauart mit NPSH-Vorstufe, mit freiem Wellenende.<br>Pumpendaten:<br>Wellendichtung: Einzel-GLRD<br>Anschluss Saugseite: DN 65 PN40<br>Anschluss Druckseite: DN 32 PN40<br>Drehzahl: 1450 1/min"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Horizontale, selbstansaugende, gasmitfördernde Seitenkanalpumpe in Gliedergehäusebauart mit NPSH-Vorstufe, mit freiem Wellenende.\\nPumpendaten:\\nWellendichtung: Einzel-GLRD\\nAnschluss Saugseite: DN 65 PN40\\nAnschluss Druckseite: DN 32 PN40\\nDrehzahl: 1450 1/min"
 }

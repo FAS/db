@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    949422\r\n                  ",
-  "name": "EX - Sicherheitsschalter außen am Verdampferschrank  ",
+  "id": "949422",
+  "name": "EX - Sicherheitsschalter außen am Verdampferschrank",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "fest angeschlossen - Einbau im Werk FAS<br><br> (    ) FAS 264200 f&#xFC;r 32 kg/h Verdampfer<br> (    ) FAS 264201 f&#xFC;r 60 kg/h Verdampfer<br> (    ) FAS 264202 f&#xFC;r 100 kg/h Verdampfer<br><br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "fest angeschlossen - Einbau im Werk FAS\\n\\n () FAS 264200 für 32 kg/h Verdampfer\\n () FAS 264201 für 60 kg/h Verdampfer\\n () FAS 264202 für 100 kg/h Verdampfer\\n\\n"
 }

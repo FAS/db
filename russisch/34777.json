@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    34777\r\n                  ",
+  "id": "34777",
   "name": "Ablösepaket Autopoll Standard",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Leistungsumfang analog der vorhandenen Autopoll-Pakete:<br>- Upgrade von Autopoll EURO-Standard auf Fuel Data COM oder Fleet oder Account.<br><br>Erweiterung / Anpassung gegen Aufpreis.<br><br>Lizenskosten, ohne Optionen und ohne Kosten f&#xFC;r die Daten&#xFC;bernahme.<br><br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Leistungsumfang analog der vorhandenen Autopoll-Pakete:\\n- Upgrade von Autopoll EURO-Standard auf Fuel Data COM oder Fleet oder Account.\\n\\nErweiterung / Anpassung gegen Aufpreis.\\n\\nLizenskosten, ohne Optionen und ohne Kosten für die Datenübernahme.\\n\\n"
 }

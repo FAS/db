@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    99109\r\n                  ",
+  "id": "99109",
   "name": "Hochdruckschlauch LPG",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "DN 19, 25 bar<br>3,5 m"
+  "price": "0,00",
+  "amount": "0",
+  "description": "DN 19, 25 bar\\n3,5 m"
 }

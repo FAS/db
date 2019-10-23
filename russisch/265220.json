@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    265220\r\n                  ",
+  "id": "265220",
   "name": "Leuchtdrucktaste rot",
   "weight": "0,01",
-  "price": "\r\n                  15,00\r\n                  ",
-  "amount": "\r\n                      \r\n10\r\n                    \r\n                    ",
-  "description": "Leuchtdrucktaste, RMQ-Titan, <br>Bauform: flach, tastend, Tastenplatte: rot, Tastenplatte unbeschriftet<br>Schutzart: IP67, IP69K, Frontring Titan"
+  "price": "15,00",
+  "amount": "10",
+  "description": "Leuchtdrucktaste, RMQ-Titan, \\nBauform: flach, tastend, Tastenplatte: rot, Tastenplatte unbeschriftet\\nSchutzart: IP67, IP69K, Frontring Titan"
 }

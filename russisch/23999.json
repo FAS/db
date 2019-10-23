@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    23999\r\n                  ",
+  "id": "23999",
   "name": "Adsorptionstrockner ecodry K-MT 2",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "vollautomatischer Betrieb zur Trocknung von Druckluft,<br>Kaltregeneriert, mit multitronic-plus Steuerung,<br>Leistung: 15 m3/h<br>Anschluss: G 1/4&quot;<br>Druck: 16 bar<br>komplett mit Vor-und Nachfilter"
+  "price": "0,00",
+  "amount": "0",
+  "description": "vollautomatischer Betrieb zur Trocknung von Druckluft,\\nKaltregeneriert, mit multitronic-plus Steuerung,\\nLeistung: 15 m3/h\\nAnschluss: G 1/4\"\\nDruck: 16 bar\\nkomplett mit Vor-und Nachfilter"
 }

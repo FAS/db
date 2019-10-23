@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    67122\r\n                  ",
+  "id": "67122",
   "name": "Magnetkarte, codiert, für Tankautomat FAS-420_L,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Ausf&#xFC;hrung: 1-farbig mit Aufdruck gem&#xE4;&#xDF; Kunden-Vorlage<br><br>Kartenfarbe:  wei&#xDF; <br>Schriftfarbe:  <br><br>Achtung:  0001 - 0100<br><br>Kunde: GWT Wasungen<br><br>Projekt: <br>Toyota Autohaus<br>Feldm&#xFC;hlenstr. 12<br>58099 Hagen"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Ausführung: 1-farbig mit Aufdruck gemäß Kunden-Vorlage\\n\\nKartenfarbe:weiß \\nSchriftfarbe:\\n\\nAchtung:0001 - 0100\\n\\nKunde: GWT Wasungen\\n\\nProjekt: \\nToyota Autohaus\\nFeldmühlenstr. 12\\n58099 Hagen"
 }

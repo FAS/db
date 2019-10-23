@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    231601\r\n                  ",
+  "id": "231601",
   "name": "Pneumatikabschaltventil 3024",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Ventil zum Abschalten des F&#xFC;llvorgangs bei Erreichen des gew&#xE4;hlten F&#xFC;llgewichts durch ausl&#xF6;sen des mechanischen Grenzschalters.<br><br>Betriebsdruck:<br>maximal:\t\t8 bar<br>minimal:\t\t1 bar<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Ventil zum Abschalten des Füllvorgangs bei Erreichen des gewählten Füllgewichts durch auslösen des mechanischen Grenzschalters.\\n\\nBetriebsdruck:\\nmaximal:8 bar\\nminimal:1 bar\\n"
 }

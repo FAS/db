@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    98076\r\n                  ",
+  "id": "98076",
   "name": "EuroLINK Steckdose nach VOC (EN 13922)",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "f&#xFC;r den Anschlu&#xDF; von bis zu 12 optischen Sensoren.<br>(5-Draht System)<br><br>Gewicht; 1,4 kg<br>Temperaturbereich: -40&#xB0;C bis +50&#xB0;C"
+  "price": "0,00",
+  "amount": "0",
+  "description": "für den Anschluß von bis zu 12 optischen Sensoren.\\n(5-Draht System)\\n\\nGewicht; 1,4 kg\\nTemperaturbereich: -40°C bis +50°C"
 }

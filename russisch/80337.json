@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    80337\r\n                  ",
+  "id": "80337",
   "name": "alt",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Wir weisen darauf hin, da&#xDF; der F&#xFC;llanschlu&#xDF;<br>nur provisorisch als &#xDC;bergangsl&#xF6;sung<br>montiert wurde !"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Wir weisen darauf hin, daß der Füllanschluß\\nnur provisorisch als Übergangslösung\\nmontiert wurde !"
 }

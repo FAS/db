@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    8001\r\n                  ",
+  "id": "8001",
   "name": "Pos.2 -- Druckluftmembranpumpe",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "=================================================<br>nicht produktber&#xFC;hrende Geh&#xE4;useteile: Aluminium, Bronze<br>produktber&#xFC;hrende Geh&#xE4;useteile:  Aluminium, Stahl<br>Membranen: Nordel<br>Ventilkugeln: Nordel<br>Ventilsitze: Nordel<br><br>Regelbereich der Pumpe: ca. max. 7 m3/h <br>erforderlicher Luftbedarf: 90 m3/h Druckluft, 7 bar<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "=================================================\\nnicht produktberührende Gehäuseteile: Aluminium, Bronze\\nproduktberührende Gehäuseteile:Aluminium, Stahl\\nMembranen: Nordel\\nVentilkugeln: Nordel\\nVentilsitze: Nordel\\n\\nRegelbereich der Pumpe: ca. max. 7 m3/h \\nerforderlicher Luftbedarf: 90 m3/h Druckluft, 7 bar\\n"
 }

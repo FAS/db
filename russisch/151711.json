@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    151711\r\n                  ",
+  "id": "151711",
   "name": "Sicherheitsventil API, Typ 526",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "- Geh&#xE4;usewerkstoff: 1.0619 (GP240GH)<br>- Nennweite-Eintritt: NPS 4&quot;<br>- Nennweite-Austritt: NPS 6&quot;<br>- Flanschdruckstufe Eintritt: (H65), 300 lbs nach ASME B 16.5<br>- Flanschdruckstufe Austritt: (H79), 150 lbs nach ASME B 16.5<br>- Flanschdichtfl&#xE4;che Eintritt: (H89)<br>- Flanschdichtfl&#xE4;che Austritt: (L39)<br>- Druckeinheit: bar<br>- Betriebstemperatur: 20&#xB0;C<br>- Dokumentation: Abnahmepr&#xFC;fzeugnis 3.1 nach DIN EN 10204"
+  "price": "0,00",
+  "amount": "0",
+  "description": "- Gehäusewerkstoff: 1.0619 (GP240GH)\\n- Nennweite-Eintritt: NPS 4\"\\n- Nennweite-Austritt: NPS 6\"\\n- Flanschdruckstufe Eintritt: (H65), 300 lbs nach ASME B 16.5\\n- Flanschdruckstufe Austritt: (H79), 150 lbs nach ASME B 16.5\\n- Flanschdichtfläche Eintritt: (H89)\\n- Flanschdichtfläche Austritt: (L39)\\n- Druckeinheit: bar\\n- Betriebstemperatur: 20°C\\n- Dokumentation: Abnahmeprüfzeugnis 3.1 nach DIN EN 10204"
 }

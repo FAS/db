@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    40210\r\n                  ",
-  "name": "Blackmer-Pumpe, Typ XSB1-N, RH, R/V, 125 PSI, <br>",
+  "id": "40210",
+  "name": "Blackmer-Pumpe, Typ XSB1-N, RH, R/V, 125 PSI, \\n",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "DURA, DC, R&amp;S, O-Ringe Buna Buna<br>Fl&#xFC;ssiggasausf&#xFC;hrung"
+  "price": "0,00",
+  "amount": "0",
+  "description": "DURA, DC, R&S, O-Ringe Buna Buna\\nFlüssiggasausführung"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    225801\r\n                  ",
+  "id": "225801",
   "name": "Membranspeicher",
   "weight": "18,00",
-  "price": "\r\n                  505,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Volumen: 3,5ltr<br>Max. zul. Betriebsdruck: 350bar<br>Membran: ECO, -40&#xB0;C bis +80&#xB0;C<br>Fl&#xFC;ssigkeitsanschluss: M45x1,5 AG<br>SW 46<br>G 3/4&quot; IG<br>Gasanschluss: M28x1,5 nachf&#xFC;llbar<br>Vorf&#xFC;lldruck: Transportdruck bis 10bar<br>mit Konformit&#xE4;tserkl&#xE4;rung<br>Gewicht: 18kg (Schmiedestahl)"
+  "price": "505,00",
+  "amount": "0",
+  "description": "Volumen: 3,5ltr\\nMax. zul. Betriebsdruck: 350bar\\nMembran: ECO, -40°C bis +80°C\\nFlüssigkeitsanschluss: M45x1,5 AG\\nSW 46\\nG 3/4\" IG\\nGasanschluss: M28x1,5 nachfüllbar\\nVorfülldruck: Transportdruck bis 10bar\\nmit Konformitätserklärung\\nGewicht: 18kg (Schmiedestahl)"
 }

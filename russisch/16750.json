@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    16750\r\n                  ",
-  "name": "Hochdruckregler, Typ Fisher 64SR-21,  ",
+  "id": "16750",
+  "name": "Hochdruckregler, Typ Fisher 64SR-21,",
   "weight": "1,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n2\r\n                    \r\n                    ",
-  "description": "1/2&quot; x 1/2&quot; NPT IG mit Sicherheitsventil,<br>Einstelldruck 3- 15 PSI"
+  "price": "0,00",
+  "amount": "2",
+  "description": "1/2\" x 1/2\" NPT IG mit Sicherheitsventil,\\nEinstelldruck 3- 15 PSI"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    263703\r\n                  ",
-  "name": "S7-1200 Signal Board SB 1221<br>\t<br>",
+  "id": "263703",
+  "name": "S7-1200 Signal Board SB 1221\\n\t\\n",
   "weight": "0,03",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "Signal Board f&#xFC;r S7-1200 mit 4 DI (24V)"
+  "price": "0,00",
+  "amount": "1",
+  "description": "Signal Board für S7-1200 mit 4 DI (24V)"
 }

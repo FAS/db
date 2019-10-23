@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    80361\r\n                  ",
+  "id": "80361",
   "name": "alt",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Nachfolgend berechnen wir Ihnen die Kosten,<br>die bei dem Umtausch vom defekten Gasblasenabscheider<br>einschl. Arbeits- und Fahrzeiten uns entstanden sind<br><br>Lohnkosten:                  4860.-<br>Fahrtkosten:                 3060.-                                               <br>Abwicklungskosten:        200.-<br>Frachtkosten:                  490.-"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Nachfolgend berechnen wir Ihnen die Kosten,\\ndie bei dem Umtausch vom defekten Gasblasenabscheider\\neinschl. Arbeits- und Fahrzeiten uns entstanden sind\\n\\nLohnkosten:4860.-\\nFahrtkosten:3060.-\\nAbwicklungskosten:200.-\\nFrachtkosten:490.-"
 }

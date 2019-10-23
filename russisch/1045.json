@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    1045\r\n                  ",
+  "id": "1045",
   "name": "VERBUNDFAHRTPAUSCHALE",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "*************************************<br>Pauschale f&#xFC;r die An- &amp; Abfahrt im Rahmen einer Verbundfahrt.<br><br>Entfernung von Salzgitter bis zu ...<br>50 km = 75,- EUR / 100 km = 125,- EUR / 200 km = 200,- EUR<br>300 km = 275,- EUR / ab 301 km = 350,- EUR<br><br>Hinweis:<br>Bei Abschluss einer Service-Vereinbarung erhalten Sie 15% Nachlass<br>auf die Verbundfahrts-Pauschale.<br><br>( ) Sollte aufgrund des gew&#xFC;nschten Serviceeinsatzes keine komplette<br>Verbundfahrt m&#xF6;glich sein, erlauben wir uns 50% der Verbundfahrts-<br>pauschale f&#xFC;r die Teilsonderanfahrt zu berechnen.<br><br>( ) Sollte ein Serviceeinsatzes mit einer Reaktionszeit von 12 Stunden <br>notwendig/erforderlich sein, erlauben wir uns 50% der Verbundfahrts-<br>pauschale f&#xFC;r die Teilsonderanfahrt zu berechnen.<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "\\nPauschale für die An- & Abfahrt im Rahmen einer Verbundfahrt.\\n\\nEntfernung von Salzgitter bis zu ...\\n50 km = 75,- EUR / 100 km = 125,- EUR / 200 km = 200,- EUR\\n300 km = 275,- EUR / ab 301 km = 350,- EUR\\n\\nHinweis:\\nBei Abschluss einer Service-Vereinbarung erhalten Sie 15% Nachlass\\nauf die Verbundfahrts-Pauschale.\\n\\n( ) Sollte aufgrund des gewünschten Serviceeinsatzes keine komplette\\nVerbundfahrt möglich sein, erlauben wir uns 50% der Verbundfahrts-\\npauschale für die Teilsonderanfahrt zu berechnen.\\n\\n( ) Sollte ein Serviceeinsatzes mit einer Reaktionszeit von 12 Stunden \\nnotwendig/erforderlich sein, erlauben wir uns 50% der Verbundfahrts-\\npauschale für die Teilsonderanfahrt zu berechnen.\\n"
 }

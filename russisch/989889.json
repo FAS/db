@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    989889\r\n                  ",
+  "id": "989889",
   "name": "ALTCK Platine (board)",
   "weight": "0,10",
-  "price": "\r\n                  740,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Dies ist die Stromversorgungskarte des TE550 f&#xFC;r DC-Anwendungen. <br>Es k&#xF6;nnte mit einer Autobatterie betrieben werden.<br>Es verf&#xFC;gt &#xFC;ber eine Filterfunktion (zur Einhaltung der EMC-standards) und eine Spannungsverteilungsfunktion. <br>Die Platine bietet auch zwei Ausg&#xE4;nge, die auf etwa 24 V DC eingestellt sind, um andere Ger&#xE4;te wie Drucker und Handheld-Computer mit Strom zu versorgen."
+  "price": "740,00",
+  "amount": "0",
+  "description": "Dies ist die Stromversorgungskarte des TE550 für DC-Anwendungen. \\nEs könnte mit einer Autobatterie betrieben werden.\\nEs verfügt über eine Filterfunktion (zur Einhaltung der EMC-standards) und eine Spannungsverteilungsfunktion. \\nDie Platine bietet auch zwei Ausgänge, die auf etwa 24 V DC eingestellt sind, um andere Geräte wie Drucker und Handheld-Computer mit Strom zu versorgen."
 }

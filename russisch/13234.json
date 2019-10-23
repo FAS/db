@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    13234\r\n                  ",
+  "id": "13234",
   "name": "Trockenkupplung DN50 Vater-Teil",
   "weight": "3,30",
-  "price": "\r\n                  700,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "TROCKENKUPPLUNG TXTU DN 50 FLANSCH EN1092-1<br>PN 25/<br>40, 1.4408 FKM<br><br>STANAG Schnittstelle &#x2013;<br>nach Nato-Norm STANAG 3756 f&#xFC;r das Bajonettprinzip<br>damit voll kompatibel zu Mann Tek / TODO Kupplungen"
+  "price": "700,00",
+  "amount": "0",
+  "description": "TROCKENKUPPLUNG TXTU DN 50 FLANSCH EN1092-1\\nPN 25/\\n40, 1.4408 FKM\\n\\nSTANAG Schnittstelle –\\nnach Nato-Norm STANAG 3756 für das Bajonettprinzip\\ndamit voll kompatibel zu Mann Tek / TODO Kupplungen"
 }

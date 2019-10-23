@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    25721\r\n                  ",
+  "id": "25721",
   "name": "Wasserberieselungsanlage",
   "weight": "1.155,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "f&#xFC;r Lagerbeh&#xE4;lter komplett bestehend aus 34 Rohrsegmenten.<br><br>Kennzeichen: L1, L2, L3, L4, L5, L6, L7, L8, L9, L10, L11, L12,<br>L13, L14, L15, L16, L17, L18, L19, L20, L21, L22, L23, L24,<br>L25, L26, L27, L28, L29, L30, L31, L32, L1a, L13a"
+  "price": "0,00",
+  "amount": "0",
+  "description": "für Lagerbehälter komplett bestehend aus 34 Rohrsegmenten.\\n\\nKennzeichen: L1, L2, L3, L4, L5, L6, L7, L8, L9, L10, L11, L12,\\nL13, L14, L15, L16, L17, L18, L19, L20, L21, L22, L23, L24,\\nL25, L26, L27, L28, L29, L30, L31, L32, L1a, L13a"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    91981\r\n                  ",
+  "id": "91981",
   "name": "Flüssiggas - Seitenkanalpumpen - Aggregat",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "mit NPSH - Vorstufe<br>Typ CEHA 3606/7 AA AFU OA 4<br>Ausf&#xFC;hrung GG 25<br>komplett mit Drehstrommotor 5,0 kW<br>400/690 , 50Hz , EEx e II T3<br>mit Kupplung , Kupplungsschutz , <br>Grundplatte und Aggregatmontage.<br>Eingang DN 65, Ausgang DN32.<br><br>Zus&#xE4;tzlich erforderliche Ausr&#xFC;stung - PC - Anlage"
+  "price": "0,00",
+  "amount": "0",
+  "description": "mit NPSH - Vorstufe\\nTyp CEHA 3606/7 AA AFU OA 4\\nAusführung GG 25\\nkomplett mit Drehstrommotor 5,0 kW\\n400/690 , 50Hz , EEx e II T3\\nmit Kupplung , Kupplungsschutz , \\nGrundplatte und Aggregatmontage.\\nEingang DN 65, Ausgang DN32.\\n\\nZusätzlich erforderliche Ausrüstung - PC - Anlage"
 }

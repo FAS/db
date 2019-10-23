@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    616821\r\n                  ",
+  "id": "616821",
   "name": "Gasdruckgregelgerät RR 16 - 50 - 24 - 8N - 022",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Nennweite DN 50<br>mit SAV - 022 f&#xFC;r obere und untere Abschaltung. <br>Eingangsdruck bis 16 bar, Ausgangdruck von 150 mbar bis 250 mbar , <br>Durchfluss:  1800 m3/h (Erdgas) bei den o.g. Dr&#xFC;cken<br><br>-Komform mit 2014/68/EU<br>-DVGW-Zulassung"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Nennweite DN 50\\nmit SAV - 022 für obere und untere Abschaltung. \\nEingangsdruck bis 16 bar, Ausgangdruck von 150 mbar bis 250 mbar , \\nDurchfluss:1800 m3/h (Erdgas) bei den o.g. Drücken\\n\\n-Komform mit 2014/68/EU\\n-DVGW-Zulassung"
 }

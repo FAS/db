@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    160681\r\n                  ",
+  "id": "160681",
   "name": "Niederdruckregler mit OPSO ( SAV ) und Sicherheitsmembrane",
   "weight": "2,20",
-  "price": "\r\n                  1.525,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "zur Installation nach der Hauseinf&#xFC;hrung<br>Leistung:          max. 160 kg/h<br>Eingangsdruck: max. 4 bar<br>Ausgangsdruck: 50 mbar<br>Anschluss beidseitig G 1&quot; IG<br>OPSO:              120 mbar<br>mit DIN-/DVGW-Zulassung"
+  "price": "1.525,00",
+  "amount": "0",
+  "description": "zur Installation nach der Hauseinführung\\nLeistung:max. 160 kg/h\\nEingangsdruck: max. 4 bar\\nAusgangsdruck: 50 mbar\\nAnschluss beidseitig G 1\" IG\\nOPSO:120 mbar\\nmit DIN-/DVGW-Zulassung"
 }

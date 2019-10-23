@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    111192\r\n                  ",
+  "id": "111192",
   "name": "Flüssiggas (Propan nach DIN 51.622)",
   "weight": "0,00",
-  "price": "\r\n                  0,68\r\n                  ",
-  "amount": "\r\n                      \r\n676\r\n                    \r\n                    ",
-  "description": "###############################<br>Lieferung erfolgte am: <br>=&gt; siehe oben, Datum der Lieferung/Leistungserbringung<br><br>###############################<br>Steuerbeg&#xFC;nstigtes  Fl&#xFC;ssiggas!<br>Darf nicht zum Antrieb von Motoren verwendet werden!<br>###############################<br>Fl&#xFC;ssiggasnachbestellungen bitte bei Beh&#xE4;lterstand 30 %<br>###############################"
+  "price": "0,68",
+  "amount": "676",
+  "description": "\\nLieferung erfolgte am: \\n=> siehe oben, Datum der Lieferung/Leistungserbringung\\n\\n\\nSteuerbegünstigtesFlüssiggas!\\nDarf nicht zum Antrieb von Motoren verwendet werden!\\n\\nFlüssiggasnachbestellungen bitte bei Behälterstand 30 %\\n"
 }

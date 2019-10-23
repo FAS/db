@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    81495\r\n                  ",
+  "id": "81495",
   "name": "alt",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Herstellerbescheinigung mit folgenden Daten: <br>- Ventiltyp <br>- Nenndruck <br>- Nennma&#xDF; <br>- Durchflu&#xDF;koeffizient und Durchflu&#xDF;leistung <br>- Medium <br>- Anl&#xFC;ftdruck (?), voller &#xD6;ffnungsdruck (?) und Schlie&#xDF;druck (?) <br>- Arbeitstemperatur <br>- Katalogseite "
+  "price": "0,00",
+  "amount": "0",
+  "description": "Herstellerbescheinigung mit folgenden Daten: \\n- Ventiltyp \\n- Nenndruck \\n- Nennmaß \\n- Durchflußkoeffizient und Durchflußleistung \\n- Medium \\n- Anlüftdruck (?), voller Öffnungsdruck (?) und Schließdruck (?) \\n- Arbeitstemperatur \\n- Katalogseite "
 }

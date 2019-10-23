@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    79298\r\n                  ",
+  "id": "79298",
   "name": "Предохранитель",
   "weight": "0,01",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n18\r\n                    \r\n                    ",
-  "description": " 6,3A  6,3x32mm"
+  "price": "0,00",
+  "amount": "18",
+  "description": " 6,3A6,3x32mm"
 }

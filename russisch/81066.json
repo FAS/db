@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    81066\r\n                  ",
-  "name": "O-Ring,                                    ",
+  "id": "81066",
+  "name": "O-Ring,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n10\r\n                    \r\n                    ",
-  "description": "Typ 1684YSG<br>Ausgangsdruckbereich: 7 - 14 bar<br>Gewindeanschlu&#xDF;: 1/2&quot; NPT IG<br>Max. Eingangsdruck: 28 bar"
+  "price": "0,00",
+  "amount": "10",
+  "description": "Typ 1684YSG\\nAusgangsdruckbereich: 7 - 14 bar\\nGewindeanschluß: 1/2\" NPT IG\\nMax. Eingangsdruck: 28 bar"
 }

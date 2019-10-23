@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    111271\r\n                  ",
+  "id": "111271",
   "name": "SV-4.3.3 - Notdienst mit einer Reaktionzeit von",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "48 Std. werktags<br><br>F&#xFC;r den Zeitraum vom *** bis zum ***.<br><br>Abrechnung gem. Servicevereinbarung"
+  "price": "0,00",
+  "amount": "0",
+  "description": "48 Std. werktags\\n\\nFür den Zeitraum vom  bis zum .\\n\\nAbrechnung gem. Servicevereinbarung"
 }

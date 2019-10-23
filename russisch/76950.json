@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    76950\r\n                  ",
+  "id": "76950",
   "name": "Transportkiste 220 x 220 x 160",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "Innenma&#xDF;"
+  "price": "0,00",
+  "amount": "1",
+  "description": "Innenmaß"
 }

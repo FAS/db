@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    58880\r\n                  ",
+  "id": "58880",
   "name": "Anzeiger Typ SRG",
   "weight": "0,50",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n20\r\n                    \r\n                    ",
-  "description": "Einbau waagerecht, Schaftl&#xE4;nge 645 mm,<br>Beh&#xE4;lter-&#xD8;: 1250 mm, Skala mit Glyzerinf&#xFC;llung,<br>Sonderausf&#xFC;hrung mit Zulassungsnummer f&#xFC;r Polen"
+  "price": "0,00",
+  "amount": "20",
+  "description": "Einbau waagerecht, Schaftlänge 645 mm,\\nBehälter-Ø: 1250 mm, Skala mit Glyzerinfüllung,\\nSonderausführung mit Zulassungsnummer für Polen"
 }

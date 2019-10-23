@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    918433\r\n                  ",
+  "id": "918433",
   "name": "Flüssiggas-Pumpenaggregat Typ UEAB 08012,",
   "weight": "0,00",
-  "price": "\r\n                  51.910,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Pumpe:<br>Horizontale, selbst ansaugende centrifugal Pumpe<br>mit geschlossenen Impellern.<br>Wellenabdichtung: DNE: <br>Shaft: 1.4122-QT X 20 Cr 13<br>Impeller: EN-JL1040 GG 25<br>NPSH impeller: EN-JL1040 GG 25<br>Schaufelrad: Cu Zn 40 Al 1<br>Geh&#xE4;use: EN-JL1040 GG 25<br>O-ring: Perbunan<br>"
+  "price": "51.910,00",
+  "amount": "0",
+  "description": "Pumpe:\\nHorizontale, selbst ansaugende centrifugal Pumpe\\nmit geschlossenen Impellern.\\nWellenabdichtung: DNE: \\nShaft: 1.4122-QT X 20 Cr 13\\nImpeller: EN-JL1040 GG 25\\nNPSH impeller: EN-JL1040 GG 25\\nSchaufelrad: Cu Zn 40 Al 1\\nGehäuse: EN-JL1040 GG 25\\nO-ring: Perbunan\\n"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    93897\r\n                  ",
+  "id": "93897",
   "name": "D-Link 24 Port Fast Ethernet SWITCH",
   "weight": "2,43",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "&#x43F;&#x43E;&#x434;&#x43A;&#x43B;&#x44E;&#x447;&#x435;&#x43D;&#x438;&#x44F;: 24 Port RJ45<br>&#x441;&#x43A;&#x43E;&#x440;&#x43E;&#x441;&#x442;&#x44C; &#x43F;&#x435;&#x440;&#x435;&#x434;&#x430;&#x447;&#x438; &#x434;&#x430;&#x43D;&#x43D;&#x44B;&#x445;: 100MBit/s"
+  "price": "0,00",
+  "amount": "0",
+  "description": "подключения: 24 Port RJ45\\nскорость передачи данных: 100MBit/s"
 }

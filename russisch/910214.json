@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    910214\r\n                  ",
+  "id": "910214",
   "name": "Nadelventil, UNI-Typ FFG2006SSTA,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Eingang/Ausgang: 3/4&quot; NPT IG ,<br>Geh&#xE4;usematerial: Edelstahl AISI 303,<br>Schwere hartgel&#xF6;tete Konstruktion,<br>max. zul&#xE4;ssiger Druck f&#xFC;r Fl&#xFC;ssigkeiten: 650 bar,<br>max. zul&#xE4;ssiger Druck f&#xFC;r Luft: 135 bar "
+  "price": "0,00",
+  "amount": "0",
+  "description": "Eingang/Ausgang: 3/4\" NPT IG ,\\nGehäusematerial: Edelstahl AISI 303,\\nSchwere hartgelötete Konstruktion,\\nmax. zulässiger Druck für Flüssigkeiten: 650 bar,\\nmax. zulässiger Druck für Luft: 135 bar "
 }

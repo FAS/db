@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    47003\r\n                  ",
+  "id": "47003",
   "name": "Bodenschleife zur Erkennung Fahrzeug mit Betriebsstundzähler",
   "weight": "2,50",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "einschlie&#xDF;lich Rahmen und Verbindungskabel.<br>Erforderlich f&#xFC;r PCM Technik.<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "einschließlich Rahmen und Verbindungskabel.\\nErforderlich für PCM Technik.\\n"
 }

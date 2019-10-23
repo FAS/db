@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    20174\r\n                  ",
+  "id": "20174",
   "name": "Verdampfer, Typ FAS, warmwasserbeheizt",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "f&#xFC;r Propan/Butan, Gaseingang DN 100, Gasausgang DN 150<br>Ausf&#xFC;hrung als stehender Rohrb&#xFC;ndelverdampfer<br>Berechnung, Herstellung und Pr&#xFC;fung gem&#xE4;&#xDF; den<br>AD-Merkbl&#xE4;ttern und der Druckbeh&#xE4;lterverordnung,<br>Abnahme durch T&#xDC;V<br>Auslegungsdaten:<br>Berechnungsdruck: 25/10 bar (Gas/Wasser)<br>Berechnungstemperatur: 100/100&#xB0; (Gas/Wasser)<br>Leistung:<br>Volumenstrom:  4500kg/h Propan<br>Wassertemperatur: 90/70&#xB0; C <br>Beschreibung:<br>&#xDC;berflutungsschutz redundant entsprechend den sicherheits-<br>technischen Anforderungen an Fl&#xFC;ssiggasanlagen (TRB 801), <br>Doppelthermostat zur &#xDC;berwachung der Gastemperatur, <br>Liquiphant zum Schutz vor &#xDC;berf&#xFC;llung, 1 Magnetventil im Eingang, <br>elektrische Ausr&#xFC;stung entsprechend VDE, Schutzart IP 54,<br>Stromanschlu&#xDF; 220 V, 50 Hz, Druckw&#xE4;chter im Heizkreislauf <br>Verdampfer in Ex-gesch&#xFC;tzter Ausf&#xFC;hrung mit separatem<br>Schaltschrank zur Montage au&#xDF;erhalb der Ex-Zone,<br>Verkabelung bauseits<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "für Propan/Butan, Gaseingang DN 100, Gasausgang DN 150\\nAusführung als stehender Rohrbündelverdampfer\\nBerechnung, Herstellung und Prüfung gemäß den\\nAD-Merkblättern und der Druckbehälterverordnung,\\nAbnahme durch TÜV\\nAuslegungsdaten:\\nBerechnungsdruck: 25/10 bar (Gas/Wasser)\\nBerechnungstemperatur: 100/100° (Gas/Wasser)\\nLeistung:\\nVolumenstrom:4500kg/h Propan\\nWassertemperatur: 90/70° C \\nBeschreibung:\\nÜberflutungsschutz redundant entsprechend den sicherheits-\\ntechnischen Anforderungen an Flüssiggasanlagen (TRB 801), \\nDoppelthermostat zur Überwachung der Gastemperatur, \\nLiquiphant zum Schutz vor Überfüllung, 1 Magnetventil im Eingang, \\nelektrische Ausrüstung entsprechend VDE, Schutzart IP 54,\\nStromanschluß 220 V, 50 Hz, Druckwächter im Heizkreislauf \\nVerdampfer in Ex-geschützter Ausführung mit separatem\\nSchaltschrank zur Montage außerhalb der Ex-Zone,\\nVerkabelung bauseits\\n"
 }

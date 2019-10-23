@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    25291\r\n                  ",
+  "id": "25291",
   "name": "Mehrpreis für die Montage von einem Näherungsschalter",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "f&#xFC;r die Meldung der Parkstellung an Verladearmstation<br>Typ FAS-G7, komplett mit Verkabelung und Anschlu&#xDF;-<br>kasten an der Stands&#xE4;ule"
+  "price": "0,00",
+  "amount": "0",
+  "description": "für die Meldung der Parkstellung an Verladearmstation\\nTyp FAS-G7, komplett mit Verkabelung und Anschluß-\\nkasten an der Standsäule"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    22297\r\n                  ",
+  "id": "22297",
   "name": "Elektronic - Cash",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "F&#xFC;r die EC-Karten bzw. Flottenkarten Autorisierung<br>mu&#xDF; der Betreiber einen Antrag bei der Firma Telecash<br>in Stuttgart stellen. <br>-siehe Musterantrag<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Für die EC-Karten bzw. Flottenkarten Autorisierung\\nmuß der Betreiber einen Antrag bei der Firma Telecash\\nin Stuttgart stellen. \\n-siehe Musterantrag\\n"
 }

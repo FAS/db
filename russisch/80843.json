@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    80843\r\n                  ",
+  "id": "80843",
   "name": "Anschlussstecker für Elektrode",
   "weight": "0,02",
-  "price": "\r\n                  12,00\r\n                  ",
-  "amount": "\r\n                      \r\n11\r\n                    \r\n                    ",
-  "description": "Stecker, gerade, &#xF8; 4mm, funkentst&#xF6;rt"
+  "price": "12,00",
+  "amount": "11",
+  "description": "Stecker, gerade, ø 4mm, funkentstört"
 }

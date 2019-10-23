@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    26040\r\n                  ",
+  "id": "26040",
   "name": "Einphasen-Wechselspannungsmotor, 1,5 kW,",
   "weight": "33,10",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "mit Anlaufkondensator und Fliehkraftschalter,<br>Spannung: 230V AC, 50Hz, <br>Bauform: B3, Schutzart: IP 55,<br>Drehzahl: 1500U/min,<br>Z&#xFC;ndschutzart: Ex d IIB T4<br>gem. EU-Richtlinie 94/9/EG / ATEX<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "mit Anlaufkondensator und Fliehkraftschalter,\\nSpannung: 230V AC, 50Hz, \\nBauform: B3, Schutzart: IP 55,\\nDrehzahl: 1500U/min,\\nZündschutzart: Ex d IIB T4\\ngem. EU-Richtlinie 94/9/EG / ATEX\\n"
 }

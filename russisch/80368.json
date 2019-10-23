@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    80368\r\n                  ",
+  "id": "80368",
   "name": "alt",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Wir berechnen Ihnen gem&#xE4;&#xDF; Vereinbarung vom 03.02.93<br>Kontrakt-Nr. 7.250.00.1902"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Wir berechnen Ihnen gemäß Vereinbarung vom 03.02.93\\nKontrakt-Nr. 7.250.00.1902"
 }

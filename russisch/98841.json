@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    98841\r\n                  ",
+  "id": "98841",
   "name": "Vorwahlzähler, Typ Bopp & Reuther UR 06",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Anwendungsbereich: Pipelinemessung<br>Eingang: Ein- oder Zweikanalig<br>Temp: PT100/500/1000, 4 Leiter<br>Anschluss: 230V, 50/60Hz<br>Schutzart: IP65<br>Temp: 0 - 55&#xB0;C"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Anwendungsbereich: Pipelinemessung\\nEingang: Ein- oder Zweikanalig\\nTemp: PT100/500/1000, 4 Leiter\\nAnschluss: 230V, 50/60Hz\\nSchutzart: IP65\\nTemp: 0 - 55°C"
 }

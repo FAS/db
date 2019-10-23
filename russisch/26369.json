@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    26369\r\n                  ",
+  "id": "26369",
   "name": "Simatic Net, PB FC RS485 Plug 180",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "PB-Stecker mit Fastconnect<br>Anschlusst. und axialem Kabel-Gang<br>F.Industrie-PC, Simatic OP, OLM<br>&#xDC;bertragungsrate: 12 MBIT/S<br>Abschlusswiderstand<br>6GK1500-0FCOO"
+  "price": "0,00",
+  "amount": "0",
+  "description": "PB-Stecker mit Fastconnect\\nAnschlusst. und axialem Kabel-Gang\\nF.Industrie-PC, Simatic OP, OLM\\nÜbertragungsrate: 12 MBIT/S\\nAbschlusswiderstand\\n6GK1500-0FCOO"
 }

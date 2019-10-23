@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    604040\r\n                  ",
-  "name": "FAS pump unit  model Z4500",
+  "id": "604040",
+  "name": "FAS pump unitmodel Z4500",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "V-belt mounting with motor, 18,5 KW,<br>400/690 Volt, 50 Hz, II 2 G EEx d IIC T 4<br>capacity max. 950 l/min at a differential<br>pressure of 5 bar, max. differential pressure 8,6 bar,<br>mounted on a base plate, primed and painted"
+  "price": "0,00",
+  "amount": "0",
+  "description": "V-belt mounting with motor, 18,5 KW,\\n400/690 Volt, 50 Hz, II 2 G EEx d IIC T 4\\ncapacity max. 950 l/min at a differential\\npressure of 5 bar, max. differential pressure 8,6 bar,\\nmounted on a base plate, primed and painted"
 }

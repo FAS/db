@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    27610\r\n                  ",
+  "id": "27610",
   "name": "Propan betriebenes Notstromaggregat",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "bis ca. 500 Betriebsstunden im Jahr, Handschaltanlage mit &#xDC;berwachung aller betriebswichtiger Motor- und Generatorfunktionen.<br>Elektrische Leistung 15kW, Luftgek&#xFC;hlter Kohler Motor<br>Leistung 16kW/3000 U/min mit Hydrost&#xF6;&#xDF;el dadurch kein Ventileinstellen mehr n&#xF6;tig.<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "bis ca. 500 Betriebsstunden im Jahr, Handschaltanlage mit Überwachung aller betriebswichtiger Motor- und Generatorfunktionen.\\nElektrische Leistung 15kW, Luftgekühlter Kohler Motor\\nLeistung 16kW/3000 U/min mit Hydrostößel dadurch kein Ventileinstellen mehr nötig.\\n"
 }

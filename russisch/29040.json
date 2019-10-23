@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    29040\r\n                  ",
+  "id": "29040",
   "name": "Viking Pumpen-Aggregat, HJ-895, MDA9-B",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "bestehend aus:<br>- EExellT3-Motor 1,35 KW, max. 1450 min-1<br>- Magnetkupplung MDA9+BC<br>- Grundplatte GR. 2 (C-Stahl verzinkt)<br>- ATEX 2 zulassung f&#xFC;r H-R Baugr&#xF6;&#xDF;e"
+  "price": "0,00",
+  "amount": "0",
+  "description": "bestehend aus:\\n- EExellT3-Motor 1,35 KW, max. 1450 min-1\\n- Magnetkupplung MDA9+BC\\n- Grundplatte GR. 2 (C-Stahl verzinkt)\\n- ATEX 2 zulassung für H-R Baugröße"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    34059\r\n                  ",
+  "id": "34059",
   "name": "Interfaceplatine für Tankinhaltssonde \"GOK\",",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "compl. einschl. Exbarriere<br><br>zus&#xE4;tzlich notwendig sind:<br> - je Anlage ein Me&#xDF;wertgeber <br>   (FAS-18.368)<br> - je Anlage eine Kanal 4 Umschaltplatine<br>   (FAS-34.222)<br> - pro Softwarelizenz ein Update &quot;Anzeige der GOK-Sondenwerte&quot; <br>   (FAS-34.060)"
+  "price": "0,00",
+  "amount": "1",
+  "description": "compl. einschl. Exbarriere\\n\\nzusätzlich notwendig sind:\\n - je Anlage ein Meßwertgeber \\n(FAS-18.368)\\n - je Anlage eine Kanal 4 Umschaltplatine\\n(FAS-34.222)\\n - pro Softwarelizenz ein Update \"Anzeige der GOK-Sondenwerte\" \\n(FAS-34.060)"
 }

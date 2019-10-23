@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    930902\r\n                  ",
+  "id": "930902",
   "name": "LPG LKW Entladung / Ladestation, bestehend aus:",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "- LPG 50 Schlauchleitung, l = 5 m<br>- 3 1/4&quot; ACME - Kupplung<br>- Entspannungsventil<br>- 2&quot; Kugelhahn<br>- Sicherheitsventil 25 bar<br>- RegO Abrei&#xDF;kupplung mit Halteseil<br>- Schauglas<br>- Zubeh&#xF6;r"
+  "price": "0,00",
+  "amount": "0",
+  "description": "- LPG 50 Schlauchleitung, l = 5 m\\n- 3 1/4\" ACME - Kupplung\\n- Entspannungsventil\\n- 2\" Kugelhahn\\n- Sicherheitsventil 25 bar\\n- RegO Abreißkupplung mit Halteseil\\n- Schauglas\\n- Zubehör"
 }

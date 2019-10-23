@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    962150\r\n                  ",
+  "id": "962150",
   "name": "Gasgenerator Typ FAS-18-3/VP für 1000 Stunden NON STOP Betri",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "mit Elektroschaltkasten f&#xFC;r Norbetrieb. <br>Gasgenerator liefert eine Kapazit&#xE4;t von 14,4 kW Elektrostrom, optimalen<br>Kraftstoffverbrauch bei Teillast, ist leise im Betrieb. <br><br>Gasgenerator FAS-18-3/VP hat zwei Betriebsarten:<br>1. Automatischer Betrieb - Einheit startet beim Ausfall einer oder mehrere Stromphasen. Oder wenn die Spannung mind. einer Phase &#xFC;ber den Bereich von 180-250 V geht. <br>2. Manueller Betrieb - bei dem manuellen Betrieb bis zum Anhalten geht die ganze Last auf den Gasgenerator.<br><br>Technische Daten:<br><br>Umdrehungszahl: 1500 rpm<br>Phasenzahl: 3<br>Strom: 400 V<br>Nennstromleistung: 26 A<br>Nennfrequenz, Hz: 50<br>Max. Leistung: 13,5/14,4 (Methan/LPG), kW<br>Leistungsfaktor, cos: 0,8<br>Schutzklasse: N<br>Motorstart: elektrischer Anlasser<br>Medium: NG/LPG<br>Gasdruck (Methan): 1,5-2,7 kPa<br>Verbrauch m3/h (50%/100%) : 3,2/5,7<br>Gasdruck (LPG): 1,0-3,0<br>Verbrauch kg/h (50%/100%): 2,9/5<br>Ger&#xE4;uschpegel, nicht h&#xF6;her als, db : 60<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "mit Elektroschaltkasten für Norbetrieb. \\nGasgenerator liefert eine Kapazität von 14,4 kW Elektrostrom, optimalen\\nKraftstoffverbrauch bei Teillast, ist leise im Betrieb. \\n\\nGasgenerator FAS-18-3/VP hat zwei Betriebsarten:\\n1. Automatischer Betrieb - Einheit startet beim Ausfall einer oder mehrere Stromphasen. Oder wenn die Spannung mind. einer Phase über den Bereich von 180-250 V geht. \\n2. Manueller Betrieb - bei dem manuellen Betrieb bis zum Anhalten geht die ganze Last auf den Gasgenerator.\\n\\nTechnische Daten:\\n\\nUmdrehungszahl: 1500 rpm\\nPhasenzahl: 3\\nStrom: 400 V\\nNennstromleistung: 26 A\\nNennfrequenz, Hz: 50\\nMax. Leistung: 13,5/14,4 (Methan/LPG), kW\\nLeistungsfaktor, cos: 0,8\\nSchutzklasse: N\\nMotorstart: elektrischer Anlasser\\nMedium: NG/LPG\\nGasdruck (Methan): 1,5-2,7 kPa\\nVerbrauch m3/h (50%/100%) : 3,2/5,7\\nGasdruck (LPG): 1,0-3,0\\nVerbrauch kg/h (50%/100%): 2,9/5\\nGeräuschpegel, nicht höher als, db : 60\\n"
 }

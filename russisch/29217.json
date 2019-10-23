@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    29217\r\n                  ",
+  "id": "29217",
   "name": "Typenschild für Verladearm (EKW+TKW)",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n90\r\n                    \r\n                    ",
-  "description": "aus Aluminium, schwarzer Untergrund mit silberner <br>Schrift, mit 2-farbigem Firmenlogo, vollst&#xE4;ndiger Adresse<br>und Telefon-Nr., Gr&#xF6;&#xDF;e 90x70 mm, mit 4 Bohrungen<br>&#xD8; 3,2mm, Bohrungsabstand 80x60 mm"
+  "price": "0,00",
+  "amount": "90",
+  "description": "aus Aluminium, schwarzer Untergrund mit silberner \\nSchrift, mit 2-farbigem Firmenlogo, vollständiger Adresse\\nund Telefon-Nr., Größe 90x70 mm, mit 4 Bohrungen\\nØ 3,2mm, Bohrungsabstand 80x60 mm"
 }

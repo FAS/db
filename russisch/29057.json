@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    29057\r\n                  ",
-  "name": "Austausch Differenzdruckschalter  FAS-18466",
+  "id": "29057",
+  "name": "Austausch DifferenzdruckschalterFAS-18466",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "ohne Ex-Schutz, Anschluss G 1/4&quot; IG<br><br>Hinweis:<br>Der Differenzdruckschalter ist in seiner Bauform nicht Ex-gesch&#xFC;tzt.<br>Ex-Schutz ist nur dann gew&#xE4;hrleistet, wenn er innerhalb von eingesicherten<br>Schaltkreisen verwendet wird (Ex-i)."
+  "price": "0,00",
+  "amount": "0",
+  "description": "ohne Ex-Schutz, Anschluss G 1/4\" IG\\n\\nHinweis:\\nDer Differenzdruckschalter ist in seiner Bauform nicht Ex-geschützt.\\nEx-Schutz ist nur dann gewährleistet, wenn er innerhalb von eingesicherten\\nSchaltkreisen verwendet wird (Ex-i)."
 }

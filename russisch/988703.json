@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    988703\r\n                  ",
+  "id": "988703",
   "name": "Elektronischer Vorwahlzähler für FAS-Messanlage",
   "weight": "0,00",
-  "price": "\r\n                  750,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Typ RXC 251-A<br>Der Z&#xE4;hler verf&#xFC;gt intern &#xFC;ber 2 Z&#xE4;hler<br>- Hauptz&#xE4;hler mit 1 oder 2 Vorwahlen 6 stellig<br>- Summenz&#xE4;hler 7 stellig<br>Die Z&#xE4;hlweise kann als addierend, subtrahierend<br>und als Differenz betrieben werden.<br>- 7 stelliges LC- Display<br>- Dezimalpunkt programmierbar<br>- Setzwert und Skalierungsfaktor programmierbar<br>- Elektrische und manuelle Resetm&#xF6;glickeit<br>- max Z&#xE4;hlfrequenz 10 kHz<br>- 2 Relaisausg&#xE4;nge<br>- Frontseitiger Schutz IP65<br>- Schalttafeleinbau 96x48x114,7<br>- Spannungsversorgung 115/230V AC<br>"
+  "price": "750,00",
+  "amount": "0",
+  "description": "Typ RXC 251-A\\nDer Zähler verfügt intern über 2 Zähler\\n- Hauptzähler mit 1 oder 2 Vorwahlen 6 stellig\\n- Summenzähler 7 stellig\\nDie Zählweise kann als addierend, subtrahierend\\nund als Differenz betrieben werden.\\n- 7 stelliges LC- Display\\n- Dezimalpunkt programmierbar\\n- Setzwert und Skalierungsfaktor programmierbar\\n- Elektrische und manuelle Resetmöglickeit\\n- max Zählfrequenz 10 kHz\\n- 2 Relaisausgänge\\n- Frontseitiger Schutz IP65\\n- Schalttafeleinbau 96x48x114,7\\n- Spannungsversorgung 115/230V AC\\n"
 }

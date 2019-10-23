@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    80727\r\n                  ",
+  "id": "80727",
   "name": "alt",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Der defekte Kompressor wird bei uns in der Werkstatt zerlegt. Sie erhalten einen Kostenvoranschlag f&#xFC;r die<br>Reparatur bzw. eine Gutschrift f&#xFC;r die Altteile."
+  "price": "0,00",
+  "amount": "0",
+  "description": "Der defekte Kompressor wird bei uns in der Werkstatt zerlegt. Sie erhalten einen Kostenvoranschlag für die\\nReparatur bzw. eine Gutschrift für die Altteile."
 }

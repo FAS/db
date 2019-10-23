@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    54486\r\n                  ",
+  "id": "54486",
   "name": "Elektro-Schaltkasten zur Montage",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "im Geb&#xE4;ude und au&#xDF;erhalb der Schutzzone,<br>komplett verdrahtet zum Anschlu&#xDF; einer<br>Schrumpfmaschine, bestehd aus<br>230VAC/24VDC- Transformator f&#xFC;r die Steuerung<br>mit 24V DC-Magnetventilen, Temperatur&#xFC;berwachung,<br>externen Ein/Aus-Schalter und Not/Ausstaster<br>Anschlu&#xDF;fertig verdrahtet"
+  "price": "0,00",
+  "amount": "1",
+  "description": "im Gebäude und außerhalb der Schutzzone,\\nkomplett verdrahtet zum Anschluß einer\\nSchrumpfmaschine, bestehd aus\\n230VAC/24VDC- Transformator für die Steuerung\\nmit 24V DC-Magnetventilen, Temperaturüberwachung,\\nexternen Ein/Aus-Schalter und Not/Ausstaster\\nAnschlußfertig verdrahtet"
 }

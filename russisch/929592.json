@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    929592\r\n                  ",
+  "id": "929592",
   "name": "Bedieneinheit BOP Basic Operator Panel",
   "weight": "0,11",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "6SL3255-0AA00-4BA1<br>F&#xFC;r Siemens Frequenzumrichter<br>Sinamics G110 und G120 CU 240<br>zur individuelle Parametereinstellungen<br>Einzeiliges, F&#xFC;nfstelliges Display<br>mit Kopierfunktion zum direkten Aufstecken auf den<br>Umrichter"
+  "price": "0,00",
+  "amount": "1",
+  "description": "6SL3255-0AA00-4BA1\\nFür Siemens Frequenzumrichter\\nSinamics G110 und G120 CU 240\\nzur individuelle Parametereinstellungen\\nEinzeiliges, Fünfstelliges Display\\nmit Kopierfunktion zum direkten Aufstecken auf den\\nUmrichter"
 }

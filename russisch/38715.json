@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    38715\r\n                  ",
+  "id": "38715",
   "name": "Programmieradapter AVRPROM mit Netzteil",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "zum Programmieren von Atmel-Prozessoren<br>in Verbindung mit Software AVR Prom Tool<br>einschlie&#xDF;lich Datenleitung SubD 9-pol Stecker/<br>9-pol Buchse und Programmierleitung f&#xFC;r <br>8-pol Stecker"
+  "price": "0,00",
+  "amount": "0",
+  "description": "zum Programmieren von Atmel-Prozessoren\\nin Verbindung mit Software AVR Prom Tool\\neinschließlich Datenleitung SubD 9-pol Stecker/\\n9-pol Buchse und Programmierleitung für \\n8-pol Stecker"
 }

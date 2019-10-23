@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    269665\r\n                  ",
+  "id": "269665",
   "name": "Elektro-Schaltkasten zur Montage",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "im Geb&#xE4;ude und au&#xDF;erhalb der Schutzzone (Zone 2)<br>komplett verdrahtet zum Anschlu&#xDF; von<br>Pumpenmotor 5,0 kW mit Stern/Dreieckanlauf,<br>OHNE Str&#xF6;mungsw&#xE4;chter, Doppeldrucktaster mit Kontrolleuchte,<br>St&#xF6;rmeldung f&#xFC;r Signalhupe oder Blitzleuchte"
+  "price": "0,00",
+  "amount": "0",
+  "description": "im Gebäude und außerhalb der Schutzzone (Zone 2)\\nkomplett verdrahtet zum Anschluß von\\nPumpenmotor 5,0 kW mit Stern/Dreieckanlauf,\\nOHNE Strömungswächter, Doppeldrucktaster mit Kontrolleuchte,\\nStörmeldung für Signalhupe oder Blitzleuchte"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    83366\r\n                  ",
+  "id": "83366",
   "name": "Seemäßige Holzkiste",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "Innenma&#xDF;e: 3,10 m lang x 0,55 m breit x 0,40 m hoch<br>Nettogewicht: ca. 600 kg"
+  "price": "0,00",
+  "amount": "1",
+  "description": "Innenmaße: 3,10 m lang x 0,55 m breit x 0,40 m hoch\\nNettogewicht: ca. 600 kg"
 }

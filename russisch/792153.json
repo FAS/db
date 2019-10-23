@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    792153\r\n                  ",
+  "id": "792153",
   "name": "Пружина для компрессоров",
   "weight": "0,01",
-  "price": "\r\n                  19,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "&#x442;&#x438;&#x43F; LB 161, LB 162, LB 601A, LB 602A, HD 161A,   HD 162A, HD 601A, HD 602A, HD 603A, LB 942A,<br>&#x434;&#x43B;&#x44F; &#x442;&#x438;&#x43F;&#x430;  361, 362, 372"
+  "price": "19,00",
+  "amount": "0",
+  "description": "тип LB 161, LB 162, LB 601A, LB 602A, HD 161A,HD 162A, HD 601A, HD 602A, HD 603A, LB 942A,\\nдля типа361, 362, 372"
 }

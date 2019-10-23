@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    253920\r\n                  ",
+  "id": "253920",
   "name": "Mehrpreis für die Beschichtung eines Verladearmes Typ FAS-G5",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "bestehent aus:<br> - Grundbeschichtung: 2K-EP-Zn, 70 &#xB5;m Trockenschichtst&#xE4;rke (TSD)<br> - Zwischenbeschichtung: 2K-EP-EG, 80 &#xB5;m Trockenschichtst&#xE4;rke (TSD)<br> - Deckbeschichtung: 2K-PUR, 40 &#xB5;m Trockenschichtst&#xE4;rke (TSD)<br> - Farbgebung: grau<br>Achtung:<br> - Die komplette Beschichtung erfolgt im Werk in Salzgitter!!!"
+  "price": "0,00",
+  "amount": "0",
+  "description": "bestehent aus:\\n - Grundbeschichtung: 2K-EP-Zn, 70 µm Trockenschichtstärke (TSD)\\n - Zwischenbeschichtung: 2K-EP-EG, 80 µm Trockenschichtstärke (TSD)\\n - Deckbeschichtung: 2K-PUR, 40 µm Trockenschichtstärke (TSD)\\n - Farbgebung: grau\\nAchtung:\\n - Die komplette Beschichtung erfolgt im Werk in Salzgitter!!!"
 }

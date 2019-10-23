@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    83189\r\n                  ",
+  "id": "83189",
   "name": "Vorschweißflansch, DN 10 PN 40, DIN EN 1092-1 (DIN 2635),",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Material Edelstahl 1.4571, Rohranschlu&#xDF; 17,2 mm,<br>mit Abnahmepr&#xFC;fzeugnis 3.1 B<br>nach EN 10204 "
+  "price": "0,00",
+  "amount": "0",
+  "description": "Material Edelstahl 1.4571, Rohranschluß 17,2 mm,\\nmit Abnahmeprüfzeugnis 3.1 B\\nnach EN 10204 "
 }

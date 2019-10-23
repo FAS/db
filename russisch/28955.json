@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    28955\r\n                  ",
+  "id": "28955",
   "name": "Vorstufenregler D-104, mit SAV und SBV, 60 kg/h,",
   "weight": "3,20",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Typ GOK, PN 25, 1. Stuffe Mitteldruck einstellbar,<br>mit Manometer,<br>Eingangsdruck bis 25 bar, Ausgangsdruck  0,7-2 bar, <br>Eingang POL-Anschlu&#xDF;, Ausgang G 3/4&quot;- i, <br>mit Werkszeugnis 2.2<br>nach EN 10 204 "
+  "price": "0,00",
+  "amount": "0",
+  "description": "Typ GOK, PN 25, 1. Stuffe Mitteldruck einstellbar,\\nmit Manometer,\\nEingangsdruck bis 25 bar, Ausgangsdruck0,7-2 bar, \\nEingang POL-Anschluß, Ausgang G 3/4\"- i, \\nmit Werkszeugnis 2.2\\nnach EN 10 204 "
 }

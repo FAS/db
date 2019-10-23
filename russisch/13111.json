@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    13111\r\n                  ",
+  "id": "13111",
   "name": "Предохранительный заправочный штуцер, PN 25, латунь",
   "weight": "0,75",
-  "price": "\r\n                  64,00\r\n                  ",
-  "amount": "\r\n                      \r\n153\r\n                    \r\n                    ",
-  "description": "1 3/4&quot; ACME IG x 1 3/4&quot; ACME AG, &#x442;&#x438;&#x43F; RegO 7577V, <br>"
+  "price": "64,00",
+  "amount": "153",
+  "description": "1 3/4\" ACME IG x 1 3/4\" ACME AG, тип RegO 7577V, \\n"
 }

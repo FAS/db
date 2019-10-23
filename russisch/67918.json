@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    67918\r\n                  ",
+  "id": "67918",
   "name": "Transponder-Rundmarken, codiert, Lümatic,",
   "weight": "0,07",
-  "price": "\r\n                  37,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "###############################<br>f&#xFC;r Fabrik-Nr.070711053<br>aus AB-Nr. 2652001<br><br><br>Standort:<br>###############################<br>MAP Maschinen &amp; Apparatebau Produktions GmbH<br>Gr&#xFC;ndauer Weg 121<br>D 14712 Rathenow<br><br>###############################<br>Lfd.-Nr. *** bis ****<br>###############################<br>"
+  "price": "37,00",
+  "amount": "0",
+  "description": "\\nfür Fabrik-Nr.070711053\\naus AB-Nr. 2652001\\n\\n\\nStandort:\\n\\nMAP Maschinen & Apparatebau Produktions GmbH\\nGründauer Weg 121\\nD 14712 Rathenow\\n\\n\\nLfd.-Nr.  bis \\n\\n"
 }

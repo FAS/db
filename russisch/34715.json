@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    34715\r\n                  ",
+  "id": "34715",
   "name": "Ex-Stromversersorgung Hectronic, Typ Optilevel Supply-1 (TA)",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Z&#xFC;ndchutzart EEX ia II B<br>f&#xFC;r eine HLS Sonde.<br>Montage im Tankautomatengeh&#xE4;use<br>Schnittstelle RS232 zu PC/Controller/Host/TA...<br>Spannungsversorgung: 230V / ca. 15VA<br>Ma&#xDF;e: 300 x 230 x 85mm<br><br><br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Zündchutzart EEX ia II B\\nfür eine HLS Sonde.\\nMontage im Tankautomatengehäuse\\nSchnittstelle RS232 zu PC/Controller/Host/TA...\\nSpannungsversorgung: 230V / ca. 15VA\\nMaße: 300 x 230 x 85mm\\n\\n\\n"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    26972\r\n                  ",
+  "id": "26972",
   "name": "Elektro-Schaltkasten zur Montage",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "im Geb&#xE4;ude und au&#xDF;erhalb der Schutzzone,<br>komplett verdrahtet zum Anschlu&#xDF; von einer<br>elektron. Zapfs&#xE4;ulen Typ FAS-120,220,230,420<br>oder Wayne-Dresser Zapfs&#xE4;ule, _____ kW-Pumpenmotor <br>(max. 5kW), Trockenlaufschutz der Pumpe mit<br>Leistungs&#xFC;berwachungsger&#xE4;t,<br>St&#xF6;rmeldung f&#xFC;r Signalhupe oder Blitzleuchte"
+  "price": "0,00",
+  "amount": "0",
+  "description": "im Gebäude und außerhalb der Schutzzone,\\nkomplett verdrahtet zum Anschluß von einer\\nelektron. Zapfsäulen Typ FAS-120,220,230,420\\noder Wayne-Dresser Zapfsäule, _____ kW-Pumpenmotor \\n(max. 5kW), Trockenlaufschutz der Pumpe mit\\nLeistungsüberwachungsgerät,\\nStörmeldung für Signalhupe oder Blitzleuchte"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    810283\r\n                  ",
+  "id": "810283",
   "name": "Absperrventil, UNI-Typ 9454DA,",
   "weight": "0,50",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "mit kurzer Spindel,<br>Geh&#xE4;use Messing, Sitzdichtung Kel-F,<br>Obere Spindel Messing, Untere Spindel Manganbronze,<br>max. Betriebsdruck: 41 bar ( 600 PSI ) <br>Betriebstemperaturbereich: -196&#xB0;C bis +74&#xB0;C <br>Gewindeanschlu&#xDF;: 1/2&quot; NPT IG"
+  "price": "0,00",
+  "amount": "0",
+  "description": "mit kurzer Spindel,\\nGehäuse Messing, Sitzdichtung Kel-F,\\nObere Spindel Messing, Untere Spindel Manganbronze,\\nmax. Betriebsdruck: 41 bar ( 600 PSI ) \\nBetriebstemperaturbereich: -196°C bis +74°C \\nGewindeanschluß: 1/2\" NPT IG"
 }

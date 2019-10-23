@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    14080\r\n                  ",
+  "id": "14080",
   "name": "Reparatur Satz für Filter Typ VZF 50",
   "weight": "0,30",
-  "price": "\r\n                  145,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "bestehend aus:<br>- 1x Filterelement 13-ZPZ-000050<br>- 1 x Dichtungssatz 13-ORD set-50"
+  "price": "145,00",
+  "amount": "0",
+  "description": "bestehend aus:\\n- 1x Filterelement 13-ZPZ-000050\\n- 1 x Dichtungssatz 13-ORD set-50"
 }

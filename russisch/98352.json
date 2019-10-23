@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    98352\r\n                  ",
+  "id": "98352",
   "name": "Überfüllsicherung Quittiereinheit Typ QE 200",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Aufbau: Steckgeh&#xE4;use Schutzart IP 40<br>Hilfsenergie: 230V / 50Hz<br>Ausgang: Anschluss f&#xFC;r Signalhupe und Warnleuchte<br><br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Aufbau: Steckgehäuse Schutzart IP 40\\nHilfsenergie: 230V / 50Hz\\nAusgang: Anschluss für Signalhupe und Warnleuchte\\n\\n"
 }

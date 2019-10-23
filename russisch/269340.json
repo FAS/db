@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    269340\r\n                  ",
+  "id": "269340",
   "name": "Elektro-Schaltkasten zur Montage",
   "weight": "47,80",
-  "price": "\r\n                  4.125,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "im Geb&#xE4;ude und au&#xDF;erhalb der Schutzzone,<br>komplett verdrahtet zum Anschlu&#xDF; von:<br><br> - Kompressor-Motor ____ mit Stern/Dreieckanlauf (max. 30kW)<br> - Gastemperatur&#xFC;berwachung (Ex-d)<br> - Sensor im Abscheider (Ex-d)<br> - min. und max. Gasdruck&#xFC;berwachung (Ex-d)<br> - min. &#xD6;ldruck&#xFC;berwachung des Kompressor (Ex-d)<br> - Doppeldrucktaster mit Kontrolleuchte,<br> - Signalhupe und Blitzleuchte<br><br>Abmessung: H: 800mm, B: 600mm, T: 250mm,<br>Dokumentation:<br>- Klemmen- und Verdrahtungsplan"
+  "price": "4.125,00",
+  "amount": "0",
+  "description": "im Gebäude und außerhalb der Schutzzone,\\nkomplett verdrahtet zum Anschluß von:\\n\\n - Kompressor-Motor ____ mit Stern/Dreieckanlauf (max. 30kW)\\n - Gastemperaturüberwachung (Ex-d)\\n - Sensor im Abscheider (Ex-d)\\n - min. und max. Gasdrucküberwachung (Ex-d)\\n - min. Öldrucküberwachung des Kompressor (Ex-d)\\n - Doppeldrucktaster mit Kontrolleuchte,\\n - Signalhupe und Blitzleuchte\\n\\nAbmessung: H: 800mm, B: 600mm, T: 250mm,\\nDokumentation:\\n- Klemmen- und Verdrahtungsplan"
 }

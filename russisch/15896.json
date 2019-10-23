@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    15896\r\n                  ",
+  "id": "15896",
   "name": "Mehrpreis für Abnahmeprüfzeugnis 3.2 nach EN 10 204",
   "weight": "1,00",
-  "price": "\r\n                  145,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "(mit Abnahme mit externer Beh&#xF6;rde wie z.B. T&#xDC;V)<br>1/4&quot; bis 1/2&quot; - Preis je angefangene 4 St&#xFC;ck<br>3/4&quot; bis 1&quot; - Preis je angefangene 2 St&#xFC;ck<br>&gt;1&quot; - Preis pro St&#xFC;ck"
+  "price": "145,00",
+  "amount": "0",
+  "description": "(mit Abnahme mit externer Behörde wie z.B. TÜV)\\n1/4\" bis 1/2\" - Preis je angefangene 4 Stück\\n3/4\" bis 1\" - Preis je angefangene 2 Stück\\n>1\" - Preis pro Stück"
 }

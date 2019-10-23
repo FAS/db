@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    111720\r\n                  ",
+  "id": "111720",
   "name": "Arbeitserlaubnisschein (PTW) für Arbeiten an Shell-Stationen",
   "weight": "0,00",
-  "price": "\r\n                  340,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "durch den zust&#xE4;ndigen Kontraktor<br>"
+  "price": "340,00",
+  "amount": "0",
+  "description": "durch den zuständigen Kontraktor\\n"
 }

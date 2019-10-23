@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    16391\r\n                  ",
-  "name": "Sicherheitsabsperrventil  DN 25, G 1\"  ,",
+  "id": "16391",
+  "name": "SicherheitsabsperrventilDN 25, G 1\",",
   "weight": "3,15",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "Baureihe OPSO<br>SAV f&#xFC;r Schaltung bei Druckanstieg,<br>Einstellbereich 2,0 - 4,2 bar, <br>DIN/DVGW zugelassen, <br><br>CE- Kennzeichnung mit Konformit&#xE4;tserkl&#xE4;rung<br>"
+  "price": "0,00",
+  "amount": "1",
+  "description": "Baureihe OPSO\\nSAV für Schaltung bei Druckanstieg,\\nEinstellbereich 2,0 - 4,2 bar, \\nDIN/DVGW zugelassen, \\n\\nCE- Kennzeichnung mit Konformitätserklärung\\n"
 }

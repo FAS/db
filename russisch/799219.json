@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    799219\r\n                  ",
+  "id": "799219",
   "name": "Datenkabel Kat.7, 4 Aderpaare",
   "weight": "0,02",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n125\r\n                    \r\n                    ",
-  "description": "Installationskabel f&#xFC;r anwendungsneutrale Kommunikationskabelanlagen mit foliengeschirmten Aderpaaren und einem Gesamtschirm aus Kupfergeflecht. Diese Kabel sind zum Aufbau von Verkabelungsstrecken der Klasse F mit &#xDC;bertragungsbandbreiten bis 1000 MHz und sehr hohen Anforderungen an die &#xDC;bertragungssicherheit und EMV geeignet. Normen: ISO/IEC 11801 2. "
+  "price": "0,00",
+  "amount": "125",
+  "description": "Installationskabel für anwendungsneutrale Kommunikationskabelanlagen mit foliengeschirmten Aderpaaren und einem Gesamtschirm aus Kupfergeflecht. Diese Kabel sind zum Aufbau von Verkabelungsstrecken der Klasse F mit Übertragungsbandbreiten bis 1000 MHz und sehr hohen Anforderungen an die Übertragungssicherheit und EMV geeignet. Normen: ISO/IEC 11801 2. "
 }

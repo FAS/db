@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    13613\r\n                  ",
+  "id": "13613",
   "name": "Lehrdorn 2-1/4\"ACME-AG",
   "weight": "0,40",
-  "price": "\r\n                  400,00\r\n                  ",
-  "amount": "\r\n                      \r\n2\r\n                    \r\n                    ",
-  "description": "zur &#xDC;berpr&#xFC;fung der Verschlei&#xDF;grenze<br>"
+  "price": "400,00",
+  "amount": "2",
+  "description": "zur Überprüfung der Verschleißgrenze\\n"
 }

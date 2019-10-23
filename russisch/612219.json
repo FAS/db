@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    612219\r\n                  ",
+  "id": "612219",
   "name": "PROJEKT: \" Kältemittelabfüllung\"",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "PROJEKTBESCHREIBUNG<br>- 1 x Elektronische Abf&#xFC;lleinrichtung Typ WAEK/IT<br>- 1 x Konformit&#xE4;tsbewertung<br>- 1 x Fixierwinkel<br>- 1 x Mechanischer F&#xFC;llanschluss (ALTERNATIV)<br>- 1 x Elektrisches K&#xE4;ltemittelaggregat<br>- 1 x Pumpenmodul (ABSAUGMODUL)<br>- 1 x Elektroschaltschrank"
+  "price": "0,00",
+  "amount": "0",
+  "description": "PROJEKTBESCHREIBUNG\\n- 1 x Elektronische Abfülleinrichtung Typ WAEK/IT\\n- 1 x Konformitätsbewertung\\n- 1 x Fixierwinkel\\n- 1 x Mechanischer Füllanschluss (ALTERNATIV)\\n- 1 x Elektrisches Kältemittelaggregat\\n- 1 x Pumpenmodul (ABSAUGMODUL)\\n- 1 x Elektroschaltschrank"
 }

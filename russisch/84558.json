@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    84558\r\n                  ",
+  "id": "84558",
   "name": "Schlitzscheibenstellventil, Typ MK 70,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Ventilgr&#xF6;&#xDF;e: DN 15 entspr. 1/2&quot;<br>Druckstufe: PN 16<br>Anschlu&#xDF;: DIN-Flansch DN 15 PN 16<br>Ventilk&#xF6;rpermaterial: Edelstahl 316 SS<br>Sitzmaterial: Graphit auf Edelstahl<br>Durchflu&#xDF;faktor: Cv 0,42 low flow<br>Betriebsart: direkt (Luftsignal schlie&#xDF;t Ventil) oder <br>reverse (Luftsignal &#xF6;ffnet Ventil)<br>Antrieb: Modell 35 M f&#xFC;r 0,2 bis 1,0 bar<br>Packungsmaterial: Teflon (bis 260&#xB0;C)"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Ventilgröße: DN 15 entspr. 1/2\"\\nDruckstufe: PN 16\\nAnschluß: DIN-Flansch DN 15 PN 16\\nVentilkörpermaterial: Edelstahl 316 SS\\nSitzmaterial: Graphit auf Edelstahl\\nDurchflußfaktor: Cv 0,42 low flow\\nBetriebsart: direkt (Luftsignal schließt Ventil) oder \\nreverse (Luftsignal öffnet Ventil)\\nAntrieb: Modell 35 M für 0,2 bis 1,0 bar\\nPackungsmaterial: Teflon (bis 260°C)"
 }

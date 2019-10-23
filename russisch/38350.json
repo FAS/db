@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    38350\r\n                  ",
-  "name": "Getriebeplatte GY für VR Zählerkopf, 2:1, 2% Korrektur  Kg",
+  "id": "38350",
+  "name": "Getriebeplatte GY für VR Zählerkopf, 2:1, 2% KorrekturKg",
   "weight": "0,50",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n3\r\n                    \r\n                    ",
-  "description": "M-7, f&#xFC;r Ausf&#xFC;hrung mit Temperatur- Volumen -Umwertung"
+  "price": "0,00",
+  "amount": "3",
+  "description": "M-7, für Ausführung mit Temperatur- Volumen -Umwertung"
 }

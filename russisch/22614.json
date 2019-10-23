@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    22614\r\n                  ",
+  "id": "22614",
   "name": "Датчик импульсов, 25 импульсов/оборот",
   "weight": "0,40",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n7\r\n                    \r\n                    ",
-  "description": "&#x43B;&#x435;&#x432;&#x43E;&#x433;&#x43E; &#x432;&#x440;&#x430;&#x449;&#x435;&#x43D;&#x438;&#x44F;<br>f&#xFC;r Zapfs&#xE4;ule FAS, Anschlu&#xDF;spannung 4.5 ... 15 V <br>mit 2.5 m Anschlu&#xDF;kabel, EEx d II T6"
+  "price": "0,00",
+  "amount": "7",
+  "description": "левого вращения\\nfür Zapfsäule FAS, Anschlußspannung 4.5 ... 15 V \\nmit 2.5 m Anschlußkabel, EEx d II T6"
 }

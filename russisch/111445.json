@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    111445\r\n                  ",
+  "id": "111445",
   "name": "Abholung vom Standort und Anlieferung in Salzgitter,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "###############################<br>Gestellung von Hebezeug zum Aufladen bauseits<br><br>Mehrpreis auf Wunsch:<br>xxx,- EUR - Abholung mit Kranfahrzeug<br><br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "\\nGestellung von Hebezeug zum Aufladen bauseits\\n\\nMehrpreis auf Wunsch:\\nxxx,- EUR - Abholung mit Kranfahrzeug\\n\\n"
 }

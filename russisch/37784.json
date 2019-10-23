@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    37784\r\n                  ",
+  "id": "37784",
   "name": "Meßanlage, montiert ohne GBA und Prüfwagen",
   "weight": "80,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "**  Werkspr&#xFC;fung mit Mastermeter **<br>Einheit bestehend aus:<br>- Kolbenz&#xE4;hler 22.501 (ohne Mastermeter)<br>- Adapter 37.783<br>- Z&#xE4;hlwerk 38.501<br>- Getriebeplatte 38.353<br>- Mitnehmer 22.617<br>- Ovalflansch 22.508<br>- Ovalflansch 22.803<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Werksprüfung mit Mastermeter \\nEinheit bestehend aus:\\n- Kolbenzähler 22.501 (ohne Mastermeter)\\n- Adapter 37.783\\n- Zählwerk 38.501\\n- Getriebeplatte 38.353\\n- Mitnehmer 22.617\\n- Ovalflansch 22.508\\n- Ovalflansch 22.803\\n"
 }

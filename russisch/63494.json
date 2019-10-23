@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    63494\r\n                  ",
+  "id": "63494",
   "name": "Druckluft-Kältetrockner Typ BMD4",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Volumenstrom: max. 500l/min.<br>Spannung: 230V<br>Leistungsaufnahme: 0,20kW<br>Max. Betriebsdruck: 15bar<br>Drucktaupunkt: 3&#xB0;C<br>Inkl. druckluft Filter"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Volumenstrom: max. 500l/min.\\nSpannung: 230V\\nLeistungsaufnahme: 0,20kW\\nMax. Betriebsdruck: 15bar\\nDrucktaupunkt: 3°C\\nInkl. druckluft Filter"
 }

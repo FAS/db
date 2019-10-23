@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    986680\r\n                  ",
+  "id": "986680",
   "name": "LCR-TE550--Elektroniksatz im EX-Gehäuse",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "K050-B10D000000<br>(einzel Z&#xE4;hler, nichterweiterbare Ausf&#xFC;hrung)<br>- inklusive ambient und kompensierte Temperatur <br>  Mengenumwertungs features, RS232/422/485<br>  serielle Kommunikation, 1500 gespeicherte Ereignisse,<br>  Eing&#xE4;nge / Ausg&#xE4;nge f&#xFC;r Pumpe , Signale, Sicherheits Alarme,<br>  2 4-20 mA Eing&#xE4;nge f&#xFC;r aktuellen Druck und Dichte Kompensation,<br>  Multi-point Kalibrierung Selbstdiagnose bei jedem Einschalten etc.<br>Diese Kit setzt sich zusammen aus:<br>- 1x TE550 ATEX Geh&#xE4;use klein, 220VAC, mit<br>  1 Cmod board zum Betreiben nur eines Z&#xE4;hlers<br>- 1 x LKI Display<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "K050-B10D000000\\n(einzel Zähler, nichterweiterbare Ausführung)\\n- inklusive ambient und kompensierte Temperatur \\nMengenumwertungs features, RS232/422/485\\nserielle Kommunikation, 1500 gespeicherte Ereignisse,\\nEingänge / Ausgänge für Pumpe , Signale, Sicherheits Alarme,\\n2 4-20 mA Eingänge für aktuellen Druck und Dichte Kompensation,\\nMulti-point Kalibrierung Selbstdiagnose bei jedem Einschalten etc.\\nDiese Kit setzt sich zusammen aus:\\n- 1x TE550 ATEX Gehäuse klein, 220VAC, mit\\n1 Cmod board zum Betreiben nur eines Zählers\\n- 1 x LKI Display\\n"
 }

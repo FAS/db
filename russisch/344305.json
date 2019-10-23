@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    344305\r\n                  ",
+  "id": "344305",
   "name": "Zündsperre ELFIT Typ EYS1",
   "weight": "0,10",
-  "price": "\r\n                  31,00\r\n                  ",
-  "amount": "\r\n                      \r\n16\r\n                    \r\n                    ",
-  "description": " - Anschlu&#xDF;: Ein-/Ausgang 1/2&quot; NPT-IG<br> - Z&#xFC;ndschutzart: EExd IIC<br> - Schutzart: IP 66<br> - Einbaulage: senkrecht"
+  "price": "31,00",
+  "amount": "16",
+  "description": " - Anschluß: Ein-/Ausgang 1/2\" NPT-IG\\n - Zündschutzart: EExd IIC\\n - Schutzart: IP 66\\n - Einbaulage: senkrecht"
 }

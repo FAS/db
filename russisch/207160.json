@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    207160\r\n                  ",
+  "id": "207160",
   "name": "Mehrpreis für den Einbau einer Gasumgehungsleitung",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "in DN 32 mit Kugelhahn und 2 St&#xFC;ck Manometer mit Ab-<br>sperrventil (1 mal vor und einmal nach dem Kugelhahn)<br>im Verdampferschrank FAS 202515"
+  "price": "0,00",
+  "amount": "0",
+  "description": "in DN 32 mit Kugelhahn und 2 Stück Manometer mit Ab-\\nsperrventil (1 mal vor und einmal nach dem Kugelhahn)\\nim Verdampferschrank FAS 202515"
 }

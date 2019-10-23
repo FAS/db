@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    616187\r\n                  ",
+  "id": "616187",
   "name": "Spur Gear unit Type G43A Ex-M IEC90",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Construction: V5/Base housing<br>Gear rated torque: 800 Nm<br>Gear ratio: 104,81 (1/x)<br>Atex Zone: 1<br>Atex-Temperatur class: T3<br>Atex-classification gear: Ex II 2G/D ck T4/120&#xB0;C<br>Output shaft: solid shaft (V 40x80)<br>Type of protection: IP 55<br>quantity of oil: appr. 4 litre"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Construction: V5/Base housing\\nGear rated torque: 800 Nm\\nGear ratio: 104,81 (1/x)\\nAtex Zone: 1\\nAtex-Temperatur class: T3\\nAtex-classification gear: Ex II 2G/D ck T4/120°C\\nOutput shaft: solid shaft (V 40x80)\\nType of protection: IP 55\\nquantity of oil: appr. 4 litre"
 }

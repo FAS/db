@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    80837\r\n                  ",
+  "id": "80837",
   "name": "alt",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Kosten f&#xFC;r T&#xDC;V-Pr&#xFC;fung<br>Einstellung der &#xDC;berf&#xFC;llsicherung am Fl&#xFC;ssiggas-<br>Lagerbeh&#xE4;lter<br><br>Anlage<br><br>Rechnung T&#xDC;V-Hannover, Nr. 05320348 vom<br>22/04/93"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Kosten für TÜV-Prüfung\\nEinstellung der Überfüllsicherung am Flüssiggas-\\nLagerbehälter\\n\\nAnlage\\n\\nRechnung TÜV-Hannover, Nr. 05320348 vom\\n22/04/93"
 }

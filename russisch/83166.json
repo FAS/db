@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    83166\r\n                  ",
+  "id": "83166",
   "name": "alt",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Leihz&#xE4;hler DN 50 am 09/03/94 eingebaut"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Leihzähler DN 50 am 09/03/94 eingebaut"
 }

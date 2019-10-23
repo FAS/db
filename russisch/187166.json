@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    187166\r\n                  ",
+  "id": "187166",
   "name": "Tankinhalts-Fernanzeige Ramoc VD4-Ex Typ N ",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "=&gt; inkl GOK Sensor<br><br>Netzstrom versorgte Inhaltsfernanzeige und Inhaltsfern&#xFC;bertragung f&#xFC;r Fl&#xFC;ssiggas-Lagerbeh&#xE4;ter mittels GSM.<br><br>Funktionen:<br>+++++++++++++++++<br>- das Fern&#xFC;bertragungsger&#xE4;t ermittelt mittels dem digitalen Messwertgeber<br>  den F&#xFC;llstand des Lagerbeh&#xE4;lters in Prozent<br>- der ermittelte F&#xFC;llstand wird vom Fern&#xFC;bertragungsger&#xE4;t angezeigt und &#xFC;ber<br>  das Mobilfunknetz GSM an die Leitstelle gesendet<br>- mittels Grenzwert&#xFC;berwachung erfolgt eine Alarmierung bei Leerfahren bzw.<br>  &#xDC;berf&#xFC;llen des Beh&#xE4;lters<br>- Bef&#xFC;llungen werden erkannt und gemeldet<br>- das Ger&#xE4;t ist fernkonfigurierbar<br>- minimaler Stromverbrauch, Lieferung mit Netzteil inkl. Ex-bescheinigtem<br>  Transformator<br>- mit zus&#xE4;tzlichem &quot;Umgeh&#xE4;use&quot; (Klarsichtdeckel) f&#xFC;r die Au&#xDF;enmontage<br><br><br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "=> inkl GOK Sensor\\n\\nNetzstrom versorgte Inhaltsfernanzeige und Inhaltsfernübertragung für Flüssiggas-Lagerbehäter mittels GSM.\\n\\nFunktionen:\\n+++++++++++++++++\\n- das Fernübertragungsgerät ermittelt mittels dem digitalen Messwertgeber\\nden Füllstand des Lagerbehälters in Prozent\\n- der ermittelte Füllstand wird vom Fernübertragungsgerät angezeigt und über\\ndas Mobilfunknetz GSM an die Leitstelle gesendet\\n- mittels Grenzwertüberwachung erfolgt eine Alarmierung bei Leerfahren bzw.\\nÜberfüllen des Behälters\\n- Befüllungen werden erkannt und gemeldet\\n- das Gerät ist fernkonfigurierbar\\n- minimaler Stromverbrauch, Lieferung mit Netzteil inkl. Ex-bescheinigtem\\nTransformator\\n- mit zusätzlichem \"Umgehäuse\" (Klarsichtdeckel) für die Außenmontage\\n\\n\\n"
 }

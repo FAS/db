@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    16351\r\n                  ",
+  "id": "16351",
   "name": "Niederdruck/Mitteldruckregler",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n4\r\n                    \r\n                    ",
-  "description": "Typ GOK 0121103, Anschlu&#xDF; RVS 15<br>Eingangsdruck bis 16 bar, <br>Ausgangsdruck 50 - 500 mbar,<br>Leistung 10 kg"
+  "price": "0,00",
+  "amount": "4",
+  "description": "Typ GOK 0121103, Anschluß RVS 15\\nEingangsdruck bis 16 bar, \\nAusgangsdruck 50 - 500 mbar,\\nLeistung 10 kg"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    275282\r\n                  ",
+  "id": "275282",
   "name": "Ausbreitungsberechnungen zur Bestimmung des ",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Sicherheitsabstandes nach TRBS 3146 f&#xFC;r eine LNG-Tankstelle am <br>Standort _________________<br><br>Es wird ein Bericht erstellt, in dem die verwendeten Modelle dargestellt werden und die Berechnungsergebnisse graphisch dokumentiert sind.<br>Zur Erfassung der &#xF6;rtlichen Gegebenheiten wird eine Ortsbesichtigung durchgef&#xFC;hrt.<br><br>F&#xFC;r die Erstellung des Berichts werden folgende Unterlagen ben&#xF6;tigt:<br>- RI-Flie&#xDF;bild der Anlage (Deutsch oder Englisch)<br>- Anlagenbeschreibung / Verfahrensbeschreibung<br>- Lageplan"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Sicherheitsabstandes nach TRBS 3146 für eine LNG-Tankstelle am \\nStandort _________________\\n\\nEs wird ein Bericht erstellt, in dem die verwendeten Modelle dargestellt werden und die Berechnungsergebnisse graphisch dokumentiert sind.\\nZur Erfassung der örtlichen Gegebenheiten wird eine Ortsbesichtigung durchgeführt.\\n\\nFür die Erstellung des Berichts werden folgende Unterlagen benötigt:\\n- RI-Fließbild der Anlage (Deutsch oder Englisch)\\n- Anlagenbeschreibung / Verfahrensbeschreibung\\n- Lageplan"
 }

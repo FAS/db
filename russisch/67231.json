@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    67231\r\n                  ",
+  "id": "67231",
   "name": "Magnetkarte, codiert, für Tankautomat FAS-420_L,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Ausf&#xFC;hrung: 4-farbig mit Aufdruck gem&#xE4;&#xDF; Kunden-Vorlage<br>vom _________<br><br>Kartenfarbe: wei&#xDF;<br>Laufende Nr.: <br>Achtung: Bei Nachbestellung vom Kunden letzte laufende <br>               Kartennummer erfragen !<br>Kunde: G&#xF6;&#xDF;wein<br>Projekt: Autogaszentrum<br>             Ostbayern"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Ausführung: 4-farbig mit Aufdruck gemäß Kunden-Vorlage\\nvom _________\\n\\nKartenfarbe: weiß\\nLaufende Nr.: \\nAchtung: Bei Nachbestellung vom Kunden letzte laufende \\nKartennummer erfragen !\\nKunde: Gößwein\\nProjekt: Autogaszentrum\\nOstbayern"
 }

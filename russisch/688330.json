@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    688330\r\n                  ",
+  "id": "688330",
   "name": "Steuerung, Typ Logo für Autoline-Filter",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "<br><br>Anschluss: 230 V, Wechselspannung, 50 Hz<br><br>Sollwerte f&#xFC;r Reinigung und Entleerung k&#xF6;nnen &#xFC;ber das Textdisplay im Schaltschrank eingegeben werden.<br><br>Aufstellung:  Filter und Steuerung exfreier Bereich<br><br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "\\n\\nAnschluss: 230 V, Wechselspannung, 50 Hz\\n\\nSollwerte für Reinigung und Entleerung können über das Textdisplay im Schaltschrank eingegeben werden.\\n\\nAufstellung:Filter und Steuerung exfreier Bereich\\n\\n"
 }

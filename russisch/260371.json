@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    260371\r\n                  ",
+  "id": "260371",
   "name": "Einphasen-Wechselstrommotor, 2,2 kW,",
   "weight": "0,00",
-  "price": "\r\n                  1.660,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Z&#xFC;ndschutzart: ATEX II 2G Ex e IIBC T4,Gb <br>1400 U/min, 230 V, <br>50 Hz, IP55, Bauform B3<br>- Konformit&#xE4;tsbescheinigung u.CE-Kennzeichnung<br>- EG-Baumusterpr&#xFC;fbescheinigung"
+  "price": "1.660,00",
+  "amount": "0",
+  "description": "Zündschutzart: ATEX II 2G Ex e IIBC T4,Gb \\n1400 U/min, 230 V, \\n50 Hz, IP55, Bauform B3\\n- Konformitätsbescheinigung u.CE-Kennzeichnung\\n- EG-Baumusterprüfbescheinigung"
 }

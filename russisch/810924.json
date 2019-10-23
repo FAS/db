@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    810924\r\n                  ",
+  "id": "810924",
   "name": "Kreuzstücke, UNI-Typ 1225-4,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "aus Messing,<br>Betriebsdruck: 410 bar<br>A (IG): 21,4-21,5 mm<br>B (IG): 21,4-21,5 mm<br>C (IG): 21,4-21,5 mm<br>D (IG): 21,4-21,5 mm"
+  "price": "0,00",
+  "amount": "0",
+  "description": "aus Messing,\\nBetriebsdruck: 410 bar\\nA (IG): 21,4-21,5 mm\\nB (IG): 21,4-21,5 mm\\nC (IG): 21,4-21,5 mm\\nD (IG): 21,4-21,5 mm"
 }

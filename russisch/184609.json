@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    184609\r\n                  ",
+  "id": "184609",
   "name": "Druckschalter Typ Bailey & Mackey 1381,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Druckbereich 2-28 bar, f&#xFC;r Umgebungstemperatur -10&#xB0;C - +85&#xB0;C"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Druckbereich 2-28 bar, für Umgebungstemperatur -10°C - +85°C"
 }

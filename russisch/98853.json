@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    98853\r\n                  ",
+  "id": "98853",
   "name": "Ovalradzähler, Typ Bopp & Reuther",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Nennweite in mm: DN 80, Nenndruck in bar: PN 40<br>Flansche: nach DIN 2545 C PN 40,<br>Baul&#xE4;nge: 550 mm<br>Messkammerinhalt: 2,5 Liter<br>Durchflussrichtung: von links nach rechts<br>Betriebsdaten:<br>Messfl&#xFC;ssiggkeit: Fl&#xFC;ssiggas<br>Temperatur: - 15/+20&#xB0;C<br>Betriebsdruck max. : 40 bar<br>Messbereich: 200 - 1200 l/min<br>Werkstoffe:<br>Geh&#xE4;use: Stahlguss<br>Messkammer: Messing<br>Ovalr&#xE4;der: Bronze<br>Anbauger&#xE4;te bzw. Zusatzausstattung<br>mit Sondertoleranzen f&#xFC;r Fl&#xFC;ssiggase<br>Impulsgeber Typ: AG20, induktiv, 2-kanalig<br>Z&#xE4;hlerkopf: Rollenz&#xE4;hlwerk mit Bondrucker<br>mit eichamtlicher Vorpr&#xFC;fung"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Nennweite in mm: DN 80, Nenndruck in bar: PN 40\\nFlansche: nach DIN 2545 C PN 40,\\nBaulänge: 550 mm\\nMesskammerinhalt: 2,5 Liter\\nDurchflussrichtung: von links nach rechts\\nBetriebsdaten:\\nMessflüssiggkeit: Flüssiggas\\nTemperatur: - 15/+20°C\\nBetriebsdruck max. : 40 bar\\nMessbereich: 200 - 1200 l/min\\nWerkstoffe:\\nGehäuse: Stahlguss\\nMesskammer: Messing\\nOvalräder: Bronze\\nAnbaugeräte bzw. Zusatzausstattung\\nmit Sondertoleranzen für Flüssiggase\\nImpulsgeber Typ: AG20, induktiv, 2-kanalig\\nZählerkopf: Rollenzählwerk mit Bondrucker\\nmit eichamtlicher Vorprüfung"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    613038\r\n                  ",
+  "id": "613038",
   "name": "Komplette Mess-Anlage",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "eingebaut in einen Stahlschrank  f&#xFC;r Max.Durhfussmessung 800 l/min<br><br>Eingangsanschluss Fl&#xFC;ssigphase Flansch DN50 mit KH<br>Ausgangsanschluss Fl&#xFC;ssigphase Flansch DN50 mit KH<br>R&#xFC;ckf&#xFC;hrleitung RVS22mm<br>Ausblaseleitung RVS15mm, H&#xF6;he 3 m<br>Folgende Inforrmation auf LCD-Display<br> - Temperatur des Medium<br> - Dichte des Medium<br> - Summenz&#xE4;hler in KG<br> - Zur&#xFC;cksetztbare Summenz&#xE4;hlerin KG<br><br>Besteht aus folgenden Hauptkomponenten:<br> - Stahlschrank 1200x1200x600<br>- Gasblasenabscheider (FAS) und R&#xFC;ckschlagklappe.<br>- Coriolis Promas 84F50 Anschluss DN 50 PN 40, Stromversorgung 24V, Schbinstelle: 4...20mA, HART, MOTBUS RS485<br>- Druckhaltventil<br>- 3 Wegemagnettventil (24V)<br>- 2 Wegemagnettventil (24V) Presetfunktion<br>- mit electronischem Register ME3000<br>- mit Printer<br><br><br>Alle komponente zusammen gebaut grundiert und lakiert."
+  "price": "0,00",
+  "amount": "0",
+  "description": "eingebaut in einen Stahlschrankfür Max.Durhfussmessung 800 l/min\\n\\nEingangsanschluss Flüssigphase Flansch DN50 mit KH\\nAusgangsanschluss Flüssigphase Flansch DN50 mit KH\\nRückführleitung RVS22mm\\nAusblaseleitung RVS15mm, Höhe 3 m\\nFolgende Inforrmation auf LCD-Display\\n - Temperatur des Medium\\n - Dichte des Medium\\n - Summenzähler in KG\\n - Zurücksetztbare Summenzählerin KG\\n\\nBesteht aus folgenden Hauptkomponenten:\\n - Stahlschrank 1200x1200x600\\n- Gasblasenabscheider (FAS) und Rückschlagklappe.\\n- Coriolis Promas 84F50 Anschluss DN 50 PN 40, Stromversorgung 24V, Schbinstelle: 4...20mA, HART, MOTBUS RS485\\n- Druckhaltventil\\n- 3 Wegemagnettventil (24V)\\n- 2 Wegemagnettventil (24V) Presetfunktion\\n- mit electronischem Register ME3000\\n- mit Printer\\n\\n\\nAlle komponente zusammen gebaut grundiert und lakiert."
 }

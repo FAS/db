@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    83048\r\n                  ",
+  "id": "83048",
   "name": "alt",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Steuerkegel f&#xFC;r &#xDC;berstr&#xF6;mventil"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Steuerkegel für Überströmventil"
 }

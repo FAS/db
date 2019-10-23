@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    92712\r\n                  ",
+  "id": "92712",
   "name": "Luftverdichter, Motorleistung 1,1 kW, Füllvolumen 145 l/min.",
   "weight": "40,00",
-  "price": "\r\n                  1.140,00\r\n                  ",
-  "amount": "\r\n                      \r\n2\r\n                    \r\n                    ",
-  "description": "Druckbeh&#xE4;lter 24 l, max. Druck 10 bar, elektr. Anschluss 230 V, Schalldruckpegel 68 dB(A)"
+  "price": "1.140,00",
+  "amount": "2",
+  "description": "Druckbehälter 24 l, max. Druck 10 bar, elektr. Anschluss 230 V, Schalldruckpegel 68 dB(A)"
 }

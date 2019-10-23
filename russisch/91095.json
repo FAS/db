@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    91095\r\n                  ",
+  "id": "91095",
   "name": "Flüssiggas-Seitenkanalpumpe Typ CEHB 4107/6 AF 3AD 1A 4S",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "mit R&#xFC;ckhaltestufe f&#xFC;r Saugbetrieb aus <br>unterirdisch gelagerten Beh&#xE4;ltern<br>Saugflansch: DN 80/PN 40<br>Druckflansch: DN 40/PN 40<br>mit Magnetkupplung,<br>ohne Motor und ohne Grundplatte<br>**ACHTUNG: Pumpe ohne Montage und Inbetriebnahme, <br>Kosten hierf&#xFC;r werden nach Aufwand berechnet.**"
+  "price": "0,00",
+  "amount": "0",
+  "description": "mit Rückhaltestufe für Saugbetrieb aus \\nunterirdisch gelagerten Behältern\\nSaugflansch: DN 80/PN 40\\nDruckflansch: DN 40/PN 40\\nmit Magnetkupplung,\\nohne Motor und ohne Grundplatte\\nACHTUNG: Pumpe ohne Montage und Inbetriebnahme, \\nKosten hierfür werden nach Aufwand berechnet."
 }

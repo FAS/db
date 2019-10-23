@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    78489\r\n                  ",
+  "id": "78489",
   "name": "Kupplungsschutz h=153,5; b=123; l=112; s=1,5 mm, aus Alu, ",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "f&#xFC;r Fl&#xFC;ssiggas-Seitenkanal-Pumpenaggregat bestehend aus:<br> - Seitenkanalpumpe Typ SIHI 3108/5 (FAS 21497)<br> - Drehstrommotor 4,0 kW (FAS 26096)<br> - Kupplung Typ Poly-Norm AR 28 (FAS 78767)"
+  "price": "0,00",
+  "amount": "0",
+  "description": "für Flüssiggas-Seitenkanal-Pumpenaggregat bestehend aus:\\n - Seitenkanalpumpe Typ SIHI 3108/5 (FAS 21497)\\n - Drehstrommotor 4,0 kW (FAS 26096)\\n - Kupplung Typ Poly-Norm AR 28 (FAS 78767)"
 }

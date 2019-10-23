@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    18010\r\n                  ",
+  "id": "18010",
   "name": "Mehrpreis für doppelt isoliertes Kabel",
   "weight": "0,05",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "(Ummantelung 3 x 0.75 mm2)<br>**Achtung: Kabel muss in einem St&#xFC;ck sein<br>(2 m bereits beim Me&#xDF;wertgeber enthalten)!!**<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "(Ummantelung 3 x 0.75 mm2)\\nAchtung: Kabel muss in einem Stück sein\\n(2 m bereits beim Meßwertgeber enthalten)!!\\n"
 }

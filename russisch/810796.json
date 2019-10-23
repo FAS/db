@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    810796\r\n                  ",
+  "id": "810796",
   "name": "Druck-/Vakuumregler, UNI-Typ 4298PB,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Geh&#xE4;use: Messing, Sitze Buna-N,<br>Abblasedruck: 0.5 bar<br>Vakuum&#xF6;ffnungsdruck: 0.5 bar<br>Eingangsanschlu&#xDF;: 3/8&quot; NPT<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Gehäuse: Messing, Sitze Buna-N,\\nAbblasedruck: 0.5 bar\\nVakuumöffnungsdruck: 0.5 bar\\nEingangsanschluß: 3/8\" NPT\\n"
 }

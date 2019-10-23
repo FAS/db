@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    793158\r\n                  ",
+  "id": "793158",
   "name": "Schraube",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n120\r\n                    \r\n                    ",
-  "description": "f&#xFC;r Typ LB 161, LB 162, LB 601A, LB 602A, HD 161A, <br>HD 162A, HD 601A, HD 602A, HD 603A<br>f&#xFC;r Typ 361, 362, 372"
+  "price": "0,00",
+  "amount": "120",
+  "description": "für Typ LB 161, LB 162, LB 601A, LB 602A, HD 161A, \\nHD 162A, HD 601A, HD 602A, HD 603A\\nfür Typ 361, 362, 372"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    18370\r\n                  ",
+  "id": "18370",
   "name": "Auswertegerät Typ Vegamet 509 Ex",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "zur kontinuierliche F&#xFC;llstandsmessung mit Multifunktions-<br>displayanzeige, Funktions&#xFC;berwachung, St&#xF6;rmeldung und <br>Fehlerdiagnose im Display, Strom- (potentialfrei) und<br>Spannungsausgang, 3 potentialfreie Ausgangsrelais (Wechsler),<br>Vegamet-Betriebsspannung 16....42V AC,16....60V DC"
+  "price": "0,00",
+  "amount": "0",
+  "description": "zur kontinuierliche Füllstandsmessung mit Multifunktions-\\ndisplayanzeige, Funktionsüberwachung, Störmeldung und \\nFehlerdiagnose im Display, Strom- (potentialfrei) und\\nSpannungsausgang, 3 potentialfreie Ausgangsrelais (Wechsler),\\nVegamet-Betriebsspannung 16....42V AC,16....60V DC"
 }

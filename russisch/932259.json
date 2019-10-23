@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    932259\r\n                  ",
+  "id": "932259",
   "name": "USV-Einheit (primärgetaktet, batteriegepuffert) 12VDC",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "Ausstattung:<br> - Potentialfreier Meldekontakt<br> - LED-Meldung:<br>  * Betrieb<br>  * Batterie schwach<br> - Tiefentladeschutz<br> - ohne Akkus<br><br>Version f&#xFC;r 12V f&#xFC;r Fl&#xFC;ssiggas-Generatoren (oder andere KFZ Varianten)"
+  "price": "0,00",
+  "amount": "1",
+  "description": "Ausstattung:\\n - Potentialfreier Meldekontakt\\n - LED-Meldung:\\n* Betrieb\\n* Batterie schwach\\n - Tiefentladeschutz\\n - ohne Akkus\\n\\nVersion für 12V für Flüssiggas-Generatoren (oder andere KFZ Varianten)"
 }

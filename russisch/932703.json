@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    932703\r\n                  ",
+  "id": "932703",
   "name": "Auslesegerät für E&H LPG Mass Daten",
   "weight": "0,00",
-  "price": "\r\n                  1.305,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Kunststoffgeh&#xE4;use mit Bedienpult zum Anschluss an einen<br>LPG Mass von E&amp;H mit Anschlusskabeln. <br>Spannungsversorgung: 230VAC<br><br>Mit Anzeige von:<br> - den Prozessdaten (Dichte, Temperatur, Massefluss, Volumenfluss)<br>    Einheit ist einstellbar.<br> - 3 x Summenz&#xE4;hler (2x Volumen, 1x Masse). Einheit ist einstellbar<br> - M&#xF6;glichkeit die Z&#xE4;hler zur&#xFC;ckzusetzen<br> - Eichrelevante Daten (Softwarestand, Seriennummer und Checksumme)<br> - Statusmeldung (Fehlercode)<br> - Schleichmenge, Masse-Korrekturfaktor, Nullpunkt<br>   (sowie M&#xF6;glichkeit zum Abgleich).<br>   Diese Werte k&#xF6;nnen mit dem Bedienpult ge&#xE4;ndert werden.<br><br><br>M&#xF6;gliche Anschlussm&#xF6;glichkeiten f&#xFC;r Ethernet (RJ-45) zur m&#xF6;glichen Einbindung der Anzeige in ein Netzwerk zur Fernanzeige.<br>"
+  "price": "1.305,00",
+  "amount": "0",
+  "description": "Kunststoffgehäuse mit Bedienpult zum Anschluss an einen\\nLPG Mass von E&H mit Anschlusskabeln. \\nSpannungsversorgung: 230VAC\\n\\nMit Anzeige von:\\n - den Prozessdaten (Dichte, Temperatur, Massefluss, Volumenfluss)\\nEinheit ist einstellbar.\\n - 3 x Summenzähler (2x Volumen, 1x Masse). Einheit ist einstellbar\\n - Möglichkeit die Zähler zurückzusetzen\\n - Eichrelevante Daten (Softwarestand, Seriennummer und Checksumme)\\n - Statusmeldung (Fehlercode)\\n - Schleichmenge, Masse-Korrekturfaktor, Nullpunkt\\n(sowie Möglichkeit zum Abgleich).\\nDiese Werte können mit dem Bedienpult geändert werden.\\n\\n\\nMögliche Anschlussmöglichkeiten für Ethernet (RJ-45) zur möglichen Einbindung der Anzeige in ein Netzwerk zur Fernanzeige.\\n"
 }

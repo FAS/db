@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    471600\r\n                  ",
+  "id": "471600",
   "name": "Elektro-Schaltkasten aus Stahlblech mit LOGO 230 RCL-",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Steuerung zur Montage im Geb&#xE4;ude und au&#xDF;erhalb der<br>Schutzzone.<br>Komplett verdrahtet zum Anschluss von:<br>- 3,7 kW-Tauchpumpenmotor (kleiner als 5 kW, Typ RJ HiFlow)<br>- 2 Magnetventilen<br>- &#xDC;berf&#xFC;llsicherung Typ VEGA<br>- Differenzdruckw&#xE4;chter in Ex-Ausf&#xFC;hrung ohne Trennschaltverst&#xE4;rker<br>  als Pumpentrockenlaufschutz<br>- bis zu 3 NOT-AUS Tastern<br>- einem externer EIN/AUS Taster f&#xFC;r die Pumpe mit Magnetventil<br>- Kompakt-&#xDC;berwachungseinheit mit Versorgungsspannung 230 V<br>  f&#xFC;r Schwimmeranzeiger (Roschester)<br>- Einbindung der externer Rochester-Beh&#xE4;lterinhaltsmessung zur<br>  Gew&#xE4;hrleistung von Abschaltung der Pumpe bei Beh&#xE4;lterf&#xFC;llstand<br>  unter 15 %<br>- Schaltschrank mit Hauptschalter, NOT-AUS Taster, FI-Schutzschalter,<br>  NOT-AUS-Schaltger&#xE4;t, Meldeleuchten f&#xFC;r Betriebsbereitschaft und<br>  St&#xF6;rungen, Freigabetaster f&#xFC;r &#xDC;berf&#xFC;llsicherung/Bef&#xFC;llleitung, Zeit-<br>  steuerung f&#xFC;r das Schlie&#xDF;en der Bef&#xFC;llleitung<br><br>Dokumentation: Klemmen- und Verdrahtungsplan<br><br><br><br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Steuerung zur Montage im Gebäude und außerhalb der\\nSchutzzone.\\nKomplett verdrahtet zum Anschluss von:\\n- 3,7 kW-Tauchpumpenmotor (kleiner als 5 kW, Typ RJ HiFlow)\\n- 2 Magnetventilen\\n- Überfüllsicherung Typ VEGA\\n- Differenzdruckwächter in Ex-Ausführung ohne Trennschaltverstärker\\nals Pumpentrockenlaufschutz\\n- bis zu 3 NOT-AUS Tastern\\n- einem externer EIN/AUS Taster für die Pumpe mit Magnetventil\\n- Kompakt-Überwachungseinheit mit Versorgungsspannung 230 V\\nfür Schwimmeranzeiger (Roschester)\\n- Einbindung der externer Rochester-Behälterinhaltsmessung zur\\nGewährleistung von Abschaltung der Pumpe bei Behälterfüllstand\\nunter 15 %\\n- Schaltschrank mit Hauptschalter, NOT-AUS Taster, FI-Schutzschalter,\\nNOT-AUS-Schaltgerät, Meldeleuchten für Betriebsbereitschaft und\\nStörungen, Freigabetaster für Überfüllsicherung/Befüllleitung, Zeit-\\nsteuerung für das Schließen der Befüllleitung\\n\\nDokumentation: Klemmen- und Verdrahtungsplan\\n\\n\\n\\n"
 }

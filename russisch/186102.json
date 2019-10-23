@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    186102\r\n                  ",
+  "id": "186102",
   "name": "Coriolis-Zähler DN 15, Typ PROMASS FP,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "zur Betankung von CNG<br>Mediumtemperatur bis zu  +150&#xB0;C <br>Prozessdruck bis zu 350 bar<br>Massedurchflussmessung bis 150 kg / min<br>Anschluss f&#xFC;r die Kontrolsysteme: MODBUS RS485<br>Zulassung: ATEX II 2G<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "zur Betankung von CNG\\nMediumtemperatur bis zu+150°C \\nProzessdruck bis zu 350 bar\\nMassedurchflussmessung bis 150 kg / min\\nAnschluss für die Kontrolsysteme: MODBUS RS485\\nZulassung: ATEX II 2G\\n"
 }

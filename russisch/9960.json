@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    9960\r\n                  ",
+  "id": "9960",
   "name": "Rechner ist vorprogrammiert",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "###############################<br>ACHTUNG: <br>Dieser Rechner ist vorprogrammiert und kann nur f&#xFC;r die<br>Zapfs&#xE4;ule mit der SN-Nr. *** aus unserer AB-Nr. *** ver-<br>wendet werden."
+  "price": "0,00",
+  "amount": "0",
+  "description": "\\nACHTUNG: \\nDieser Rechner ist vorprogrammiert und kann nur für die\\nZapfsäule mit der SN-Nr.  aus unserer AB-Nr.  ver-\\nwendet werden."
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    269650\r\n                  ",
+  "id": "269650",
   "name": "Ex-Steuerung für Drehstrom-Motor",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Ex de Steuerung.<br><br>Zum Anschlu&#xDF; von:<br><br> - 55 kW-Pumpenmotor mit Thermistor<br> - Doppeldrucktaster f&#xFC;r externen Start / Stopp<br> - bis zu zwei externe Not-Aus Taster<br><br>Ausger&#xFC;stet mit:<br> - Motorschutz<br> - Drehfeld&#xFC;berwachung<br> - Phasenausfall &#xDC;berwachung<br> - Ein-/Austaster und Kontrolleuchten<br> - Not-Aus Taster<br> - Hauptschalter<br><br>Explosionsschutz: EX II 2(1) G Ex db eb [ia Ga] IIB T4 Gb<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Ex de Steuerung.\\n\\nZum Anschluß von:\\n\\n - 55 kW-Pumpenmotor mit Thermistor\\n - Doppeldrucktaster für externen Start / Stopp\\n - bis zu zwei externe Not-Aus Taster\\n\\nAusgerüstet mit:\\n - Motorschutz\\n - Drehfeldüberwachung\\n - Phasenausfall Überwachung\\n - Ein-/Austaster und Kontrolleuchten\\n - Not-Aus Taster\\n - Hauptschalter\\n\\nExplosionsschutz: EX II 2(1) G Ex db eb [ia Ga] IIB T4 Gb\\n"
 }

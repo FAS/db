@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    616714\r\n                  ",
+  "id": "616714",
   "name": "Adapter aus Edelstahl für Kältemittel R1234yf",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "mit folgenden Anschl&#xFC;ssen:<br>Seite 1:         1 1/4&quot; ACME<br>Seite 2:         1&quot; G AG<br><br>Material: ______________<br><br>Dokumentation: Konformit&#xE4;tserkl&#xE4;rung"
+  "price": "0,00",
+  "amount": "0",
+  "description": "mit folgenden Anschlüssen:\\nSeite 1:1 1/4\" ACME\\nSeite 2:1\" G AG\\n\\nMaterial: ______________\\n\\nDokumentation: Konformitätserklärung"
 }

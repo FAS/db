@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    111293\r\n                  ",
+  "id": "111293",
   "name": "Notdienstpauschale - Flüssiggas Verteillager",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n108.25\r\n                    \r\n                    ",
-  "description": "f&#xFC;r folgende Wochen:<br> - ** KW vom *** bis zum ***<br><br>Abrechnung gem. Servicevereinbarung"
+  "price": "0,00",
+  "amount": "108.25",
+  "description": "für folgende Wochen:\\n -  KW vom  bis zum \\n\\nAbrechnung gem. Servicevereinbarung"
 }

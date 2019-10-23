@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    23463\r\n                  ",
+  "id": "23463",
   "name": "Festantenne 90 Grad",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "90&#xB0;-Festantenne"
+  "price": "0,00",
+  "amount": "0",
+  "description": "90°-Festantenne"
 }

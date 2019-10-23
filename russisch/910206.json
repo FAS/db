@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    910206\r\n                  ",
+  "id": "910206",
   "name": "Nadelventil, UNI-Typ FFG2008TA,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Eingang/Ausgang: 1&quot; NPT IG ,<br>Geh&#xE4;usematerial: Stahl , verzinkt und schwarz chromatisiert<br>Schwere hartgel&#xF6;tete Konstruktion f&#xFC;r zus&#xE4;tzliche <br>Festigkeit und Sicherheit bis 700 bar<br>Temperatur -40 bis +260 &#xB0;C"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Eingang/Ausgang: 1\" NPT IG ,\\nGehäusematerial: Stahl , verzinkt und schwarz chromatisiert\\nSchwere hartgelötete Konstruktion für zusätzliche \\nFestigkeit und Sicherheit bis 700 bar\\nTemperatur -40 bis +260 °C"
 }

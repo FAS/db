@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    103975\r\n                  ",
+  "id": "103975",
   "name": "T-Stück reduziert aus Stahl 35.8 I DN 65/80/65,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "bestehend aus:<br> - T-St&#xFC;ck DN65<br> - mittlerer Abgang Reduzierst&#xFC;ck DN65/DN80<br>komplett verschwei&#xDF;t."
+  "price": "0,00",
+  "amount": "0",
+  "description": "bestehend aus:\\n - T-Stück DN65\\n - mittlerer Abgang Reduzierstück DN65/DN80\\nkomplett verschweißt."
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    96003\r\n                  ",
+  "id": "96003",
   "name": "Hauptabsperrarmatur mit therm. Absperreinrichtung Typ 0272",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Anschluss: RVS 15 x RVS 15, DN 15, PN 5<br>ohne Pr&#xFC;fstutzen, ohne Montageplatte<br>zum Einbau in Fl&#xFC;ssiggas Anlagen nach der Hauseinf&#xFC;hrung<br>bestehend aus:<br>- Thermischem Absperrventil<br>- Islorierst&#xFC;ck mit Nennweite DN 15 bzw. DN 20<br>- Absperrventil<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Anschluss: RVS 15 x RVS 15, DN 15, PN 5\\nohne Prüfstutzen, ohne Montageplatte\\nzum Einbau in Flüssiggas Anlagen nach der Hauseinführung\\nbestehend aus:\\n- Thermischem Absperrventil\\n- Islorierstück mit Nennweite DN 15 bzw. DN 20\\n- Absperrventil\\n"
 }

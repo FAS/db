@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    82834\r\n                  ",
+  "id": "82834",
   "name": "alt",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Wir berechnen Ihnen nachtr&#xE4;glich Import-Zollabgaben f&#xFC;r <br>Auftrag Nr. 930273, Rechung-Nr. 603137"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Wir berechnen Ihnen nachträglich Import-Zollabgaben für \\nAuftrag Nr. 930273, Rechung-Nr. 603137"
 }

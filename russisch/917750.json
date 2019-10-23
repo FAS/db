@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    917750\r\n                  ",
+  "id": "917750",
   "name": "Pumpe Typ Ebsray V2000",
   "weight": "0,00",
-  "price": "\r\n                  11.970,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "LPG<br>Durchfluss: ca. 215<br>Differenzdruck: : 860<br>Temperatur: 40<br>Dichtigkeit: 500 kg/m3<br>Eingang / Ausgang ( angeflanscht): 50 / 50 NPT / SLIP-WELD<br>Pumpenkonfihuration: Muss vom Kunden best&#xE4;tigt werden<br><br>"
+  "price": "11.970,00",
+  "amount": "0",
+  "description": "LPG\\nDurchfluss: ca. 215\\nDifferenzdruck: : 860\\nTemperatur: 40\\nDichtigkeit: 500 kg/m3\\nEingang / Ausgang ( angeflanscht): 50 / 50 NPT / SLIP-WELD\\nPumpenkonfihuration: Muss vom Kunden bestätigt werden\\n\\n"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    589159\r\n                  ",
+  "id": "589159",
   "name": "Drehkolbenzähler Dresser Roots G65",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Modell: G65<br>Max. Durchfluss: 100.0 m3/h<br>Min. Durchfluss: 1.0 m3/h<br>Max. Arbeitsdruck: 16 bar<br>Temperaturbereich.: -40 .. 60C<br>Gewinde Gasanschluss: DN 50, PN 16"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Modell: G65\\nMax. Durchfluss: 100.0 m3/h\\nMin. Durchfluss: 1.0 m3/h\\nMax. Arbeitsdruck: 16 bar\\nTemperaturbereich.: -40 .. 60C\\nGewinde Gasanschluss: DN 50, PN 16"
 }

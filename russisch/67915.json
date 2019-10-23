@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    67915\r\n                  ",
+  "id": "67915",
   "name": "Transponder-Rundmarken, codiert, Lümatic,",
   "weight": "0,01",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "###############################<br>f&#xFC;r Fabrik-Nr. 110711213<br>aus AB-Nr. 2420095<br><br>Standort:<br>###############################<br>Tankstelle Luftfrachtzentrum Tyto (Flughafen)<br>Luftfrachtzentrum Flughafen<br>D 70794 Stuttgart<br><br><br>###############################<br>Lfd.-Nr. *** bis ****<br>###############################"
+  "price": "0,00",
+  "amount": "0",
+  "description": "\\nfür Fabrik-Nr. 110711213\\naus AB-Nr. 2420095\\n\\nStandort:\\n\\nTankstelle Luftfrachtzentrum Tyto (Flughafen)\\nLuftfrachtzentrum Flughafen\\nD 70794 Stuttgart\\n\\n\\n\\nLfd.-Nr.  bis \\n"
 }

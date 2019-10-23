@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    27814\r\n                  ",
+  "id": "27814",
   "name": "Umrüstung eines PKW´s mit 4 Zylinder Ottomotor",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "auf Fl&#xFC;ssiggasantrieb, komplett mit allen dazu <br>erforderlichen  Komponenten wie Verdampfer,<br>Steuerelektronik, Magnetventile, Leitungen,<br>Gasbeh&#xE4;lter zylindrische Bauform bis 100 l Inhalt,<br>Tankarmaturen und Au&#xDF;enbetankung, sach- und<br>fachgerechter Einbau, Motoreinstellung und T&#xDC;V-Abnahme."
+  "price": "0,00",
+  "amount": "0",
+  "description": "auf Flüssiggasantrieb, komplett mit allen dazu \\nerforderlichenKomponenten wie Verdampfer,\\nSteuerelektronik, Magnetventile, Leitungen,\\nGasbehälter zylindrische Bauform bis 100 l Inhalt,\\nTankarmaturen und Außenbetankung, sach- und\\nfachgerechter Einbau, Motoreinstellung und TÜV-Abnahme."
 }

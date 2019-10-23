@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    10428\r\n                  ",
-  "name": "Klöpperboden  DIN 28011",
+  "id": "10428",
+  "name": "KlöpperbodenDIN 28011",
   "weight": "36,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Durchmesser 610 x 10 <br>V-Kante au&#xDF;en <br>Werkstoff P 265 GH "
+  "price": "0,00",
+  "amount": "0",
+  "description": "Durchmesser 610 x 10 \\nV-Kante außen \\nWerkstoff P 265 GH "
 }

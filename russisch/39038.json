@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    39038\r\n                  ",
+  "id": "39038",
   "name": "Zählerkopf mit Anzeige in Liter",
   "weight": "5,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Nulldruck vor Abgabebeginn, ohne Getriebeplatte !<br>f&#xFC;r Liquid Controls Me&#xDF;anlagen"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Nulldruck vor Abgabebeginn, ohne Getriebeplatte !\\nfür Liquid Controls Meßanlagen"
 }

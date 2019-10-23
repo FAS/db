@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    25000\r\n                  ",
+  "id": "25000",
   "name": "LPG-Füllschlauch DN 50 im Vollschlauchsystem für Straßen-",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "tankwagen mit Sicherheitsventil und H&#xF6;chstsandpeilventil, <br>L&#xE4;nge l = 6 m, Anschl&#xFC;sse: einerseits 3-1/4&quot; ACME-IG mit Stopfen,<br>andererseits 3-1/4&quot; ACME-IG mit Stopfen und Durchgangsventil <br>2&quot; NPT-IG (FAS 19006) , komplett eingebunden, einschlie&#xDF;lich <br>Pr&#xFC;fbescheinigung<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "tankwagen mit Sicherheitsventil und Höchstsandpeilventil, \\nLänge l = 6 m, Anschlüsse: einerseits 3-1/4\" ACME-IG mit Stopfen,\\nandererseits 3-1/4\" ACME-IG mit Stopfen und Durchgangsventil \\n2\" NPT-IG (FAS 19006) , komplett eingebunden, einschließlich \\nPrüfbescheinigung\\n"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    163490\r\n                  ",
+  "id": "163490",
   "name": "Druckfeder für SAV 8600 (UPSO)",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n6\r\n                    \r\n                    ",
-  "description": "Einstellbereich bei SAV 8612: 30 - 75 mbar<br>Einstellbereich bei SAV 8622: 110 - 290 mbar<br>Einstellbereich bei SAV 8632: 230 - 370 mbar<br>Einstellbereich bei SAV 8642: 320 - 630 mbar"
+  "price": "0,00",
+  "amount": "6",
+  "description": "Einstellbereich bei SAV 8612: 30 - 75 mbar\\nEinstellbereich bei SAV 8622: 110 - 290 mbar\\nEinstellbereich bei SAV 8632: 230 - 370 mbar\\nEinstellbereich bei SAV 8642: 320 - 630 mbar"
 }

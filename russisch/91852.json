@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    91852\r\n                  ",
+  "id": "91852",
   "name": "Pumpe Typ RB 10, für Propan / Butan",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Saugpumpe<br>Eingang von Antriebsseite ( ) links  ( ) rechts<br>Durchfluss: max. 90l/min, delta p 7,0bar bei 2850 U/min <br>Eingang: DN50 2&quot;ANSI Class300<br>Ausgang: DN25 1&quot;ANSI Class300<br>mit CE Konformit&#xE4;tserkl&#xE4;rung<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Saugpumpe\\nEingang von Antriebsseite ( ) links( ) rechts\\nDurchfluss: max. 90l/min, delta p 7,0bar bei 2850 U/min \\nEingang: DN50 2\"ANSI Class300\\nAusgang: DN25 1\"ANSI Class300\\nmit CE Konformitätserklärung\\n"
 }

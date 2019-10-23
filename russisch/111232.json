@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    111232\r\n                  ",
+  "id": "111232",
   "name": "Stellung eines Eichfahrzeuges",
   "weight": "0,00",
-  "price": "\r\n                  115,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "zzgl. Arbeitszeit &amp; Fahrtkosten"
+  "price": "115,00",
+  "amount": "0",
+  "description": "zzgl. Arbeitszeit & Fahrtkosten"
 }

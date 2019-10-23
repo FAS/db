@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    615926\r\n                  ",
+  "id": "615926",
   "name": "Visueller Prüfstand",
   "weight": "300,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "um den Zustand der Zylinder vor der Abf&#xFC;llung zu untersuchen.<br><br>Installation: Kettenf&#xF6;rder / Rollenbahn<br><br>Ausgestattet mit :<br><br>- Rollenbahn, ca. 3m f&#xFC;r aussortierte Flaschen;<br>- 2 x Doppelst&#xE4;nder;<br>- 1 x Flaschenendanschlag;<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "um den Zustand der Zylinder vor der Abfüllung zu untersuchen.\\n\\nInstallation: Kettenförder / Rollenbahn\\n\\nAusgestattet mit :\\n\\n- Rollenbahn, ca. 3m für aussortierte Flaschen;\\n- 2 x Doppelständer;\\n- 1 x Flaschenendanschlag;\\n"
 }

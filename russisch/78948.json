@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    78948\r\n                  ",
+  "id": "78948",
   "name": "Grundplatte für Pumpen-Aggregate 61xx",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "aus Stahl S235<br>L = 1820, B = 720, H = 100, s = 10"
+  "price": "0,00",
+  "amount": "0",
+  "description": "aus Stahl S235\\nL = 1820, B = 720, H = 100, s = 10"
 }

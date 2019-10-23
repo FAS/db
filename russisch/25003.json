@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    25003\r\n                  ",
-  "name": "Pneumatik - Rundzylinder  FESTO ",
+  "id": "25003",
+  "name": "Pneumatik - RundzylinderFESTO ",
   "weight": "1,26",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n2\r\n                    \r\n                    ",
-  "description": "Type ESNU-50-50-P<br>-einfachwirkend sto&#xDF;end<br> Federeinbau<br><br>"
+  "price": "0,00",
+  "amount": "2",
+  "description": "Type ESNU-50-50-P\\n-einfachwirkend stoßend\\n Federeinbau\\n\\n"
 }

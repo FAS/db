@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    78510\r\n                  ",
+  "id": "78510",
   "name": "Befestigunsset für Kompressorumbau auf eine andere Version ",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Blackmer alt: 601A/602A auf Blackmer neu 601B/602C<br>Corken 690/691/D691 auf Blackmer 601B/602C<br>Corken D891 auf Blackmer 942B<br>bestehend aus:<br>2x Blechsteifen (Abmesungen 360 x 100 x 10 mm)<br>4x Senkschrauben FAS 742521"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Blackmer alt: 601A/602A auf Blackmer neu 601B/602C\\nCorken 690/691/D691 auf Blackmer 601B/602C\\nCorken D891 auf Blackmer 942B\\nbestehend aus:\\n2x Blechsteifen (Abmesungen 360 x 100 x 10 mm)\\n4x Senkschrauben FAS 742521"
 }

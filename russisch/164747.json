@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    164747\r\n                  ",
+  "id": "164747",
   "name": "Druckregler COPRIM Alfa 31 AP",
   "weight": "6,00",
-  "price": "\r\n                  300,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Leistung: 320 kg/h<br>Eingangsdruck: max. 18 bar<br>Ausgangsdruck: 1,3 bar<br>Anschlu&#xDF;: Flansch DN25 x Flansch DN40"
+  "price": "300,00",
+  "amount": "0",
+  "description": "Leistung: 320 kg/h\\nEingangsdruck: max. 18 bar\\nAusgangsdruck: 1,3 bar\\nAnschluß: Flansch DN25 x Flansch DN40"
 }

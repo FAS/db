@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    111748\r\n                  ",
+  "id": "111748",
   "name": "Lagerpauschale von beigestellten Bauteilen",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "f&#xFC;r den Zeitraum vom 01.01.20** bis 31.12.20**"
+  "price": "0,00",
+  "amount": "0",
+  "description": "für den Zeitraum vom 01.01.20 bis 31.12.20"
 }

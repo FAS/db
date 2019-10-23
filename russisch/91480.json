@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    91480\r\n                  ",
-  "name": "Pumpenaggregat bestehend aus Pumpe F 14 <br>",
+  "id": "91480",
+  "name": "Pumpenaggregat bestehend aus Pumpe F 14 \\n",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Eingang 1 1/2&quot;, Ausgang 1 &quot; NPT, <br>max. Differenzdruck 8,6 bar, rechtsdrehend<br>Leistung entsprechend Datenblatt VF 202-1<br>mit Motor EExeIIT3, 2,5 kW, 50 Hz, 3000 1/min<br>aufgebaut auf einer Grundplatte mit Kupplung <br>und Kupplungsschutz, grundiert und lackiert<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Eingang 1 1/2\", Ausgang 1 \" NPT, \\nmax. Differenzdruck 8,6 bar, rechtsdrehend\\nLeistung entsprechend Datenblatt VF 202-1\\nmit Motor EExeIIT3, 2,5 kW, 50 Hz, 3000 1/min\\naufgebaut auf einer Grundplatte mit Kupplung \\nund Kupplungsschutz, grundiert und lackiert\\n"
 }

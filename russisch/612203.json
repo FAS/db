@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    612203\r\n                  ",
+  "id": "612203",
   "name": "Pumpenaggregat für die Förderung von Ammoniakwasser 35%",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "besteht aus folgenden Hauptkomponenten:<br><br>- Seitenkanalpumpe Typ NZ mit freiem Wellenende<br>- Antriebsgruppe inkl. Grundplatte, Kupplung, Kupplungsschutz und Motor B3, 100 L, 3 KW, 230/400 V, 50 Hz, 1450 U/min, IP55, IE3, Kaltleiter<br><br>Betriebsdaten:<br>- F&#xF6;rdermedium: Ammoniakwasser 35%<br>Arbeitstemperatur: 20&#xB0;C<br>Dichte: 0,9 kg/dm3<br>Viskosit&#xE4;t: 1 mm2/s<br>Differenzdruck: 6 bar<br>Drehzahl: 1450 U/min<br>H +/- 10% F&#xF6;rderh&#xF6;he: 65 mFls<br>Motorleistung: 3 KW<br><br>Ausf&#xFC;hrung:<br>Drehrichtung: links, auf die Antriebsseite gesehen<br>Stufenzahl: 3<br>Saugseite: DN 65 axial (waagerecht)<br>Druckseite: DN 32 radial nach oben<br>Wellenabdichtung: Wellendichtungslos durch Permanentmagnetkupplung, Magnetantrieb Gr. 75<br>Nenndruck: PN 25<br><br>Werkstoffe: <br>Geh&#xE4;use: 1.4408<br>Lagerbock/Fu&#xDF;: GGG40<br>Stufe/Sockel: 1.4470<br>Welle: 1.4571<br>Laufrad: 1.4581<br>Sauglaufrad: 1.4581<br><br><br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "besteht aus folgenden Hauptkomponenten:\\n\\n- Seitenkanalpumpe Typ NZ mit freiem Wellenende\\n- Antriebsgruppe inkl. Grundplatte, Kupplung, Kupplungsschutz und Motor B3, 100 L, 3 KW, 230/400 V, 50 Hz, 1450 U/min, IP55, IE3, Kaltleiter\\n\\nBetriebsdaten:\\n- Fördermedium: Ammoniakwasser 35%\\nArbeitstemperatur: 20°C\\nDichte: 0,9 kg/dm3\\nViskosität: 1 mm2/s\\nDifferenzdruck: 6 bar\\nDrehzahl: 1450 U/min\\nH +/- 10% Förderhöhe: 65 mFls\\nMotorleistung: 3 KW\\n\\nAusführung:\\nDrehrichtung: links, auf die Antriebsseite gesehen\\nStufenzahl: 3\\nSaugseite: DN 65 axial (waagerecht)\\nDruckseite: DN 32 radial nach oben\\nWellenabdichtung: Wellendichtungslos durch Permanentmagnetkupplung, Magnetantrieb Gr. 75\\nNenndruck: PN 25\\n\\nWerkstoffe: \\nGehäuse: 1.4408\\nLagerbock/Fuß: GGG40\\nStufe/Sockel: 1.4470\\nWelle: 1.4571\\nLaufrad: 1.4581\\nSauglaufrad: 1.4581\\n\\n\\n"
 }

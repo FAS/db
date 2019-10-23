@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    810820\r\n                  ",
+  "id": "810820",
   "name": "Manometer, UNI-Typ 5576,",
   "weight": "0,12",
-  "price": "\r\n                  35,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Eingangsanschlu&#xDF;: 1/4&quot;<br>Max. Auslegung: 6,9 bar (100 PSIG)<br>Gr&#xF6;&#xDF;e: 2&quot; <br>Aufteilung: 2 PSIG<br>Geh&#xE4;use: Messing  "
+  "price": "35,00",
+  "amount": "0",
+  "description": "Eingangsanschluß: 1/4\"\\nMax. Auslegung: 6,9 bar (100 PSIG)\\nGröße: 2\" \\nAufteilung: 2 PSIG\\nGehäuse: Messing"
 }

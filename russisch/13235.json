@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    13235\r\n                  ",
+  "id": "13235",
   "name": "Trockentrennkupplung DN 80 Vater-Teil",
   "weight": "7,10",
-  "price": "\r\n                  985,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "TROCKENKUPPLUNG TXTU DN 80 FLANSCH <br>nach EN1092-1 PN 25/40,<br>1.4408 FKM<br><br>STANAG Schnittstelle &#x2013;<br>nach Nato-Norm STANAG 3756 f&#xFC;r das Bajonettprinzip<br>damit voll kompatibel zu Mann Tek / TODO Kupplungen"
+  "price": "985,00",
+  "amount": "0",
+  "description": "TROCKENKUPPLUNG TXTU DN 80 FLANSCH \\nnach EN1092-1 PN 25/40,\\n1.4408 FKM\\n\\nSTANAG Schnittstelle –\\nnach Nato-Norm STANAG 3756 für das Bajonettprinzip\\ndamit voll kompatibel zu Mann Tek / TODO Kupplungen"
 }

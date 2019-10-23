@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    83426\r\n                  ",
+  "id": "83426",
   "name": "Zentralbaustein \"MULTISAFE\"",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "St&#xF6;rmeldezentrale<br>TyP: MS 51-41-R/24 VDC"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Störmeldezentrale\\nTyP: MS 51-41-R/24 VDC"
 }

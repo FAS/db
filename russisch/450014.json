@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    450014\r\n                  ",
+  "id": "450014",
   "name": "Zahnradpumpe, Typ ROC 03",
   "weight": "9,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Geh&#xE4;use aus Edelstahl: 316<br>Zahnr&#xE4;der aus Edelstahl: 17-4ph<br>Dichtungstyp: Gleitringdichtung<br>Elastomere: PTFE<br>Anschl&#xFC;sse: &#xBE;&quot; NPT<br>&#xDC;berstr&#xF6;mventil: ohne<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Gehäuse aus Edelstahl: 316\\nZahnräder aus Edelstahl: 17-4ph\\nDichtungstyp: Gleitringdichtung\\nElastomere: PTFE\\nAnschlüsse: ¾\" NPT\\nÜberströmventil: ohne\\n"
 }

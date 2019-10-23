@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    810164\r\n                  ",
+  "id": "810164",
   "name": "Rückschlagventile, FAS/REGO Typ CG750SS",
   "weight": "0,60",
-  "price": "\r\n                  145,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Geh&#xE4;use: aus Edelstahl<br>Feder Edelstahl, Kolben Edelstahl,<br>O-Ring: Viton<br>Anschlu&#xDF; 3/4&quot; NPT IG,<br>max, Betriebsdruck 350 bar ;<br>Temperaturbereich: -196&#xB0;C bis +74&#xB0;C ."
+  "price": "145,00",
+  "amount": "0",
+  "description": "Gehäuse: aus Edelstahl\\nFeder Edelstahl, Kolben Edelstahl,\\nO-Ring: Viton\\nAnschluß 3/4\" NPT IG,\\nmax, Betriebsdruck 350 bar ;\\nTemperaturbereich: -196°C bis +74°C ."
 }

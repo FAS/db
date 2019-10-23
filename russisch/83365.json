@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    83365\r\n                  ",
+  "id": "83365",
   "name": "Druckleitung DN 50 für Karussel K-9E (zweiteilig),",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Betriebsmedium: Propan/Butan, maximal zul&#xE4;ssiger<br>Betriebsdruck: PN 25, komplett verschwei&#xDF;,<br>grundiert und lackiert (&quot;gelb&quot;)<br>Zeichnung:<br> - 734500-1_3_3-3D (Firma NINNELT)<br>Dokumentation:<br> - Konformit&#xE4;tserkl&#xE4;rung gem&#xE4;&#xDF; Druckger&#xE4;te-<br>   richtlinie 2014/68/EU<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Betriebsmedium: Propan/Butan, maximal zulässiger\\nBetriebsdruck: PN 25, komplett verschweiß,\\ngrundiert und lackiert (\"gelb\")\\nZeichnung:\\n - 734500-1_3_3-3D (Firma NINNELT)\\nDokumentation:\\n - Konformitätserklärung gemäß Druckgeräte-\\nrichtlinie 2014/68/EU\\n"
 }

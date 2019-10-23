@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    34345\r\n                  ",
+  "id": "34345",
   "name": "ISDN-Router",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Erm&#xF6;glicht Datenzugriff &#xFC;ber ISDN mit integriertem<br>Zugriffsschutz sowie den Anschluss weiterer Ethernetf&#xE4;higen<br>Endger&#xE4;ten<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Ermöglicht Datenzugriff über ISDN mit integriertem\\nZugriffsschutz sowie den Anschluss weiterer Ethernetfähigen\\nEndgeräten\\n"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    348560\r\n                  ",
+  "id": "348560",
   "name": "Impulsgeber 01-08-U, PNP Coca 2 x 50 Puls/Umdr.",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "24 VDC Pulse drift, f&#xFC;r Tokheim WWC - Typ Quatium,<br>mit Summierz&#xE4;hler"
+  "price": "0,00",
+  "amount": "0",
+  "description": "24 VDC Pulse drift, für Tokheim WWC - Typ Quatium,\\nmit Summierzähler"
 }

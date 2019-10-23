@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    111228\r\n                  ",
+  "id": "111228",
   "name": "Sonntags- und Feiertagszuschlag (100%) für:",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "=&gt; Montagevorarbeiter<br>=&gt; Kundendienst-Techniker<br>=&gt; Sachkundiger"
+  "price": "0,00",
+  "amount": "0",
+  "description": "=> Montagevorarbeiter\\n=> Kundendienst-Techniker\\n=> Sachkundiger"
 }

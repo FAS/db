@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    75136\r\n                  ",
-  "name": "Vierkantstahl, DIN 1014,  30 mm, aus St 52-3,",
+  "id": "75136",
+  "name": "Vierkantstahl, DIN 1014,30 mm, aus St 52-3,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "mit Abnahmepr&#xFC;fzeugnis 3.1 nach EN 10204"
+  "price": "0,00",
+  "amount": "0",
+  "description": "mit Abnahmeprüfzeugnis 3.1 nach EN 10204"
 }

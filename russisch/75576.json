@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    75576\r\n                  ",
-  "name": "Stahlrohr  813mm x 8,0mm , L= 1400mm, ",
+  "id": "75576",
+  "name": "Stahlrohr813mm x 8,0mm , L= 1400mm, ",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "l&#xE4;ngsnahtgeschwei&#xDF;t, DIN 2458/17178<br>Material P355 NL1/NH,<br>mit APZ 3.1 B vom Vormaterial<br>jedoch ohne Druckprobe"
+  "price": "0,00",
+  "amount": "0",
+  "description": "längsnahtgeschweißt, DIN 2458/17178\\nMaterial P355 NL1/NH,\\nmit APZ 3.1 B vom Vormaterial\\njedoch ohne Druckprobe"
 }

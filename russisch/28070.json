@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    28070\r\n                  ",
+  "id": "28070",
   "name": "Муфта шланга ",
   "weight": "0,99",
-  "price": "\r\n                  67,00\r\n                  ",
-  "amount": "\r\n                      \r\n3\r\n                    \r\n                    ",
-  "description": "1&quot; AG NPT x 1 3/4&quot; IG ACME"
+  "price": "67,00",
+  "amount": "3",
+  "description": "1\" AG NPT x 1 3/4\" IG ACME"
 }

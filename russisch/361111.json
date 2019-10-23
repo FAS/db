@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    361111\r\n                  ",
+  "id": "361111",
   "name": "Beistellung TKW Abschaltung CL-OB1",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Fabrikat CMT, II (1) G [EEx ia] IIB/C -25&#xB0; ...+70&#xB0;C<br>Artikel-Nr.: 20076"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Fabrikat CMT, II (1) G [EEx ia] IIB/C -25° ...+70°C\\nArtikel-Nr.: 20076"
 }

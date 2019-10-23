@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    201296\r\n                  ",
+  "id": "201296",
   "name": "Plattenwärmeübertrager ",
   "weight": "19,00",
-  "price": "\r\n                  3.200,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Typ ST3VDN, warmwasserbeheizt f&#xFC;r Kondensat, <br>Gaseingang Flansch DN25 PN40, <br>Gasausgang Flansch DN25 PN40,<br>Warmwasser: R&#xFC;cklauf, Vorlauf Flansch DN25 PN40<br>Auslegdaten:<br>Berechnungsdruck: 25 bar (Gas/Wasser)<br>Betr.zull&#xE4;ssige Temperatur: 5/250&#xB0; C (Gas/Wasser<br><br>Wassertemperatur 20&#xB0; C<br>Plattenzahl 16 St.<br><br>"
+  "price": "3.200,00",
+  "amount": "0",
+  "description": "Typ ST3VDN, warmwasserbeheizt für Kondensat, \\nGaseingang Flansch DN25 PN40, \\nGasausgang Flansch DN25 PN40,\\nWarmwasser: Rücklauf, Vorlauf Flansch DN25 PN40\\nAuslegdaten:\\nBerechnungsdruck: 25 bar (Gas/Wasser)\\nBetr.zullässige Temperatur: 5/250° C (Gas/Wasser\\n\\nWassertemperatur 20° C\\nPlattenzahl 16 St.\\n\\n"
 }

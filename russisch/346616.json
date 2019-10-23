@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    346616\r\n                  ",
+  "id": "346616",
   "name": "\" Lümatic \"– Auswerteprogramm FMS32-Basis,Personenzuordnung",
   "weight": "0,10",
-  "price": "\r\n                  1.605,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "FMS - Basisversion mit den Modulen:<br>Tagesprotokoll, Einzel- und Gesamtabrechnung, Vorg&#xE4;nge<br>chronologisch, Durchschnittverbrauchliste, <br><br>Systemvorraussetzungen:<br> - PC mit mind. Pentium II<br> - Serielle Schnittstelle, au&#xDF;er bei Betrieb &#xFC;ber Netzwerk per TCP/IP<br> - Internetverbindung mit Downloadberechtigung<br>   Wichtig hierf&#xFC;r Proxyserver- Einstellungen! (ggf. Nachfrage bei EDV- <br>   Fachmann des Endkunden)<br> - Windows XP, Windows 7<br><br>Fuhrparkauswertung - Basismodul -<br>Datenkommunikation zum Tankautomat, Basisauswertung, <br>Einzel- und Gesamtabrechnung nach Fahrzeug und Datum.<br><br>Download FMS32 ist nur &#xFC;ber Onlineverbindung m&#xF6;glich &#x2013; <br>keine CD-Version mehr erh&#xE4;ltlich!"
+  "price": "1.605,00",
+  "amount": "0",
+  "description": "FMS - Basisversion mit den Modulen:\\nTagesprotokoll, Einzel- und Gesamtabrechnung, Vorgänge\\nchronologisch, Durchschnittverbrauchliste, \\n\\nSystemvorraussetzungen:\\n - PC mit mind. Pentium II\\n - Serielle Schnittstelle, außer bei Betrieb über Netzwerk per TCP/IP\\n - Internetverbindung mit Downloadberechtigung\\nWichtig hierfür Proxyserver- Einstellungen! (ggf. Nachfrage bei EDV- \\nFachmann des Endkunden)\\n - Windows XP, Windows 7\\n\\nFuhrparkauswertung - Basismodul -\\nDatenkommunikation zum Tankautomat, Basisauswertung, \\nEinzel- und Gesamtabrechnung nach Fahrzeug und Datum.\\n\\nDownload FMS32 ist nur über Onlineverbindung möglich – \\nkeine CD-Version mehr erhältlich!"
 }

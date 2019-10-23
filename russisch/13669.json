@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    13669\r\n                  ",
+  "id": "13669",
   "name": "Ventil",
   "weight": "1,50",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n2\r\n                    \r\n                    ",
+  "price": "0,00",
+  "amount": "2",
   "description": "M1in NPT (inlet) xF1 in NPT(outlet) "
 }

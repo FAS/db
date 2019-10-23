@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    18371\r\n                  ",
+  "id": "18371",
   "name": "Datenstation für Füllstandserfassung und Fernübertragung,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Typ Telecheck II, mit integriertem W&#xE4;hlmodem, Anzeige <br>des Beh&#xE4;lterf&#xFC;llstandes an einem zweizeiligen LCD-Text-<br>Display, automatische Meldung des Beh&#xE4;lterf&#xFC;llstandes<br>schrittweise (z.B. alle 5%) oder Fernausl&#xF6;sung &#xFC;ber Em-<br>pfangsmodem, Ausgabe der Meldung per Fax oder PC mit <br>Empfangssoftware (W&#xE4;hlmodem mit Software siehe FAS<br>18.372), mit digitaler Schnittstelle, eigensicher, zum <br>Anschlu&#xDF; eines digitalen Me&#xDF;wertgebers Fa. GOK, Strom-<br>versorgung 230 V / 50 Hz"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Typ Telecheck II, mit integriertem Wählmodem, Anzeige \\ndes Behälterfüllstandes an einem zweizeiligen LCD-Text-\\nDisplay, automatische Meldung des Behälterfüllstandes\\nschrittweise (z.B. alle 5%) oder Fernauslösung über Em-\\npfangsmodem, Ausgabe der Meldung per Fax oder PC mit \\nEmpfangssoftware (Wählmodem mit Software siehe FAS\\n18.372), mit digitaler Schnittstelle, eigensicher, zum \\nAnschluß eines digitalen Meßwertgebers Fa. GOK, Strom-\\nversorgung 230 V / 50 Hz"
 }

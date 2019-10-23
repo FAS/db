@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    340560\r\n                  ",
+  "id": "340560",
   "name": "Provideränderung für EC-Terminal für Tankautomat",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "ELME OPP B50 Terminal  L&#xFC;matic<br>konfiguriert f&#xFC;r ISDN-Hecnet <br>(Einbau in Typ: FAS-420_L_EC Tankautomaten)<br><br>Achtung: <br>Telecash - Terminal inkl. Kartenleser (34.056 + 34.057)<br>werden von FAS beigestellt und zu L&#xFC;matic versendet!!!"
+  "price": "0,00",
+  "amount": "1",
+  "description": "ELME OPP B50 TerminalLümatic\\nkonfiguriert für ISDN-Hecnet \\n(Einbau in Typ: FAS-420_L_EC Tankautomaten)\\n\\nAchtung: \\nTelecash - Terminal inkl. Kartenleser (34.056 + 34.057)\\nwerden von FAS beigestellt und zu Lümatic versendet!!!"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    18241\r\n                  ",
+  "id": "18241",
   "name": "Füllstandssonde, Typ Level Plus 420",
   "weight": "6,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "zur kontinuierlichen Erfassung von<br>F&#xFC;llst&#xE4;nden bis 3650 mm,<br>Sondenl&#xE4;nge : _________mm<br>mit Gewindeanschlu&#xDF; 3/4&quot; NPT,<br>Ausgangssignal: 4....20 mA,<br>2-Leiter Signalfern&#xFC;bertragung,<br>Ex-Schutz EEx ib IIB T4"
+  "price": "0,00",
+  "amount": "0",
+  "description": "zur kontinuierlichen Erfassung von\\nFüllständen bis 3650 mm,\\nSondenlänge : _________mm\\nmit Gewindeanschluß 3/4\" NPT,\\nAusgangssignal: 4....20 mA,\\n2-Leiter Signalfernübertragung,\\nEx-Schutz EEx ib IIB T4"
 }

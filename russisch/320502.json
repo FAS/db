@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    320502\r\n                  ",
+  "id": "320502",
   "name": "Pumpe SAMPI RVP 30, Version für \"solvents\",",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Max. Differenzdruck: 8,6 bar,<br>Temperatur-Bereich: -32&#xB0;C / +149&#xB0;C"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Max. Differenzdruck: 8,6 bar,\\nTemperatur-Bereich: -32°C / +149°C"
 }

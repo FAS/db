@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    811003\r\n                  ",
-  "name": "Reparatursatz Cryogenik = siehe  810280",
+  "id": "811003",
+  "name": "Reparatursatz Cryogenik = siehe810280",
   "weight": "1,40",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Typ RegO T9464-80<br><br>***nicht mehr verwenden, jetzt 810280***"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Typ RegO T9464-80\\n\\nnicht mehr verwenden, jetzt 810280"
 }

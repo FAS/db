@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    90028\r\n                  ",
+  "id": "90028",
   "name": "Sicherheitsventil 20.0 bar",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Typ AA3135, mit T&#xDC;V-Abnahme"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Typ AA3135, mit TÜV-Abnahme"
 }

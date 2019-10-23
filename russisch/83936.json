@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    83936\r\n                  ",
+  "id": "83936",
   "name": "Luftregel- und Filterstation bestehend aus Filter, Druckmind",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Manometer und Absperrventil, Drucklufteinla&#xDF; 3/4&quot; NPT, Typ HZ-C"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Manometer und Absperrventil, Drucklufteinlaß 3/4\" NPT, Typ HZ-C"
 }

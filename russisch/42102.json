@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    42102\r\n                  ",
+  "id": "42102",
   "name": "Flügelzellenpumpe, Typ X2B, Anschluß 2\" NPT, Standard",
   "weight": "32,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "rechtsdrehend, f&#xFC;r reine, schmierende, nichtkorrosive Medien,<br>Geh&#xE4;use Gu&#xDF;eisen ASTM A 48, O-Ringe FKM,<br>mechanische Gleitringdichtung, Treibschieber Duravane,<br>mit internem &#xDC;berstr&#xF6;mventil 3,5 - 5,2 bar<br><br>- Parameterabh&#xE4;ngige Einsatzgrenzen -<br>Viskosit&#xE4;t: Max. 4.250 cSt<br>Temperatur: Max 115 &#xB0;C<br>Differenzdruck: Max. 8,6 bar<br>Arbeitsdruck: Max. 12,1 bar<br>F&#xF6;rdermenge: Max. 340 l/min<br>Drehzahl: Max. 780 1/min"
+  "price": "0,00",
+  "amount": "0",
+  "description": "rechtsdrehend, für reine, schmierende, nichtkorrosive Medien,\\nGehäuse Gußeisen ASTM A 48, O-Ringe FKM,\\nmechanische Gleitringdichtung, Treibschieber Duravane,\\nmit internem Überströmventil 3,5 - 5,2 bar\\n\\n- Parameterabhängige Einsatzgrenzen -\\nViskosität: Max. 4.250 cSt\\nTemperatur: Max 115 °C\\nDifferenzdruck: Max. 8,6 bar\\nArbeitsdruck: Max. 12,1 bar\\nFördermenge: Max. 340 l/min\\nDrehzahl: Max. 780 1/min"
 }

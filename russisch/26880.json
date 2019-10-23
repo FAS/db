@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    26880\r\n                  ",
+  "id": "26880",
   "name": "Ein/Aus-Installationsschalter mit PTB Zulassung",
   "weight": "0,50",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "im Isolierstoffgeh&#xE4;use, Schutzart IP 65, E Ex dem IIC T6,<br>Nennspannung 500 V, AC, Nennstrom max. 16 A <br>mit 1 Stopfbuchsverschraubung PG 16, <br>Kontaktbest&#xFC;ckung: 1 &#xD6;ffner u. 1 Schlie&#xDF;er"
+  "price": "0,00",
+  "amount": "0",
+  "description": "im Isolierstoffgehäuse, Schutzart IP 65, E Ex dem IIC T6,\\nNennspannung 500 V, AC, Nennstrom max. 16 A \\nmit 1 Stopfbuchsverschraubung PG 16, \\nKontaktbestückung: 1 Öffner u. 1 Schließer"
 }

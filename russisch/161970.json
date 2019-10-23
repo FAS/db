@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    161970\r\n                  ",
+  "id": "161970",
   "name": "Ersatzteile für Regler 12P MM SL IZM.1 DN 25 PN 40 Bj: 1992",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "bestehend aus:<br><br>- Verschleissteilsatz Baugruppe Steuereinheit MM + MF 10<br>- Verschleissteilsatz Baugruppe Stellger&#xE4;t 12P DN 25<br>- Verschleissteilsatz Baugruppe Stellglied SAV DN 25<br>- Verschleissteilsatz Baugruppe Stellantriebgeh&#xE4;use SAV-SL-IZN/M.1"
+  "price": "0,00",
+  "amount": "0",
+  "description": "bestehend aus:\\n\\n- Verschleissteilsatz Baugruppe Steuereinheit MM + MF 10\\n- Verschleissteilsatz Baugruppe Stellgerät 12P DN 25\\n- Verschleissteilsatz Baugruppe Stellglied SAV DN 25\\n- Verschleissteilsatz Baugruppe Stellantriebgehäuse SAV-SL-IZN/M.1"
 }

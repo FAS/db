@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    260861\r\n                  ",
+  "id": "260861",
   "name": "Auswertgerät für die kontinuierliche Messung",
   "weight": "0,20",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "VEGAMET 391<br><br>Einsatzgebiet<br>Das VEGAMET 391 ist ein universelles Auswertger&#xE4;t f&#xFC;r eine Vielzahl an Regelungs - und<br>Steuerungsaufgaben wie F&#xFC;llstand-, Pegel- und Prozessdruckmessung. Bestandserfassung, VMI<br>(Vendor Managed Iventory) und Fernabfrage sind weitere Anwendungsm&#xF6;glichkeiten.<br>Umfangreiche Abgleichfunktionen erlauben individuelle Anpassungen an die jeweilige<br>Aufgabenstellung.<br>Vorteile<br>4 &#x2026; 20 mA/HART-Sensoreingang mit Messumformerspeisung<br>Sechs Relaisausg&#xE4;nge, ein skalierbarer Stromausgang<br>Umfangreiche Funktionen, z. B. Skalierung, Linearisierung, Pumpensteuerung und<br>Durchflussmessung<br>Integrierter Webserver<br>Messwert- und Meldungversand via E-Mail<br>Geeignet f&#xFC;r den Datenaustausch mit WEB -VV<br>Zulassung : ATEX II (1) G D [Ex ia] IIC<br>Ausf&#xFC;hrung : 4...20mA-Eingang<br>Schnittstellen : ohne<br>Sprache des Men&#xFC;s : DE<br>Betriebsanleitung in : DE"
+  "price": "0,00",
+  "amount": "0",
+  "description": "VEGAMET 391\\n\\nEinsatzgebiet\\nDas VEGAMET 391 ist ein universelles Auswertgerät für eine Vielzahl an Regelungs - und\\nSteuerungsaufgaben wie Füllstand-, Pegel- und Prozessdruckmessung. Bestandserfassung, VMI\\n(Vendor Managed Iventory) und Fernabfrage sind weitere Anwendungsmöglichkeiten.\\nUmfangreiche Abgleichfunktionen erlauben individuelle Anpassungen an die jeweilige\\nAufgabenstellung.\\nVorteile\\n4 … 20 mA/HART-Sensoreingang mit Messumformerspeisung\\nSechs Relaisausgänge, ein skalierbarer Stromausgang\\nUmfangreiche Funktionen, z. B. Skalierung, Linearisierung, Pumpensteuerung und\\nDurchflussmessung\\nIntegrierter Webserver\\nMesswert- und Meldungversand via E-Mail\\nGeeignet für den Datenaustausch mit WEB -VV\\nZulassung : ATEX II (1) G D [Ex ia] IIC\\nAusführung : 4...20mA-Eingang\\nSchnittstellen : ohne\\nSprache des Menüs : DE\\nBetriebsanleitung in : DE"
 }

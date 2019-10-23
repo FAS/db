@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    92473\r\n                  ",
+  "id": "92473",
   "name": "Notentleerungseinheit",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "(ohne Kompressor, Motor und Steuerung)<br>bestehend aus:<br>- LPG-Beh&#xE4;lter, Volumen ca. 1.500 Liter<br>- Verbindungsschlauchleitung zum Kompresor<br>- Montage und Verkabelung<br>- verzinkter Grundrahmen"
+  "price": "0,00",
+  "amount": "0",
+  "description": "(ohne Kompressor, Motor und Steuerung)\\nbestehend aus:\\n- LPG-Behälter, Volumen ca. 1.500 Liter\\n- Verbindungsschlauchleitung zum Kompresor\\n- Montage und Verkabelung\\n- verzinkter Grundrahmen"
 }

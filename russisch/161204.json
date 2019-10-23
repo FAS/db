@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    161204\r\n                  ",
+  "id": "161204",
   "name": "Druckregler, Mitteldruck, DN 25, PN 40, Typ VR 75,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Geh&#xE4;use aus Stahlgu&#xDF; GS-C 25,<br>Vordruck: 18 - 20 bar, Hinterdruck 0,7 - 7 bar,<br>Leistung: 140 - 160kg/h<br>eingestellt auf ______ bar, D&#xFC;se 3 mm,<br>DIN-DVGW-Zulassung,<br>Dokumentationsumfang:<br>- EG-Konformit&#xE4;tserkl&#xE4;rung<br>  nach Richtlinie 2014/68/EU<br>   (DGRL)<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Gehäuse aus Stahlguß GS-C 25,\\nVordruck: 18 - 20 bar, Hinterdruck 0,7 - 7 bar,\\nLeistung: 140 - 160kg/h\\neingestellt auf ______ bar, Düse 3 mm,\\nDIN-DVGW-Zulassung,\\nDokumentationsumfang:\\n- EG-Konformitätserklärung\\nnach Richtlinie 2014/68/EU\\n(DGRL)\\n"
 }

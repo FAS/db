@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    98681\r\n                  ",
+  "id": "98681",
   "name": "Coriolis-Zähler DN02, 1/12\", Typ FAS 8CM02,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Ultra-kompakter Coriolis-Durchflussmesser,<br>Medium Propan / Butan fl&#xFC;ssig<br>Messbereich: 0 - 100 kg/h<br>Geh&#xE4;use aus Edelstahl<br>Zulassung: ATEX II 2G Ex demb[ia] IIC; ATEX II 2D <br>                  Ex tD A21 IP6x IECEx Z1 Ex demb[ia] IIC; IECEx<br>                  Z21 Ex tD A21 IP6x<br>I/O Signal: 2x (phasenverschoben) Impuls/Frequenz<br>                  + Stat.Aus. + Modbus RS485<br>Hilfsenergie:: 10-30VDC, 20-28VAC<br>Anzeige: ohne, via Kommunikation<br>Geh&#xE4;use: Kompakt IP67 NEMA 4X<br>Kabeleinf&#xFC;hrung: Verschr. M20 (EEx d &gt; Gewinde M20)<br>Anschluss: Cajon 4-VCO-4, rostfr. Stahl<br>Kalibration: 0,10% <br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Ultra-kompakter Coriolis-Durchflussmesser,\\nMedium Propan / Butan flüssig\\nMessbereich: 0 - 100 kg/h\\nGehäuse aus Edelstahl\\nZulassung: ATEX II 2G Ex demb[ia] IIC; ATEX II 2D \\nEx tD A21 IP6x IECEx Z1 Ex demb[ia] IIC; IECEx\\nZ21 Ex tD A21 IP6x\\nI/O Signal: 2x (phasenverschoben) Impuls/Frequenz\\n+ Stat.Aus. + Modbus RS485\\nHilfsenergie:: 10-30VDC, 20-28VAC\\nAnzeige: ohne, via Kommunikation\\nGehäuse: Kompakt IP67 NEMA 4X\\nKabeleinführung: Verschr. M20 (EEx d > Gewinde M20)\\nAnschluss: Cajon 4-VCO-4, rostfr. Stahl\\nKalibration: 0,10% \\n"
 }

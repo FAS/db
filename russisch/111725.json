@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    111725\r\n                  ",
+  "id": "111725",
   "name": "Behälterabsaugung absaugen durch TKW",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "###############################<br>Wir berechnen Ihnen den Rechnungsbetrag zzgl. einem Regiezuschlag von<br>15%, jedoch mind. 50,00 EUR, f&#xFC;r folgende T&#xE4;tigkeit/Montage:<br><br>(  ) drucklos<br>(  ) nur Fl&#xFC;ssigphase<br><br>=&gt; RE-Nr.<br>=&gt; <br><br>(  ) ca. Preis, Abrechnung auf Nachweis"
+  "price": "0,00",
+  "amount": "0",
+  "description": "\\nWir berechnen Ihnen den Rechnungsbetrag zzgl. einem Regiezuschlag von\\n15%, jedoch mind. 50,00 EUR, für folgende Tätigkeit/Montage:\\n\\n() drucklos\\n() nur Flüssigphase\\n\\n=> RE-Nr.\\n=> \\n\\n() ca. Preis, Abrechnung auf Nachweis"
 }

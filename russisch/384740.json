@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    384740\r\n                  ",
+  "id": "384740",
   "name": "EEC Drucker in Liter Teil Nr. 0788800-011, Typ Veeder-Root",
   "weight": "2,50",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n3\r\n                    \r\n                    ",
-  "description": "ohne Deckel, mit Abdruck &quot;face down&quot;,<br>Einheit Liter (l)<br>mit Identifikationswalzen<br>"
+  "price": "0,00",
+  "amount": "3",
+  "description": "ohne Deckel, mit Abdruck \"face down\",\\nEinheit Liter (l)\\nmit Identifikationswalzen\\n"
 }

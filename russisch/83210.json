@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    83210\r\n                  ",
+  "id": "83210",
   "name": "alt",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Abnahmepr&#xFC;fzeugnis DIN 50.049-3.1 "
+  "price": "0,00",
+  "amount": "0",
+  "description": "Abnahmeprüfzeugnis DIN 50.049-3.1 "
 }

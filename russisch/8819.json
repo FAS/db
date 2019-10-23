@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    8819\r\n                  ",
+  "id": "8819",
   "name": "Mängelbericht",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "###############################<br>Im Rahmen der Wartung/Instandsetzung wurden folgende <br>gekennzeichneten (X) M&#xE4;ngel festgestellt:<br><br>(  ) Feuerl&#xF6;scherpr&#xFC;fung abgelaufen<br>(  ) Schlauch/Schl&#xE4;uche por&#xF6;s bzw. besch&#xE4;digt<br>(  ) Eichung abgelaufen<br>(  ) <br><br>Hinweis/e:<br>(  ) Der/Die festgestellte/n Mangel/M&#xE4;ngel ist/sind bauseits zu beheben.<br>(  ) Sie erhalten zur Behebung des/der Mangel/M&#xE4;ngel kurzfristig einen <br>     separaten Kostenvoranschlag.<br>(  ) Der/Die festgestellte/n Mangel/M&#xE4;ngel wird/werden im Rahmen des<br>     n&#xE4;chsten Serviceeinsatzes behoben."
+  "price": "0,00",
+  "amount": "0",
+  "description": "\\nIm Rahmen der Wartung/Instandsetzung wurden folgende \\ngekennzeichneten (X) Mängel festgestellt:\\n\\n() Feuerlöscherprüfung abgelaufen\\n() Schlauch/Schläuche porös bzw. beschädigt\\n() Eichung abgelaufen\\n() \\n\\nHinweis/e:\\n() Der/Die festgestellte/n Mangel/Mängel ist/sind bauseits zu beheben.\\n() Sie erhalten zur Behebung des/der Mangel/Mängel kurzfristig einen \\nseparaten Kostenvoranschlag.\\n() Der/Die festgestellte/n Mangel/Mängel wird/werden im Rahmen des\\nnächsten Serviceeinsatzes behoben."
 }

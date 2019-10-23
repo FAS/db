@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    162343\r\n                  ",
+  "id": "162343",
   "name": "Druckregler, Niederdruck, 2. Stufe, PN 4,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "mit Flanschanschlu&#xDF; DN 40 PN 16 (DIN 2633),<br>mit SAV f&#xFC;r obere Abschaltung und mit SBV,<br>Vordruck: 0,5 bis 4,0 bar,<br>Feder Ausgangsdruck: 70-140 mbar, eingestellt auf 75 mbar,<br>Feder SAV: 50 - 150 mbar, eingestellt auf 100 mbar,<br>SBV 30 mbar &#xFC;ber Ausgangsdruck, D&#xFC;se 10 mm<br>Leistung max. ca. 32 m&#xB3;/h Propan bei pe = 0,5 bar (ca. 65 kg/h)<br>Leistung max. ca. 140 m&#xB3;/h Propan bei pe = 4,0 bar (ca. 280 kg/h)<br>Leistung max. ca. 28 m&#xB3;/h Butan bei pe = 0,5 bar (ca. 75 kg/h)<br>Leistung max. ca. 120 m&#xB3;/h Butan bei pe = 4,0 bar (ca. 320 kg/h)<br>inkl. Konformit&#xE4;tserkl&#xE4;rung und CE-Kennzeichnung nach DGRL 2014/68/EU"
+  "price": "0,00",
+  "amount": "0",
+  "description": "mit Flanschanschluß DN 40 PN 16 (DIN 2633),\\nmit SAV für obere Abschaltung und mit SBV,\\nVordruck: 0,5 bis 4,0 bar,\\nFeder Ausgangsdruck: 70-140 mbar, eingestellt auf 75 mbar,\\nFeder SAV: 50 - 150 mbar, eingestellt auf 100 mbar,\\nSBV 30 mbar über Ausgangsdruck, Düse 10 mm\\nLeistung max. ca. 32 m³/h Propan bei pe = 0,5 bar (ca. 65 kg/h)\\nLeistung max. ca. 140 m³/h Propan bei pe = 4,0 bar (ca. 280 kg/h)\\nLeistung max. ca. 28 m³/h Butan bei pe = 0,5 bar (ca. 75 kg/h)\\nLeistung max. ca. 120 m³/h Butan bei pe = 4,0 bar (ca. 320 kg/h)\\ninkl. Konformitätserklärung und CE-Kennzeichnung nach DGRL 2014/68/EU"
 }

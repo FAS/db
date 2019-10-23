@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    91754\r\n                  ",
+  "id": "91754",
   "name": "Kolben mit Schnellentgasungssystem VRS14",
   "weight": "0,15",
-  "price": "\r\n                  285,00\r\n                  ",
-  "amount": "\r\n                      \r\n6\r\n                    \r\n                    ",
-  "description": "f&#xFC;r &#xDC;berstr&#xF6;mventil Typ RV18<br>(Vapour-Removal-System)<br>f&#xFC;r Pumpe Typ R10 OIB, RC25 OUIB, 40 - 200l/min<br>Innenfeder Farbe: lila<br>"
+  "price": "285,00",
+  "amount": "6",
+  "description": "für Überströmventil Typ RV18\\n(Vapour-Removal-System)\\nfür Pumpe Typ R10 OIB, RC25 OUIB, 40 - 200l/min\\nInnenfeder Farbe: lila\\n"
 }

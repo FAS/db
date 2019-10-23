@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    67097\r\n                  ",
+  "id": "67097",
   "name": "Magnetkarten, codiert, für Tankautomat FAS-400",
   "weight": "0,01",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "und FAS-420.<br>Standard-Karte in Farbe wei&#xDF; mit der Aufschrift:<br>Kunde: GASOLEO GmbH<br>Projekt: Auto Elbers<br>            Borsigstr. 24<br>            47574 Goch<br><br>lfd-Nr. _______  - _______"
+  "price": "0,00",
+  "amount": "0",
+  "description": "und FAS-420.\\nStandard-Karte in Farbe weiß mit der Aufschrift:\\nKunde: GASOLEO GmbH\\nProjekt: Auto Elbers\\nBorsigstr. 24\\n47574 Goch\\n\\nlfd-Nr. _______- _______"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    34306\r\n                  ",
+  "id": "34306",
   "name": "Transponder-Rundmarken ",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n2\r\n                    \r\n                    ",
-  "description": "Typ 2331.90 01 01 00<br><br>mit Angabe der dazugeh&#xF6;rigen PAN Nummer,<br>zur sp&#xE4;teren Verwendung als Techniker Chip.<br>"
+  "price": "0,00",
+  "amount": "2",
+  "description": "Typ 2331.90 01 01 00\\n\\nmit Angabe der dazugehörigen PAN Nummer,\\nzur späteren Verwendung als Techniker Chip.\\n"
 }

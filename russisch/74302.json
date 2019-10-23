@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    74302\r\n                  ",
-  "name": "Blechschraube 4,8x16 mm, aus  Stahl verzinkt",
+  "id": "74302",
+  "name": "Blechschraube 4,8x16 mm, ausStahl verzinkt",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n500\r\n                    \r\n                    ",
-  "description": "DIN 7981 VZ   mit Kreuzschlitz, Linsenkopf, Form C mit Spitze<br>ISO 7049 (einsatzverg&#xFC;tet)"
+  "price": "0,00",
+  "amount": "500",
+  "description": "DIN 7981 VZmit Kreuzschlitz, Linsenkopf, Form C mit Spitze\\nISO 7049 (einsatzvergütet)"
 }

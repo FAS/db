@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    75763\r\n                  ",
+  "id": "75763",
   "name": "Blech DIN 1543, s=30,0 mm, aus P 355 NL1 (TSTE 355) ",
   "weight": "240,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n1.746\r\n                    \r\n                    ",
-  "description": "nach DIN 17102, mit Abnahmepr&#xFC;fzeugnis 3.1A nach EN 10204 <br>und KPZ bei -40&#xB0; C, Lieferbedingung ADW1/W10/TRB 100<br>Ultraschallgepr&#xFC;ft, Anlieferung: 2000x1000x30 mm "
+  "price": "0,00",
+  "amount": "1.746",
+  "description": "nach DIN 17102, mit Abnahmeprüfzeugnis 3.1A nach EN 10204 \\nund KPZ bei -40° C, Lieferbedingung ADW1/W10/TRB 100\\nUltraschallgeprüft, Anlieferung: 2000x1000x30 mm "
 }

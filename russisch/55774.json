@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    55774\r\n                  ",
+  "id": "55774",
   "name": "Elektro-Schaltschrank zur Montage außerhalb der Schutzzone",
   "weight": "25,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "und in einem Geb&#xE4;ude, komplett verdrahtet zum Anschlu&#xDF;<br>von zwei Pumpenmotoren mit Stern/Dreieckanlauf und<br>Trockenlaufschutz durch Str&#xF6;mungsw&#xE4;chter,<br>max. Druck&#xFC;berwachung der Fl&#xFC;ssiggasrohrleitung,<br>Anschlu&#xDF; f&#xFC;r 2 Fl&#xFC;ssiggaszapfs&#xE4;ulen,<br>Anschlu&#xDF;klemmen f&#xFC;r ext. Gaswarnanlage und Brandmeldeanlage,<br>Beh&#xE4;lterinhaltsmessung f&#xFC;r min. und max. Stand Beh&#xE4;lter,<br>Signalhupe, Blitzleuchte und Not/Austaster"
+  "price": "0,00",
+  "amount": "1",
+  "description": "und in einem Gebäude, komplett verdrahtet zum Anschluß\\nvon zwei Pumpenmotoren mit Stern/Dreieckanlauf und\\nTrockenlaufschutz durch Strömungswächter,\\nmax. Drucküberwachung der Flüssiggasrohrleitung,\\nAnschluß für 2 Flüssiggaszapfsäulen,\\nAnschlußklemmen für ext. Gaswarnanlage und Brandmeldeanlage,\\nBehälterinhaltsmessung für min. und max. Stand Behälter,\\nSignalhupe, Blitzleuchte und Not/Austaster"
 }

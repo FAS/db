@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    67912\r\n                  ",
+  "id": "67912",
   "name": "Transponder-Rundmarken, codiert, Lümatic,",
   "weight": "0,02",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "###############################<br>f&#xFC;r Fabrik-Nr. 021213664<br>aus AB-Nr. 2551074<br><br>Standort:<br>###############################<br>Brauerei Gebr. Maisel KG<br>Hindenburgstra&#xDF;e 9<br>D 95445 Bayreuth<br><br>###############################<br>Lfd.-Nr. *** bis ****<br>###############################<br><br>Mindestabnahmemenge: 2 St&#xFC;ck<br>Bei Abnahme von mind. 10 St&#xFC;ck Sonderpreis von 23,50 EUR."
+  "price": "0,00",
+  "amount": "0",
+  "description": "\\nfür Fabrik-Nr. 021213664\\naus AB-Nr. 2551074\\n\\nStandort:\\n\\nBrauerei Gebr. Maisel KG\\nHindenburgstraße 9\\nD 95445 Bayreuth\\n\\n\\nLfd.-Nr.  bis \\n\\n\\nMindestabnahmemenge: 2 Stück\\nBei Abnahme von mind. 10 Stück Sonderpreis von 23,50 EUR."
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    9002\r\n                  ",
+  "id": "9002",
   "name": "MEHRPREIS für Zertifizierungskosten nach DGRL 2014/68/EU",
   "weight": "0,00",
-  "price": "\r\n                  294,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Ausf&#xFC;hrung und Kennzeichnung nach Kat. ____, Modul ____,<br>mit Typenschild CE-____, einschl. Konformit&#xE4;tserkl&#xE4;rung"
+  "price": "294,00",
+  "amount": "0",
+  "description": "Ausführung und Kennzeichnung nach Kat. ____, Modul ____,\\nmit Typenschild CE-____, einschl. Konformitätserklärung"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    27753\r\n                  ",
+  "id": "27753",
   "name": "Füllventil mit mechanischem 80% Füllstandsbegrenzer,",
   "weight": "0,20",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n3\r\n                    \r\n                    ",
-  "description": "1 3/4&quot; ACME x 3/4&quot; NPT, Typ 070115,<br>max. Betriebsdruck: 35 bar, Geh&#xE4;use aus Messing<br>Temperaturbereich: -25&#xB0; C bis +70&#xB0; C<br>F&#xFC;r Direktbetankung, Beh&#xE4;lter-&#xD8;: 320 mm, Einbau: 105&#xB0;"
+  "price": "0,00",
+  "amount": "3",
+  "description": "1 3/4\" ACME x 3/4\" NPT, Typ 070115,\\nmax. Betriebsdruck: 35 bar, Gehäuse aus Messing\\nTemperaturbereich: -25° C bis +70° C\\nFür Direktbetankung, Behälter-Ø: 320 mm, Einbau: 105°"
 }

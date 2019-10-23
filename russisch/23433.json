@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    23433\r\n                  ",
+  "id": "23433",
   "name": "Reparatursatz für pneum. Abfüllventil Typ 10305",
   "weight": "0,04",
-  "price": "\r\n                  145,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "und ALU-Ventil Typ 13678<br>bestehend aus:<br>Pos. 5 65404 Druckfeder<br>Pos. 8 61494 St&#xF6;&#xDF;el kompl.<br>Pos. 4 65420 Ventilteller<br>Pos. 9 65434 Feder<br>Pos. 11 65438 Lippenring<br>Pos. 2 65408 O-Ring<br>Pos. 12 61398 Scheibe"
+  "price": "145,00",
+  "amount": "0",
+  "description": "und ALU-Ventil Typ 13678\\nbestehend aus:\\nPos. 5 65404 Druckfeder\\nPos. 8 61494 Stößel kompl.\\nPos. 4 65420 Ventilteller\\nPos. 9 65434 Feder\\nPos. 11 65438 Lippenring\\nPos. 2 65408 O-Ring\\nPos. 12 61398 Scheibe"
 }

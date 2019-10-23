@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    22027\r\n                  ",
+  "id": "22027",
   "name": "Elektro-Schaltkasten zur Montage",
   "weight": "7,50",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "im Geb&#xE4;ude au&#xDF;erhalb der Schutzzone, <br>komplett verdrahtet zum Anschlu&#xDF; von Pumpe, <br>Magnetventil und Doppeldrucktaster<br>eingestellt auf Motorleistung ______ KW,<br>Schaltpasten-Schutzart IP 65"
+  "price": "0,00",
+  "amount": "0",
+  "description": "im Gebäude außerhalb der Schutzzone, \\nkomplett verdrahtet zum Anschluß von Pumpe, \\nMagnetventil und Doppeldrucktaster\\neingestellt auf Motorleistung ______ KW,\\nSchaltpasten-Schutzart IP 65"
 }

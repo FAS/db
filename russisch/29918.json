@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    29918\r\n                  ",
+  "id": "29918",
   "name": "Prüfstempel Typ TRODAT H5206",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n5\r\n                    \r\n                    ",
-  "description": "Fl&#xE4;che 56x33 mm <br>Schriftart: Arial, mit Rahmen<br>Stempelfarbe blau oder rot<br>\tName/Date:<br>&quot;final certified \t______________<br> witnessed\t____________<br> verified\t_____________<br> released\t_____________<br>"
+  "price": "0,00",
+  "amount": "5",
+  "description": "Fläche 56x33 mm \\nSchriftart: Arial, mit Rahmen\\nStempelfarbe blau oder rot\\n\tName/Date:\\n\"final certified \t______________\\n witnessed\t____________\\n verified\t_____________\\n released\t_____________\\n"
 }

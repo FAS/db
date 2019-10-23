@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    26909\r\n                  ",
+  "id": "26909",
   "name": "Elektro-Schaltkasten zur Montage",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "im Geb&#xE4;ude und au&#xDF;erhalb der Schutzzone,<br>komplett verdrahtet zum Anschlu&#xDF; von<br>Zapfs&#xE4;ule Typ FAS-210 mech. Ausf&#xFC;hrung<br>und 2 St&#xFC;ck Pumpenmotoren 1,35 kW,<br>230/400V, 50Hz"
+  "price": "0,00",
+  "amount": "1",
+  "description": "im Gebäude und außerhalb der Schutzzone,\\nkomplett verdrahtet zum Anschluß von\\nZapfsäule Typ FAS-210 mech. Ausführung\\nund 2 Stück Pumpenmotoren 1,35 kW,\\n230/400V, 50Hz"
 }

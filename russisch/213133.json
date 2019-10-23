@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    213133\r\n                  ",
+  "id": "213133",
   "name": "Редуктор насоса NP4F Blackmer",
   "weight": "41,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "&#x43C;&#x43E;&#x434;&#x435;&#x43B;&#x44C; HRB (&#x430;&#x43D;&#x430;&#x43B;&#x43E;&#x433; Ser. &#x2116; 957826), i=9,18:1"
+  "price": "0,00",
+  "amount": "0",
+  "description": "модель HRB (аналог Ser. № 957826), i=9,18:1"
 }

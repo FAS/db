@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    76100\r\n                  ",
+  "id": "76100",
   "name": "Stahleinschlagstempel Ø6mm FAS(7)",
   "weight": "0,09",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n4\r\n                    \r\n                    ",
-  "description": "Stempelk&#xF6;rper: 12 x 12 x 85<br>Material: 1.1545<br>Gravur: FAS 7 im Kreis D= 6mm"
+  "price": "0,00",
+  "amount": "4",
+  "description": "Stempelkörper: 12 x 12 x 85\\nMaterial: 1.1545\\nGravur: FAS 7 im Kreis D= 6mm"
 }

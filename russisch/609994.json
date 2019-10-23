@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    609994\r\n                  ",
+  "id": "609994",
   "name": "Regler - Ausgangsdruck und SAV im Werk einstellen, ",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "ggf. auch das SBV, auf Typenschild &#xE4;ndern <br>***********************************************<br><br>=&gt; Regler neu auf ______ mbar / bar<br><br>=&gt; SAV (OPSO) neu auf ______ mbar / bar<br><br>=&gt; SBV (PRV) neu auf ______ mbar / bar<br><br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "ggf. auch das SBV, auf Typenschild ändern \\n\\n\\n=> Regler neu auf ______ mbar / bar\\n\\n=> SAV (OPSO) neu auf ______ mbar / bar\\n\\n=> SBV (PRV) neu auf ______ mbar / bar\\n\\n"
 }

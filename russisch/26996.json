@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    26996\r\n                  ",
+  "id": "26996",
   "name": "Elektro-Schaltschrank zur Montage außerhalb der Schutzzone,",
   "weight": "49,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "komplett verdrahtet in einem Standschaltschrank,<br>zum Anschlu&#xDF; von Pumpe mit Stern-Dreieck-Anlauf,<br>Magnetventile, Doppeldrucktaster, Not/Aus-Taster, Durchflu&#xDF;w&#xE4;chter, CMT-&#xDC;berf&#xFC;llsicherung,<br>Gaswarnanlage mit 2 Fernsensoren, externer Signalhupe"
+  "price": "0,00",
+  "amount": "0",
+  "description": "komplett verdrahtet in einem Standschaltschrank,\\nzum Anschluß von Pumpe mit Stern-Dreieck-Anlauf,\\nMagnetventile, Doppeldrucktaster, Not/Aus-Taster, Durchflußwächter, CMT-Überfüllsicherung,\\nGaswarnanlage mit 2 Fernsensoren, externer Signalhupe"
 }

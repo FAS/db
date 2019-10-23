@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    111169\r\n                  ",
+  "id": "111169",
   "name": "WESTFA - An- & Abfahrtspauschale",
   "weight": "0,00",
-  "price": "\r\n                  179,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "###############################<br>Pauschale f&#xFC;r die An- &amp; Abfahrt eines Kundendiensttechnikers,<br>gem. WESTFA-Sonderkonditionen f&#xFC;r Serviceeins&#xE4;tze vom 01.01.2011.<br><br>Staffelpreise:<br>075,- EUR = f&#xFC;r St&#xF6;rungen mit freier Termineinteilung f&#xFC;r FAS<br>179,- EUR = Standardst&#xF6;rung<br><br>Aufpreise:<br>(  ) zzgl. 50% f&#xFC;r Reaktionszeit innerhalb von 12 Stunden<br>(  ) zzgl. 25% f&#xFC;r Eins&#xE4;tze an Samstagen<br>(  ) zzgl. 50% f&#xFC;r Eins&#xE4;tze an Sonn- &amp; Feiertagen"
+  "price": "179,00",
+  "amount": "0",
+  "description": "\\nPauschale für die An- & Abfahrt eines Kundendiensttechnikers,\\ngem. WESTFA-Sonderkonditionen für Serviceeinsätze vom 01.01.2011.\\n\\nStaffelpreise:\\n075,- EUR = für Störungen mit freier Termineinteilung für FAS\\n179,- EUR = Standardstörung\\n\\nAufpreise:\\n() zzgl. 50% für Reaktionszeit innerhalb von 12 Stunden\\n() zzgl. 25% für Einsätze an Samstagen\\n() zzgl. 50% für Einsätze an Sonn- & Feiertagen"
 }

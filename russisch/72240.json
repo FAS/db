@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    72240\r\n                  ",
+  "id": "72240",
   "name": "Пружина для регулятора тип Rombach Nr. 955-200-15",
   "weight": "0,10",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n3\r\n                    \r\n                    ",
-  "description": "Rombach TYP 233-12 - &#x43E;&#x431;&#x43B;&#x430;&#x441;&#x442;&#x44C; &#x43D;&#x430;&#x441;&#x442;&#x440;&#x43E;&#x439;&#x43A;&#x438; 15-35 mbar<br>Rombach TYP 233-  8 - &#x43E;&#x431;&#x43B;&#x430;&#x441;&#x442;&#x44C; &#x43D;&#x430;&#x441;&#x442;&#x440;&#x43E;&#x439;&#x43A;&#x438; 30-70 mbar"
+  "price": "0,00",
+  "amount": "3",
+  "description": "Rombach TYP 233-12 - область настройки 15-35 mbar\\nRombach TYP 233-8 - область настройки 30-70 mbar"
 }

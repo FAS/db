@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    34735\r\n                  ",
+  "id": "34735",
   "name": "Ausweisleser für FAS 411-Controller,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "mit LED Anzeige, motorbetriebener<br>Chip-Karten-Leser nach ISO 7816,<br>mit motorischem Einzug im Metallgeh&#xE4;use, <br>zur Montage und Anschlu&#xDF; an S&#xE4;uleninterface.<br>**Bei Doppels&#xE4;ulen 2 St&#xFC;ck erforderlich !**"
+  "price": "0,00",
+  "amount": "0",
+  "description": "mit LED Anzeige, motorbetriebener\\nChip-Karten-Leser nach ISO 7816,\\nmit motorischem Einzug im Metallgehäuse, \\nzur Montage und Anschluß an Säuleninterface.\\nBei Doppelsäulen 2 Stück erforderlich !"
 }

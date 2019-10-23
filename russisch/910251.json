@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    910251\r\n                  ",
+  "id": "910251",
   "name": "Nadelventil, UNI-Typ FFA2001T, ",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "A: 1/8&quot; NPT IG<br>Geh&#xE4;usematerial: Stahl<br>Max. Betriebsdruck: 700 bar hydraulisch , 140 bar Luft <br>Temperaturbereich: -40&#xB0; C bis +260&#xB0; C<br>Minimaler Berstdruck: 1400 bar"
+  "price": "0,00",
+  "amount": "0",
+  "description": "A: 1/8\" NPT IG\\nGehäusematerial: Stahl\\nMax. Betriebsdruck: 700 bar hydraulisch , 140 bar Luft \\nTemperaturbereich: -40° C bis +260° C\\nMinimaler Berstdruck: 1400 bar"
 }

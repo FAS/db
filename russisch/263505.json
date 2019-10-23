@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    263505\r\n                  ",
+  "id": "263505",
   "name": "Erweiterungmodul für LOGO! Typ AM2 RTD für 0BA8",
   "weight": "0,13",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n6\r\n                    \r\n                    ",
-  "description": "Versorgungsspannung DC 12/24 V<br>2 Analogeing&#xE4;nge (PT100/PT1000)<br><br>Sowohl f&#xFC;r 230V als auch f&#xFC;r 24V Logo Basismodul benutzbar.<br>"
+  "price": "0,00",
+  "amount": "6",
+  "description": "Versorgungsspannung DC 12/24 V\\n2 Analogeingänge (PT100/PT1000)\\n\\nSowohl für 230V als auch für 24V Logo Basismodul benutzbar.\\n"
 }

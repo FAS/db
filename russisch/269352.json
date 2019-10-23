@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    269352\r\n                  ",
+  "id": "269352",
   "name": "Elektro-Schaltkasten zur Montage ",
   "weight": "42,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Innerhalb eines Geb&#xE4;udes und au&#xDF;erhalb der Schutzzone.<br>Steuerbox ist f&#xFC;r Kompressoreinheit f&#xFC;r SO2-Betrieb nach Vorgabe von &quot;Hylte Mill&quot; ausgelegt. FAS-Angebot ist 2996127./AB 2990840<br>Komplett verdrahtet zum Anschluss von:<br><br>  - Kompressormotor ______ kW mit Stern- / Dreieckstarter (max. 30 kW)<br>  - Gastemperatur&#xFC;berwachung (&#xFC;ber PT100)<br>  - Sensor in Fl&#xFC;ssigkeitsfalle<br>  - Min. und max. Gasdruck&#xFC;berwachung (&#xFC;ber Druckschalter)<br>  - Min. &#xD6;ldruck&#xFC;berwachung (&#xFC;ber Druckschalter)<br>  - Doppeltaster mit Kontrollleuchte<br>  - Signallampe und Taschenlampe<br><br>Besonderheiten:<br>- Verbindungsstopp mit vorhandenen Stopps<br>- Ausl&#xF6;sesignal an den Kunden DCS, fest verdrahtet<br>- Management des Ablassventils (am Fl&#xFC;ssigkeitsabscheider des Kompressors)<br>- Eingang f&#xFC;r die Verriegelung vom Kunden-DCS.<br><br>Abmessungen: H: ............. mm, B: ........... mm, T: .............. mm,<br>Dokumentation:<br>  -Anschluss- und Schaltplan.<br><br>Schaltplan inkl. E-Operation muss vor der Produktion vom Kunden freigegeben werden."
+  "price": "0,00",
+  "amount": "0",
+  "description": "Innerhalb eines Gebäudes und außerhalb der Schutzzone.\\nSteuerbox ist für Kompressoreinheit für SO2-Betrieb nach Vorgabe von \"Hylte Mill\" ausgelegt. FAS-Angebot ist 2996127./AB 2990840\\nKomplett verdrahtet zum Anschluss von:\\n\\n- Kompressormotor ______ kW mit Stern- / Dreieckstarter (max. 30 kW)\\n- Gastemperaturüberwachung (über PT100)\\n- Sensor in Flüssigkeitsfalle\\n- Min. und max. Gasdrucküberwachung (über Druckschalter)\\n- Min. Öldrucküberwachung (über Druckschalter)\\n- Doppeltaster mit Kontrollleuchte\\n- Signallampe und Taschenlampe\\n\\nBesonderheiten:\\n- Verbindungsstopp mit vorhandenen Stopps\\n- Auslösesignal an den Kunden DCS, fest verdrahtet\\n- Management des Ablassventils (am Flüssigkeitsabscheider des Kompressors)\\n- Eingang für die Verriegelung vom Kunden-DCS.\\n\\nAbmessungen: H: ............. mm, B: ........... mm, T: .............. mm,\\nDokumentation:\\n-Anschluss- und Schaltplan.\\n\\nSchaltplan inkl. E-Operation muss vor der Produktion vom Kunden freigegeben werden."
 }

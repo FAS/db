@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    98001\r\n                  ",
+  "id": "98001",
   "name": "Zähler Typ Quantometer QA DN25",
   "weight": "0,00",
-  "price": "\r\n                  2.180,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Zaehlergroesse: QA16<br>Nennweite: QA 25<br>Druckstufe:  PN4<br>Verschraubungsset QA: Standard<br>Zaehlwerksausfuehrung: MECHANISCH<br>mit Geber E200<br>Sprache, Pr&#xFC;fprotokoll Deutsch<br>mit Abnahmepr&#xFC;fzeugnis 3.1<br>Lackierung Standardlackierung<br>"
+  "price": "2.180,00",
+  "amount": "0",
+  "description": "Zaehlergroesse: QA16\\nNennweite: QA 25\\nDruckstufe:PN4\\nVerschraubungsset QA: Standard\\nZaehlwerksausfuehrung: MECHANISCH\\nmit Geber E200\\nSprache, Prüfprotokoll Deutsch\\nmit Abnahmeprüfzeugnis 3.1\\nLackierung Standardlackierung\\n"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    226111\r\n                  ",
+  "id": "226111",
   "name": "Zweistoffrechner Typ VC 2 Fabr. K+S (für 1 Zähler Säulen)",
   "weight": "0,75",
-  "price": "\r\n                  783,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Max. 2 Zapfpunkte<br>Impulsschnittstelle f&#xFC;r Tankautomaten<br>Serielle Datenschnittstelle<br>Protokoll: Kienzle<br>Ungeeichte Version"
+  "price": "783,00",
+  "amount": "0",
+  "description": "Max. 2 Zapfpunkte\\nImpulsschnittstelle für Tankautomaten\\nSerielle Datenschnittstelle\\nProtokoll: Kienzle\\nUngeeichte Version"
 }

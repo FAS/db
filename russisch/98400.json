@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    98400\r\n                  ",
+  "id": "98400",
   "name": "Füllstandsmeßsystem TLS 2 englische Version",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "mit 2xRS 232 oder jeweils 1xRS232 und 1x RS485<br>Schnittstellen. Anschlu&#xDF; von max. 6 Sonden.<br>Typ 856060-060<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "mit 2xRS 232 oder jeweils 1xRS232 und 1x RS485\\nSchnittstellen. Anschluß von max. 6 Sonden.\\nTyp 856060-060\\n"
 }

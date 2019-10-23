@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    34662\r\n                  ",
+  "id": "34662",
   "name": "Datenübertragungsprogramm DUEFMS, für TA 630",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Betriebssystem Windows 3.2/95/98/NT/XP,<br>Die &#xFC;bertragenen Daten werden in einer w&#xE4;hlbaren<br>Datei (ASCII) abgelegt.<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Betriebssystem Windows 3.2/95/98/NT/XP,\\nDie übertragenen Daten werden in einer wählbaren\\nDatei (ASCII) abgelegt.\\n"
 }

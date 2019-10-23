@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    67222\r\n                  ",
+  "id": "67222",
   "name": "Magnetkarte, codiert, für Tankautomat FAS-420_L-EC",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Ausf&#xFC;hrung: 1-farbig <br><br>Laufende Kartennr.: ___ - ___<br><br>Achtung: Bei Nachbestellung vom Kunden letzte laufende <br>               Kartennummer erfragen !<br><br>Projekt: <br>Autohaus Raab GmbH<br>Alte Poststra&#xDF;e 3<br>09456 Annaberg-Buchholz<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Ausführung: 1-farbig \\n\\nLaufende Kartennr.: ___ - ___\\n\\nAchtung: Bei Nachbestellung vom Kunden letzte laufende \\nKartennummer erfragen !\\n\\nProjekt: \\nAutohaus Raab GmbH\\nAlte Poststraße 3\\n09456 Annaberg-Buchholz\\n"
 }

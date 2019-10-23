@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    20853\r\n                  ",
+  "id": "20853",
   "name": "AE- 120 Flüssiggas-Verdampfer, Leistung 120 Gallonen",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Propan pro Stunde, gem&#xE4;&#xDF; Boiler und Druckbeh&#xE4;lter Code,<br>&quot;S&quot; gestempelt, NFPA # 58,<br>Auslegungsdruck: 250 PSI<br>Testdruck: 375 PSI<br>Anschlu&#xDF; Fl&#xFC;ssigkeitseingang: 3/4&quot; FNPT<br>Anschlu&#xDF; Gasausgang: 3/4&quot; FNPT,<br>inkl. Werkszeugnis 2.2 nach EN 10204"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Propan pro Stunde, gemäß Boiler und Druckbehälter Code,\\n\"S\" gestempelt, NFPA # 58,\\nAuslegungsdruck: 250 PSI\\nTestdruck: 375 PSI\\nAnschluß Flüssigkeitseingang: 3/4\" FNPT\\nAnschluß Gasausgang: 3/4\" FNPT,\\ninkl. Werkszeugnis 2.2 nach EN 10204"
 }

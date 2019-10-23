@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    25297\r\n                  ",
+  "id": "25297",
   "name": "Näherungsschalter, geeignet für die Meldung",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "der Parkstellung eines Verladearmes und f&#xFC;r<br>Ausl&#xF6;semeldung der Sicherheitstrennkupplung,<br>ber&#xFC;hrungs- und verschlei&#xDF;freie Arbeitsweise,<br>T&#xDC;V-gepr&#xFC;ft<br>(Ex-gesch&#xFC;tzt mit Trennschaltverst&#xE4;rker<br>FAS Nr. 26305)"
+  "price": "0,00",
+  "amount": "0",
+  "description": "der Parkstellung eines Verladearmes und für\\nAuslösemeldung der Sicherheitstrennkupplung,\\nberührungs- und verschleißfreie Arbeitsweise,\\nTÜV-geprüft\\n(Ex-geschützt mit Trennschaltverstärker\\nFAS Nr. 26305)"
 }

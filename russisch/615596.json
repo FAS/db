@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    615596\r\n                  ",
+  "id": "615596",
   "name": "Kreiselpumpeneinheit DSM 230 CO2 - 18.5 kW",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "f&#xFC;r CO2<br><br>f = 50 Hz<br>n = 2950 min<br>Q = 500L/min<br>Differenzdruck = 7,47 bar<br>P abs = 11,78<br>NPSH = 0,82M<br><br>Motor Baugr&#xF6;&#xDF;e = 160L"
+  "price": "0,00",
+  "amount": "0",
+  "description": "für CO2\\n\\nf = 50 Hz\\nn = 2950 min\\nQ = 500L/min\\nDifferenzdruck = 7,47 bar\\nP abs = 11,78\\nNPSH = 0,82M\\n\\nMotor Baugröße = 160L"
 }

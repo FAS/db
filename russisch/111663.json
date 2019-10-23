@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    111663\r\n                  ",
+  "id": "111663",
   "name": "Umbausatz SK-700/II auf Schnittstelle LON,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
+  "price": "0,00",
+  "amount": "0",
   "description": "jedoch ohne LON-Board (FAS-48.004)"
 }

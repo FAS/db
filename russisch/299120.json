@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    299120\r\n                  ",
+  "id": "299120",
   "name": "Stempel, Typ TRODAT PRINTY H4916",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n3\r\n                    \r\n                    ",
-  "description": "&quot;Certification&quot;<br><br>einzeilig<br>Text zentriert<br>Fl&#xE4;che 70x10 mm<br>Schriftart: Arial<br>Schriftschnitt: fett<br>Schriftgr&#xF6;sse: 20 Pt<br>Stempelfarbe gr&#xFC;n"
+  "price": "0,00",
+  "amount": "3",
+  "description": "\"Certification\"\\n\\neinzeilig\\nText zentriert\\nFläche 70x10 mm\\nSchriftart: Arial\\nSchriftschnitt: fett\\nSchriftgrösse: 20 Pt\\nStempelfarbe grün"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    260115\r\n                  ",
+  "id": "260115",
   "name": "Drehstrommotor, druckfeste Ausführung, 15 kW",
   "weight": "156,00",
-  "price": "\r\n                  2.790,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": " - Hersteller: UMEB<br> - Motorbauform: IM B3<br> - Nennleistung (50/60Hz) [kW]: 15<br> - Drehzahl (50/60 Hz) [1/min]: 3000<br> - Frequenz [Hz]: 50<br> - Spannung [V]: 400/690<br> - Schutzart: IP 65<br> - Ger&#xE4;tekategorie: Ex II 2G<br> - Z&#xFC;ndschutz: Ex d IIC T4 Gb<br> - Temperaturklasse: T4<br> - max. Umgebungstemperatur: +60&#xB0;C<br> - Isolierklasse: F<br> - Betriebsart: S1<br> - Kaltleiteranzahl: 3<br> - Wirkungsgradklasse: IE2<br> - Klemmenkastenlage: oben<br> - Dokumentation gem&#xE4;&#xDF; ATEX-Richtlinie,<br>   Betriebsanleitung"
+  "price": "2.790,00",
+  "amount": "1",
+  "description": " - Hersteller: UMEB\\n - Motorbauform: IM B3\\n - Nennleistung (50/60Hz) [kW]: 15\\n - Drehzahl (50/60 Hz) [1/min]: 3000\\n - Frequenz [Hz]: 50\\n - Spannung [V]: 400/690\\n - Schutzart: IP 65\\n - Gerätekategorie: Ex II 2G\\n - Zündschutz: Ex d IIC T4 Gb\\n - Temperaturklasse: T4\\n - max. Umgebungstemperatur: +60°C\\n - Isolierklasse: F\\n - Betriebsart: S1\\n - Kaltleiteranzahl: 3\\n - Wirkungsgradklasse: IE2\\n - Klemmenkastenlage: oben\\n - Dokumentation gemäß ATEX-Richtlinie,\\nBetriebsanleitung"
 }

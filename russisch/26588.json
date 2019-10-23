@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    26588\r\n                  ",
+  "id": "26588",
   "name": "Universal-Trennverstärker, Martens TV 501-Ex",
   "weight": "0,02",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Eingang  0/4 bis 20 mA<br>Ausgang eigensicher 0/4 bis 20 mA<br>B&#xFC;rde 320 OHM<br>Hilfsspannung: 240 V DC, 50 Hz, <br>Z&#xFC;ndschutzart: (EEx ia) II C mit ATEX II 1G -Zulassung<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Eingang0/4 bis 20 mA\\nAusgang eigensicher 0/4 bis 20 mA\\nBürde 320 OHM\\nHilfsspannung: 240 V DC, 50 Hz, \\nZündschutzart: (EEx ia) II C mit ATEX II 1G -Zulassung\\n"
 }

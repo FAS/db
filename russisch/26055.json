@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    26055\r\n                  ",
+  "id": "26055",
   "name": "Motorschutzschalter in EEx de II C T6,",
   "weight": "3,50",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Einstellbereich: 5,0 - 7,0 A<br><br>*** FAS 26054 verwenden -R.H&#xF6;lscher,IJ***"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Einstellbereich: 5,0 - 7,0 A\\n\\n FAS 26054 verwenden -R.Hölscher,IJ"
 }

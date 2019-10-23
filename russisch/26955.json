@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    26955\r\n                  ",
+  "id": "26955",
   "name": "Elektro-Schaltkasten zur Montage",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "im Geb&#xE4;ude und au&#xDF;erhalb der Schutzzone,<br>komplett verdrahtet zum Anschlu&#xDF; von<br> ____  kW-Kompressor-Motor mit Stern/Dreieckanlauf,<br>Gastemperatur&#xFC;berwachung, 2 Sensoren im Abscheider<br>min. und 2 max. Gasdruck&#xFC;berwachungen,<br>min. &#xD6;ldruck&#xFC;berwachung des Kompressor,<br>Doppeldrucktaster mit Kontrolleuchte,<br>Signalhupe und Blitzleuchte"
+  "price": "0,00",
+  "amount": "0",
+  "description": "im Gebäude und außerhalb der Schutzzone,\\nkomplett verdrahtet zum Anschluß von\\n ____kW-Kompressor-Motor mit Stern/Dreieckanlauf,\\nGastemperaturüberwachung, 2 Sensoren im Abscheider\\nmin. und 2 max. Gasdrucküberwachungen,\\nmin. Öldrucküberwachung des Kompressor,\\nDoppeldrucktaster mit Kontrolleuchte,\\nSignalhupe und Blitzleuchte"
 }

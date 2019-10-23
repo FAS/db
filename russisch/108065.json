@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    108065\r\n                  ",
+  "id": "108065",
   "name": "Beistellung Hochdruckschlauch LPG, PN 25, DN 80, 3\"",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "fl&#xFC;ssiggasbest&#xE4;ndig, gem&#xE4;&#xDF; EN 1762 (DIN 4815 Teil 3)<br>Betriebsdruck 25 bar, elektrisch leitf&#xE4;hig,<br>Temperaturbereich: -30&#xB0;C bis + 70&#xB0;C,<br>ohne Einbindungen<br>Kennzeichnung: ___________________________"
+  "price": "0,00",
+  "amount": "0",
+  "description": "flüssiggasbeständig, gemäß EN 1762 (DIN 4815 Teil 3)\\nBetriebsdruck 25 bar, elektrisch leitfähig,\\nTemperaturbereich: -30°C bis + 70°C,\\nohne Einbindungen\\nKennzeichnung: ___________________________"
 }

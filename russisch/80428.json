@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    80428\r\n                  ",
+  "id": "80428",
   "name": "alt",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Bitte senden Sie den F&#xFC;llanschlu&#xDF; zur&#xFC;ck"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Bitte senden Sie den Füllanschluß zurück"
 }

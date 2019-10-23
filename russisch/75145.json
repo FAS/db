@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    75145\r\n                  ",
-  "name": "Vierkantstahl DIN 2310 II B,  160 mm, aus St 52-3 ",
+  "id": "75145",
+  "name": "Vierkantstahl DIN 2310 II B,160 mm, aus St 52-3 ",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n-0.00000000000000133226762955\r\n                    \r\n                    ",
-  "description": "Blechzuschnitt gebrannt nach EN ISO 9013 (DIN 2310 II B),<br>mit Abnahmepr&#xFC;fzeugnis 3.1 nach EN 10204 <br>und KPZ bei -20&#xB0;C, Pr&#xFC;fgrundlage AD W1 mit Umstempelung<br>"
+  "price": "0,00",
+  "amount": "-0.00000000000000133226762955",
+  "description": "Blechzuschnitt gebrannt nach EN ISO 9013 (DIN 2310 II B),\\nmit Abnahmeprüfzeugnis 3.1 nach EN 10204 \\nund KPZ bei -20°C, Prüfgrundlage AD W1 mit Umstempelung\\n"
 }

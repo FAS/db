@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    833009\r\n                  ",
+  "id": "833009",
   "name": "Adapter, einerseits POL-AG und andererseits",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "1/4&quot; NPT-AG, Ausf&#xFC;hrung mit Rohrbruchventil,<br>bestehend aus:<br> - POL-Anschlu&#xDF; POL-AG x 3/4&quot; NPT-IG<br> - Rohrbruchventil Typ RegO Typ 3272, <br>   3/4&quot; NPT AG x 3/4&quot; NPT IG<br> - Adapter 3/4&quot; NPT AG x 1/4&quot; NPT AG"
+  "price": "0,00",
+  "amount": "0",
+  "description": "1/4\" NPT-AG, Ausführung mit Rohrbruchventil,\\nbestehend aus:\\n - POL-Anschluß POL-AG x 3/4\" NPT-IG\\n - Rohrbruchventil Typ RegO Typ 3272, \\n3/4\" NPT AG x 3/4\" NPT IG\\n - Adapter 3/4\" NPT AG x 1/4\" NPT AG"
 }

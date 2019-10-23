@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    184569\r\n                  ",
+  "id": "184569",
   "name": "Druckschalter im Aluminium-Druckgußgehäuse, Ex-geschützt",
   "weight": "0,00",
-  "price": "\r\n                  975,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Typ Ex-DWR25 f&#xFC;r Maximal- und Minimaldruck&#xFC;berwachung<br>Anschluss G1/2&#x201C; AG, Schutzart IP 65<br>Umgebungstemperatur -20 - +60&#xB0;C<br>Schaltfunktion: einpoliger Umschaltkontakt Ex gesch.<br>Schaltleistung: 2A bei 250V AC, 3A bei 24V DC<br>Elektrischer Anschluss: Klemmenanschluss mit Kabelverschraubung M 16x1,5<br>Z&#xFC;ndschutzart: Ex II 2G Ex de IIC T6 Gb<br>Einstellbereich: 4 &#x2013; 25 bar, eingestellt auf ____ bar<br>Max. zul. Druck: 63 bar, Schaltdifferenz 1,0 bar<br>Dokumentation<br>- EU Konformit&#xE4;tserkl&#xE4;rung nach ATEX<br>- Zertifiziert nach SIL 2 gem&#xE4;&#xDF; IEC 61508-2<br>"
+  "price": "975,00",
+  "amount": "0",
+  "description": "Typ Ex-DWR25 für Maximal- und Minimaldrucküberwachung\\nAnschluss G1/2“ AG, Schutzart IP 65\\nUmgebungstemperatur -20 - +60°C\\nSchaltfunktion: einpoliger Umschaltkontakt Ex gesch.\\nSchaltleistung: 2A bei 250V AC, 3A bei 24V DC\\nElektrischer Anschluss: Klemmenanschluss mit Kabelverschraubung M 16x1,5\\nZündschutzart: Ex II 2G Ex de IIC T6 Gb\\nEinstellbereich: 4 – 25 bar, eingestellt auf ____ bar\\nMax. zul. Druck: 63 bar, Schaltdifferenz 1,0 bar\\nDokumentation\\n- EU Konformitätserklärung nach ATEX\\n- Zertifiziert nach SIL 2 gemäß IEC 61508-2\\n"
 }

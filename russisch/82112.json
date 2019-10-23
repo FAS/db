@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    82112\r\n                  ",
+  "id": "82112",
   "name": "alt",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Mehrpreis f&#xFC;r Verdampferausgangleitung<br>mit Flanschanschlu&#xDF; DN 32/PN 40, und<br>Kugelhahn DN 25/PN 40 zur zus&#xE4;tzlichen<br>Einbindung einer Gasphasenleitung hinter <br>dem Verdampfer mit zwei Manometern &#xD8; 63 mm<br>0 - 4 bar und Rohrteilen"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Mehrpreis für Verdampferausgangleitung\\nmit Flanschanschluß DN 32/PN 40, und\\nKugelhahn DN 25/PN 40 zur zusätzlichen\\nEinbindung einer Gasphasenleitung hinter \\ndem Verdampfer mit zwei Manometern Ø 63 mm\\n0 - 4 bar und Rohrteilen"
 }

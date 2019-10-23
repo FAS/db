@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    471460\r\n                  ",
+  "id": "471460",
   "name": "Elektro-Schaltkasten aus Stahlblech",
   "weight": "10,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Sch&#xFC;tz-Steuerung zur Montage im Geb&#xE4;ude und au&#xDF;erhalb<br>der Schutzzone, komplett verdrahtet zum Anschlu&#xDF; von<br>Anschlu&#xDF; f&#xFC;r 1 Fl&#xFC;ssiggaszapfs&#xE4;ule Typ FAS,<br>2x ______ kW-Pumpenmotor (max. 5 kW) mit Leistungs-<br>w&#xE4;chter, Magnetventil, Hupe, Blitzleuchte und Not/Aus-Taster.<br>Pumpenanwahl (1 oder 2) mittels Umschalter."
+  "price": "0,00",
+  "amount": "0",
+  "description": "Schütz-Steuerung zur Montage im Gebäude und außerhalb\\nder Schutzzone, komplett verdrahtet zum Anschluß von\\nAnschluß für 1 Flüssiggaszapfsäule Typ FAS,\\n2x ______ kW-Pumpenmotor (max. 5 kW) mit Leistungs-\\nwächter, Magnetventil, Hupe, Blitzleuchte und Not/Aus-Taster.\\nPumpenanwahl (1 oder 2) mittels Umschalter."
 }

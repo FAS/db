@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    21019\r\n                  ",
+  "id": "21019",
   "name": "Elektrischer Niveauschalter Typ SOR 1510 B",
   "weight": "3,60",
-  "price": "\r\n                  1.645,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "max. Systemdruck: 62 bar<br>Anschlu&#xDF;: 1 1/2&quot; AG NPT<br>Geh&#xE4;use: Edelstahl 303 SS<br>Schwimmer: Monel<br>Schaltelement: ex-gesch&#xFC;tzt nach CSA, <br>Cl. 1Gruppe A, B, C u. D, Div. 1 u. 2,<br>Kabeleinf&#xFC;hrung 1/2&quot; IG NPT,<br>Versorgungsspannung: 230V, 50 Hz<br><br>ACHTUNG! Ausf&#xFC;hrung ohne ATEX!"
+  "price": "1.645,00",
+  "amount": "1",
+  "description": "max. Systemdruck: 62 bar\\nAnschluß: 1 1/2\" AG NPT\\nGehäuse: Edelstahl 303 SS\\nSchwimmer: Monel\\nSchaltelement: ex-geschützt nach CSA, \\nCl. 1Gruppe A, B, C u. D, Div. 1 u. 2,\\nKabeleinführung 1/2\" IG NPT,\\nVersorgungsspannung: 230V, 50 Hz\\n\\nACHTUNG! Ausführung ohne ATEX!"
 }

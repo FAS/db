@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    930020\r\n                  ",
-  "name": "Feuerlöscher 50kg, Typ Gloria  PS12G AREX",
+  "id": "930020",
+  "name": "Feuerlöscher 50kg, Typ GloriaPS12G AREX",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "mit innenliegender Treibmittelflasche<br>sowie abstellbarer L&#xF6;schpistole<br>incl. Wandhalter,mit Polyesterharz-<br>Beschichtung ,Farbe rot <br>nach DIN EN 3 Euronorm f&#xFC;r <br>die Brandklassen A,B,C"
+  "price": "0,00",
+  "amount": "0",
+  "description": "mit innenliegender Treibmittelflasche\\nsowie abstellbarer Löschpistole\\nincl. Wandhalter,mit Polyesterharz-\\nBeschichtung ,Farbe rot \\nnach DIN EN 3 Euronorm für \\ndie Brandklassen A,B,C"
 }

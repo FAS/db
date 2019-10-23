@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    89911\r\n                  ",
+  "id": "89911",
   "name": "Auswertgerät zur Grenzstandmeldung Vegator 636 Ex",
   "weight": "0,30",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Betriebsspannung 20 ... 250 V AC, IP 20, <br>Zulassung ATEX II (1) GD EEx ia II C<br><br># nur funktionsf&#xE4;hig in Verbindung mit Vegaswing 63 #<br><br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Betriebsspannung 20 ... 250 V AC, IP 20, \\nZulassung ATEX II (1) GD EEx ia II C\\n\\n# nur funktionsfähig in Verbindung mit Vegaswing 63 #\\n\\n"
 }

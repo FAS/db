@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    81345\r\n                  ",
+  "id": "81345",
   "name": "alt",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Wir reparierten lt. Kostenvoranschlag vom 04/03/93<br>1 Z&#xE4;hlerwerk DN 50 Nr. 8102-40201<br>1 Druckwerk Nr. 955-3022"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Wir reparierten lt. Kostenvoranschlag vom 04/03/93\\n1 Zählerwerk DN 50 Nr. 8102-40201\\n1 Druckwerk Nr. 955-3022"
 }

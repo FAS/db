@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    80141\r\n                  ",
+  "id": "80141",
   "name": "alt",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Achtung:<br>Kennzeichnung auf den Schlauch mu&#xDF; sichtbar<br>sein!<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Achtung:\\nKennzeichnung auf den Schlauch muß sichtbar\\nsein!\\n"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    22409\r\n                  ",
+  "id": "22409",
   "name": "Inbetriebnahme der FAS-Flüssiggas-Zapfsäule,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "einschlie&#xDF;lich Einweisung des Bedienungspersonal,<br>Aufstellung, Einbindung in die Beh&#xE4;lteranlage und <br>Elektromontage b a u s e i t s, bei Tarifentfernung:<br>************************************************<br>- 300 km = 610,00 EURO<br>- 500 km = 720,00 EURO<br>- 800 km = 810,00 EURO"
+  "price": "0,00",
+  "amount": "0",
+  "description": "einschließlich Einweisung des Bedienungspersonal,\\nAufstellung, Einbindung in die Behälteranlage und \\nElektromontage b a u s e i t s, bei Tarifentfernung:\\n\\n- 300 km = 610,00 EURO\\n- 500 km = 720,00 EURO\\n- 800 km = 810,00 EURO"
 }

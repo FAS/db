@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    185031\r\n                  ",
+  "id": "185031",
   "name": "Durchflussanzeiger Typ FAS VISOFLOW WR1-008GKW Basic",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Type : WR 1, Nennweite DN 8<br>Anschluss: Innengewinde G 1/4&quot;, Geh&#xE4;use : Edelstahl,<br>PN 16, Innenteile: Gleitlager f. Anzeige Fl&#xFC;ssigkeiten<br>Wischer: Material Viton, Temp. 100&#xB0;C max.<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Type : WR 1, Nennweite DN 8\\nAnschluss: Innengewinde G 1/4\", Gehäuse : Edelstahl,\\nPN 16, Innenteile: Gleitlager f. Anzeige Flüssigkeiten\\nWischer: Material Viton, Temp. 100°C max.\\n"
 }

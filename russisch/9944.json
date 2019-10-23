@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    9944\r\n                  ",
+  "id": "9944",
   "name": "Wartungsbericht",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n2\r\n                    \r\n                    ",
-  "description": "###############################<br>Datum der Wartung:<br>=&gt; siehe oben, Datum der Lieferung/Leistungserbringung<br><br>Arbeitsst&#xE4;tte/Projekt:<br>=&gt; siehe Lieferanschrift<br><br>Wartungsbeschreibung:<br>=&gt; Wartung durchgef&#xFC;hrt.<br><br>Festgestellte M&#xE4;ngel:<br>=&gt; siehe Servicebericht sowie Wartungsprotokolle<br><br>Anlagen:<br>(X) Wochenbericht<br>(X) Wartungsprotkoll(e)<br><br>F&#xFC;r die Wartung werden folgende Kosten berechnet:<br><br>"
+  "price": "0,00",
+  "amount": "2",
+  "description": "\\nDatum der Wartung:\\n=> siehe oben, Datum der Lieferung/Leistungserbringung\\n\\nArbeitsstätte/Projekt:\\n=> siehe Lieferanschrift\\n\\nWartungsbeschreibung:\\n=> Wartung durchgeführt.\\n\\nFestgestellte Mängel:\\n=> siehe Servicebericht sowie Wartungsprotokolle\\n\\nAnlagen:\\n(X) Wochenbericht\\n(X) Wartungsprotkoll(e)\\n\\nFür die Wartung werden folgende Kosten berechnet:\\n\\n"
 }

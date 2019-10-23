@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    98351\r\n                  ",
+  "id": "98351",
   "name": "Überfüllsicherung Messumformer Typ LS 500 LPG",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "Aufbau: Steckgeh&#xE4;use Schutzart IP 40<br>Hilfsenergie: 230V / 50Hz<br>Ausgang: 2 potentialfreie Wechsler<br>Z&#xFC;ndschutzart: (EEx ia/ib) IIB/IIC<br>Mit Pr&#xFC;ftaste zur Pr&#xFC;fung des Standaufnehmers, FAS 98350,<br>im eingebauten Zustand.<br><br>F&#xFC;r den Einsatz einer &#xDC;berf&#xFC;llsicherung an LPG-Tanks m&#xFC;ssen<br>beide Ausgangsrelais parallel an die Alarmeinrichtung <br>angeschlossen werden.<br>Das Freigabesignal wird durch zwei Lampen signalisiert.<br>Beide Lampen (geh&#xF6;ren nicht zum Lieferumfang) m&#xFC;ssen <br>bei Beginn und w&#xE4;hrend der Abgabe leuchten.<br>"
+  "price": "0,00",
+  "amount": "1",
+  "description": "Aufbau: Steckgehäuse Schutzart IP 40\\nHilfsenergie: 230V / 50Hz\\nAusgang: 2 potentialfreie Wechsler\\nZündschutzart: (EEx ia/ib) IIB/IIC\\nMit Prüftaste zur Prüfung des Standaufnehmers, FAS 98350,\\nim eingebauten Zustand.\\n\\nFür den Einsatz einer Überfüllsicherung an LPG-Tanks müssen\\nbeide Ausgangsrelais parallel an die Alarmeinrichtung \\nangeschlossen werden.\\nDas Freigabesignal wird durch zwei Lampen signalisiert.\\nBeide Lampen (gehören nicht zum Lieferumfang) müssen \\nbei Beginn und während der Abgabe leuchten.\\n"
 }

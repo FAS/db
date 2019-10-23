@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    36502\r\n                  ",
+  "id": "36502",
   "name": "Mehrpreis für den Einbau eines Flüssiggas-Zählers vom Typ",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "LPM-101 (FAS 18.744) mit mechanischem Liter-Rollenz&#xE4;hl-<br>werk (nur Summierz&#xE4;hler, nicht r&#xFC;ckstellbar), ohne Gasbla-<br>senabscheider und Druckhalteventil, Durchflu&#xDF;me&#xDF;bereich<br>10 - 70 l/min, nicht eichf&#xE4;hig"
+  "price": "0,00",
+  "amount": "0",
+  "description": "LPM-101 (FAS 18.744) mit mechanischem Liter-Rollenzähl-\\nwerk (nur Summierzähler, nicht rückstellbar), ohne Gasbla-\\nsenabscheider und Druckhalteventil, Durchflußmeßbereich\\n10 - 70 l/min, nicht eichfähig"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    8000\r\n                  ",
+  "id": "8000",
   "name": "Pos.1 -- Auffangbehälter aus Edelstahl ",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "=================================================<br>Ablauf &#xFC;ber Trichter: Neigung 10&#xB0;<br>Fassungsverm&#xF6;gen: ca. 0.8 m3<br>Zylinderh&#xF6;he: 1500  mm<br>Innendurchmesser: 950 mm<br><br>einschlie&#xDF;lich F&#xFC;llstands&#xFC;berwachung<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "=================================================\\nAblauf über Trichter: Neigung 10°\\nFassungsvermögen: ca. 0.8 m3\\nZylinderhöhe: 1500mm\\nInnendurchmesser: 950 mm\\n\\neinschließlich Füllstandsüberwachung\\n"
 }

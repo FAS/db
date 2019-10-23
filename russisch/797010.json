@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    797010\r\n                  ",
-  "name": "Вспомогат. защита 3 закр. реле /1 откр.<br>SpulenanschluЯ 230",
+  "id": "797010",
+  "name": "Вспомогат. защита 3 закр. реле /1 откр.\\nSpulenanschluЯ 230",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n65\r\n                    \r\n                    ",
-  "description": "&#x441;&#x43E;&#x435;&#x434;&#x438;&#x43D;&#x435;&#x43D;&#x438;&#x435; 230V/50Hz"
+  "price": "0,00",
+  "amount": "65",
+  "description": "соединение 230V/50Hz"
 }

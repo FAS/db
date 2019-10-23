@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    810903\r\n                  ",
+  "id": "810903",
   "name": "T-Stück, UNI-Typ 1042-20,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "aus Messing,<br>Betriebsdruck: 310 bar<br>A (IG): 3/4&quot; NPT<br>B (IG): 3/4&quot; NPT<br>C (IG): 1/2&quot; NPT<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "aus Messing,\\nBetriebsdruck: 310 bar\\nA (IG): 3/4\" NPT\\nB (IG): 3/4\" NPT\\nC (IG): 1/2\" NPT\\n"
 }

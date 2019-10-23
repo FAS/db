@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    347580\r\n                  ",
-  "name": "Getriebe für  WIP ohne Impulsgeber",
+  "id": "347580",
+  "name": "Getriebe fürWIP ohne Impulsgeber",
   "weight": "0,00",
-  "price": "\r\n                  960,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Typ 55008646-0008<br>NUR f&#xFC;r Dresser-Z&#xE4;hler &amp; FAS-Z&#xE4;hler Typ MK-III-S<br>"
+  "price": "960,00",
+  "amount": "0",
+  "description": "Typ 55008646-0008\\nNUR für Dresser-Zähler & FAS-Zähler Typ MK-III-S\\n"
 }

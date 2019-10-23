@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    67917\r\n                  ",
+  "id": "67917",
   "name": "Transponder-Rundmarken, codiert, Lümatic,",
   "weight": "0,04",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "###############################<br>f&#xFC;r Fabrik-Nr.***<br>aus AB-Nr. 2650382<br><br><br>Standort:<br>###############################<br>Einbecker Brauhaus AG<br>Hansestra&#xDF;e 18<br>D-37574 Einbeck<br><br>###############################<br>Lfd.-Nr. *** bis ****<br>###############################<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "\\nfür Fabrik-Nr.\\naus AB-Nr. 2650382\\n\\n\\nStandort:\\n\\nEinbecker Brauhaus AG\\nHansestraße 18\\nD-37574 Einbeck\\n\\n\\nLfd.-Nr.  bis \\n\\n"
 }

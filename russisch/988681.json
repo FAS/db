@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    988681\r\n                  ",
+  "id": "988681",
   "name": "Coriolis-Zähler 1/2\"/DN 15/PN 25, Typ FAS 83E15,",
   "weight": "0,00",
-  "price": "\r\n                  12.085,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "zur Masse- und Volumenmessung, von Propan/Butan,<br>Leistung: 0 - 70l/min<br>Kompaktausf&#xFC;hrung mit:<br>BB Zulassung; Messumformer + Sensor: <br>      ATEX+IECEx; Z0/1, Z21, Ex de, IIC/IIIC<br>D Energieversorgung: 24VDC<br>MA Ausgang; Eingang 1: Modbus RS485<br>J Ausgang; Eingang 2: Statuseingang<br>A Ausgang; Eingang 3: Ohne;<br>F Anzeige; Bedienung: 4-zeilig beleuchtet; Touch Control<br>A Geh&#xE4;use: Alu, beschichtet<br>A Elektrischer Anschluss: Verschr. M20<br>SA Messrohr Mat., Oberfl&#xE4;che mediumber&#xFC;hrt: Rostfr.Stahl, nicht poliert<br>D2S Prozessanschluss: PN40, 1.4404/316/316L,<br>        Flansch EN1092-1-B1<br>A Kalibration Durchfluss: 0.10% Masse<br>A1 Ger&#xE4;temodell: 1<br>AA &gt;Bediensprache Anzeige: Englisch<br>FI &gt;Eichf&#xE4;higkeit: Fl&#xFC;ssigkeiten ausser Wasser;MI-005<br>"
+  "price": "12.085,00",
+  "amount": "0",
+  "description": "zur Masse- und Volumenmessung, von Propan/Butan,\\nLeistung: 0 - 70l/min\\nKompaktausführung mit:\\nBB Zulassung; Messumformer + Sensor: \\nATEX+IECEx; Z0/1, Z21, Ex de, IIC/IIIC\\nD Energieversorgung: 24VDC\\nMA Ausgang; Eingang 1: Modbus RS485\\nJ Ausgang; Eingang 2: Statuseingang\\nA Ausgang; Eingang 3: Ohne;\\nF Anzeige; Bedienung: 4-zeilig beleuchtet; Touch Control\\nA Gehäuse: Alu, beschichtet\\nA Elektrischer Anschluss: Verschr. M20\\nSA Messrohr Mat., Oberfläche mediumberührt: Rostfr.Stahl, nicht poliert\\nD2S Prozessanschluss: PN40, 1.4404/316/316L,\\nFlansch EN1092-1-B1\\nA Kalibration Durchfluss: 0.10% Masse\\nA1 Gerätemodell: 1\\nAA >Bediensprache Anzeige: Englisch\\nFI >Eichfähigkeit: Flüssigkeiten ausser Wasser;MI-005\\n"
 }

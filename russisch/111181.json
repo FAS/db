@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    111181\r\n                  ",
+  "id": "111181",
   "name": "Stellung von Hilfsmitteln/Werkzeugen - V2",
   "weight": "0,00",
-  "price": "\r\n                  135,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "###############################<br>(  ) Gasfackel (290,- EUR bei Verleih/Woche)<br>(  ) EX-Gebl&#xE4;se klein<br>(  ) EX-Gebl&#xE4;se gro&#xDF; (290,- EUR bei Verleih/Woche)<br>(  ) Fl&#xFC;ssiggas-Kompressor (370,- EUR/Tag)<br>(  ) Fl&#xFC;ssiggas-Abscheider<br>(  ) Druckluft-Kompressor<br>(  ) Druckerh&#xF6;hungspumpe<br>(  ) Strahlger&#xE4;t<br>(  ) Eichgewichte f&#xFC;r F&#xFC;llwaagen"
+  "price": "135,00",
+  "amount": "0",
+  "description": "\\n() Gasfackel (290,- EUR bei Verleih/Woche)\\n() EX-Gebläse klein\\n() EX-Gebläse groß (290,- EUR bei Verleih/Woche)\\n() Flüssiggas-Kompressor (370,- EUR/Tag)\\n() Flüssiggas-Abscheider\\n() Druckluft-Kompressor\\n() Druckerhöhungspumpe\\n() Strahlgerät\\n() Eichgewichte für Füllwaagen"
 }

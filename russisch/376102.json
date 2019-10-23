@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    376102\r\n                  ",
+  "id": "376102",
   "name": "Stirnzahnrad mit Nabe aus Stahl, Werkstoff C45",
   "weight": "10,66",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "Modul 4,0, Zahnbreite b=40mm, gefr&#xE4;ste Z&#xE4;hne,<br>Z&#xE4;hnezahl 50, gerade verzahnt<br>Verzahnungsqualit&#xE4;t 8d25 DIN 3967<br>Eingriffswinkel 20&#xB0;"
+  "price": "0,00",
+  "amount": "1",
+  "description": "Modul 4,0, Zahnbreite b=40mm, gefräste Zähne,\\nZähnezahl 50, gerade verzahnt\\nVerzahnungsqualität 8d25 DIN 3967\\nEingriffswinkel 20°"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    38750\r\n                  ",
+  "id": "38750",
   "name": "Liquid Controls Flüssigkeitszähler, Typ MS-15-A-14, PN 10",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Geh&#xE4;usematerial aus Stahl, f&#xFC;r Methanol <br>Anschl&#xFC;sse 3&quot;  NPT-Innengewinde,<br>Dichtungen Viton, <br>mit nullstellbarer Anzeige der Abgabemenge in Liter<br>und nicht r&#xFC;ckstellbarem Summierz&#xE4;hler <br><br>Durchflu&#xDF;menge max. 757 l/min <br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Gehäusematerial aus Stahl, für Methanol \\nAnschlüsse 3\"NPT-Innengewinde,\\nDichtungen Viton, \\nmit nullstellbarer Anzeige der Abgabemenge in Liter\\nund nicht rückstellbarem Summierzähler \\n\\nDurchflußmenge max. 757 l/min \\n"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    25167\r\n                  ",
+  "id": "25167",
   "name": "Reparaturpackung für Drehgelenk 90°, 1\"x1\"",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n5\r\n                    \r\n                    ",
-  "description": "f&#xFC;r Typ SMAC-J01<br>**ACHTUNG: Drehgelenke d&#xFC;rfen keiner Wasserdruckpr&#xFC;fung<br>unterzogen werden!**"
+  "price": "0,00",
+  "amount": "5",
+  "description": "für Typ SMAC-J01\\nACHTUNG: Drehgelenke dürfen keiner Wasserdruckprüfung\\nunterzogen werden!"
 }

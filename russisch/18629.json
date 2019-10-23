@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    18629\r\n                  ",
+  "id": "18629",
   "name": "Coriolis-Massedurchflußmeßgerät",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Model-Code: TM-S79-156C1750-S0L1-A-0-0<br>                     UMC.2B-1-32-1I0-111<br>Typ: TM-520-DN 250/PN 16-UMC.2B-SG10-EX-ATEX<br>Anzeigebereich: 350000 kg/h"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Model-Code: TM-S79-156C1750-S0L1-A-0-0\\nUMC.2B-1-32-1I0-111\\nTyp: TM-520-DN 250/PN 16-UMC.2B-SG10-EX-ATEX\\nAnzeigebereich: 350000 kg/h"
 }

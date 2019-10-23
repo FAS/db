@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    90874\r\n                  ",
+  "id": "90874",
   "name": "Sicherheitsventil 5262.1644, Typ 526, API Serie,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Eingang 3&quot; (300 lbs), Ausgang 4&quot; (150 lbs), Einstelldruck 8,0bar<br>Geh&#xE4;use-Werkstoff 1.0619 / WCB,<br>gem&#xE4;&#xDF; beigef&#xFC;gten technischen Datenbl&#xE4;ttern"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Eingang 3\" (300 lbs), Ausgang 4\" (150 lbs), Einstelldruck 8,0bar\\nGehäuse-Werkstoff 1.0619 / WCB,\\ngemäß beigefügten technischen Datenblättern"
 }

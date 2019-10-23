@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    940332\r\n                  ",
+  "id": "940332",
   "name": "Reparatur-Satz für SMITH Pumpe Typ EG-1Z",
   "weight": "0,00",
-  "price": "\r\n                  855,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Bestehend aus:<br>E-100Z Shaft Seal Assembly<br>EG-5 Drive Gear<br>EG-6 Idler Gear w/Bushing E-10<br>E-20 Bypass Valve Assy incl. O-Rings<br>6230-28 O-Ring<br>VC-20 Complete Drive Coupling"
+  "price": "855,00",
+  "amount": "0",
+  "description": "Bestehend aus:\\nE-100Z Shaft Seal Assembly\\nEG-5 Drive Gear\\nEG-6 Idler Gear w/Bushing E-10\\nE-20 Bypass Valve Assy incl. O-Rings\\n6230-28 O-Ring\\nVC-20 Complete Drive Coupling"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    111803\r\n                  ",
+  "id": "111803",
   "name": "Betätigungstaster schwarz für Fernanzeige P&A",
   "weight": "0,00",
-  "price": "\r\n                  29,00\r\n                  ",
-  "amount": "\r\n                      \r\n18\r\n                    \r\n                    ",
-  "description": "<br>Zus&#xE4;tzlich ben&#xF6;tigte Bauteile:<br>###############################<br>FAS-111.804 Halter<br>FAS-111.805 Schaltelement"
+  "price": "29,00",
+  "amount": "18",
+  "description": "\\nZusätzlich benötigte Bauteile:\\n\\nFAS-111.804 Halter\\nFAS-111.805 Schaltelement"
 }

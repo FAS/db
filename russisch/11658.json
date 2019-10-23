@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    11658\r\n                  ",
-  "name": "Vorschweißflansch  DN 40 / PN 40 n. DIN EN 1092-1 (DIN 2635)",
+  "id": "11658",
+  "name": "VorschweißflanschDN 40 / PN 40 n. DIN EN 1092-1 (DIN 2635)",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "mit  3.1 B nach EN 10204"
+  "price": "0,00",
+  "amount": "1",
+  "description": "mit3.1 B nach EN 10204"
 }

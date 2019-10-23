@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    16174\r\n                  ",
+  "id": "16174",
   "name": "Druckregler 12 P, mit Steuerregler 1. und 2. Stufe,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "ohne SAV, Flansch DN 25, PN 16, DIN-DVGW zugelassen, Geh&#xE4;use aus GGG 40, Hinterdruck 1,0-6,0 bar, eingestellt auf ____bar,<br>mit  Abnahmepr&#xFC;fzeugnis 3.1.B nach EN 10204 <br>(DIN 50.049-3.1 B) "
+  "price": "0,00",
+  "amount": "0",
+  "description": "ohne SAV, Flansch DN 25, PN 16, DIN-DVGW zugelassen, Gehäuse aus GGG 40, Hinterdruck 1,0-6,0 bar, eingestellt auf ____bar,\\nmitAbnahmeprüfzeugnis 3.1.B nach EN 10204 \\n(DIN 50.049-3.1 B) "
 }

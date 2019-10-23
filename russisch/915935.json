@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    915935\r\n                  ",
+  "id": "915935",
   "name": "Befüllpumpe:",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Pumpenaggregat f&#xFC;r Wasser bestehend aus:<br>Einstufige Pumpeneinheit in Kompaktbauweise Typ ZLKD,<br>Eingang: Flansch DN65, Ausgang: Flansch DN40<br>Leistung 19,67m3/h, F&#xF6;rderh&#xF6;he 58,05 m, NPSHR 0,96 m,<br>komplett mit Ex-Motor 7,50 kW, Drehzahl 3000 1/min, <br>380/660 V, 50 Hz,  IP 55<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Pumpenaggregat für Wasser bestehend aus:\\nEinstufige Pumpeneinheit in Kompaktbauweise Typ ZLKD,\\nEingang: Flansch DN65, Ausgang: Flansch DN40\\nLeistung 19,67m3/h, Förderhöhe 58,05 m, NPSHR 0,96 m,\\nkomplett mit Ex-Motor 7,50 kW, Drehzahl 3000 1/min, \\n380/660 V, 50 Hz,IP 55\\n"
 }

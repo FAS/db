@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    111193\r\n                  ",
+  "id": "111193",
   "name": "Montage-Pauschale für Technische Aktion \"ZVG 2\"",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "###############################<br>Termin im Rahmen einer Verbundfahrt.<br><br>Diese Position beinhaltet folgende Leistungen:<br> - An- &amp; Abfahrt innerhalb von Deutschland<br> - Austausch einer F&#xFC;llpistole Typ ZVG 2<br> - Sachbearbeitung"
+  "price": "0,00",
+  "amount": "0",
+  "description": "\\nTermin im Rahmen einer Verbundfahrt.\\n\\nDiese Position beinhaltet folgende Leistungen:\\n - An- & Abfahrt innerhalb von Deutschland\\n - Austausch einer Füllpistole Typ ZVG 2\\n - Sachbearbeitung"
 }

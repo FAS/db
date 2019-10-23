@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    34100\r\n                  ",
+  "id": "34100",
   "name": "Ersatzteilset für Zapfsäule FAS-230",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "f&#xFC;r 2-j&#xE4;hrigen Betrieb, ohne Elektronik<br>bestehend aus:<br>1 x FAS 13039 Zapfpistole T3<br>1 x FAS 39590 LPG Schlauch 5.0 Meter mit <br>   Abrei&#xDF;kupplung, komplett eingebunden<br>4 x FAS 87048 Service-Kit f&#xFC;r einen LPG Z&#xE4;hler<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "für 2-jährigen Betrieb, ohne Elektronik\\nbestehend aus:\\n1 x FAS 13039 Zapfpistole T3\\n1 x FAS 39590 LPG Schlauch 5.0 Meter mit \\nAbreißkupplung, komplett eingebunden\\n4 x FAS 87048 Service-Kit für einen LPG Zähler\\n"
 }

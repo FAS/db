@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    95344\r\n                  ",
+  "id": "95344",
   "name": "Dampf Füll Ventil",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Tankanschluss: 1 &quot;1/4 NPT - Anschluss Druckregler G3 / 4&quot; Betriebsdruck 25 bar inklusive: Kondensatableiter Max F&#xFC;llst&#xE4;nde inklusive 1/4 &quot;Anschluss f&#xFC;r Manometer Ref: ECGX441"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Tankanschluss: 1 \"1/4 NPT - Anschluss Druckregler G3 / 4\" Betriebsdruck 25 bar inklusive: Kondensatableiter Max Füllstände inklusive 1/4 \"Anschluss für Manometer Ref: ECGX441"
 }

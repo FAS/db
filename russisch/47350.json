@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    47350\r\n                  ",
+  "id": "47350",
   "name": "Tastschalter für Zapfsäulen Typ Q300, Q500 - Alte Ausführung",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "bestehend aus:<br> - FAS-473.502 Tastschaltervorsatz<br> - FAS-473.501 Kontaktelement<br> - Befestigungsmaterial"
+  "price": "0,00",
+  "amount": "0",
+  "description": "bestehend aus:\\n - FAS-473.502 Tastschaltervorsatz\\n - FAS-473.501 Kontaktelement\\n - Befestigungsmaterial"
 }

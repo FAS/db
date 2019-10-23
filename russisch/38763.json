@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    38763\r\n                  ",
-  "name": "Meßanlage Typ LC M5B2 für Kerosin, Flugbenzin, Jet A  PN 10",
+  "id": "38763",
+  "name": "Meßanlage Typ LC M5B2 für Kerosin, Flugbenzin, Jet APN 10",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Drehklappenz&#xE4;hlwerk, Innenteile aus Edelstahl, <br>mit Feinfilter und nullstellbarem Z&#xE4;hlwerk mit Summenz&#xE4;hler,<br>Anzeige in Liter, Durchflu&#xDF;richtung links nach rechts<br>max. Durchflu&#xDF;menge 228 l/min, Anschl&#xFC;sse 1 1/2&quot; NPT Innengewinde"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Drehklappenzählwerk, Innenteile aus Edelstahl, \\nmit Feinfilter und nullstellbarem Zählwerk mit Summenzähler,\\nAnzeige in Liter, Durchflußrichtung links nach rechts\\nmax. Durchflußmenge 228 l/min, Anschlüsse 1 1/2\" NPT Innengewinde"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    139201\r\n                  ",
+  "id": "139201",
   "name": "Abreisskupplung SBC 50, Typ MANN TEK,",
   "weight": "4,40",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "einerseits 2&quot; NPT IG, andererseits Flansch 2&quot; ANSI 300,<br>mit Viton O-Ringen<br>Bruchkraft: 13 kN<br>Betriebsdruck: PN 25 bar"
+  "price": "0,00",
+  "amount": "0",
+  "description": "einerseits 2\" NPT IG, andererseits Flansch 2\" ANSI 300,\\nmit Viton O-Ringen\\nBruchkraft: 13 kN\\nBetriebsdruck: PN 25 bar"
 }

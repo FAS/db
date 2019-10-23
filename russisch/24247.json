@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    24247\r\n                  ",
+  "id": "24247",
   "name": "Hydraulik-Ölkühler, Luftgekühlt ",
   "weight": "33,00",
-  "price": "\r\n                  4.460,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Typ Blackmer Hydrive 2010,<br>ohne Umschaltventil<br>&#xD6;ldurchflu&#xDF;menge:55-100 l/min<br>Systemdruck:50-170bar<br>W&#xE4;rmeableitung:10kW bei <br>40&#xB0; Temperaturerh&#xF6;hung,<br>Inhalt des &#xD6;ltanks:10l<br>Anschl&#xFC;sse mit BSP - Gewinde"
+  "price": "4.460,00",
+  "amount": "0",
+  "description": "Typ Blackmer Hydrive 2010,\\nohne Umschaltventil\\nÖldurchflußmenge:55-100 l/min\\nSystemdruck:50-170bar\\nWärmeableitung:10kW bei \\n40° Temperaturerhöhung,\\nInhalt des Öltanks:10l\\nAnschlüsse mit BSP - Gewinde"
 }

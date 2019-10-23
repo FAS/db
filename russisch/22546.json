@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    22546\r\n                  ",
-  "name": "reserviert für Katalog 2000<br>(reserviert für Katalog 2000)",
+  "id": "22546",
+  "name": "reserviert für Katalog 2000\\n(reserviert für Katalog 2000)",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "(reserviert f&#xFC;r Katalog 2000)"
+  "price": "0,00",
+  "amount": "0",
+  "description": "(reserviert für Katalog 2000)"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    12010\r\n                  ",
+  "id": "12010",
   "name": "Скоростной клапан из стали, тип RegO A2137A",
   "weight": "1,62",
-  "price": "\r\n                  250,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "&#x412;&#x445;&#x43E;&#x434;: 2&quot; NPT AG, &#x412;&#x44B;&#x445;&#x43E;&#x434;: 2&quot; NPT AG<br>"
+  "price": "250,00",
+  "amount": "0",
+  "description": "Вход: 2\" NPT AG, Выход: 2\" NPT AG\\n"
 }

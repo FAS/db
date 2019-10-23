@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    67412\r\n                  ",
+  "id": "67412",
   "name": "Mehrpreis für die Sonderlackierung einer Zapfsäule ",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "vom Typ FAS 120 / 130 / 140 / 220 / 230 / 240,<br><br>AVIA - Design<br><br>RAL-Farbton nach Kundenvorgabe (bitte angeben)<br><br>RAL  9010<br>RAL  3020<br><br>NICHT VERWENDEN Raim. Schmidt"
+  "price": "0,00",
+  "amount": "1",
+  "description": "vom Typ FAS 120 / 130 / 140 / 220 / 230 / 240,\\n\\nAVIA - Design\\n\\nRAL-Farbton nach Kundenvorgabe (bitte angeben)\\n\\nRAL9010\\nRAL3020\\n\\nNICHT VERWENDEN Raim. Schmidt"
 }

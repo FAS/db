@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    48502\r\n                  ",
+  "id": "48502",
   "name": "Notbetriebsschalter für Tankautomaten FAS-430_E,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n2\r\n                    \r\n                    ",
-  "description": "instaliert im Tankautomaten, zur &#xDC;berbr&#xFC;ckung der <br>Tankautomatentechnik. Nach Aktivierung findet bei <br>Abgabe keine Mengenerfassung statt."
+  "price": "0,00",
+  "amount": "2",
+  "description": "instaliert im Tankautomaten, zur Überbrückung der \\nTankautomatentechnik. Nach Aktivierung findet bei \\nAbgabe keine Mengenerfassung statt."
 }

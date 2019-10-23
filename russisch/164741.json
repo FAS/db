@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    164741\r\n                  ",
+  "id": "164741",
   "name": "Druckregler COMPRIM Alfa 40 AP",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Leistung: max 640 kg/h<br>Eingangsdruck: max. 18 bar<br>Ausgangsdruck: 0.31 - 4.0 bar<br>Anschlu&#xDF;: Flansch DN40 x Flansch DN40"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Leistung: max 640 kg/h\\nEingangsdruck: max. 18 bar\\nAusgangsdruck: 0.31 - 4.0 bar\\nAnschluß: Flansch DN40 x Flansch DN40"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    83926\r\n                  ",
+  "id": "83926",
   "name": "Werkprüfzeugnis",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Hydrostatische Druckpr&#xFC;fung<br>Leistungsnachweis gem&#xE4;&#xDF; DIN EN ISO 9906"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Hydrostatische Druckprüfung\\nLeistungsnachweis gemäß DIN EN ISO 9906"
 }

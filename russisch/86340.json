@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    86340\r\n                  ",
+  "id": "86340",
   "name": "Blindflansch 2 \" ( 50) , nach ASME B 16.5, Class 150,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "RF / Ra 3,2 - 6,3 &#x3BC;m (125-250 &#x3BC;in),<br>ASTM/ASME A/SA 105N/C 21 VdT&#xDC;V WB 399/3,<br>APZ DIN EN 10204/3.1,"
+  "price": "0,00",
+  "amount": "0",
+  "description": "RF / Ra 3,2 - 6,3 μm (125-250 μin),\\nASTM/ASME A/SA 105N/C 21 VdTÜV WB 399/3,\\nAPZ DIN EN 10204/3.1,"
 }

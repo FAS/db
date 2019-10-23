@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    79749\r\n                  ",
+  "id": "79749",
   "name": "Ottokoppler 5V",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n4\r\n                    \r\n                    ",
-  "description": "Arbeitsbereich: 3,5 - 12V DC<br>Bemessungsleistung: 0,035W<br>Ausgangsrelais: 1 Schliesser 2A/240V AC<br>"
+  "price": "0,00",
+  "amount": "4",
+  "description": "Arbeitsbereich: 3,5 - 12V DC\\nBemessungsleistung: 0,035W\\nAusgangsrelais: 1 Schliesser 2A/240V AC\\n"
 }

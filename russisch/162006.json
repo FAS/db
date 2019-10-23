@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    162006\r\n                  ",
+  "id": "162006",
   "name": "Пружина для SAV от регулятора ФАС 164748",
   "weight": "0,01",
-  "price": "\r\n                  20,00\r\n                  ",
-  "amount": "\r\n                      \r\n2\r\n                    \r\n                    ",
-  "description": "OPSU  60-160 mbar"
+  "price": "20,00",
+  "amount": "2",
+  "description": "OPSU60-160 mbar"
 }

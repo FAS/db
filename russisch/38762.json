@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    38762\r\n                  ",
+  "id": "38762",
   "name": "Meßanlage Typ LC M5B1 für Mineralöl",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "komplett mit Feinfilter und Z&#xE4;hlwerk mit Summenz&#xE4;hler,<br>Anzeige in Liter, Durchflu&#xDF;richtung links nach rechts<br>max. Durchflu&#xDF;menge 228 l/min, Anschl&#xFC;sse 1 1/2&quot; NPT Innengewinde<br>Dichtungen Buna-N"
+  "price": "0,00",
+  "amount": "0",
+  "description": "komplett mit Feinfilter und Zählwerk mit Summenzähler,\\nAnzeige in Liter, Durchflußrichtung links nach rechts\\nmax. Durchflußmenge 228 l/min, Anschlüsse 1 1/2\" NPT Innengewinde\\nDichtungen Buna-N"
 }

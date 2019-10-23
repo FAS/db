@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    471440\r\n                  ",
+  "id": "471440",
   "name": "Elektro-Schaltschrank zur Montage außerhalb der Schutzzone",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Im Freien und in einem Geb&#xE4;ude zur Steuerung der kompletten Verdampferanlage: komplett verdrahtet zum Anschlu&#xDF;<br>von:<br><br>-  1 Pumpenmotor mit Stern/Dreieckanlauf<br>-  Doppeldrucktaster f&#xFC;r das Starten der Anlage<br>-  F&#xFC;llstandsensor im Abscheider nach dem Vwrdampfer<br>-  Einen Sensor im Abscheider vor dem Brenner<br>-  Trockenlaufschutz durch Str&#xF6;mungsw&#xE4;chter<br><br>Anschlu&#xDF;klemmen f&#xFC;r ext. Gaswarnanlage, Brandmeldeanlage<br>Signalhupe, Blitzleuchte und 3 Not/Austastern"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Im Freien und in einem Gebäude zur Steuerung der kompletten Verdampferanlage: komplett verdrahtet zum Anschluß\\nvon:\\n\\n-1 Pumpenmotor mit Stern/Dreieckanlauf\\n-Doppeldrucktaster für das Starten der Anlage\\n-Füllstandsensor im Abscheider nach dem Vwrdampfer\\n-Einen Sensor im Abscheider vor dem Brenner\\n-Trockenlaufschutz durch Strömungswächter\\n\\nAnschlußklemmen für ext. Gaswarnanlage, Brandmeldeanlage\\nSignalhupe, Blitzleuchte und 3 Not/Austastern"
 }

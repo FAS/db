@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    12\r\n                  ",
+  "id": "12",
   "name": "Werkszeugnis 2.2 nach EN 10 204 (DIN 50 049-2.2)",
   "weight": "12,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "f&#xFC;r den gesamten Lieferumfang."
+  "price": "0,00",
+  "amount": "0",
+  "description": "für den gesamten Lieferumfang."
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    361147\r\n                  ",
+  "id": "361147",
   "name": "Beistellung Differenzdruckschalter Typ DDCM 16-513",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "mit Ex-Schutz, Anschluss G 1/4&quot; IG, Einstellbereich 3 - 16 bar, <br>eingestellt auf 4 bar fallend, IP 54, max. zul&#xE4;ssiger Druck 25 bar"
+  "price": "0,00",
+  "amount": "0",
+  "description": "mit Ex-Schutz, Anschluss G 1/4\" IG, Einstellbereich 3 - 16 bar, \\neingestellt auf 4 bar fallend, IP 54, max. zulässiger Druck 25 bar"
 }

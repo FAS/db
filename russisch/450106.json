@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    450106\r\n                  ",
+  "id": "450106",
   "name": "Zahnradpumpe Typ 17 AP 03 ",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "zur direkten Montage an Motor mittels Adapter und Kupplung<br>Geh&#xE4;use: Gu&#xDF;eisen<br>Zahnr&#xE4;der: geh&#xE4;rtete Eisenlegierung<br>Wellenabdichtung: Packung<br>Anschl&#xFC;sse: 3/4&quot; NPT IG<br>&#xDC;berstr&#xF6;mventil: ohne"
+  "price": "0,00",
+  "amount": "0",
+  "description": "zur direkten Montage an Motor mittels Adapter und Kupplung\\nGehäuse: Gußeisen\\nZahnräder: gehärtete Eisenlegierung\\nWellenabdichtung: Packung\\nAnschlüsse: 3/4\" NPT IG\\nÜberströmventil: ohne"
 }

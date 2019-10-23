@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    264850\r\n                  ",
+  "id": "264850",
   "name": "Drehstrommotor, druckfest EEXD IICT4, 380 V,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "3-Phasen, 50 Hz, Klasse F, IP 55, Temp. 50&#xB0;C<br>6,7 kW, 1455 U/min, IM1011, Typ AOM132M04"
+  "price": "0,00",
+  "amount": "0",
+  "description": "3-Phasen, 50 Hz, Klasse F, IP 55, Temp. 50°C\\n6,7 kW, 1455 U/min, IM1011, Typ AOM132M04"
 }

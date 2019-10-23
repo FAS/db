@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    26458\r\n                  ",
+  "id": "26458",
   "name": "Motor, druckfest EEXD IIC T4, 400 V,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "3-Phasen, 50 Hz, Klasse F, IP 55, Temp. 55&#xB0;C<br>22 kW, 44 A, 1460 U/min, PF=0.83, B3"
+  "price": "0,00",
+  "amount": "0",
+  "description": "3-Phasen, 50 Hz, Klasse F, IP 55, Temp. 55°C\\n22 kW, 44 A, 1460 U/min, PF=0.83, B3"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    16472\r\n                  ",
+  "id": "16472",
   "name": "Druckregler, Typ Fiorentini DIVAL 507 / 180TR,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Eingangsdruck: 0,5 - 20 bar, Ein-/Ausgang: <br>Flansch DN 25, Ausgangsdruckbereich:<br>300 - 3000 mbar, Durchflu&#xDF;menge gem&#xE4;&#xDF;<br>Datenblatt"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Eingangsdruck: 0,5 - 20 bar, Ein-/Ausgang: \\nFlansch DN 25, Ausgangsdruckbereich:\\n300 - 3000 mbar, Durchflußmenge gemäß\\nDatenblatt"
 }

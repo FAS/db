@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    48500\r\n                  ",
+  "id": "48500",
   "name": "Tankautomat FAS-430_E komplett montiert auf Zapfsäulentür,",
   "weight": "2,20",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "bestehend aus:<br> - Transponderleser<br> - LCD-Display mit Hintergrundbeleuchtung<br> - Edelstahltastatur mit 12 Tasten<br> - Kunden/Techniker/Betreiber-Ausweis<br> - Daten&#xFC;bertragung mit RS232 -Schnittstelle<br> - Netzteil 24 Volt<br> - nicht eichf&#xE4;hig"
+  "price": "0,00",
+  "amount": "0",
+  "description": "bestehend aus:\\n - Transponderleser\\n - LCD-Display mit Hintergrundbeleuchtung\\n - Edelstahltastatur mit 12 Tasten\\n - Kunden/Techniker/Betreiber-Ausweis\\n - Datenübertragung mit RS232 -Schnittstelle\\n - Netzteil 24 Volt\\n - nicht eichfähig"
 }

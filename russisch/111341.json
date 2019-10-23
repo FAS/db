@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    111341\r\n                  ",
+  "id": "111341",
   "name": "USV-Einheit (primärgetaktet, batteriegepuffert)",
   "weight": "1,70",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Ausstattung:<br> - Potentialfreier Meldekontakt<br> - LED-Meldung:<br>  * Betrieb<br>  * St&#xF6;rung<br>  * Oberhalb<br>  * Innerhalb<br>  * Batterie schwach<br> - Tiefentladeschutz<br><br> - ohne Akkus, 2x FAS-111.342 notwendig"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Ausstattung:\\n - Potentialfreier Meldekontakt\\n - LED-Meldung:\\n* Betrieb\\n* Störung\\n* Oberhalb\\n* Innerhalb\\n* Batterie schwach\\n - Tiefentladeschutz\\n\\n - ohne Akkus, 2x FAS-111.342 notwendig"
 }

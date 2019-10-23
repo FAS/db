@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    120719\r\n                  ",
+  "id": "120719",
   "name": "Rohrbruchventil 2\", Typ FAS F, PN 40",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "mit beiderseits 2&quot; Class300 ANSI-Flanschen,<br>Geh&#xE4;use aus Edelstahl 1.4301, Feder aus Edelstahl, <br>Schlie&#xDF;menge ca. 167  l/min. fl&#xFC;ssig Propan, <br>0,17 bar Druckverlust<br><br>ACHTUNG! <br>Die Schlie&#xDF;menge des Rohrbruchventiles sollte doppelt<br>so hoch sein wie die maximale Pumpenleistung!"
+  "price": "0,00",
+  "amount": "0",
+  "description": "mit beiderseits 2\" Class300 ANSI-Flanschen,\\nGehäuse aus Edelstahl 1.4301, Feder aus Edelstahl, \\nSchließmenge ca. 167l/min. flüssig Propan, \\n0,17 bar Druckverlust\\n\\nACHTUNG! \\nDie Schließmenge des Rohrbruchventiles sollte doppelt\\nso hoch sein wie die maximale Pumpenleistung!"
 }

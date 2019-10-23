@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    81500\r\n                  ",
+  "id": "81500",
   "name": "Beruhigungsstrecke vor der Pumpe",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Rohrst&#xFC;ck mit Flansch DN 80 einerseits und Stutzen 2&quot; anderseits,<br>mit aufgeschwei&#xDF;ter 1/4&quot; Muffe f&#xFC;r Manometer,<br>1/2&quot; Muffe f&#xFC;r Sicherheitsventil,<br>und 2&quot; Muffe f&#xFC;r Durchflu&#xDF;anzeiger<br>Gesamtl&#xE4;nge ca. 500 mm<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Rohrstück mit Flansch DN 80 einerseits und Stutzen 2\" anderseits,\\nmit aufgeschweißter 1/4\" Muffe für Manometer,\\n1/2\" Muffe für Sicherheitsventil,\\nund 2\" Muffe für Durchflußanzeiger\\nGesamtlänge ca. 500 mm\\n"
 }

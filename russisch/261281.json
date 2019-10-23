@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    261281\r\n                  ",
+  "id": "261281",
   "name": "Drehstrom Motor mit Kurzschlußläufer",
   "weight": "159,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "11 kW, druckfest, II 2 G  EEx d II C T4, <br>Type 4KTC 160 M 4, Drehzahl 1700 1/min,<br>Spannung 380/660 V, Frequenz 60Hz,<br>Bauform B 3, Schutzart iP 55, Iso.-Kl.: F<br>Motorschutz: 3 eingebaute Kaltleiter,<br>2 Kabelverschraubungen M 40<br>EG-Baumusterpr&#xFC;fbescheinigung / ATEX"
+  "price": "0,00",
+  "amount": "0",
+  "description": "11 kW, druckfest, II 2 GEEx d II C T4, \\nType 4KTC 160 M 4, Drehzahl 1700 1/min,\\nSpannung 380/660 V, Frequenz 60Hz,\\nBauform B 3, Schutzart iP 55, Iso.-Kl.: F\\nMotorschutz: 3 eingebaute Kaltleiter,\\n2 Kabelverschraubungen M 40\\nEG-Baumusterprüfbescheinigung / ATEX"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    264180\r\n                  ",
+  "id": "264180",
   "name": "NH - Sicherungseinheit 125A",
   "weight": "0,30",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n9\r\n                    \r\n                    ",
-  "description": "G00, 125A, AC500/DC250, <br>3NA6832"
+  "price": "0,00",
+  "amount": "9",
+  "description": "G00, 125A, AC500/DC250, \\n3NA6832"
 }

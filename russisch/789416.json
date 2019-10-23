@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    789416\r\n                  ",
+  "id": "789416",
   "name": "Konsole für Messanlage MID 400",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Masse: H = 165; L = 185; B = 155mm<br> - verzinkt <br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Masse: H = 165; L = 185; B = 155mm\\n - verzinkt \\n"
 }

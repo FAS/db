@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    67400\r\n                  ",
-  "name": "Aufkleber  Schriftzug \"Autogas \"",
+  "id": "67400",
+  "name": "AufkleberSchriftzug \"Autogas \"",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n35\r\n                    \r\n                    ",
-  "description": "Schriftfarbe: blau/rot,<br>Hintergrundfarbe: neutral wei&#xDF; <br>f&#xFC;r allgemeineTankstellen&#xFC;berdachung <br>auf Fl&#xE4;che 1950 x 260mm"
+  "price": "0,00",
+  "amount": "35",
+  "description": "Schriftfarbe: blau/rot,\\nHintergrundfarbe: neutral weiß \\nfür allgemeineTankstellenüberdachung \\nauf Fläche 1950 x 260mm"
 }

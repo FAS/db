@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    130848\r\n                  ",
-  "name": "Füllpistole Typ ZVG 2  (ACME), mit Feststelleinrichtung, ",
+  "id": "130848",
+  "name": "Füllpistole Typ ZVG 2(ACME), mit Feststelleinrichtung, ",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "PN 25, R 1&quot; IG x 1 3/4&quot; ACME, mit Sicherheitsf&#xFC;llkupplung <br>und R&#xFC;ckschlagventil, mit Werksbescheinigung 2.1 nach EN 10 204 "
+  "price": "0,00",
+  "amount": "0",
+  "description": "PN 25, R 1\" IG x 1 3/4\" ACME, mit Sicherheitsfüllkupplung \\nund Rückschlagventil, mit Werksbescheinigung 2.1 nach EN 10 204 "
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    111446\r\n                  ",
+  "id": "111446",
   "name": "Gasmesscomputer Bieler+Lang,Typ 8022",
   "weight": "0,77",
-  "price": "\r\n                  825,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Gaswarnanlage zur &#xDC;berwachung explosionsgef&#xE4;hrdeter<br>Bereiche durch Propan-Luft-Gemische,<br>Messung und Auswertung der Gaskonzentration,<br>Geh&#xE4;use geeignet f&#xFC;r Hutschienenmontage, IP30,<br>Eingang:<br>2 Messkan&#xE4;le 4...20 mA,<br>Ausg&#xE4;nge:<br>potenzialfreie Alarmrelais, 230VAC, 2A,<br>-Alarm1: Schlie&#xDF;er<br>-Alarm2: Wechsler<br>-St&#xF6;rung: &#xD6;ffner<br>-Hupe: Schlie&#xDF;er<br>Versorgungsspannung:<br>230V, 50...60Hz, und 24VDC<br>EG-Baumusterpr&#xFC;fbescheinigung BVS 03 ATEX G007 X"
+  "price": "825,00",
+  "amount": "0",
+  "description": "Gaswarnanlage zur Überwachung explosionsgefährdeter\\nBereiche durch Propan-Luft-Gemische,\\nMessung und Auswertung der Gaskonzentration,\\nGehäuse geeignet für Hutschienenmontage, IP30,\\nEingang:\\n2 Messkanäle 4...20 mA,\\nAusgänge:\\npotenzialfreie Alarmrelais, 230VAC, 2A,\\n-Alarm1: Schließer\\n-Alarm2: Wechsler\\n-Störung: Öffner\\n-Hupe: Schließer\\nVersorgungsspannung:\\n230V, 50...60Hz, und 24VDC\\nEG-Baumusterprüfbescheinigung BVS 03 ATEX G007 X"
 }

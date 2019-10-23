@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    63740\r\n                  ",
+  "id": "63740",
   "name": "Щека коленчатого вала",
   "weight": "0,07",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n2572\r\n                    \r\n                    ",
-  "description": "&#x43C;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43B;: EBG AL 9,<br>&#x447;&#x435;&#x440;&#x442;&#x435;&#x436;-Nr. 043.02.0008-23-1 Rev. 0<br>MKIII-S"
+  "price": "0,00",
+  "amount": "2572",
+  "description": "материал: EBG AL 9,\\nчертеж-Nr. 043.02.0008-23-1 Rev. 0\\nMKIII-S"
 }

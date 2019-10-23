@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    92545\r\n                  ",
+  "id": "92545",
   "name": "Reparatursatz für Magnetventil, FAS 36298 bestehend aus:",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Ventilkolben     Pos. 103    1263063<br>Druckfeder        Pos. 105     1220520<br>O-ring               Pos. 106     1260998<br>Nutring             Pos. 108     1257606<br>O-ring               Pos. 702     1261071<br>Druckfeder        Pos. 704     1217159<br>Anker                Pos. 705     1257515<br>O-ring               Pos. 1502    1241224   "
+  "price": "0,00",
+  "amount": "0",
+  "description": "VentilkolbenPos. 1031263063\\nDruckfederPos. 1051220520\\nO-ringPos. 1061260998\\nNutringPos. 1081257606\\nO-ringPos. 7021261071\\nDruckfederPos. 7041217159\\nAnkerPos. 7051257515\\nO-ringPos. 15021241224"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    789430\r\n                  ",
+  "id": "789430",
   "name": "Konsole für MA7-Messanlage",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "Masse: H = 380; L = 180; B = 155<br>verzinkt <br>"
+  "price": "0,00",
+  "amount": "1",
+  "description": "Masse: H = 380; L = 180; B = 155\\nverzinkt \\n"
 }

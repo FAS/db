@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    161821\r\n                  ",
+  "id": "161821",
   "name": "Niederdruckregler Typ EN61-DS",
   "weight": "0,60",
-  "price": "\r\n                  73,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "###############################<br>- mit &#xDC;berdruck- Sicherheitseinrichtung S2SR (&#xDC;DS)<br>- mit Sichtanzeige (gr&#xFC;n/rot) mit optischen Signal (rot) <br>  bei Ausgangsdr&#xFC;cken &#xFC;ber 80mbar<br>- integrierte Schlauchbruchsicherung EFV (SBS)<br>- Ausgangsdruck 50mbar<br><br>Anschluss: KLF x G1/4 LH-KN 50mbar 1,5kg/h"
+  "price": "73,00",
+  "amount": "1",
+  "description": "\\n- mit Überdruck- Sicherheitseinrichtung S2SR (ÜDS)\\n- mit Sichtanzeige (grün/rot) mit optischen Signal (rot) \\nbei Ausgangsdrücken über 80mbar\\n- integrierte Schlauchbruchsicherung EFV (SBS)\\n- Ausgangsdruck 50mbar\\n\\nAnschluss: KLF x G1/4 LH-KN 50mbar 1,5kg/h"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    92996\r\n                  ",
+  "id": "92996",
   "name": "Modul 230V zu AVN 2",
   "weight": "0,08",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Speisespannung: 230 VAC<br>Ausgang: 24 V AC<br>Leistungsaufnahme: 2 VA<br><br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Speisespannung: 230 VAC\\nAusgang: 24 V AC\\nLeistungsaufnahme: 2 VA\\n\\n"
 }

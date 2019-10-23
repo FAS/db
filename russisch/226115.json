@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    226115\r\n                  ",
+  "id": "226115",
   "name": "Elektronischer Preisrechner ADP2/T-ATC (Beta Control)",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Preisrechner f&#xFC;r 2 Zapfstellen (f&#xFC;r FAS 230).<br>Mit Temperaturkompensation auf 15&#xB0;C..<br><br>Spannungsversorgung (Power supply):<br>230 VAC &#xB1;15 %, 50 VA max.<br><br>Communication protocols:<br>EasyCall, DART, Pumalan, Nara, IFSF (requires external IFSF module)<br><br>Maximum flow:<br>680 l/min<br><br>Shaft encoder type:<br>Two or three channel, OPEN COLLECTOR outputs, power supply +5 V<br><br>Analogue input for the PT100:<br>Sensor PT100 class A acc. to IEC751 temperature range from -30 &#xB0;C to +55 &#xB0;C<br><br><br><br><br>Zusatzliches Zubeh&#xF6;r:<br>LCD Display: FAS Nr: 227295<br>Fernbedienung (Anwender): FAS Nr.: 349330<br>Fernbedienung (Service): FAS Nr.: 349331<br>Elektromechanischer Summenz&#xE4;hler: BC Nr.; 201197<br>IFSF Communication Interface: BC Nr.: 204079"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Preisrechner für 2 Zapfstellen (für FAS 230).\\nMit Temperaturkompensation auf 15°C..\\n\\nSpannungsversorgung (Power supply):\\n230 VAC ±15 %, 50 VA max.\\n\\nCommunication protocols:\\nEasyCall, DART, Pumalan, Nara, IFSF (requires external IFSF module)\\n\\nMaximum flow:\\n680 l/min\\n\\nShaft encoder type:\\nTwo or three channel, OPEN COLLECTOR outputs, power supply +5 V\\n\\nAnalogue input for the PT100:\\nSensor PT100 class A acc. to IEC751 temperature range from -30 °C to +55 °C\\n\\n\\n\\n\\nZusatzliches Zubehör:\\nLCD Display: FAS Nr: 227295\\nFernbedienung (Anwender): FAS Nr.: 349330\\nFernbedienung (Service): FAS Nr.: 349331\\nElektromechanischer Summenzähler: BC Nr.; 201197\\nIFSF Communication Interface: BC Nr.: 204079"
 }

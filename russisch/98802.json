@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    98802\r\n                  ",
+  "id": "98802",
   "name": "Druckerinterface für Elektronisches Zählwerk ELZ",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "f&#xFC;r Ferndruckwerk, zum Einbau in Fahrerhaus au&#xDF;erhalb des Ex-Bereiches, mit serieller Schnittstelle V24 f&#xFC;r PC Anschlu&#xDF; (gro&#xDF;e Rechnungsschreibung) und &#xDC;bertragung der Tourdaten (Funkmodem)<br>Typ: 667099 Druckerinterface DI3A"
+  "price": "0,00",
+  "amount": "1",
+  "description": "für Ferndruckwerk, zum Einbau in Fahrerhaus außerhalb des Ex-Bereiches, mit serieller Schnittstelle V24 für PC Anschluß (große Rechnungsschreibung) und Übertragung der Tourdaten (Funkmodem)\\nTyp: 667099 Druckerinterface DI3A"
 }

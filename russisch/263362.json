@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    263362\r\n                  ",
+  "id": "263362",
   "name": "EMV Netzfilter für SJ700 37-55 kW",
   "weight": "0,00",
-  "price": "\r\n                  580,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "zur Einhaltung der Produktnorm EN 61800-3<br>Kategorie C1<br>Type : FS25108-125-07<br>Netzspannung : 460 V + 5%, 50 Hz<br>Nennstrom : 125 Amp.<br>Gewicht : 6,8 kg<br>seitlicher Anbau"
+  "price": "580,00",
+  "amount": "0",
+  "description": "zur Einhaltung der Produktnorm EN 61800-3\\nKategorie C1\\nType : FS25108-125-07\\nNetzspannung : 460 V + 5%, 50 Hz\\nNennstrom : 125 Amp.\\nGewicht : 6,8 kg\\nseitlicher Anbau"
 }

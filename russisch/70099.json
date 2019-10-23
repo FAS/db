@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    70099\r\n                  ",
+  "id": "70099",
   "name": "DAKKS-Prüzertifikat für Messgerät P700 und Fühler 6000-1001",
   "weight": "0,02",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "mit 3 Temperaturpr&#xFC;fpunkten<br>1. -20&#xB0;C<br>2.    0&#xB0;C<br>3.+50&#xB0;C"
+  "price": "0,00",
+  "amount": "0",
+  "description": "mit 3 Temperaturprüfpunkten\\n1. -20°C\\n2.0°C\\n3.+50°C"
 }

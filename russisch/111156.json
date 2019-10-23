@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    111156\r\n                  ",
+  "id": "111156",
   "name": "Entleerung, Reinigung und Entsorgung Testbenzin",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "bei Zapfs&#xE4;ulen Typ Wayne Dresser"
+  "price": "0,00",
+  "amount": "0",
+  "description": "bei Zapfsäulen Typ Wayne Dresser"
 }

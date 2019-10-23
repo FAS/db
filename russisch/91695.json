@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    91695\r\n                  ",
+  "id": "91695",
   "name": "Corken Gas-Kompressor, Typ D91",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Leistung max. 13 m3/h, mit doppelter <br>Kolbenstangenabdichtung,<br>mit Schwungrad, ohne Manometer"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Leistung max. 13 m3/h, mit doppelter \\nKolbenstangenabdichtung,\\nmit Schwungrad, ohne Manometer"
 }

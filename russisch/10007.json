@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    10007\r\n                  ",
+  "id": "10007",
   "name": "Наконечник 1 3/4\" ACME-AG x 1 1/4\" NPT-AG",
   "weight": "0,28",
-  "price": "\r\n                  26,00\r\n                  ",
-  "amount": "\r\n                      \r\n157\r\n                    \r\n                    ",
-  "description": "&#x438;&#x437; &#x43B;&#x430;&#x442;&#x443;&#x43D;&#x438;,  PN 25, Typ RegO 5765F"
+  "price": "26,00",
+  "amount": "157",
+  "description": "из латуни,PN 25, Typ RegO 5765F"
 }

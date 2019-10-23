@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    75730\r\n                  ",
+  "id": "75730",
   "name": "Blech DIN 1543, s=10,0 mm, Werkstoff P265GH (HII) ",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "nach DIN 17155, mit Abnahmepr&#xFC;fzeugnis 3.1 nach EN 10204 <br>und KPZ bei 0&#xB0; C, Lieferbedingung AD W1/TRD 101/TRB 100,<br>Anlieferung: 2000x1000x10 mm"
+  "price": "0,00",
+  "amount": "0",
+  "description": "nach DIN 17155, mit Abnahmeprüfzeugnis 3.1 nach EN 10204 \\nund KPZ bei 0° C, Lieferbedingung AD W1/TRD 101/TRB 100,\\nAnlieferung: 2000x1000x10 mm"
 }

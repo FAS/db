@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    26073\r\n                  ",
+  "id": "26073",
   "name": "Belastungswächter zur Wirkleistungserfassung ",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n9\r\n                    \r\n                    ",
-  "description": "f&#xFC;r Unterlast- oder &#xDC;berlast&#xFC;berwachung des Motors,<br>mit Anlauf&#xFC;berbr&#xFC;ckung und Schaltverz&#xF6;gerung,<br>Einstellbereiche: 0,1 ... 7,9 kW, 1 ... 27 kW,<br>3 AC 400V, 50/60Hz, 40A"
+  "price": "0,00",
+  "amount": "9",
+  "description": "für Unterlast- oder Überlastüberwachung des Motors,\\nmit Anlaufüberbrückung und Schaltverzögerung,\\nEinstellbereiche: 0,1 ... 7,9 kW, 1 ... 27 kW,\\n3 AC 400V, 50/60Hz, 40A"
 }

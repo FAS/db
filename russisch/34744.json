@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    34744\r\n                  ",
+  "id": "34744",
   "name": "Tankdaten-Verarbeitungssoftware für PC,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Tankstelleninformations- und Abrechnungssystem<br>&quot;Autopoll 2000 light&quot; <br>f&#xFC;r Windows 98, NT 4.0, 2000 oder XP<br>- Einzelplatzversion<br>- lauff&#xE4;hig auf vorhandenen PC<br>- Men&#xFC;verwaltung<br>- Stammdatenverwaltung<br>- Datenabruf (FAS 400/410/420)<br>- Fahrzeuganalysen<br>- Bestandsf&#xFC;hrung<br>- Datenexport im ASCII Format"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Tankstelleninformations- und Abrechnungssystem\\n\"Autopoll 2000 light\" \\nfür Windows 98, NT 4.0, 2000 oder XP\\n- Einzelplatzversion\\n- lauffähig auf vorhandenen PC\\n- Menüverwaltung\\n- Stammdatenverwaltung\\n- Datenabruf (FAS 400/410/420)\\n- Fahrzeuganalysen\\n- Bestandsführung\\n- Datenexport im ASCII Format"
 }

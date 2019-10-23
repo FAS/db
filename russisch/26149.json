@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    26149\r\n                  ",
-  "name": "Füllstandssensor Typ  FTL 51, PN 25,",
+  "id": "26149",
+  "name": "Füllstandssensor TypFTL 51, PN 25,",
   "weight": "2,80",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Zulassung:       ATEX II 1/2G Ex ia IIC T6, <br>                        Zone 0/1<br>Anschlu&#xDF;:        Flansch DN 32, PN 40<br>Sondenl&#xE4;nge: TypII, Schwinggabel aus Edelstahl<br>Ausgang:         FEL56; SIL Namur (L-H Signal)<br>Geh&#xE4;use:         F16 Polyester IP66; Kabelverschr: M20<br><br><br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Zulassung:ATEX II 1/2G Ex ia IIC T6, \\nZone 0/1\\nAnschluß:Flansch DN 32, PN 40\\nSondenlänge: TypII, Schwinggabel aus Edelstahl\\nAusgang:FEL56; SIL Namur (L-H Signal)\\nGehäuse:F16 Polyester IP66; Kabelverschr: M20\\n\\n\\n"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    47017\r\n                  ",
+  "id": "47017",
   "name": "Einbausatz für die Freigabesteuerung bestehend aus:",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "- Modul &quot;basic smart II&quot;<br>- Y-Kabel<br>- 230V-Netzteil<br>- Sicherung 0,8 A"
+  "price": "0,00",
+  "amount": "0",
+  "description": "- Modul \"basic smart II\"\\n- Y-Kabel\\n- 230V-Netzteil\\n- Sicherung 0,8 A"
 }

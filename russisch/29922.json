@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    29922\r\n                  ",
+  "id": "29922",
   "name": "Stempel Typ TRODAT Printy H4915, REPARATURFREIGABE",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n2\r\n                    \r\n                    ",
-  "description": "Fl&#xE4;che 70x25 mm <br>Schriftart: Arial, mit Rahmen<br>Stempelfarbe blau<br><br>Inhalt:<br>Bitte um Reparaturfreigabe<br>Freigabe erteilt am: _____<br>Freigabe erteilt von: _____<br>Fax: +49/5341/869711"
+  "price": "0,00",
+  "amount": "2",
+  "description": "Fläche 70x25 mm \\nSchriftart: Arial, mit Rahmen\\nStempelfarbe blau\\n\\nInhalt:\\nBitte um Reparaturfreigabe\\nFreigabe erteilt am: _____\\nFreigabe erteilt von: _____\\nFax: +49/5341/869711"
 }

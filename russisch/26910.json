@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    26910\r\n                  ",
+  "id": "26910",
   "name": "Elektro-Schaltschrank zur Montage",
   "weight": "44,80",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "im Geb&#xE4;ude und au&#xDF;erhalb der Schutzzone,<br>komplett verdrahtet zum Anschlu&#xDF; von<br>zwei Pumpenmotoren, ein Magnetventil und ein Str&#xF6;mungsw&#xE4;chter am Pumpeneingang, Temperatur&#xFC;berwachung der Magnetkupplung von Pumpe 1 und 2, Vorwahlschalter am Schaltschrank f&#xFC;r Pumpenmotor 1 oder 2, Doppeldrucktaster, Signalhupe"
+  "price": "0,00",
+  "amount": "0",
+  "description": "im Gebäude und außerhalb der Schutzzone,\\nkomplett verdrahtet zum Anschluß von\\nzwei Pumpenmotoren, ein Magnetventil und ein Strömungswächter am Pumpeneingang, Temperaturüberwachung der Magnetkupplung von Pumpe 1 und 2, Vorwahlschalter am Schaltschrank für Pumpenmotor 1 oder 2, Doppeldrucktaster, Signalhupe"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    81488\r\n                  ",
+  "id": "81488",
   "name": "alt",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Zur Verrechnung kommen die Verrechnungss&#xE4;tze gem&#xE4;&#xDF; beigef&#xFC;gter Liste."
+  "price": "0,00",
+  "amount": "0",
+  "description": "Zur Verrechnung kommen die Verrechnungssätze gemäß beigefügter Liste."
 }

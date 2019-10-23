@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    81187\r\n                  ",
+  "id": "81187",
   "name": "alt",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Abz&#xFC;glich unserer Auslagen f&#xFC;r Ihre unfreie<br>R&#xFC;cklieferung"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Abzüglich unserer Auslagen für Ihre unfreie\\nRücklieferung"
 }

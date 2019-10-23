@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    349360\r\n                  ",
+  "id": "349360",
   "name": "Elektronischer Preisrechner (OHNE GEHÄUSE)",
   "weight": "2,40",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Achtung: Artikel ist bestehend aus jeweils 2 Platinen,<br>f&#xFC;r Doppel-Zapfs&#xE4;ule, Typ FAS-Q, alte Version"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Achtung: Artikel ist bestehend aus jeweils 2 Platinen,\\nfür Doppel-Zapfsäule, Typ FAS-Q, alte Version"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    14120\r\n                  ",
+  "id": "14120",
   "name": "Наценка за монтаж датчика контроля уровня жидкости",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Pos. ___ bis ___ und Druckpr&#xFC;fung"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Pos. ___ bis ___ und Druckprüfung"
 }

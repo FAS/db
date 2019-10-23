@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    91528\r\n                  ",
+  "id": "91528",
   "name": "MSL-Pumpenaggregat bestehend aus:",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "mehrstufige, horizontale Kreiselpumpe mit einfacher<br>Gleitringdichtung in Gliedergeh&#xE4;usebauart, <br>nicht selbstsaugend, Typ: MSLA 06502,<br>Saug- / Druckgeh&#xE4;use : GGG 40<br>Saugflansch/axial: DN 125 / PN 25 n. 2501<br>Druckflansch/vertikal: DN 65 / PN 40 n. 2501<br>Volumenstrom in m3/h: ca. 50,0 <br>F&#xF6;rderh&#xF6;he in mFls: ca. 125,0<br>Temperatur in &#xB0;C: -40 bis +40<br>erforderliche Zulaufh&#xF6;he in m: 2,5<br>Grundplatte, Kupplung, Kupplungsschutz<br>Drehstrom-Motor<br>Leistung in kW: 18,5 druckfester Motor in EExd<br>Drehzahl in 1/min: 2900<br>Frequenz in Hz: 50<br>Spannung in V: 400/690<br>Bauform: IMB 3<br>Schutzart: IP 55"
+  "price": "0,00",
+  "amount": "0",
+  "description": "mehrstufige, horizontale Kreiselpumpe mit einfacher\\nGleitringdichtung in Gliedergehäusebauart, \\nnicht selbstsaugend, Typ: MSLA 06502,\\nSaug- / Druckgehäuse : GGG 40\\nSaugflansch/axial: DN 125 / PN 25 n. 2501\\nDruckflansch/vertikal: DN 65 / PN 40 n. 2501\\nVolumenstrom in m3/h: ca. 50,0 \\nFörderhöhe in mFls: ca. 125,0\\nTemperatur in °C: -40 bis +40\\nerforderliche Zulaufhöhe in m: 2,5\\nGrundplatte, Kupplung, Kupplungsschutz\\nDrehstrom-Motor\\nLeistung in kW: 18,5 druckfester Motor in EExd\\nDrehzahl in 1/min: 2900\\nFrequenz in Hz: 50\\nSpannung in V: 400/690\\nBauform: IMB 3\\nSchutzart: IP 55"
 }

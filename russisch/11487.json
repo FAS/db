@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    11487\r\n                  ",
+  "id": "11487",
   "name": "Vorschweißflansch DIN 2633, DN 80, PN 16, aus C22.8",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "- mit APZ 3.1 gem. AD-2000 gem. DGRL 2014/68/EU<br>  Merkblatt,TRB100,TRD102,TRD107,VdT&#xDC;V 1252<br>- Hersteller mu&#xDF; qualifiziert und zertifiziert sein durch<br>  benannte Stelle (z.B. T&#xDC;V)"
+  "price": "0,00",
+  "amount": "0",
+  "description": "- mit APZ 3.1 gem. AD-2000 gem. DGRL 2014/68/EU\\nMerkblatt,TRB100,TRD102,TRD107,VdTÜV 1252\\n- Hersteller muß qualifiziert und zertifiziert sein durch\\nbenannte Stelle (z.B. TÜV)"
 }

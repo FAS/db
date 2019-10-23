@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    111688\r\n                  ",
+  "id": "111688",
   "name": "Einspeisemessung im Rahmen einer Verbundfahrt:",
   "weight": "0,00",
-  "price": "\r\n                  395,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "###############################<br>( X ) 395,- EUR - Einspeisemessung<br>(  ) 225,- EUR - Aufpreis f&#xFC;r Sonderfahrt, zzgl. F&#xE4;hr- oder Bergfahren<br>(  ) *** EUR - Mehrarbeiten:<br><br>Hinweis/e:<br> - Evtl. Mehraufwand wird auf Nachweis abgerechnet.<br> - Die Gasfreimachung, Trennung und Wiedermontage der Rohrleitung<br>   muss durch einen zus&#xE4;tzlichen Techniker beauftragt werden.<br> (  ) Beh&#xE4;lter verf&#xFC;gt &#xFC;ber eine KKS-Anlage, muss alle 2 Jahre gepr&#xFC;ft werden,<br>      daf&#xFC;r entf&#xE4;llt die ESM-Pr&#xFC;fung nach 10 Jahren.<br><br>M&#xE4;ngelbehebung bauseits:<br>###############################<br>=&gt; S&#xE4;mtliche M&#xE4;ngel (ggf. Beauftragung an FAS)<br><br>M&#xE4;ngelbehebung durch FAS:<br>###############################"
+  "price": "395,00",
+  "amount": "0",
+  "description": "\\n( X ) 395,- EUR - Einspeisemessung\\n() 225,- EUR - Aufpreis für Sonderfahrt, zzgl. Fähr- oder Bergfahren\\n()  EUR - Mehrarbeiten:\\n\\nHinweis/e:\\n - Evtl. Mehraufwand wird auf Nachweis abgerechnet.\\n - Die Gasfreimachung, Trennung und Wiedermontage der Rohrleitung\\nmuss durch einen zusätzlichen Techniker beauftragt werden.\\n () Behälter verfügt über eine KKS-Anlage, muss alle 2 Jahre geprüft werden,\\ndafür entfällt die ESM-Prüfung nach 10 Jahren.\\n\\nMängelbehebung bauseits:\\n\\n=> Sämtliche Mängel (ggf. Beauftragung an FAS)\\n\\nMängelbehebung durch FAS:\\n"
 }

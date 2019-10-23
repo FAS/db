@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    143501\r\n                  ",
+  "id": "143501",
   "name": "Filtereinsatz",
   "weight": "0,01",
-  "price": "\r\n                  85,00\r\n                  ",
-  "amount": "\r\n                      \r\n4\r\n                    \r\n                    ",
-  "description": "Filtereinsatz Maschenweite 0,1mm<br>f&#xFC;r Schmutzf&#xE4;nger SF 320-14/3B<br>(FAS 14.350)"
+  "price": "85,00",
+  "amount": "4",
+  "description": "Filtereinsatz Maschenweite 0,1mm\\nfür Schmutzfänger SF 320-14/3B\\n(FAS 14.350)"
 }

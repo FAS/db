@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    22402\r\n                  ",
+  "id": "22402",
   "name": "Anpassung Gilbarco Kassensystem an FAS-Zapfsäulen",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "<br>Die Einbindung wird von der Firma __________________<br>vorgenommen und nach Aufwand berechnet.<br><br>=&gt; unverbindlicher Richtpreis ca. _________ DM zuz&#xFC;gl. MwSt.<br><br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "\\nDie Einbindung wird von der Firma __________________\\nvorgenommen und nach Aufwand berechnet.\\n\\n=> unverbindlicher Richtpreis ca. _________ DM zuzügl. MwSt.\\n\\n"
 }

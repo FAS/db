@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    688335\r\n                  ",
+  "id": "688335",
   "name": "Steuerung, Typ Logo für Autoline-Filter",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "<br>Steuerung ist an Filter montiert.<br>Anschluss: 230 V, Wechselspannung, 50 Hz<br><br>Sollwerte f&#xFC;r Reinigung und Entleerung k&#xF6;nnen &#xFC;ber das Textdisplay im Schaltschrank eingegeben werden.<br><br>Aufstellung:  Filter und Steuerung exfreier Bereich<br><br>zus&#xE4;tzliche Klemme 230V Eingang f&#xFC;r externes Signal &quot;Filter Ein&quot;<br><br>==========================================================<br>Programm: Sonderausf&#xFC;hrung f&#xFC;r Batchbetrieb<br>==========================================================<br><br>Vor Ort Ein- Ausschalter und Ein-Ausschalter externes Signal sind nicht gegeneinander verriegelt."
+  "price": "0,00",
+  "amount": "0",
+  "description": "\\nSteuerung ist an Filter montiert.\\nAnschluss: 230 V, Wechselspannung, 50 Hz\\n\\nSollwerte für Reinigung und Entleerung können über das Textdisplay im Schaltschrank eingegeben werden.\\n\\nAufstellung:Filter und Steuerung exfreier Bereich\\n\\nzusätzliche Klemme 230V Eingang für externes Signal \"Filter Ein\"\\n\\n==========================================================\\nProgramm: Sonderausführung für Batchbetrieb\\n==========================================================\\n\\nVor Ort Ein- Ausschalter und Ein-Ausschalter externes Signal sind nicht gegeneinander verriegelt."
 }

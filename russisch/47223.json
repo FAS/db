@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    47223\r\n                  ",
+  "id": "47223",
   "name": "Relais-Loopprint (X2000, CL)",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "&#xDC;berbr&#xFC;ckungsplatine f&#xFC;r<br>CURRANT LOOP Schnittstelle (4 Draht)<br>(DART/ 2 Draht kann &#xFC;ber Platine auch realisiert werden) "
+  "price": "0,00",
+  "amount": "0",
+  "description": "Überbrückungsplatine für\\nCURRANT LOOP Schnittstelle (4 Draht)\\n(DART/ 2 Draht kann über Platine auch realisiert werden) "
 }

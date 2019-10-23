@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    999996\r\n                  ",
+  "id": "999996",
   "name": "EAC-Zertifikat",
   "weight": "0,01",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "+++++++++++++++++++++++++++++++++++++<br>nachtr&#xE4;glich erstellt, f&#xFC;r Druckger&#xE4;te<br>KEIN EAC-Label<br>auf den ausgelieferten Produkten !!!<br>####################################<br>EAC-Zertifikat zu R&#xFC;ckschlagventilen (RK86A)<br>FAS 12.590 aus AB 2.820.454<br>ausgeliefert mit Li: 2.831.157<br>####################################"
+  "price": "0,00",
+  "amount": "0",
+  "description": "+++++++++++++++++++++++++++++++++++++\\nnachträglich erstellt, für Druckgeräte\\nKEIN EAC-Label\\nauf den ausgelieferten Produkten !!!\\n\\nEAC-Zertifikat zu Rückschlagventilen (RK86A)\\nFAS 12.590 aus AB 2.820.454\\nausgeliefert mit Li: 2.831.157\\n"
 }

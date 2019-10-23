@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    82655\r\n                  ",
+  "id": "82655",
   "name": "alt",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Mehrpreis f&#xFC;r die zus&#xE4;tzliche Montage von: <br>Pos.   1   2 St. Isolierflansch<br>Pos. 10  1 St. Druckregler<br>Pos. 11  1 St. Manometer mit Absperrventil<br>Pos. 12  1 St. Kugelhahn DN 25<br>Pos. 13  1 St. Kugelhahn DN 20 "
+  "price": "0,00",
+  "amount": "0",
+  "description": "Mehrpreis für die zusätzliche Montage von: \\nPos.12 St. Isolierflansch\\nPos. 101 St. Druckregler\\nPos. 111 St. Manometer mit Absperrventil\\nPos. 121 St. Kugelhahn DN 25\\nPos. 131 St. Kugelhahn DN 20 "
 }

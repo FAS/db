@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    99982\r\n                  ",
+  "id": "99982",
   "name": "HINWEIS gemäß TRBS 3151:",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "====================================<br><br>Gem&#xE4;&#xDF; TRBS 3151 muss bei F&#xFC;llanlagen f&#xFC;r Fl&#xFC;ssiggas f&#xFC;r die Bodenfl&#xE4;che in den Wirkbereichen eine ausreichende elektrische Leitf&#xE4;higkeit von h&#xF6;chstens 108 Ohm zur Vermeidung elektrostatischer Aufladung sichergestellt sein. Dieses gilt beispielsweise f&#xFC;r Beton oder Beton-Verbundpflaster; nicht aber f&#xFC;r asphaltierte Fl&#xE4;chen ( s. TRBS 3151 4.2.2.1 (2) )"
+  "price": "0,00",
+  "amount": "0",
+  "description": "====================================\\n\\nGemäß TRBS 3151 muss bei Füllanlagen für Flüssiggas für die Bodenfläche in den Wirkbereichen eine ausreichende elektrische Leitfähigkeit von höchstens 108 Ohm zur Vermeidung elektrostatischer Aufladung sichergestellt sein. Dieses gilt beispielsweise für Beton oder Beton-Verbundpflaster; nicht aber für asphaltierte Flächen ( s. TRBS 3151 4.2.2.1 (2) )"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    20125\r\n                  ",
+  "id": "20125",
   "name": "Plattenwärmeübertrager ST12TDL aus 1.4404,",
   "weight": "211,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n2\r\n                    \r\n                    ",
-  "description": "warmwasserbeheizt f&#xFC;r Propan/Butan, Gaseingang DN 50, <br>Gasausgang DN 50<br>Warmwasser:  R&#xFC;cklauf DN 50; Verlauf DN 50<br>Auslegdaten:<br>Berechnungsdruck: 25/25 bar (Gas/Wasser)<br>Betr.Zulaessigetemperatur : -40/100&#xB0; C (Gas/Wasser)<br>Leistung:1900 kg/h Propan, W&#xE4;rmestrom 195,40 KW<br>Wassertemperatur 90/70&#xB0; C<br>Plattenzahl 32 St."
+  "price": "0,00",
+  "amount": "2",
+  "description": "warmwasserbeheizt für Propan/Butan, Gaseingang DN 50, \\nGasausgang DN 50\\nWarmwasser:Rücklauf DN 50; Verlauf DN 50\\nAuslegdaten:\\nBerechnungsdruck: 25/25 bar (Gas/Wasser)\\nBetr.Zulaessigetemperatur : -40/100° C (Gas/Wasser)\\nLeistung:1900 kg/h Propan, Wärmestrom 195,40 KW\\nWassertemperatur 90/70° C\\nPlattenzahl 32 St."
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    67001\r\n                  ",
+  "id": "67001",
   "name": "Eichamtliche Vorprüfung einer Messanlage DN50",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Incl. Kosten f&#xFC;r den Eichbeamten und <br>- eine Messung mit 400l Eichkolben 380l/min<br>- eine Messung mit 400l Eichkolben 80l/min<br>- eine Messung mit 400l Eichkolben 180l/min<br>- zwei Messungen mit 200l Eichkolben 180l/min<br><br>Me&#xDF;anlage Fabr./Typ .........................<br>SN-Nr. .......................<br>TKW-Kennzeichen...............................<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Incl. Kosten für den Eichbeamten und \\n- eine Messung mit 400l Eichkolben 380l/min\\n- eine Messung mit 400l Eichkolben 80l/min\\n- eine Messung mit 400l Eichkolben 180l/min\\n- zwei Messungen mit 200l Eichkolben 180l/min\\n\\nMeßanlage Fabr./Typ .........................\\nSN-Nr. .......................\\nTKW-Kennzeichen...............................\\n"
 }

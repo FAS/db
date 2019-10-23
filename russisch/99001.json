@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    99001\r\n                  ",
+  "id": "99001",
   "name": "Kugelhahn aus Stahlguß, DN 100, PN 40,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "&quot;Fire-Safe-Konstruktion&quot; mit Abnahmepr&#xFC;fzeugnis 3.1.B <br>nach EN 10204  (DIN 50.049-3.1 B)<br>mit 2 elektrischen Endschaltern &quot;Auf/Zu&quot; und <br>Handschaltgetriebe "
+  "price": "0,00",
+  "amount": "0",
+  "description": "\"Fire-Safe-Konstruktion\" mit Abnahmeprüfzeugnis 3.1.B \\nnach EN 10204(DIN 50.049-3.1 B)\\nmit 2 elektrischen Endschaltern \"Auf/Zu\" und \\nHandschaltgetriebe "
 }

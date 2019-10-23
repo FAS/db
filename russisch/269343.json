@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    269343\r\n                  ",
+  "id": "269343",
   "name": "Kunststoff Elektro-Schaltkasten zur Montage",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "im Geb&#xE4;ude oder im freien und au&#xDF;erhalb der Schutzzone,<br>komplett verdrahtet zum Anschlu&#xDF; von:<br> - Kompressor-Motor 30 kW mit Stern/Dreieckanlauf<br> - Gastemperatur&#xFC;berwachung<br> - 2 St&#xFC;ck F&#xFC;llstandsensor im Abscheider<br> - Maximaldruckbegrezer 16 bar in der Druckleitung<br> - min. und max. Gasdruck&#xFC;berwachung (0,8 bar, 15,0 bar)<br> - min. &#xD6;ldruck&#xFC;berwachung des Kompressor<br> - Doppeldrucktaster mit Kontrolleuchte<br> - Signalhupe und Blitzleuchte<br><br>Potentialfreie Meldungen f&#xFC;r Leitwarte<br>Externe Freigabe von Leitwarte<br><br>Abmessung (ca.): H: 1000mm, B: 1000mm, T: 300mm,<br>Dokumentation:<br> - Klemmen- und Verdrahtungsplan"
+  "price": "0,00",
+  "amount": "0",
+  "description": "im Gebäude oder im freien und außerhalb der Schutzzone,\\nkomplett verdrahtet zum Anschluß von:\\n - Kompressor-Motor 30 kW mit Stern/Dreieckanlauf\\n - Gastemperaturüberwachung\\n - 2 Stück Füllstandsensor im Abscheider\\n - Maximaldruckbegrezer 16 bar in der Druckleitung\\n - min. und max. Gasdrucküberwachung (0,8 bar, 15,0 bar)\\n - min. Öldrucküberwachung des Kompressor\\n - Doppeldrucktaster mit Kontrolleuchte\\n - Signalhupe und Blitzleuchte\\n\\nPotentialfreie Meldungen für Leitwarte\\nExterne Freigabe von Leitwarte\\n\\nAbmessung (ca.): H: 1000mm, B: 1000mm, T: 300mm,\\nDokumentation:\\n - Klemmen- und Verdrahtungsplan"
 }

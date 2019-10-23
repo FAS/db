@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    34733\r\n                  ",
+  "id": "34733",
   "name": "PC-Tischstation zum Aufladen der Chipkarten,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "FAS-34731.<br>Die PC-Tischstation wird &#xFC;ber eine Sicherheits-Chipkarte freigeschaltet (Tischstation wie Chip-Kartenleser Zapfs&#xE4;ule)."
+  "price": "0,00",
+  "amount": "0",
+  "description": "FAS-34731.\\nDie PC-Tischstation wird über eine Sicherheits-Chipkarte freigeschaltet (Tischstation wie Chip-Kartenleser Zapfsäule)."
 }

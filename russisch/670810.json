@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    670810\r\n                  ",
-  "name": "Aufkleber  Schriftzug \"Autogas \"",
+  "id": "670810",
+  "name": "AufkleberSchriftzug \"Autogas \"",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Schriftfarbe: blau/rot,<br>Hintergrundfarbe: gelb - ins Shell Design <br>f&#xFC;r Tankstellen&#xFC;berdachung Ausf&#xFC;hrung Shell-Gas<br><br>auf Fl&#xE4;che: _____ x ____mm"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Schriftfarbe: blau/rot,\\nHintergrundfarbe: gelb - ins Shell Design \\nfür Tankstellenüberdachung Ausführung Shell-Gas\\n\\nauf Fläche: _____ x ____mm"
 }

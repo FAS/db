@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    27950\r\n                  ",
+  "id": "27950",
   "name": "Behälter Niederdruck für Ammoniak",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Nenndruck: 70mbar..1bar<br>bei Raumtemperatur<br>Innendurchmesser: 260.4mm<br>H&#xF6;he: 3200mm<br>Wandst&#xE4;rke: 6.3mm<br>Material: 1.4571<br>Anschl&#xFC;sse:<br>Unten mittig: <br>DN25 Flansch<br>Links:<br>DN25 Flansch 1500mm H&#xF6;he vom Boden<br>DN25 Flansch 2500mm H&#xF6;he vom Boden<br>DN25 Flansch 3500mm H&#xF6;he vom Boden<br>Rechts:<br>DN50 Flansch 1500mm H&#xF6;he vom Boden<br>Oben:<br>DN25 Flansch (f&#xFC;r Sicherheitsventil)<br>DN25 Flansch (f&#xFC;r Manometer)<br>DN25 Flansch (f&#xFC;r Anschluss Vakuum)<br><br><br>Der Beh&#xE4;lter steht auf einem 3-beinigen Gestell (1000mm), das am Beh&#xE4;lter angeschwei&#xDF;t ist."
+  "price": "0,00",
+  "amount": "0",
+  "description": "Nenndruck: 70mbar..1bar\\nbei Raumtemperatur\\nInnendurchmesser: 260.4mm\\nHöhe: 3200mm\\nWandstärke: 6.3mm\\nMaterial: 1.4571\\nAnschlüsse:\\nUnten mittig: \\nDN25 Flansch\\nLinks:\\nDN25 Flansch 1500mm Höhe vom Boden\\nDN25 Flansch 2500mm Höhe vom Boden\\nDN25 Flansch 3500mm Höhe vom Boden\\nRechts:\\nDN50 Flansch 1500mm Höhe vom Boden\\nOben:\\nDN25 Flansch (für Sicherheitsventil)\\nDN25 Flansch (für Manometer)\\nDN25 Flansch (für Anschluss Vakuum)\\n\\n\\nDer Behälter steht auf einem 3-beinigen Gestell (1000mm), das am Behälter angeschweißt ist."
 }

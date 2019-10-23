@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    131306\r\n                  ",
-  "name": "Abreßkupplung  DN 80",
+  "id": "131306",
+  "name": "AbreßkupplungDN 80",
   "weight": "0,00",
-  "price": "\r\n                  7.730,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Abrei&#xDF;kupplung ABVC<br>Flansch EN1092-1 DN65 PN40  <br>1.4404, 24 kN Bruchkraft"
+  "price": "7.730,00",
+  "amount": "0",
+  "description": "Abreißkupplung ABVC\\nFlansch EN1092-1 DN65 PN40\\n1.4404, 24 kN Bruchkraft"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    82427\r\n                  ",
+  "id": "82427",
   "name": "alt",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Aus Kulanzgr&#xFC;nden ohne Anerkennung einer Rechtspflicht<br>berechnen wir nur 50% der Montagezeit, da die F&#xFC;llwaage<br>bereits im Rahmen einer Wartung am 13.12.93 von<br>unserem Techniker kontrolliert wurde."
+  "price": "0,00",
+  "amount": "0",
+  "description": "Aus Kulanzgründen ohne Anerkennung einer Rechtspflicht\\nberechnen wir nur 50% der Montagezeit, da die Füllwaage\\nbereits im Rahmen einer Wartung am 13.12.93 von\\nunserem Techniker kontrolliert wurde."
 }

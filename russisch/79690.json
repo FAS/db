@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    79690\r\n                  ",
+  "id": "79690",
   "name": "Einbaukomponenten Zapfpistolenschalter 1 Zapfpunkt",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "passend f&#xFC;r FAS-Zapfpistolenhalter,<br>geeignet f&#xFC;r alle FAS-Zapfpistolen,<br>bestehend aus:<br>- 1 x Reflexlichttaster FAS 79150<br>- 1 x Lichtleiter FAS 79151<br>- 1 x Trennschaltverst&#xE4;rker FAS 26301<br>mit ATEX-Zulassung<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "passend für FAS-Zapfpistolenhalter,\\ngeeignet für alle FAS-Zapfpistolen,\\nbestehend aus:\\n- 1 x Reflexlichttaster FAS 79150\\n- 1 x Lichtleiter FAS 79151\\n- 1 x Trennschaltverstärker FAS 26301\\nmit ATEX-Zulassung\\n"
 }

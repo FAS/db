@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    22432\r\n                  ",
+  "id": "22432",
   "name": "TABA-WIN Grundsoftware, ",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Tankdatenmanager-Modul mit Fuhrparkauswertesoftware,<br>- Auswertung der chronologischen Tankungen pro Fahrzeug<br>- Auswertung der Gesamttankung der Fahrzeuge<br>- Tankinhalts&#xFC;berwachung (rechnerisch)"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Tankdatenmanager-Modul mit Fuhrparkauswertesoftware,\\n- Auswertung der chronologischen Tankungen pro Fahrzeug\\n- Auswertung der Gesamttankung der Fahrzeuge\\n- Tankinhaltsüberwachung (rechnerisch)"
 }

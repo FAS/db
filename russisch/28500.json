@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    28500\r\n                  ",
+  "id": "28500",
   "name": "Регулятор с автоматическим переключением",
   "weight": "2,03",
-  "price": "\r\n                  125,00\r\n                  ",
-  "amount": "\r\n                      \r\n100\r\n                    \r\n                    ",
-  "description": "&#x442;&#x438;&#x43F; RegO 7525B4"
+  "price": "125,00",
+  "amount": "100",
+  "description": "тип RegO 7525B4"
 }

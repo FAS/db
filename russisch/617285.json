@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    617285\r\n                  ",
+  "id": "617285",
   "name": "DC/DC Umformer",
   "weight": "0,00",
-  "price": "\r\n                  805,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
+  "price": "805,00",
+  "amount": "0",
   "description": "IN = 18-36Vdc / OUT = 24Vdc"
 }

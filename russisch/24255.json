@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    24255\r\n                  ",
+  "id": "24255",
   "name": "Wartungseinheit, bestehend aus Filterdruckminderer",
   "weight": "0,50",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "und &#xD6;ler, Manometer mit Kunststoffbeh&#xE4;lter und <br>Abla&#xDF;ventil, max. Eingangsdruck 16 bar,<br>Anschlu&#xDF;: G 1/4&quot; IG"
+  "price": "0,00",
+  "amount": "0",
+  "description": "und Öler, Manometer mit Kunststoffbehälter und \\nAblaßventil, max. Eingangsdruck 16 bar,\\nAnschluß: G 1/4\" IG"
 }

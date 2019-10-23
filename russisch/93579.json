@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    93579\r\n                  ",
+  "id": "93579",
   "name": "Solo Mischer max. Leistung 240m3 Luftgemisch",
   "weight": "6,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "besteht aus folgenden Hauptkomponenten:<br>- Pneumatik Ventil<br>- Mischereinheit<br>- Luftklappe<br>- Luftfilter<br>- Steuerventil<br>- Luftmessblende<br>- Differenzdruckmessger&#xE4;t<br>- Ohne Druckschalter <br>- Ohne Eingagnslinie<br>- Ohne Ausgangslinie<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "besteht aus folgenden Hauptkomponenten:\\n- Pneumatik Ventil\\n- Mischereinheit\\n- Luftklappe\\n- Luftfilter\\n- Steuerventil\\n- Luftmessblende\\n- Differenzdruckmessgerät\\n- Ohne Druckschalter \\n- Ohne Eingagnslinie\\n- Ohne Ausgangslinie\\n"
 }

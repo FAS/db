@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    47002\r\n                  ",
-  "name": "Elektronische Datenerfassungseinheit  Model 630/II/PCM, ",
+  "id": "47002",
+  "name": "Elektronische DatenerfassungseinheitModel 630/II/PCM, ",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "komplette Einheit, montiert in einem vorbereiteten Zapfs&#xE4;ulenkopf,<br>als Erfassungsger&#xE4;t einschlie&#xDF;lich:<br>- Tastatur,<br>- Netzfilter<br>- beleuchteter LCD<br>- Wahlweise mit <br>  (  ) ---&gt;Legic-Transpondermarkenleser<br>  (  ) ---&gt;Magnetkartenleser<br>- eichf&#xE4;hig<br>F&#xFC;r den Betrieb ist eine Bodenschleife FAS 47003 und <br>ein Interface PCM FAS 34668 erfoderlich.<br><br>Die Fahrzeugnummer und die Betriebsstundenimpulse werden &#xFC;ber<br>die Bodenschleife erkannt und an den Zentralrechner (MS-DOS)<br>&#xFC;bermittelt. Au&#xDF;erdem k&#xF6;nnen Fahrzeuge, die nicht mit einer Automatik<br>ausger&#xFC;stet sind, mittels eines Transponders oder Magnetkarte tanken.<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "komplette Einheit, montiert in einem vorbereiteten Zapfsäulenkopf,\\nals Erfassungsgerät einschließlich:\\n- Tastatur,\\n- Netzfilter\\n- beleuchteter LCD\\n- Wahlweise mit \\n() --->Legic-Transpondermarkenleser\\n() --->Magnetkartenleser\\n- eichfähig\\nFür den Betrieb ist eine Bodenschleife FAS 47003 und \\nein Interface PCM FAS 34668 erfoderlich.\\n\\nDie Fahrzeugnummer und die Betriebsstundenimpulse werden über\\ndie Bodenschleife erkannt und an den Zentralrechner (MS-DOS)\\nübermittelt. Außerdem können Fahrzeuge, die nicht mit einer Automatik\\nausgerüstet sind, mittels eines Transponders oder Magnetkarte tanken.\\n"
 }

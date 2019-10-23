@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    98337\r\n                  ",
+  "id": "98337",
   "name": "Niederdruckregler, Typ SRG 541-4",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Eingang: 20 mm<br>Ausgang: 8 mm oder 10 mm<br>Nenndruck: 30 mbar<br>Farbe: silber<br><br>Preis ab einer Bestellmenge von <br>  5.000 St&#xFC;ck: 4,85 EUR<br>10.000 St&#xFC;ck: 4,65 EUR<br>25.000 St&#xFC;ck: 4,55 EUR<br>50.000 St&#xFC;ck: 4,45 EUR<br><br>folgende Upgrates sind verf&#xFC;gbar:<br>- Sicherheitsventil: + 0,30 EUR/Stk.<br>- Manometer: + 2,50 EUR/Stk.<br>- Flow Limiter: + 0,20 EUR/Stk."
+  "price": "0,00",
+  "amount": "0",
+  "description": "Eingang: 20 mm\\nAusgang: 8 mm oder 10 mm\\nNenndruck: 30 mbar\\nFarbe: silber\\n\\nPreis ab einer Bestellmenge von \\n5.000 Stück: 4,85 EUR\\n10.000 Stück: 4,65 EUR\\n25.000 Stück: 4,55 EUR\\n50.000 Stück: 4,45 EUR\\n\\nfolgende Upgrates sind verfügbar:\\n- Sicherheitsventil: + 0,30 EUR/Stk.\\n- Manometer: + 2,50 EUR/Stk.\\n- Flow Limiter: + 0,20 EUR/Stk."
 }

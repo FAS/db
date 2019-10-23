@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    927700\r\n                  ",
+  "id": "927700",
   "name": "Wechselventil, Typ 310",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "- Geh&#xE4;use aus Werkstoff 1.0619 (GP240GH)<br>- Nennweite Seite 1: NPS 4&quot;<br>- Nennweite Seite 2: NPS 4&quot;<br>- Betriebsdruck: 40,00 bar, 580,15 psi<br>- Betriebstemperatur: 20&#xB0;C<br>- Montageanordnung: eintrittsseitig: Standard -1.0<br>- Werkstoffg&#xFC;tennachweis f&#xFC;r (Y41), Geh&#xE4;use mit Werkstoffg&#xFC;tennachweis 3.1<br>  nach DIN EN 10204<br>- Dokumentation: (Y40) Nachweis der Pr&#xFC;fungen des Armaturengeh&#xE4;uses, Dichtheit des Abschlusses"
+  "price": "0,00",
+  "amount": "0",
+  "description": "- Gehäuse aus Werkstoff 1.0619 (GP240GH)\\n- Nennweite Seite 1: NPS 4\"\\n- Nennweite Seite 2: NPS 4\"\\n- Betriebsdruck: 40,00 bar, 580,15 psi\\n- Betriebstemperatur: 20°C\\n- Montageanordnung: eintrittsseitig: Standard -1.0\\n- Werkstoffgütennachweis für (Y41), Gehäuse mit Werkstoffgütennachweis 3.1\\nnach DIN EN 10204\\n- Dokumentation: (Y40) Nachweis der Prüfungen des Armaturengehäuses, Dichtheit des Abschlusses"
 }

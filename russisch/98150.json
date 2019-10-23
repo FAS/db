@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    98150\r\n                  ",
+  "id": "98150",
   "name": "Flüssiggaszähler Typ TS06A-LPG",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "mit integriertem<br>- Filter<br>- Gasblasenabscheider<br>- R&#xFC;ckschlagventil<br>- Impulsgeber<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "mit integriertem\\n- Filter\\n- Gasblasenabscheider\\n- Rückschlagventil\\n- Impulsgeber\\n"
 }

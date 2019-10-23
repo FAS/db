@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    92041\r\n                  ",
+  "id": "92041",
   "name": "Bontflansch-Kugelhahn, Super Star, Typ 113 GGG, DN 25",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "PN 40, volle Bohrung, aus Werkstoff ASTM A105<br>(C22.8)/AISI 316 (1.4401), Dichtelemente PTFE <br>aus Graphit, Flanschenden PN 40<br>*Sonderanfertigung f&#xFC;r Thermo&#xF6;l 300 &#xB0; C*<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "PN 40, volle Bohrung, aus Werkstoff ASTM A105\\n(C22.8)/AISI 316 (1.4401), Dichtelemente PTFE \\naus Graphit, Flanschenden PN 40\\n*Sonderanfertigung für Thermoöl 300 ° C*\\n"
 }

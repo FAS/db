@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    22061\r\n                  ",
+  "id": "22061",
   "name": "Elektro-Schaltkasten aus Stahlblech, Ausführung mit",
   "weight": "10,20",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Steuertransformator, zur Montage im Geb&#xE4;ude und<br>au&#xDF;erhalb der Schutzzone, komplett verdrahtet zum <br>Anschlu&#xDF; von ________ kW-Pumpenmotor (max. 5kW), <br>Magnetventil, Ein/Aus-Taster, Durchflu&#xDF;w&#xE4;chter<br>und Not/Aus-Taster"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Steuertransformator, zur Montage im Gebäude und\\naußerhalb der Schutzzone, komplett verdrahtet zum \\nAnschluß von ________ kW-Pumpenmotor (max. 5kW), \\nMagnetventil, Ein/Aus-Taster, Durchflußwächter\\nund Not/Aus-Taster"
 }

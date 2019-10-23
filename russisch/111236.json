@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    111236\r\n                  ",
+  "id": "111236",
   "name": "Überstunden- und Nachtzuschlag (25%) für:",
   "weight": "0,00",
-  "price": "\r\n                  18,00\r\n                  ",
-  "amount": "\r\n                      \r\n3405.5\r\n                    \r\n                    ",
-  "description": "=&gt; Service- und Montagepersonal"
+  "price": "18,00",
+  "amount": "3405.5",
+  "description": "=> Service- und Montagepersonal"
 }

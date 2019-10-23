@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    77101\r\n                  ",
+  "id": "77101",
   "name": "Kugel für Rohrdrehgelenk, RB-15 Klasse III",
   "weight": "0,01",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n90\r\n                    \r\n                    ",
-  "description": "Einheit Kugeln<br>ACHTUNG:<br>Satz DN 50 = FAS 25458<br>Satz DN 80 = FAS 25459"
+  "price": "0,00",
+  "amount": "90",
+  "description": "Einheit Kugeln\\nACHTUNG:\\nSatz DN 50 = FAS 25458\\nSatz DN 80 = FAS 25459"
 }

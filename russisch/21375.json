@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    21375\r\n                  ",
+  "id": "21375",
   "name": "Hydraulikmotor für Blackmer-Pumpe LGL 2\" E/TLGLD 2\"",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Schluckvolumen 28 ccm/U<br>f&#xFC;r geschlossenen Kreislauf, mit Ausspeisung 10 bar<br>Abtriebsleistung P = 5,0 kW             Abtriebsdrehzahl n = 550 U/min<br>erf. F&#xF6;rdermenge Q = 16  l/min       erf. Betriebsdruck p = 244 bar<br>Welle   Zahnwellenprofil, Eingang/ Ausgang 3/4&quot; SAE Flansch<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Schluckvolumen 28 ccm/U\\nfür geschlossenen Kreislauf, mit Ausspeisung 10 bar\\nAbtriebsleistung P = 5,0 kWAbtriebsdrehzahl n = 550 U/min\\nerf. Fördermenge Q = 16l/minerf. Betriebsdruck p = 244 bar\\nWelleZahnwellenprofil, Eingang/ Ausgang 3/4\" SAE Flansch\\n"
 }

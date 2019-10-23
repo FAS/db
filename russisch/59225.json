@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    59225\r\n                  ",
+  "id": "59225",
   "name": "2/2 -Wegeventil DN 32,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "Druckbereich 0 - 25 bar,<br>Spannung 230 V AC,<br>Sitzdichtung Viton<br><br>Ausf&#xFC;hrung stromlos ge&#xF6;ffnet<br>mit Abnahmepr&#xFC;fzeugnis 3.1 nach EN 10204"
+  "price": "0,00",
+  "amount": "1",
+  "description": "Druckbereich 0 - 25 bar,\\nSpannung 230 V AC,\\nSitzdichtung Viton\\n\\nAusführung stromlos geöffnet\\nmit Abnahmeprüfzeugnis 3.1 nach EN 10204"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    8817\r\n                  ",
+  "id": "8817",
   "name": "Rücksendung von bauseits gestelltem Material",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "###############################<br><br>Standort/Kommision:<br>###############################<br><br>SN-Nr.:<br>###############################<br><br>Zustand:<br>###############################<br>(  ) Bauteil nicht verwendet<br>(  ) Ausgebautes, defektes Bauteil<br><br>Hinweis:<br>###############################"
+  "price": "0,00",
+  "amount": "0",
+  "description": "\\n\\nStandort/Kommision:\\n\\n\\nSN-Nr.:\\n\\n\\nZustand:\\n\\n() Bauteil nicht verwendet\\n() Ausgebautes, defektes Bauteil\\n\\nHinweis:\\n"
 }

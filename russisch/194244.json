@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    194244\r\n                  ",
+  "id": "194244",
   "name": "2/2-Wege Magnetventil, zwangsgesteuert,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Anschluss                      DN 40<br>                                     Flansche<br>Druck-Stufe                    PN 40<br>Flanschausf.                  DIN EN 1092-1/B<br>                                     Bohrung n. ASME 16.5 300 lb/sq. In.RF<br>Nennweite                    40 mm<br>Druck-Bereich                0-25 bar<br>kv-Wert                          27 m&#xB3;/h<br>Temp.Medium             -10 bis +80&#xB0;C<br>Temp.Umgebung         -10 bis +40&#xB0;C<br>Spannung                     24V<br>Frequenz                      00Hz<br>Schutz-Art                     EEx me II T3, IP 65<br>                                     Ex II 2 GD T 140&#xB0;C<br>elektr.Anschl                  Anschlussgeh&#xE4;use f&#xFC;r Kabel 5-10 mm<br>                                      Kabeleinf&#xFC;hrung M16 x 1,5<br>Aufn.Betrieb                  1667 mA<br>Einsch.Dauer                 100 %<br>Einbauweise                  beliebig, vorzugsweise Elektromagnet<br>                                      senkrecht nach oben<br>Wst.Geh&#xE4;use                 Stahlguss<br>Wst.Dichtung                  FPM<br>Schalt-Funkt.                  in Ruhestellung geschlossen<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "AnschlussDN 40\\nFlansche\\nDruck-StufePN 40\\nFlanschausf.DIN EN 1092-1/B\\nBohrung n. ASME 16.5 300 lb/sq. In.RF\\nNennweite40 mm\\nDruck-Bereich0-25 bar\\nkv-Wert27 m³/h\\nTemp.Medium-10 bis +80°C\\nTemp.Umgebung-10 bis +40°C\\nSpannung24V\\nFrequenz00Hz\\nSchutz-ArtEEx me II T3, IP 65\\nEx II 2 GD T 140°C\\nelektr.AnschlAnschlussgehäuse für Kabel 5-10 mm\\nKabeleinführung M16 x 1,5\\nAufn.Betrieb1667 mA\\nEinsch.Dauer100 %\\nEinbauweisebeliebig, vorzugsweise Elektromagnet\\nsenkrecht nach oben\\nWst.GehäuseStahlguss\\nWst.DichtungFPM\\nSchalt-Funkt.in Ruhestellung geschlossen\\n"
 }

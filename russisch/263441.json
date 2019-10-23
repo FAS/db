@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    263441\r\n                  ",
+  "id": "263441",
   "name": "Drehstrommotor mit Käfigläufer VEM",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Type                               : K82R355L4 Exd IICT4 HW<br>Leistung ( Netz)               : 240 kW<br>Umgebungstemperatur   : max. 50&#xB0; C<br>Betriebsart                      : S 1 -100 % ED<br>Drehzahl                         : 1.500 U/min<br>Spannung                       : 3.300 V.Y<br>Frequenz                        : 50 Hz<br>Iso Kl.                             : F/B<br>Bauform                         : B3<br>Schutzart                        : IP55<br>Klemmkastenanlage       : oben<br>Lagerung D-Seite           : Kugellager<br>Lager&#xFC;berwachung        :  keine<br>Gewicht                          : ca. 2200 kg<br><br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Type: K82R355L4 Exd IICT4 HW\\nLeistung ( Netz): 240 kW\\nUmgebungstemperatur: max. 50° C\\nBetriebsart: S 1 -100 % ED\\nDrehzahl: 1.500 U/min\\nSpannung: 3.300 V.Y\\nFrequenz: 50 Hz\\nIso Kl.: F/B\\nBauform: B3\\nSchutzart: IP55\\nKlemmkastenanlage: oben\\nLagerung D-Seite: Kugellager\\nLagerüberwachung:keine\\nGewicht: ca. 2200 kg\\n\\n"
 }

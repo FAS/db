@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    27547\r\n                  ",
+  "id": "27547",
   "name": "Fließschema Gastechnik Gruppe B farbig",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "mit St&#xFC;ckliste.<br><br>Das Flie&#xDF;schema stellt den geplanten Zustand<br>der Anlage dar und ist als Teil der Anlagen-<br>beschreibung und/oder Sicherheitsbetrachtung<br>zur Beurteilung der Anlage notwendig.<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "mit Stückliste.\\n\\nDas Fließschema stellt den geplanten Zustand\\nder Anlage dar und ist als Teil der Anlagen-\\nbeschreibung und/oder Sicherheitsbetrachtung\\nzur Beurteilung der Anlage notwendig.\\n"
 }

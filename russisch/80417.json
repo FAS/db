@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    80417\r\n                  ",
+  "id": "80417",
   "name": "alt",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Die Reparaturkosten f&#xFC;r die Pumpe betragen<br>Funktions- und Dichtigkeitsprobe durchgef&#xFC;hrt."
+  "price": "0,00",
+  "amount": "0",
+  "description": "Die Reparaturkosten für die Pumpe betragen\\nFunktions- und Dichtigkeitsprobe durchgeführt."
 }

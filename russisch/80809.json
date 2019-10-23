@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    80809\r\n                  ",
+  "id": "80809",
   "name": "Füllstandsanzeiger Typ 487",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "BD 1250<br>SL 1685<br>PL 603"
+  "price": "0,00",
+  "amount": "0",
+  "description": "BD 1250\\nSL 1685\\nPL 603"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    9916\r\n                  ",
+  "id": "9916",
   "name": "Falschbestellung (kostenloser Kulanzumtausch)",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "###############################<br>() Um Ihnen schnellst m&#xF6;glich helfen zu k&#xF6;nnen,<br>   senden wir Ihnen aus Lagervorrat die richtige(n)<br>   Ware(n) zu. <br><br>() Wir behalten uns vor, Ihnen evtl. Kosten zur<br>   &#xDC;berpr&#xFC;fung bzw. zur Instandsetzung in Rechnung<br>   zu stellen.<br><br>Bitte beachten Sie, dass wir Ihnen folgende<br>Kosten berechnen werden:<br><br>=&gt; kostenloser Kulanzumtausch<br><br>() Bitte senden Sie uns die falsch bestellte(n) <br>   Ware(n) frei an unser Werk zur&#xFC;ck."
+  "price": "0,00",
+  "amount": "0",
+  "description": "\\n() Um Ihnen schnellst möglich helfen zu können,\\nsenden wir Ihnen aus Lagervorrat die richtige(n)\\nWare(n) zu. \\n\\n() Wir behalten uns vor, Ihnen evtl. Kosten zur\\nÜberprüfung bzw. zur Instandsetzung in Rechnung\\nzu stellen.\\n\\nBitte beachten Sie, dass wir Ihnen folgende\\nKosten berechnen werden:\\n\\n=> kostenloser Kulanzumtausch\\n\\n() Bitte senden Sie uns die falsch bestellte(n) \\nWare(n) frei an unser Werk zurück."
 }

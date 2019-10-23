@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    79736\r\n                  ",
+  "id": "79736",
   "name": "Verbindersatz für Stern/Dreieck-Anlaßschütze",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n2\r\n                    \r\n                    ",
-  "description": "f&#xFC;r Sch&#xFC;tztypen A9, A12, A16,<br>bestehnd aus 3 Verbindungen:<br>- Netzsch&#xFC;tz/Dreieck-Sch&#xFC;tz (Oberstromseite)<br>- Stern-Sch&#xFC;tz/Dreieck-Sch&#xFC;tz<br>- Sternpunktverbindung"
+  "price": "0,00",
+  "amount": "2",
+  "description": "für Schütztypen A9, A12, A16,\\nbestehnd aus 3 Verbindungen:\\n- Netzschütz/Dreieck-Schütz (Oberstromseite)\\n- Stern-Schütz/Dreieck-Schütz\\n- Sternpunktverbindung"
 }

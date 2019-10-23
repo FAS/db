@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    93690\r\n                  ",
+  "id": "93690",
   "name": "LPG-Füllschlauch DN 50 im Vollschlauchsystem für Straßen-",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "tankwagen mit Sicherheitsventil und Entspannungsvorrichtung, <br>L&#xE4;nge l = 5 m, einerseits 1&quot; NPT Containeranschlu&#xDF;, andere<br>Seite 1&quot; Pumpenanschlu&#xDF;, komplett eingebunden, einschlie&#xDF;lich<br>Pr&#xFC;fbescheinigung"
+  "price": "0,00",
+  "amount": "0",
+  "description": "tankwagen mit Sicherheitsventil und Entspannungsvorrichtung, \\nLänge l = 5 m, einerseits 1\" NPT Containeranschluß, andere\\nSeite 1\" Pumpenanschluß, komplett eingebunden, einschließlich\\nPrüfbescheinigung"
 }

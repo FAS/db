@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    98560\r\n                  ",
+  "id": "98560",
   "name": "Messanlage Typ FAS MA-7-GY10 für Propan/Butan",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "mit variabler Temperaturkompensation<br>Ausf&#xFC;hrung: Slowakei / PROBUGAS<br>Z&#xE4;hler bestehend aus:<br> - Gasabscheider mit Feinsieb<br> - R&#xFC;ckschlagventil im Eingang<br> - Messkammer<br> - Druckhalteventil<br> - Anschl&#xFC;sse 2&quot; FNPT<br> - Durchflussrichtung von links nach rechts<br> - Buna Dichtungen<br> - Leistung max. 380 l/min<br> - Temperaturbereich -40&#xB0; C bis +70&#xB0; C<br>Mechanisches Z&#xE4;hlwerk bestehend aus:<br> - Rollenz&#xE4;hlwerk Typ VR <br> - Anzeige in Liter<br> - Bondrucker<br> - Impulsgeber mit ATEX-Zulassung, am Z&#xE4;hlwerk montiert<br> - var. Temperaturkompensation Typ D 5010<br>Dokumentation:<br> - Werkszeugnis 2.3 nach EN 10 204<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "mit variabler Temperaturkompensation\\nAusführung: Slowakei / PROBUGAS\\nZähler bestehend aus:\\n - Gasabscheider mit Feinsieb\\n - Rückschlagventil im Eingang\\n - Messkammer\\n - Druckhalteventil\\n - Anschlüsse 2\" FNPT\\n - Durchflussrichtung von links nach rechts\\n - Buna Dichtungen\\n - Leistung max. 380 l/min\\n - Temperaturbereich -40° C bis +70° C\\nMechanisches Zählwerk bestehend aus:\\n - Rollenzählwerk Typ VR \\n - Anzeige in Liter\\n - Bondrucker\\n - Impulsgeber mit ATEX-Zulassung, am Zählwerk montiert\\n - var. Temperaturkompensation Typ D 5010\\nDokumentation:\\n - Werkszeugnis 2.3 nach EN 10 204\\n"
 }

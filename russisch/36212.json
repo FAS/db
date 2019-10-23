@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    36212\r\n                  ",
+  "id": "36212",
   "name": "Chipkarten, nicht codiert, für Tankautomat FAS-420_L",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n50\r\n                    \r\n                    ",
-  "description": "mit Chip Typ SLE4442<br>Vorderseite: mit Logo Valentin<br>R&#xFC;ckseite: mit Logo Valentin und <br>                 Laufende Nr.: fortlaufend 0001 - 0050<br><br>(siehe beigef&#xFC;gte Datei)"
+  "price": "0,00",
+  "amount": "50",
+  "description": "mit Chip Typ SLE4442\\nVorderseite: mit Logo Valentin\\nRückseite: mit Logo Valentin und \\nLaufende Nr.: fortlaufend 0001 - 0050\\n\\n(siehe beigefügte Datei)"
 }

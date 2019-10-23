@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    34759\r\n                  ",
+  "id": "34759",
   "name": "Transponder-Einlesestation mit RS232 ",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Transponder haben eine vordefinierte Ausweisnummer, diese<br>wird am FuelData/Autopoll PC angeschlossen. <br>Damit k&#xF6;nnen die Transponder automatisch in FuelData/Autopoll<br>eingelesen werden.<br><br><br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Transponder haben eine vordefinierte Ausweisnummer, diese\\nwird am FuelData/Autopoll PC angeschlossen. \\nDamit können die Transponder automatisch in FuelData/Autopoll\\neingelesen werden.\\n\\n\\n"
 }

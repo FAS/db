@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    37361\r\n                  ",
-  "name": "Kolbenstange für  SSBV DN 25, Werkstoff 20MnV6,",
+  "id": "37361",
+  "name": "Kolbenstange fürSSBV DN 25, Werkstoff 20MnV6,",
   "weight": "0,20",
-  "price": "\r\n                  70,00\r\n                  ",
-  "amount": "\r\n                      \r\n2\r\n                    \r\n                    ",
-  "description": "hartverchromt 20 &#xB5;m, DIN 671, Fertigma&#xDF; &#xD8; 16 x 153 mm"
+  "price": "70,00",
+  "amount": "2",
+  "description": "hartverchromt 20 µm, DIN 671, Fertigmaß Ø 16 x 153 mm"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    111573\r\n                  ",
+  "id": "111573",
   "name": "Atemschutzausrüstung pro Person/pro Tag",
   "weight": "0,00",
-  "price": "\r\n                  80,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "###############################<br><br>zus&#xE4;tzlich pro Person/pro Einsatz:<br>=&gt; 1x 111.755 Atemschutzfilter f&#xFC;r Ammoniak"
+  "price": "80,00",
+  "amount": "0",
+  "description": "\\n\\nzusätzlich pro Person/pro Einsatz:\\n=> 1x 111.755 Atemschutzfilter für Ammoniak"
 }

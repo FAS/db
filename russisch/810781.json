@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    810781\r\n                  ",
+  "id": "810781",
   "name": "Niederdruckregler, UNI-Typ 4286-10-S1,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Geh&#xE4;use Aluminium, Sitzdichtung  Buna-N, <br>Feder Stahl,<br>Eingang: 1/4&quot; NPT - IG<br>Ausgang: 3/8&quot; NPT - IG<br>Ausgangsdruck: 36-38 mbar,<br>Temperaturbereich: -40&#xB0;C bis +74&#xB0;C<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Gehäuse Aluminium, SitzdichtungBuna-N, \\nFeder Stahl,\\nEingang: 1/4\" NPT - IG\\nAusgang: 3/8\" NPT - IG\\nAusgangsdruck: 36-38 mbar,\\nTemperaturbereich: -40°C bis +74°C\\n"
 }

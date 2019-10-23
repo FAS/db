@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    99915\r\n                  ",
+  "id": "99915",
   "name": "ZUSCHLAG für Express-Aufträge ",
   "weight": "1,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "<br>=&gt; 15% des Netto-Warenwert<br><br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "\\n=> 15% des Netto-Warenwert\\n\\n"
 }

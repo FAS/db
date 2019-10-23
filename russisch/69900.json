@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    69900\r\n                  ",
+  "id": "69900",
   "name": "Anschluss zweite Zapfsäule",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "- zus&#xE4;tzlich 2 Rohrdurchf&#xFC;hrungen im Domschacht zum Anschluss einer     <br>  zweiten Zapfs&#xE4;ule<br>- 2 Anschlussst&#xFC;cke mit Kuglh&#xE4;hnen vorbereitet zum Anschluss einer<br>  zweiten Zapfs&#xE4;ule"
+  "price": "0,00",
+  "amount": "0",
+  "description": "- zusätzlich 2 Rohrdurchführungen im Domschacht zum Anschluss einer\\nzweiten Zapfsäule\\n- 2 Anschlussstücke mit Kuglhähnen vorbereitet zum Anschluss einer\\nzweiten Zapfsäule"
 }

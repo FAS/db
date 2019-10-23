@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    111214\r\n                  ",
+  "id": "111214",
   "name": "Nachtzuschlag (25%) für:",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "=&gt; Elektroniker / Ingenieur / Planung / Inbetriebnahme"
+  "price": "0,00",
+  "amount": "0",
+  "description": "=> Elektroniker / Ingenieur / Planung / Inbetriebnahme"
 }

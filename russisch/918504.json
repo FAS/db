@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    918504\r\n                  ",
+  "id": "918504",
   "name": "Flüssiggas-Seitenkanalpumpe, Typ UEAB 06506 MA",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "DNE 1A1, mit einfacher Gleitringdichtung, f&#xFC;r Zulaufbetrieb, <br>Geh&#xE4;use GGG40<br>Spezifikation:<br>Q : 55 m3/h<br>H : 13 bar<br>Geschwindigkeit: 2900 rpm<br>mit glatter Dichtleiste,<br>OHNE Ex-Motor Kupplung, Kupplungsschutz und Grundplatte"
+  "price": "0,00",
+  "amount": "0",
+  "description": "DNE 1A1, mit einfacher Gleitringdichtung, für Zulaufbetrieb, \\nGehäuse GGG40\\nSpezifikation:\\nQ : 55 m3/h\\nH : 13 bar\\nGeschwindigkeit: 2900 rpm\\nmit glatter Dichtleiste,\\nOHNE Ex-Motor Kupplung, Kupplungsschutz und Grundplatte"
 }

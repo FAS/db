@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    265206\r\n                  ",
+  "id": "265206",
   "name": "Komplette Steuerung für Projekt: Bulrom",
   "weight": "372,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Standschaltschrank f&#xFC;r:<br>3x Kompressorsteuerung (2x 30kW, 1x 18,5kW).<br>5x Pumpensteuerung (3x 30kW, 2x 17,5kW)<br><br>Zum Anschluss von:<br>- 3 Kompressoren (2x 30kW; 1x 18,5kW) mit jeweils<br>    * 1 Doppeldrucktaster<br>    * Druckschalter max Druck &gt;15bar<br>    * Druckschalter min Druck     * Druckschalter max Druck &gt;16bar (Sicherheitsgerichtet)<br>    * Druckschalter min &#xD6;ldruck     * Vegaswing f&#xFC;r Abscheider<br>- 5 Pumpenmotoren (3x 30kW; 2x 17,5kW) mit jeweils<br>    * 1 Doppeldrucktaster<br>    * Str&#xF6;mungsw&#xE4;chter als Trockenlaufschutz<br>- bis zu 3 Not-Aus Tastern<br><br>Es wird f&#xFC;r jeden Motor eine seperate Einspeisung laut Plan ben&#xF6;tigt.<br><br><br>Abmessungen (BxHxT): ca. 1600x2000x600<br><br>Dokumentation:<br> - Klemmen- und Verdrahtungsplan<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Standschaltschrank für:\\n3x Kompressorsteuerung (2x 30kW, 1x 18,5kW).\\n5x Pumpensteuerung (3x 30kW, 2x 17,5kW)\\n\\nZum Anschluss von:\\n- 3 Kompressoren (2x 30kW; 1x 18,5kW) mit jeweils\\n* 1 Doppeldrucktaster\\n* Druckschalter max Druck >15bar\\n* Druckschalter min Druck* Druckschalter max Druck >16bar (Sicherheitsgerichtet)\\n* Druckschalter min Öldruck* Vegaswing für Abscheider\\n- 5 Pumpenmotoren (3x 30kW; 2x 17,5kW) mit jeweils\\n* 1 Doppeldrucktaster\\n* Strömungswächter als Trockenlaufschutz\\n- bis zu 3 Not-Aus Tastern\\n\\nEs wird für jeden Motor eine seperate Einspeisung laut Plan benötigt.\\n\\n\\nAbmessungen (BxHxT): ca. 1600x2000x600\\n\\nDokumentation:\\n - Klemmen- und Verdrahtungsplan\\n"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    36018\r\n                  ",
+  "id": "36018",
   "name": "Freischaltung des Tankautomaten mit der Software",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
+  "price": "0,00",
+  "amount": "1",
   "description": "*Autopoll plus*"
 }

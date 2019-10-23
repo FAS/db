@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    111863\r\n                  ",
+  "id": "111863",
   "name": "Prüfung der Füllanlage (Flaschenfüllanlage) durch ZÜS",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "###############################<br><br>M&#xE4;ngelbehebung bauseits:<br>###############################<br>=&gt; S&#xE4;mtliche M&#xE4;ngel (ggf. Beauftragung an FAS)<br><br>M&#xE4;ngelbehebung durch FAS:<br>###############################<br><br>Hinweis/e:<br>###############################<br> - Evtl. Mehraufwand wird auf Nachweis abgerechnet.<br>(  ) Nachpr&#xFC;fung erforderlich. Bitte um R&#xFC;ckmeldung/Beauftragung unter<br>     service@fas.de, damit die Nachpr&#xFC;fung beauftragt werden kann.<br>(  ) Nachpr&#xFC;fung erforderlich. Wir werden diese kurzfristig nach M&#xE4;ngel-<br>     behebung kostenpflichtig durchf&#xFC;hren lassen."
+  "price": "0,00",
+  "amount": "0",
+  "description": "\\n\\nMängelbehebung bauseits:\\n\\n=> Sämtliche Mängel (ggf. Beauftragung an FAS)\\n\\nMängelbehebung durch FAS:\\n\\n\\nHinweis/e:\\n\\n - Evtl. Mehraufwand wird auf Nachweis abgerechnet.\\n() Nachprüfung erforderlich. Bitte um Rückmeldung/Beauftragung unter\\nservice@fas.de, damit die Nachprüfung beauftragt werden kann.\\n() Nachprüfung erforderlich. Wir werden diese kurzfristig nach Mängel-\\nbehebung kostenpflichtig durchführen lassen."
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    131001\r\n                  ",
+  "id": "131001",
   "name": "Запорная крышка, с цепью",
   "weight": "0,01",
-  "price": "\r\n                  12,00\r\n                  ",
-  "amount": "\r\n                      \r\n20\r\n                    \r\n                    ",
-  "description": "&#x442;&#x438;&#x43F; RegO 3174-91"
+  "price": "12,00",
+  "amount": "20",
+  "description": "тип RegO 3174-91"
 }

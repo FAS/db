@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    260073\r\n                  ",
+  "id": "260073",
   "name": "Drehstrommotor mit Käfigläufer 5,5 kW, Ex II 2G Exe II T4",
   "weight": "27,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": " - Hersteller: RAEL<br> - Motorbauform: B3<br> - Baugr&#xF6;&#xDF;e Motor: MIA 132SB-4 <br> - Nennleistung [kW]: 5,5<br> - Drehzahl [1/min]: 1440<br> - Frequenz [Hz]: 50<br> - Spannung [V]: 400/690<br> - Schutzart: IP 55<br> - Ger&#xE4;tekategorie: Ex II 2G<br> - Z&#xFC;ndschutz: Exe IIC<br> - Temperaturklasse: T4<br> - max. Umgebungstemperatur: -40&#xB0;C bis +60&#xB0;C<br> - Isolierklasse: F<br> - Kaltleiteranzahl: 3<br> - Bescheinigung: ATEX<br> - Wirkungsgradklasse: IE1<br> - Klemmenkastenlage: oben<br>"
+  "price": "0,00",
+  "amount": "1",
+  "description": " - Hersteller: RAEL\\n - Motorbauform: B3\\n - Baugröße Motor: MIA 132SB-4 \\n - Nennleistung [kW]: 5,5\\n - Drehzahl [1/min]: 1440\\n - Frequenz [Hz]: 50\\n - Spannung [V]: 400/690\\n - Schutzart: IP 55\\n - Gerätekategorie: Ex II 2G\\n - Zündschutz: Exe IIC\\n - Temperaturklasse: T4\\n - max. Umgebungstemperatur: -40°C bis +60°C\\n - Isolierklasse: F\\n - Kaltleiteranzahl: 3\\n - Bescheinigung: ATEX\\n - Wirkungsgradklasse: IE1\\n - Klemmenkastenlage: oben\\n"
 }

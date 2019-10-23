@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    80340\r\n                  ",
+  "id": "80340",
   "name": "alt",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Reparatur F&#xFC;llpistole, Typ FAS/RegO<br>(FAS 13.031)"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Reparatur Füllpistole, Typ FAS/RegO\\n(FAS 13.031)"
 }

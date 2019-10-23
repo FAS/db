@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    2\r\n                  ",
-  "name": "  ",
+  "id": "2",
+  "name": "",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "<span style=\"font-size:9pt\"><span style=\"color:#D81E05;font-weight:bold\">Information: Wir bieten ab sofort die Eignungspr&#xFC;fung Ihres<br>Grundst&#xFC;cks f&#xFC;r die Errichtung einer LNG-Tankanlage an.<br></span><br><span style=\"font-weight:bold\">Unter Ber&#xFC;cksichtigung der technischen, sicherheitsrelevanten<br>und genehmigungsrechtlichen Grundlagen &#xFC;bernehmen <br>wir f&#xFC;r Sie die Vorpr&#xFC;fung.</span></span>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Information: Wir bieten ab sofort die Eignungsprüfung Ihres\\nGrundstücks für die Errichtung einer LNG-Tankanlage an.\\n</span>\\n<span style=\"font-weight:bold\">Unter Berücksichtigung der technischen, sicherheitsrelevanten\\nund genehmigungsrechtlichen Grundlagen übernehmen \\nwir für Sie die Vorprüfung.</span></span>"
 }

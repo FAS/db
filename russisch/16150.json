@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    16150\r\n                  ",
+  "id": "16150",
   "name": "Behälterreglerkombination, Typ BRK 110, ",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "PN 25, Leistung bis 10 kg/h Propan, mit SAV <br>und SBV,<br>=&gt; Eingang und Ausgang G 1/2&quot;-IG,<br>Vordruck 1,5 bar - 16 bar,<br>Ausgangsdruck 50 mbar,<br><br>-Konformit&#xE4;tserkl&#xE4;rung u. CE-Kennzeichnung <br> nach DGRL 2014/68/EU"
+  "price": "0,00",
+  "amount": "0",
+  "description": "PN 25, Leistung bis 10 kg/h Propan, mit SAV \\nund SBV,\\n=> Eingang und Ausgang G 1/2\"-IG,\\nVordruck 1,5 bar - 16 bar,\\nAusgangsdruck 50 mbar,\\n\\n-Konformitätserklärung u. CE-Kennzeichnung \\n nach DGRL 2014/68/EU"
 }

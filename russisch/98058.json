@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    98058\r\n                  ",
-  "name": "Auswertegerät  und Anzeigeinstrument VEGAMET 381  ",
+  "id": "98058",
+  "name": "Auswertegerätund Anzeigeinstrument VEGAMET 381",
   "weight": "0,20",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "speist den angeschlossenen 4...20 mA/HART-Sensor, verarbeitet <br>die Messwerte und zeigt diese an.<br>- Messumformerspeisung &#xFC;ber den 4...20mA-Sensoreingang<br>- LC Display zur digitalen und quasianalogen Messwertdarstellung<br>Eingang: 1 x 4...20mA-Sensoreingang<br>Ausgang: 1 x 0/4...20mA-Stromausgang<br>                2 x Relaisausg&#xE4;nge<br>                1 x St&#xF6;rmelderelais<br>Betriebsspannung: 20...253VAC, 50/60Hz, 20...253VDC<br>Montage: Schalttafel oder Wand bzw. Tragschiene 35x7,5 nach EN 50022<br>Zulassung: OHNE (keine Ex-Zulassung, nur f&#xFC;r Sensoren im Ex-freien Bereich)<br>Betriebsanleitung: DE - deutsch<br>Anzahl der BA: 1<br><br>   (  ) im Schaltschrank eingebaut<br><br>   (  ) lose beiliegend<br><br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "speist den angeschlossenen 4...20 mA/HART-Sensor, verarbeitet \\ndie Messwerte und zeigt diese an.\\n- Messumformerspeisung über den 4...20mA-Sensoreingang\\n- LC Display zur digitalen und quasianalogen Messwertdarstellung\\nEingang: 1 x 4...20mA-Sensoreingang\\nAusgang: 1 x 0/4...20mA-Stromausgang\\n2 x Relaisausgänge\\n1 x Störmelderelais\\nBetriebsspannung: 20...253VAC, 50/60Hz, 20...253VDC\\nMontage: Schalttafel oder Wand bzw. Tragschiene 35x7,5 nach EN 50022\\nZulassung: OHNE (keine Ex-Zulassung, nur für Sensoren im Ex-freien Bereich)\\nBetriebsanleitung: DE - deutsch\\nAnzahl der BA: 1\\n\\n() im Schaltschrank eingebaut\\n\\n() lose beiliegend\\n\\n"
 }

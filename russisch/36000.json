@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    36000\r\n                  ",
+  "id": "36000",
   "name": "Beleuchtung für Wetterschutzdach FAS 36505 / 36679",
   "weight": "10,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n15\r\n                    \r\n                    ",
-  "description": "bestehend aus: Bewegungsmelder / D&#xE4;mmungsschalter, <br>Lichtleiste f&#xFC;r Feuchtraum, 230V/58W, Montage der Einzelteile <br>am Wetterschutzdach inklusive Verdrahtung im Werk Salzgitter <br><br>Hinweis:<br> - elektrischer Anschluss bauseits<br> - ACHTUNG: Baul&#xE4;nge 1,60 m"
+  "price": "0,00",
+  "amount": "15",
+  "description": "bestehend aus: Bewegungsmelder / Dämmungsschalter, \\nLichtleiste für Feuchtraum, 230V/58W, Montage der Einzelteile \\nam Wetterschutzdach inklusive Verdrahtung im Werk Salzgitter \\n\\nHinweis:\\n - elektrischer Anschluss bauseits\\n - ACHTUNG: Baulänge 1,60 m"
 }

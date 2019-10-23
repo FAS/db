@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    23970\r\n                  ",
+  "id": "23970",
   "name": "Wartungssatz für 2 Jahre Betrieb",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Als Ersatzteile f&#xFC;r die Wartungsarbeiten an:<br>- 3 Abf&#xFC;lleinrichtungen mit pneumatischen F&#xFC;llanschl&#xFC;ssen 22mm;<br>- manueller Dichtpr&#xFC;feinrichtung Typ MED<br>- manueller Schrumpfmaschine Typ MS<br>Der Satz besteht aus:<br>- 3 x Dichtungssatz f&#xFC;r pneumatischen F&#xFC;llanschluss 22mm<br>- 3 x Filterelement f&#xFC;r den LPG Filter<br>- 1 x Hochtemperaturschlauch f&#xFC;r die Schrumpfmaschine<br>- 1 x Filterelement f&#xFC;r die Vakuumpumpe (Dichtpr&#xFC;fung)<br>- 1 x LPG Schlauch"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Als Ersatzteile für die Wartungsarbeiten an:\\n- 3 Abfülleinrichtungen mit pneumatischen Füllanschlüssen 22mm;\\n- manueller Dichtprüfeinrichtung Typ MED\\n- manueller Schrumpfmaschine Typ MS\\nDer Satz besteht aus:\\n- 3 x Dichtungssatz für pneumatischen Füllanschluss 22mm\\n- 3 x Filterelement für den LPG Filter\\n- 1 x Hochtemperaturschlauch für die Schrumpfmaschine\\n- 1 x Filterelement für die Vakuumpumpe (Dichtprüfung)\\n- 1 x LPG Schlauch"
 }

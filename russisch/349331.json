@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    349331\r\n                  ",
+  "id": "349331",
   "name": "Fernbedienung für Beta Control Preisrechner (Service)",
   "weight": "0,01",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n10\r\n                    \r\n                    ",
-  "description": "Funkfernbedienung f&#xFC;r alle Funktionen von Beta Control Preisrechnern"
+  "price": "0,00",
+  "amount": "10",
+  "description": "Funkfernbedienung für alle Funktionen von Beta Control Preisrechnern"
 }

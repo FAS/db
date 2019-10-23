@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    13\r\n                  ",
+  "id": "13",
   "name": "Abnahmeprüfzeugnis 3.1.B nach EN 10204",
   "weight": "0,10",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "(DIN 50 049-3.1.B)<br>f&#xFC;r den gesamten Lieferumfang. "
+  "price": "0,00",
+  "amount": "0",
+  "description": "(DIN 50 049-3.1.B)\\nfür den gesamten Lieferumfang. "
 }

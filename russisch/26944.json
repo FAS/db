@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    26944\r\n                  ",
+  "id": "26944",
   "name": "Elektro-Schaltkasten aus Stahlblech, Ausführung mit",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Steuertransformator, zur Montage im Geb&#xE4;ude und<br>au&#xDF;erhalb der Schutzzone, komplett verdrahtet zum<br>Anschlu&#xDF; von Kompressor-Motor ________ kW mit<br>Stern/Dreieckanlauf, min. und max. Gasdruck&#xFC;berwachung,<br>Doppeldrucktaster mit Kontrolleuchte,<br>Signalhupe und Blitzleuchte"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Steuertransformator, zur Montage im Gebäude und\\naußerhalb der Schutzzone, komplett verdrahtet zum\\nAnschluß von Kompressor-Motor ________ kW mit\\nStern/Dreieckanlauf, min. und max. Gasdrucküberwachung,\\nDoppeldrucktaster mit Kontrolleuchte,\\nSignalhupe und Blitzleuchte"
 }

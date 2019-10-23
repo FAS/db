@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    213151\r\n                  ",
+  "id": "213151",
   "name": "FAS/Blackmer-Pumpenaggregat, LGL 3\"E, komplett",
   "weight": "0,00",
-  "price": "\r\n                  8.195,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "aufgebaut mit 10 kW Motor, 400/690V, 50 Hz, EExe II T3,<br>mit Keilriemenantrieb, Keilriemenschuz und Grundplatte, <br>Leistung max. ca. 450 l/min bei ca. 640 RPM <br>und 5 bar Differenzdruck."
+  "price": "8.195,00",
+  "amount": "0",
+  "description": "aufgebaut mit 10 kW Motor, 400/690V, 50 Hz, EExe II T3,\\nmit Keilriemenantrieb, Keilriemenschuz und Grundplatte, \\nLeistung max. ca. 450 l/min bei ca. 640 RPM \\nund 5 bar Differenzdruck."
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    82597\r\n                  ",
+  "id": "82597",
   "name": "alt",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Sollte eine h&#xF6;here F&#xF6;rdermenge ben&#xF6;tigt werden, geben Sie<br>diese bitte an, damit durch uns ein entsprechender Antrieb <br>ausgew&#xE4;hlt werden kann. Zum sicheren Betrieb ist freier <br>Zulauf erforderlich. Die Saugleitung und der Schmutzf&#xE4;nger <br>sollten ausreichend gro&#xDF; bemessen sein (ca. eine Nennweite<br>gr&#xF6;&#xDF;er als der Eingang der Pumpe). Eine Beruhigungsstrecke <br>von 10 x D ist vor dem Pumpeneingang vorzusehen. <br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Sollte eine höhere Fördermenge benötigt werden, geben Sie\\ndiese bitte an, damit durch uns ein entsprechender Antrieb \\nausgewählt werden kann. Zum sicheren Betrieb ist freier \\nZulauf erforderlich. Die Saugleitung und der Schmutzfänger \\nsollten ausreichend groß bemessen sein (ca. eine Nennweite\\ngrößer als der Eingang der Pumpe). Eine Beruhigungsstrecke \\nvon 10 x D ist vor dem Pumpeneingang vorzusehen. \\n"
 }

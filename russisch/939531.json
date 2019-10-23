@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    939531\r\n                  ",
+  "id": "939531",
   "name": "Elektroschaltschrank zur Montage ausserhalb der Schutzzone",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "f&#xFC;r die Besteuerung der Verdampfereinheit einer Fl&#xFC;ssiggas/ Luft Mischanlage FAS Nr.: 93953.<br>Aufgebaut, verkabelt und vorbereitet zum Anschlie&#xDF;en von:<br>- 3 St. Verdampfer XP160 mit je 33kW Leistung<br>- 3 St. Notaus Taster<br>- Gas/ Feueralarm"
+  "price": "0,00",
+  "amount": "0",
+  "description": "für die Besteuerung der Verdampfereinheit einer Flüssiggas/ Luft Mischanlage FAS Nr.: 93953.\\nAufgebaut, verkabelt und vorbereitet zum Anschließen von:\\n- 3 St. Verdampfer XP160 mit je 33kW Leistung\\n- 3 St. Notaus Taster\\n- Gas/ Feueralarm"
 }

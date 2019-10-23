@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    111450\r\n                  ",
+  "id": "111450",
   "name": "IFSF Board LON für IGEM, neu Ausführung ab Version 10.03",
   "weight": "0,20",
-  "price": "\r\n                  490,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "(ab Ende 2009/Anfang 2010)<br><br>Alte Ausf&#xFC;hrung bestehend aus:<br>###############################<br>FAS-111.345 Kommunikationsboard LON<br>FAS-47.202 IGEM Cabble Flat 16 Positions 40<br>FAS-111.346 IGEM Relaisboard"
+  "price": "490,00",
+  "amount": "0",
+  "description": "(ab Ende 2009/Anfang 2010)\\n\\nAlte Ausführung bestehend aus:\\n\\nFAS-111.345 Kommunikationsboard LON\\nFAS-47.202 IGEM Cabble Flat 16 Positions 40\\nFAS-111.346 IGEM Relaisboard"
 }

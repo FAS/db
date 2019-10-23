@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    111172\r\n                  ",
+  "id": "111172",
   "name": "Vergütung pro Installationsort für An- & Abfahrt",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "###############################<br>zur &#xDC;berpr&#xFC;fung der &quot;Fehlerschutzschalter-Aktion&quot;"
+  "price": "0,00",
+  "amount": "0",
+  "description": "\\nzur Überprüfung der \"Fehlerschutzschalter-Aktion\""
 }

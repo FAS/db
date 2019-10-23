@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    11437\r\n                  ",
+  "id": "11437",
   "name": "Rohrbogen mit Flanschen DIN 2605, DN 100, PN 40",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Flansch aus C 22.8 nach DIN EN 1092-1 (DIN 2635),  Rohrbogen aus St 35.8 III<br>mit Abnahmepr&#xFC;fzeugnis 3.1.B nach EN 10204 <br>(DIN 50.049-3.1 B) und T&#xDC;V-Druckpr&#xFC;fung mit 52 bar<br>(Wasser)<br><br>*** siehe FAS 10437 ***"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Flansch aus C 22.8 nach DIN EN 1092-1 (DIN 2635),Rohrbogen aus St 35.8 III\\nmit Abnahmeprüfzeugnis 3.1.B nach EN 10204 \\n(DIN 50.049-3.1 B) und TÜV-Druckprüfung mit 52 bar\\n(Wasser)\\n\\n siehe FAS 10437 "
 }

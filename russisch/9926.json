@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    9926\r\n                  ",
+  "id": "9926",
   "name": "Mehrere Rechnungen",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "###############################<br>Wir weisen drauf hin, dass aus buchungstechnischen Gr&#xFC;nden<br>mehrere Rechnungen f&#xFC;r die Montage erstellt werden mussten.<br><br>Folgende AB-Nr. geh&#xF6;ren zur Gesamt-Montage:<br>=&gt; AB-Nr. <br>=&gt; AB-Nr. <br><br>Auf der Hauptrechnung werden alle Montagekosten, etc. berechnet,<br>au&#xDF;erdem finden Sie dort unseren detailierten Reparaturbericht."
+  "price": "0,00",
+  "amount": "0",
+  "description": "\\nWir weisen drauf hin, dass aus buchungstechnischen Gründen\\nmehrere Rechnungen für die Montage erstellt werden mussten.\\n\\nFolgende AB-Nr. gehören zur Gesamt-Montage:\\n=> AB-Nr. \\n=> AB-Nr. \\n\\nAuf der Hauptrechnung werden alle Montagekosten, etc. berechnet,\\naußerdem finden Sie dort unseren detailierten Reparaturbericht."
 }

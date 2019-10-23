@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    933861\r\n                  ",
+  "id": "933861",
   "name": "Flüssigkeitsring-Vakuumpumpe Typ SIHI LPHA 70123 BN 135 02 0",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Material:<br>Vakuum Geh&#xE4;use:          0.6025   GG-25<br>Zentralk&#xF6;rper:                 1.0038   R St 37-2<br>F&#xFC;hrungsscheibe:           0.6025   GG-25<br>Fl&#xFC;gelrad-Propeller:       1.0570   ST 52-3<br>Schaft:                           1.0503   C 45<br>Schaft-Schutz   :             1.4027.05   G-X20 Cr 14"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Material:\\nVakuum Gehäuse:0.6025GG-25\\nZentralkörper:1.0038R St 37-2\\nFührungsscheibe:0.6025GG-25\\nFlügelrad-Propeller:1.0570ST 52-3\\nSchaft:1.0503C 45\\nSchaft-Schutz:1.4027.05G-X20 Cr 14"
 }

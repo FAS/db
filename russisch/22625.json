@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    22625\r\n                  ",
-  "name": "Belegdrucker und elektronisches Journal<br>",
+  "id": "22625",
+  "name": "Belegdrucker und elektronisches Journal\\n",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "f&#xFC;r Tankautomat im Standgeh&#xE4;use,<br>Belegdrucker mit mittlerer Papierrolle, auch f&#xFC;r gro&#xDF;e Rolle geeignet. Protokolldruckerersatz;<br>Auswertung und L&#xF6;schung &#xFC;ber PC-Programm.<br><br>Achtung:<br>Zus&#xE4;tzlich ist eine Speicherkarte erforderlich<br>(Flash Memory, FAS 22963)"
+  "price": "0,00",
+  "amount": "0",
+  "description": "für Tankautomat im Standgehäuse,\\nBelegdrucker mit mittlerer Papierrolle, auch für große Rolle geeignet. Protokolldruckerersatz;\\nAuswertung und Löschung über PC-Programm.\\n\\nAchtung:\\nZusätzlich ist eine Speicherkarte erforderlich\\n(Flash Memory, FAS 22963)"
 }

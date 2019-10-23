@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    34650\r\n                  ",
-  "name": "Elektronische Datenerfassungseinheit  Model 630/T/E/Z,",
+  "id": "34650",
+  "name": "Elektronische DatenerfassungseinheitModel 630/T/E/Z,",
   "weight": "30,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "komplette Einheit, montiert in einer vorbereiteten Zapfs&#xE4;ulent&#xFC;r,<br>als Erfassungsger&#xE4;t einschliesslich:<br>- Tastatur,<br>- Netzfilter<br>- beleuchteter LCD<br>- Wahlweise mit <br>  (  ) ---&gt;Chipkartenleser(Geldkarten)<br>  (  ) ---&gt;Legic -Transpondermarkenleser,<br>  (  ) ---&gt;Magnetkartenleser<br>- Eichamtlich vorgepr&#xFC;ft<br>"
+  "price": "0,00",
+  "amount": "1",
+  "description": "komplette Einheit, montiert in einer vorbereiteten Zapfsäulentür,\\nals Erfassungsgerät einschliesslich:\\n- Tastatur,\\n- Netzfilter\\n- beleuchteter LCD\\n- Wahlweise mit \\n() --->Chipkartenleser(Geldkarten)\\n() --->Legic -Transpondermarkenleser,\\n() --->Magnetkartenleser\\n- Eichamtlich vorgeprüft\\n"
 }

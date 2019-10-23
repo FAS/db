@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    102050\r\n                  ",
+  "id": "102050",
   "name": "Vorschweißflansch, PN 40, DN 40 - EN 1092-1 (DIN 2635)",
   "weight": "1,80",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n8\r\n                    \r\n                    ",
-  "description": "Material P250GH, Form F (Dichtleiste mit R&#xFC;cksprung),<br>mit Abnahmepr&#xFC;fzeugnis 3.1 nach EN 10204 <br>"
+  "price": "0,00",
+  "amount": "8",
+  "description": "Material P250GH, Form F (Dichtleiste mit Rücksprung),\\nmit Abnahmeprüfzeugnis 3.1 nach EN 10204 \\n"
 }

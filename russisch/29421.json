@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    29421\r\n                  ",
+  "id": "29421",
   "name": "Lieferbedingungen",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "Format: DIN A4, 1seitig<br>Papier: Chamois Popset 90g<br>Druck: schwarz<br>Verarb.: 4 x gelocht"
+  "price": "0,00",
+  "amount": "1",
+  "description": "Format: DIN A4, 1seitig\\nPapier: Chamois Popset 90g\\nDruck: schwarz\\nVerarb.: 4 x gelocht"
 }

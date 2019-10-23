@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    83169\r\n                  ",
+  "id": "83169",
   "name": "alt",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Irrt&#xFC;mlich nicht berechneter Rabatt in H&#xF6;he von 40%<br>und irrt&#xFC;mlich berechnete Transportversicherung in <br>H&#xF6;he von 1,4 $"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Irrtümlich nicht berechneter Rabatt in Höhe von 40%\\nund irrtümlich berechnete Transportversicherung in \\nHöhe von 1,4 $"
 }

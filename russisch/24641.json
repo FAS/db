@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    24641\r\n                  ",
+  "id": "24641",
   "name": "Füllanweisung englisch",
   "weight": "0,01",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "f&#xFC;r das F&#xFC;llen von Treibgas- und Brenngastanks,<br>Aufkleber, DIN A5, wei&#xDF;e Folie, Druck mehrfarbig,<br>F&#xFC;llvorgang mit automatischer F&#xFC;llstandsbegrenzung<br><br>F&#xFC;llvorgang mit Peilvetil ist untersagt !!!"
+  "price": "0,00",
+  "amount": "1",
+  "description": "für das Füllen von Treibgas- und Brenngastanks,\\nAufkleber, DIN A5, weiße Folie, Druck mehrfarbig,\\nFüllvorgang mit automatischer Füllstandsbegrenzung\\n\\nFüllvorgang mit Peilvetil ist untersagt !!!"
 }

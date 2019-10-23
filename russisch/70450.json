@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    70450\r\n                  ",
+  "id": "70450",
   "name": "Einbau einer neuen Feder",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "in den Druckregler FAS 16066 und<br>Einstellung auf 32 mbar"
+  "price": "0,00",
+  "amount": "0",
+  "description": "in den Druckregler FAS 16066 und\\nEinstellung auf 32 mbar"
 }

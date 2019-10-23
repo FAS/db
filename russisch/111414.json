@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    111414\r\n                  ",
+  "id": "111414",
   "name": "Scharnier mit Schraubensatz für Domschachtabdeckung \"DSA\",",
   "weight": "0,60",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "f&#xFC;r Version: Standard (z.B. &#xFC;bergreifend)<br><br>Andere Ausf&#xFC;hrung:<br>###############################<br>FAS-111.686 f&#xFC;r Version mit au&#xDF;enliegender Schutz-Wasserrinne<br>FAS-111.687 f&#xFC;r Versionen:<br> - Bodeneben<br> - Bodeneben mit innenliegender Schmutzwasserrinne<br> - Gasdicht<br> - Gasdicht mit Syphondichtung"
+  "price": "0,00",
+  "amount": "0",
+  "description": "für Version: Standard (z.B. übergreifend)\\n\\nAndere Ausführung:\\n\\nFAS-111.686 für Version mit außenliegender Schutz-Wasserrinne\\nFAS-111.687 für Versionen:\\n - Bodeneben\\n - Bodeneben mit innenliegender Schmutzwasserrinne\\n - Gasdicht\\n - Gasdicht mit Syphondichtung"
 }

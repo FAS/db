@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    221160\r\n                  ",
+  "id": "221160",
   "name": "Ex Heizplatte",
   "weight": "2,40",
-  "price": "\r\n                  375,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Selbstbegrenzende Heizplatte zugelassen<br>f&#xFC;r den explosionsgef&#xE4;hrdeten Bereich.<br><br>Technische Daten<br>Betriebsspannung: UN 230V AC<br>Bemessungsspannung: Umax. 277V AC<br>Abgabeleistung: ca. 65W bei +5&#xB0;C<br>Schutzart: IP 65<br>Umgebungstemperaturen: -55&#xB0;CH+85&#xB0;C<br>Temperaturklasse: T4<br>Anschlussleitung: 2m 3G1,5mm&#xB2; Radox<br>Abmessungen (LxBxH): 225 x 82 x 69mm<br>Einbaulage: beliebig<br>Gewicht: ca. 2,3 kg"
+  "price": "375,00",
+  "amount": "0",
+  "description": "Selbstbegrenzende Heizplatte zugelassen\\nfür den explosionsgefährdeten Bereich.\\n\\nTechnische Daten\\nBetriebsspannung: UN 230V AC\\nBemessungsspannung: Umax. 277V AC\\nAbgabeleistung: ca. 65W bei +5°C\\nSchutzart: IP 65\\nUmgebungstemperaturen: -55°CH+85°C\\nTemperaturklasse: T4\\nAnschlussleitung: 2m 3G1,5mm² Radox\\nAbmessungen (LxBxH): 225 x 82 x 69mm\\nEinbaulage: beliebig\\nGewicht: ca. 2,3 kg"
 }

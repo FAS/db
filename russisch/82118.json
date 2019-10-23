@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    82118\r\n                  ",
+  "id": "82118",
   "name": "alt",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Sicherung und Verkabelung im Schaltschrank zwischen<br>Sicherungsblock und Sch&#xFC;tz f&#xFC;r Fl&#xFC;ssiggaspumpe<br>Flaschenbef&#xFC;llung gewechselt.<br><br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Sicherung und Verkabelung im Schaltschrank zwischen\\nSicherungsblock und Schütz für Flüssiggaspumpe\\nFlaschenbefüllung gewechselt.\\n\\n"
 }

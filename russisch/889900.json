@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    889900\r\n                  ",
+  "id": "889900",
   "name": "Öl-Kühler für Nutzfahrzeuge, luftgekühlt,",
   "weight": "27,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "Anschl&#xFC;sse:<br>1 1/2&quot; NPT AG vom K&#xFC;hler zur Saugseite der Pumpe, <br>Druckleitung 1 1/16&quot; JIC, Abla&#xDF;stopfen 1/2&quot; B.S.P.,<br>mit integriertem &#xDC;berstr&#xF6;mventil, Filter im <br>Eingang und gut zug&#xE4;nglichem Filter f&#xFC;r den &#xD6;lkreislauf, Abschaltventil<br>und &#xD6;lstandsanzeige.<br><br>Technische Daten:<br><br>&#xD6;l Durchflu&#xDF;rate:<br>Normal:   57 - 100 l/min; Maximum:   120 l/min<br><br>Zirkulations- Druck:<br>Normal:   50 - 200 bar; Maximal:   300 bar<br><br>R&#xFC;cklauf- Druck:<br>Normal:   1 - 3,5 bar; Maximal:   7 bar<br><br>K&#xFC;hlleistung:<br>Normal:   9,75 kW; Maximal:   15,00 kW<br><br>Ben&#xF6;tigte &#xD6;lmenge f&#xFC;r den L&#xFC;fter:<br>Normal:   7,5 l/min; Maximal:   9,45 l/min"
+  "price": "0,00",
+  "amount": "1",
+  "description": "Anschlüsse:\\n1 1/2\" NPT AG vom Kühler zur Saugseite der Pumpe, \\nDruckleitung 1 1/16\" JIC, Ablaßstopfen 1/2\" B.S.P.,\\nmit integriertem Überströmventil, Filter im \\nEingang und gut zugänglichem Filter für den Ölkreislauf, Abschaltventil\\nund Ölstandsanzeige.\\n\\nTechnische Daten:\\n\\nÖl Durchflußrate:\\nNormal:57 - 100 l/min; Maximum:120 l/min\\n\\nZirkulations- Druck:\\nNormal:50 - 200 bar; Maximal:300 bar\\n\\nRücklauf- Druck:\\nNormal:1 - 3,5 bar; Maximal:7 bar\\n\\nKühlleistung:\\nNormal:9,75 kW; Maximal:15,00 kW\\n\\nBenötigte Ölmenge für den Lüfter:\\nNormal:7,5 l/min; Maximal:9,45 l/min"
 }

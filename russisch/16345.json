@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    16345\r\n                  ",
+  "id": "16345",
   "name": "Druckfeder für SAV 8600 (OPSO)",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n10\r\n                    \r\n                    ",
+  "price": "0,00",
+  "amount": "10",
   "description": "Einstellbereich bei SAV 8612: 80 - 160mbar"
 }

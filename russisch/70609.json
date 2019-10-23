@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    70609\r\n                  ",
+  "id": "70609",
   "name": "Schilderbrücke 100x99x25 mm, s=2 mm, aus 1.4301",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Bohrungsabstand f&#xFC;r Typenschild: 80x60 mm<br>Bohrungsabstand f&#xFC;r Pfeilschild: 54 mm"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Bohrungsabstand für Typenschild: 80x60 mm\\nBohrungsabstand für Pfeilschild: 54 mm"
 }

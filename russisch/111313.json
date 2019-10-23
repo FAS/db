@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    111313\r\n                  ",
+  "id": "111313",
   "name": "generalüberholtes Kassensystem bestehend aus:",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": " - Tankstellen-Steuereinheit<br> - Bedienpult komplett<br> - Koppeleletronik komplett f&#xFC;r ER3"
+  "price": "0,00",
+  "amount": "0",
+  "description": " - Tankstellen-Steuereinheit\\n - Bedienpult komplett\\n - Koppeleletronik komplett für ER3"
 }

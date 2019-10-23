@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    111555\r\n                  ",
+  "id": "111555",
   "name": "Gas für Notversorgung",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "###############################<br>(  ) 11 kg Flasche<br>(  ) 33 kg Flasche<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "\\n() 11 kg Flasche\\n() 33 kg Flasche\\n"
 }

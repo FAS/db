@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    111272\r\n                  ",
+  "id": "111272",
   "name": "Anlagenaufnahme von Fremdanlagen",
   "weight": "0,00",
-  "price": "\r\n                  315,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "<br>Anlage:<br>( X ) Wochenbericht<br>( X ) Erfassung von Komponenten in Treibgas- <br>       bzw. Fl&#xFC;ssiggastankstellen<br>( X ) Fotos"
+  "price": "315,00",
+  "amount": "0",
+  "description": "\\nAnlage:\\n( X ) Wochenbericht\\n( X ) Erfassung von Komponenten in Treibgas- \\nbzw. Flüssiggastankstellen\\n( X ) Fotos"
 }

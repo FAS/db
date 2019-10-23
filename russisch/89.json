@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    89\r\n                  ",
+  "id": "89",
   "name": "Mehrkosten für Notversorgung mittels Gasphase",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "***********************************************************<br><br>- zu den Angeboten 2210059 bzw. 2210102<br><br>- periodisch Volllast (75 kg/h)<br>- Dauerversorgung unter Teillast (ca. 50 kg/h)<br><br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "\\n\\n- zu den Angeboten 2210059 bzw. 2210102\\n\\n- periodisch Volllast (75 kg/h)\\n- Dauerversorgung unter Teillast (ca. 50 kg/h)\\n\\n"
 }

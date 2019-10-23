@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    11010\r\n                  ",
+  "id": "11010",
   "name": "Sattelstutzen, kurze Ausführung",
   "weight": "0,13",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n2\r\n                    \r\n                    ",
-  "description": "DN 32/PN 16, 42,4 x 2,6 mm,<br>Material aus St 35.8 I<br>Ident-Nr. 18882"
+  "price": "0,00",
+  "amount": "2",
+  "description": "DN 32/PN 16, 42,4 x 2,6 mm,\\nMaterial aus St 35.8 I\\nIdent-Nr. 18882"
 }

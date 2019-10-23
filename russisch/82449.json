@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    82449\r\n                  ",
-  "name": "Rohrbogen, DIN 2605, Stahl 35.8 I, 2\" NPT,  PN 40,",
+  "id": "82449",
+  "name": "Rohrbogen, DIN 2605, Stahl 35.8 I, 2\" NPT,PN 40,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Rohranschlu&#xDF;: 60,3, Wandst&#xE4;rke: 2,9 mm, mit <br>Abnahmepr&#xFC;fzeugnis 3.1.B nach EN 10204 (DIN 50.049-31B)<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Rohranschluß: 60,3, Wandstärke: 2,9 mm, mit \\nAbnahmeprüfzeugnis 3.1.B nach EN 10204 (DIN 50.049-31B)\\n"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    84091\r\n                  ",
+  "id": "84091",
   "name": "Anzeigegerät für Fernanzeige-Geber",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "Rochester-Junior und Schulz &amp; Rackow Typ 487,<br>Anzeiger 0 ... 90% mit 10 LED-Leuchten,<br>mit 2 Relais f&#xFC;r Grenzwertsignale,<br>Versorgungsspannung: 220V, 50 Hz,<br>geeignet zum Einbau im Schaltschrank au&#xDF;erhalb<br>des Ex-gef&#xE4;hrdeten Bereiches"
+  "price": "0,00",
+  "amount": "1",
+  "description": "Rochester-Junior und Schulz & Rackow Typ 487,\\nAnzeiger 0 ... 90% mit 10 LED-Leuchten,\\nmit 2 Relais für Grenzwertsignale,\\nVersorgungsspannung: 220V, 50 Hz,\\ngeeignet zum Einbau im Schaltschrank außerhalb\\ndes Ex-gefährdeten Bereiches"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    67208\r\n                  ",
+  "id": "67208",
   "name": "Magnetkarte, codiert, für Tankautomat FAS-420_L-EC",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "<br>Laufende Nr.: 0001 - 0100<br><br>Projekt:<br>Kfz-Werkstatt AS<br>Winterh&#xE4;user Str. 87<br>97084 W&#xFC;rzburg<br><br>Achtung: Bei Nachbestellung vom Kunden letzte laufende <br>               Kartennummer erfragen !<br><br><br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "\\nLaufende Nr.: 0001 - 0100\\n\\nProjekt:\\nKfz-Werkstatt AS\\nWinterhäuser Str. 87\\n97084 Würzburg\\n\\nAchtung: Bei Nachbestellung vom Kunden letzte laufende \\nKartennummer erfragen !\\n\\n\\n"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    34222\r\n                  ",
+  "id": "34222",
   "name": "Kanal 4 Umschaltplatine für TA-FAS-Typ: 420_L_EC",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "&#xFC;ber RS 485 bzw. RS 422 f&#xFC;r PWM-Preisanzeige &amp; GOK-Interfaceplatine.<br>Die Daten&#xFC;bertragung zwischen Tankautomat und Fernanzeige<br>erfolgt &#xFC;ber ein vieradriges Datenkabel.<br><br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "über RS 485 bzw. RS 422 für PWM-Preisanzeige & GOK-Interfaceplatine.\\nDie Datenübertragung zwischen Tankautomat und Fernanzeige\\nerfolgt über ein vieradriges Datenkabel.\\n\\n"
 }

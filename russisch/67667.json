@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    67667\r\n                  ",
-  "name": "Magnetkarten, codiert, für FAS-Tankautomat 400,<br>22194 / Tank",
+  "id": "67667",
+  "name": "Magnetkarten, codiert, für FAS-Tankautomat 400,\\n22194 / Tank",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "und FAS 420, Kartenfarbe wei&#xDF;,  <br><br>Aufdruck  &quot;Autogas-Tankkarte&quot;<br>Schrift blau<br><br>Kunde: Progas<br>Projekt: <br>Progas Dortmund<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "und FAS 420, Kartenfarbe weiß,\\n\\nAufdruck\"Autogas-Tankkarte\"\\nSchrift blau\\n\\nKunde: Progas\\nProjekt: \\nProgas Dortmund\\n"
 }

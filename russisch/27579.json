@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    27579\r\n                  ",
+  "id": "27579",
   "name": "Wartungsleistungen bestehend aus:",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "2-j&#xE4;hrliche Pr&#xFC;fung der gesamten elektrischen<br>Anlage der Fl&#xFC;ssiggasanlage in Bezug auf Einhaltung<br>der sicherheitstechnischen Anforderungen.<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "2-jährliche Prüfung der gesamten elektrischen\\nAnlage der Flüssiggasanlage in Bezug auf Einhaltung\\nder sicherheitstechnischen Anforderungen.\\n"
 }

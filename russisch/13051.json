@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    13051\r\n                  ",
+  "id": "13051",
   "name": "Муфта для наполнительного клапана из латуни",
   "weight": "0,33",
-  "price": "\r\n                  35,00\r\n                  ",
-  "amount": "\r\n                      \r\n20\r\n                    \r\n                    ",
-  "description": "1/2&quot; NPT x 1 3/4&quot; ACME, T&#x438;&#x43F; RegO 3175B"
+  "price": "35,00",
+  "amount": "20",
+  "description": "1/2\" NPT x 1 3/4\" ACME, Tип RegO 3175B"
 }

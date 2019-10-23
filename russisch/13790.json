@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    13790\r\n                  ",
+  "id": "13790",
   "name": "Füllanschluss Typ FAS in Sonderausführung, bestehend aus:",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": " - Kupplung mit R&#xFC;ckschlagventil aus Messing (FAS 13061),<br>   1/4&quot; NPT IG x 1-1/4&quot; ACME IG, Typ RegO 7141 F<br> - Kugelhahn Typ MF mit 3/4&quot; NPT-Innengewinde (FAS 19252)<br> - Anschlussst&#xFC;ck M 30 x 1,5 links AG x 3/4&quot; NPT AG (FAS 10067) "
+  "price": "0,00",
+  "amount": "0",
+  "description": " - Kupplung mit Rückschlagventil aus Messing (FAS 13061),\\n1/4\" NPT IG x 1-1/4\" ACME IG, Typ RegO 7141 F\\n - Kugelhahn Typ MF mit 3/4\" NPT-Innengewinde (FAS 19252)\\n - Anschlussstück M 30 x 1,5 links AG x 3/4\" NPT AG (FAS 10067) "
 }

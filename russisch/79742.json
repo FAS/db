@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    79742\r\n                  ",
+  "id": "79742",
   "name": "Leistungsschütz 4kW; 24V gleichstrombetätigt",
   "weight": "0,10",
-  "price": "\r\n                  43,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "Spulenanschlu&#xDF; 24V DC,<br>Schaltleistung f&#xFC;r ohmsche Belastung:<br>7,0kW bei 230V-Verbraucheranschlu&#xDF;,<br>13 kW bei 400V-Verbraucheranschlu&#xDF;,<br>Schaltleistung f&#xFC;r Drehstrommotoren:<br>4,0 kW bei 400V-Verbraucheranschlu&#xDF;"
+  "price": "43,00",
+  "amount": "1",
+  "description": "Spulenanschluß 24V DC,\\nSchaltleistung für ohmsche Belastung:\\n7,0kW bei 230V-Verbraucheranschluß,\\n13 kW bei 400V-Verbraucheranschluß,\\nSchaltleistung für Drehstrommotoren:\\n4,0 kW bei 400V-Verbraucheranschluß"
 }

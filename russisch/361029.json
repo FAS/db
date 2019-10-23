@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    361029\r\n                  ",
-  "name": "Beistellung, Messauswertung Typ VISY-Command 2\t\t\t ",
+  "id": "361029",
+  "name": "Beistellung, Messauswertung Typ VISY-Command 2 ",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n13\r\n                    \r\n                    ",
-  "description": "zum Anschluss von max. 2 VISY Stick<br>Schaltschrank 300x300x125 mm, IP 55<br>Versorgungsbaustein und Interface sind im Schaltschrank<br>eingebaut"
+  "price": "0,00",
+  "amount": "13",
+  "description": "zum Anschluss von max. 2 VISY Stick\\nSchaltschrank 300x300x125 mm, IP 55\\nVersorgungsbaustein und Interface sind im Schaltschrank\\neingebaut"
 }

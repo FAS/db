@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    60001\r\n                  ",
+  "id": "60001",
   "name": "NIEDERDRUCKREGLER, 1,5 KG/H",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "DVGW zugelassen, 50 mbar,<br>KLF/G 1/4&quot; lks"
+  "price": "0,00",
+  "amount": "0",
+  "description": "DVGW zugelassen, 50 mbar,\\nKLF/G 1/4\" lks"
 }

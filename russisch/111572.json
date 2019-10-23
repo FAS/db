@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    111572\r\n                  ",
+  "id": "111572",
   "name": "Masterupdate für Tankautomat Typ FAS-420_L & 430_L",
   "weight": "0,00",
-  "price": "\r\n                  490,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "##############################<br>bestehend aus:<br> - EPROM f&#xFC;r Grundplatine<br><br>AB-Nr.: ***<br>SN-Nr.: ***<br>Fabrik-Nr.: ***<br><br>Hinweis:<br> - Preis gilt pro angefangenem Jahr seit letztem Masterupdate.<br> - Bis Anlagenbaujahr 2007 kann es notwendig werden, das LCD-Display<br>   (FAS-34.031) zus&#xE4;tzlich auszuwechseln.<br>"
+  "price": "490,00",
+  "amount": "0",
+  "description": "\\nbestehend aus:\\n - EPROM für Grundplatine\\n\\nAB-Nr.: \\nSN-Nr.: \\nFabrik-Nr.: \\n\\nHinweis:\\n - Preis gilt pro angefangenem Jahr seit letztem Masterupdate.\\n - Bis Anlagenbaujahr 2007 kann es notwendig werden, das LCD-Display\\n(FAS-34.031) zusätzlich auszuwechseln.\\n"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    27564\r\n                  ",
+  "id": "27564",
   "name": "Leistungsverzeichnis zur Ausschreibung einer",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Elektroanlage incl. Installation bestehend aus:<br><br>-Ausf&#xFC;hrungsbedingungen<br>-Mengenerfassung<br>-Schaltpl&#xE4;ne<br>-Klemmenpl&#xE4;ne<br>-St&#xFC;cklisten<br>-Flie&#xDF;schema Elektrik<br>-Lageplan<br><br>4-fache Dokumentation<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Elektroanlage incl. Installation bestehend aus:\\n\\n-Ausführungsbedingungen\\n-Mengenerfassung\\n-Schaltpläne\\n-Klemmenpläne\\n-Stücklisten\\n-Fließschema Elektrik\\n-Lageplan\\n\\n4-fache Dokumentation\\n"
 }

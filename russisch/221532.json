@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    221532\r\n                  ",
+  "id": "221532",
   "name": "Erstellung einer Ausbreitungsrechnung ",
   "weight": "0,20",
-  "price": "\r\n                  1.825,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "==============================<br>f&#xFC;r die st&#xF6;rfallbedingte Freisetzung nach VDI 3783 Blatt 2 (schwere<br>Gase) f&#xFC;r eine Fl&#xFC;ssiggasanlage in 3-facher Ausfertigung.<br>==============================<br>bauseitig sind die Beistellung der erforderlichen Lagepl&#xE4;ne, Anlagen-<br>ausf&#xFC;hrung (P&amp;ID-Schema, St&#xFC;ckliste und Bildmaterial vom Standort)<br>beizustellen.<br><br>"
+  "price": "1.825,00",
+  "amount": "0",
+  "description": "==============================\\nfür die störfallbedingte Freisetzung nach VDI 3783 Blatt 2 (schwere\\nGase) für eine Flüssiggasanlage in 3-facher Ausfertigung.\\n==============================\\nbauseitig sind die Beistellung der erforderlichen Lagepläne, Anlagen-\\nausführung (P&ID-Schema, Stückliste und Bildmaterial vom Standort)\\nbeizustellen.\\n\\n"
 }

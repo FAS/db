@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    616135\r\n                  ",
+  "id": "616135",
   "name": "Gasmesscomputer Typ : 8022",
   "weight": "0,00",
-  "price": "\r\n                  720,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "EG-Baumusterpr&#xFC;fbescheinigung<br>BVS 03 ATEX G 007 X, PFG-Nr. 41300503P<br>SIL-1 f&#xE4;hig<br>Mikroprozessortechnologie<br>St&#xF6;r&#xFC;berwachung auf Drahtbruch, Netzausfall<br>Kurzschlu&#xDF; und Rechnerdefekt<br>Zyklische, digitale Anzeige der aktuellen<br>Konzentration jeder Me&#xDF;stelle<br>Test der Alarmgabe ohne Pr&#xFC;fgas<br>Reset der Hupe und Alarm 2<br>Alarmschwellen : 2<br>Anschlie&#xDF;bare F&#xFC;hler: 2<br>Bauform : Wandaufbau oder Normfeldeinbau<br>LEDs f&#xFC;r : Alarm 1 und 2, St&#xF6;rung, Me&#xDF;f&#xFC;hler 1 + 2,<br>Hupe, Betrieb<br>Relaisausgabe f&#xFC;r : Alarm 1 und 2 f&#xFC;r beide F&#xFC;hler<br>Hupe und St&#xF6;rung<br>Alarm 1 : nicht speichernd<br>Alarm 2 : wahlweise speichernd<br>Versorgungsspannung: 230V AC oder 24V DC"
+  "price": "720,00",
+  "amount": "0",
+  "description": "EG-Baumusterprüfbescheinigung\\nBVS 03 ATEX G 007 X, PFG-Nr. 41300503P\\nSIL-1 fähig\\nMikroprozessortechnologie\\nStörüberwachung auf Drahtbruch, Netzausfall\\nKurzschluß und Rechnerdefekt\\nZyklische, digitale Anzeige der aktuellen\\nKonzentration jeder Meßstelle\\nTest der Alarmgabe ohne Prüfgas\\nReset der Hupe und Alarm 2\\nAlarmschwellen : 2\\nAnschließbare Fühler: 2\\nBauform : Wandaufbau oder Normfeldeinbau\\nLEDs für : Alarm 1 und 2, Störung, Meßfühler 1 + 2,\\nHupe, Betrieb\\nRelaisausgabe für : Alarm 1 und 2 für beide Fühler\\nHupe und Störung\\nAlarm 1 : nicht speichernd\\nAlarm 2 : wahlweise speichernd\\nVersorgungsspannung: 230V AC oder 24V DC"
 }

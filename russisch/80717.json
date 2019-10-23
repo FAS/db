@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    80717\r\n                  ",
+  "id": "80717",
   "name": "alt",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Anlage:<br>- Montagebericht<br>- Rechnung T&#xDC;V"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Anlage:\\n- Montagebericht\\n- Rechnung TÜV"
 }

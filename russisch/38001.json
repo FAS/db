@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    38001\r\n                  ",
+  "id": "38001",
   "name": "Liquid Control Flüssigkeitszähler, Typ M-5-P-8",
   "weight": "10,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "1 1/2&quot;  R-Gewindeanschl&#xFC;sse, Dichtungen Teflon,<br>Geh&#xE4;use Edelstahl<br><br>mit Impulsgeber f&#xFC;r Auswert- u. Steuereinheit,<br>einschlie&#xDF;lich Vorortanzeige der Chargen- u. Gesamtdurchsatzmenge,<br><br>Medien u.a. Wasser, Farben, Mineral&#xF6;le<br>Leistung max. 190 l/min,<br>Temperaturbereich -40&#xB0; C bis + 71&#xB0; C"
+  "price": "0,00",
+  "amount": "0",
+  "description": "1 1/2\"R-Gewindeanschlüsse, Dichtungen Teflon,\\nGehäuse Edelstahl\\n\\nmit Impulsgeber für Auswert- u. Steuereinheit,\\neinschließlich Vorortanzeige der Chargen- u. Gesamtdurchsatzmenge,\\n\\nMedien u.a. Wasser, Farben, Mineralöle\\nLeistung max. 190 l/min,\\nTemperaturbereich -40° C bis + 71° C"
 }

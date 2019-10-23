@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    69014\r\n                  ",
+  "id": "69014",
   "name": "Magnesium-Erdungsanlage bestehend aus:",
   "weight": "15,50",
-  "price": "\r\n                  425,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": " - 1 St&#xFC;ck Mg-Erder mit Backfill und 5m Anschlusskabel<br> - 1 St&#xFC;ck Ex-Verteilerkasten<br> - 1 St&#xFC;ck Beh&#xE4;lteranschlusskabel mit Schraube<br>      und Zahnscheibe<br>"
+  "price": "425,00",
+  "amount": "1",
+  "description": " - 1 Stück Mg-Erder mit Backfill und 5m Anschlusskabel\\n - 1 Stück Ex-Verteilerkasten\\n - 1 Stück Behälteranschlusskabel mit Schraube\\nund Zahnscheibe\\n"
 }

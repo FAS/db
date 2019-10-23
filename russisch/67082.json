@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    67082\r\n                  ",
-  "name": "Aufkleber  Shell -neutral-",
+  "id": "67082",
+  "name": "AufkleberShell -neutral-",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n5\r\n                    \r\n                    ",
-  "description": "Schriftfarbe: - keine Aufschrift -<br>Aufkleberfarbe: gelb - RAL 1023<br>f&#xFC;r Tankstellen&#xFC;berdachung Ausf&#xFC;hrung Shell-Gas<br>auf Fl&#xE4;che 2000 x 300mm"
+  "price": "0,00",
+  "amount": "5",
+  "description": "Schriftfarbe: - keine Aufschrift -\\nAufkleberfarbe: gelb - RAL 1023\\nfür Tankstellenüberdachung Ausführung Shell-Gas\\nauf Fläche 2000 x 300mm"
 }

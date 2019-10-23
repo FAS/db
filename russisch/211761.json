@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    211761\r\n                  ",
+  "id": "211761",
   "name": "T-Stück R 1/4\" AG x 1/4\" IG x 1/4\" IG",
   "weight": "0,02",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n5\r\n                    \r\n                    ",
-  "description": "Werkstoff:Edelstahl 1.4404<br>Betriebstemperatur -20 &#xB0;C bis +150 &#xB0;C<br>Druckbereich max. 150 bar"
+  "price": "0,00",
+  "amount": "5",
+  "description": "Werkstoff:Edelstahl 1.4404\\nBetriebstemperatur -20 °C bis +150 °C\\nDruckbereich max. 150 bar"
 }

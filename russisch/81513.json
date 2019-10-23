@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    81513\r\n                  ",
+  "id": "81513",
   "name": "alt",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "T&#xDC;V-Bericht dem Fahrer ausgeh&#xE4;ndigt.<br>Kopie der Rechnung beiliegend."
+  "price": "0,00",
+  "amount": "0",
+  "description": "TÜV-Bericht dem Fahrer ausgehändigt.\\nKopie der Rechnung beiliegend."
 }

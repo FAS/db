@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    34\r\n                  ",
+  "id": "34",
   "name": "Die Umsatzsteuer aus dieser Leistung wird vom Leistungs-",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "empf&#xE4;nger geschuldet (Reverse-Charge-Verfahren)."
+  "price": "0,00",
+  "amount": "0",
+  "description": "empfänger geschuldet (Reverse-Charge-Verfahren)."
 }

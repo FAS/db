@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    22433\r\n                  ",
+  "id": "22433",
   "name": "Einleseinterface TCA-2 für TDA 25 - 200/250",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "zum Einlesen der Daten aus Chrono-Karte in PC,<br>- inkl. Chronoprogramm,<br>- inkl. Chrono-Karte f&#xFC;r TDA 25 - 200/250<br>- inkl. TABA - Tankdatenmanager,<br>kleines Fuhrparkauswertesoftware (WIN-Version),<br>Auswertung der Chronologischen Tankungen pro Fahrzeug<br>Auswertung der Gesamttankung der Fahrzeuge"
+  "price": "0,00",
+  "amount": "0",
+  "description": "zum Einlesen der Daten aus Chrono-Karte in PC,\\n- inkl. Chronoprogramm,\\n- inkl. Chrono-Karte für TDA 25 - 200/250\\n- inkl. TABA - Tankdatenmanager,\\nkleines Fuhrparkauswertesoftware (WIN-Version),\\nAuswertung der Chronologischen Tankungen pro Fahrzeug\\nAuswertung der Gesamttankung der Fahrzeuge"
 }

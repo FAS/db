@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    67158\r\n                  ",
+  "id": "67158",
   "name": "Magnetkarte, codiert, für Tankautomat FAS-420_L,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Ausf&#xFC;hrung: 1-farbig mit Aufdruck gem&#xE4;&#xDF; Kunden-Vorlage<br>vom _________<br>Kartenfarbe: rot (  ), blau (  ), gr&#xFC;n (  ) oder wei&#xDF; ( X )<br>Schriftfarbe:  <br>Achtung: Bei Nachbestellung vom Kunden letzte laufende <br>               Kartennummer erfragen !<br>Kunde: Westfalen AG<br>Projekt:<br>Aurego GmbH<br>42855 Remscheid"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Ausführung: 1-farbig mit Aufdruck gemäß Kunden-Vorlage\\nvom _________\\nKartenfarbe: rot (), blau (), grün () oder weiß ( X )\\nSchriftfarbe:\\nAchtung: Bei Nachbestellung vom Kunden letzte laufende \\nKartennummer erfragen !\\nKunde: Westfalen AG\\nProjekt:\\nAurego GmbH\\n42855 Remscheid"
 }

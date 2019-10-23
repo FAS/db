@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    16722\r\n                  ",
+  "id": "16722",
   "name": "Nieder-Druckregler Typ GOK 76F-50, PS 16 bar",
   "weight": "0,23",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Eingangsdruck: 0,5-10,0bar<br>Ausgangsdruck: 50mbar<br>Leistung: 1,5kg/h<br>Anschlu&#xDF;: G 1/4&quot; IG"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Eingangsdruck: 0,5-10,0bar\\nAusgangsdruck: 50mbar\\nLeistung: 1,5kg/h\\nAnschluß: G 1/4\" IG"
 }

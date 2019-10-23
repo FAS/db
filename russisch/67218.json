@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    67218\r\n                  ",
+  "id": "67218",
   "name": "Magnetkarten, codiert, für Tankautomat FAS-400",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "und FAS-420.<br>Standard-Karte in Farbe wei&#xDF; mit der Aufschrift:<br>Kunde: Eurotank GmbH<br>Projekt: Turmgarage<br>              Kleve<br><br>lfd-Nr. _______  - _______"
+  "price": "0,00",
+  "amount": "0",
+  "description": "und FAS-420.\\nStandard-Karte in Farbe weiß mit der Aufschrift:\\nKunde: Eurotank GmbH\\nProjekt: Turmgarage\\nKleve\\n\\nlfd-Nr. _______- _______"
 }

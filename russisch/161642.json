@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    161642\r\n                  ",
-  "name": "Sicherheitsabsperrventil  BG SAV II – HTB",
+  "id": "161642",
+  "name": "SicherheitsabsperrventilBG SAV II – HTB",
   "weight": "1,85",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "zum Anbau an Typ: 233-8-66; DN 50 <br>Max DVGV- Zul. Betriebsdruck Pu max. (bar) 4 bar<br>Abnahmepr&#xFC;fzeugnis:  DIN EN10204-3.1<br><br>Sicherheitseinrichtung:<br>SAV einstelbereich Oben (mbar): 300 &#x2013; 600<br>Eingestellt auf: Pso 400 mbar<br>SAV einstelbereich Unten (mbar): 8 &#x2013; 50<br>Eingestellt auf: Psu 20 mbar<br><br><br>"
+  "price": "0,00",
+  "amount": "1",
+  "description": "zum Anbau an Typ: 233-8-66; DN 50 \\nMax DVGV- Zul. Betriebsdruck Pu max. (bar) 4 bar\\nAbnahmeprüfzeugnis:DIN EN10204-3.1\\n\\nSicherheitseinrichtung:\\nSAV einstelbereich Oben (mbar): 300 – 600\\nEingestellt auf: Pso 400 mbar\\nSAV einstelbereich Unten (mbar): 8 – 50\\nEingestellt auf: Psu 20 mbar\\n\\n\\n"
 }

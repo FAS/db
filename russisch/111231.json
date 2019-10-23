@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    111231\r\n                  ",
+  "id": "111231",
   "name": "Tagespauschale für Arbeiten im Europäischen Ausland",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "<br>Die Pauschale beinhaltet:<br> - Arbeitszeit vor Ort<br> - Reisezeit<br> - Hotel<br> - Verpflegung<br><br>Die Abrechnung des Fluges (Economy Class) erfolgt auf Nachweis."
+  "price": "0,00",
+  "amount": "0",
+  "description": "\\nDie Pauschale beinhaltet:\\n - Arbeitszeit vor Ort\\n - Reisezeit\\n - Hotel\\n - Verpflegung\\n\\nDie Abrechnung des Fluges (Economy Class) erfolgt auf Nachweis."
 }

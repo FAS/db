@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    111600\r\n                  ",
+  "id": "111600",
   "name": "Versandkosten für Bauteil-Lieferung an Auftraggeber:",
   "weight": "0,00",
-  "price": "\r\n                  38,50\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "###############################<br>Versand &#xFC;ber R&#xFC;cklieferschein ***<br>###############################<br>06,50 EUR - Versand per <br>       (  ) Nachtexpress<br>       ( X ) UPS: ( X ) Standard / (  ) UPS-Express Saver / (  ) UPS-Express /<br>                     (  ) UPS-Express PLUS<br>       (  ) Spedition: (  ) Standard / (  ) next day / (  ) Premium 08:00 Uhr /<br>                             (  ) Premium 10:00 Uhr / (  ) Premium 12:00 Uhr(  )<br>07,- EUR - Verpackung<br>25,- EUR - Handlingspauschale"
+  "price": "38,50",
+  "amount": "0",
+  "description": "\\nVersand über Rücklieferschein \\n\\n06,50 EUR - Versand per \\n() Nachtexpress\\n( X ) UPS: ( X ) Standard / () UPS-Express Saver / () UPS-Express /\\n() UPS-Express PLUS\\n() Spedition: () Standard / () next day / () Premium 08:00 Uhr /\\n() Premium 10:00 Uhr / () Premium 12:00 Uhr()\\n07,- EUR - Verpackung\\n25,- EUR - Handlingspauschale"
 }

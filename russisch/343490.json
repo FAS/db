@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    343490\r\n                  ",
+  "id": "343490",
   "name": "Tankautomat HecStar EMV2, ohne BNA, ohne Pinpad",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Integrierte Anschlussbox f&#xFC;r 8 ER-Zapfpunkte; ER3/4-Protokoll.<br>Nimmt ein EL-ME OPP B50 Pinpag auf,<br>erf&#xFC;llt EMV2 ZKA TA7.0 Bedingungen hinsichtlich Bauweise und Datensicherheit.<br>Gekapselter Vorsteck-Kartenleser f&#xFC;r Magnetstreifen- und Chipverarbeitung.<br>Akzeptanz von &#xF6;ffentlichen bargeldlosen Zahlungsmitteln (Kredit-/Debitkarten), Flottenkarten (DKV, UTA) sowie Stationskarten.<br>Belegdrucker; integrierte Beheizung; Notstromversorgung und LED-Beleuchtung; PC104 Board; 128MB Compact Flash Card; ISDB-Router zur Datenkommunikation.<br>Tankautomat ist vorgeeicht.<br>Anschlussm&#xF6;glichkeit einer Gro&#xDF;preisanzeige &#xFC;ber Partyline bzw. ER3/4 Protokoll"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Integrierte Anschlussbox für 8 ER-Zapfpunkte; ER3/4-Protokoll.\\nNimmt ein EL-ME OPP B50 Pinpag auf,\\nerfüllt EMV2 ZKA TA7.0 Bedingungen hinsichtlich Bauweise und Datensicherheit.\\nGekapselter Vorsteck-Kartenleser für Magnetstreifen- und Chipverarbeitung.\\nAkzeptanz von öffentlichen bargeldlosen Zahlungsmitteln (Kredit-/Debitkarten), Flottenkarten (DKV, UTA) sowie Stationskarten.\\nBelegdrucker; integrierte Beheizung; Notstromversorgung und LED-Beleuchtung; PC104 Board; 128MB Compact Flash Card; ISDB-Router zur Datenkommunikation.\\nTankautomat ist vorgeeicht.\\nAnschlussmöglichkeit einer Großpreisanzeige über Partyline bzw. ER3/4 Protokoll"
 }

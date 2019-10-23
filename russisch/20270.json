@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    20270\r\n                  ",
+  "id": "20270",
   "name": "Rohrheizkörper ",
   "weight": "0,42",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": " - Spannung : 230V      <br> - Heizleistung : 1800 Watt      <br> - gestreckte L&#xE4;nge : 1780 mm +-10      <br> - Material : 1.4541      <br> - unbeheizte Zone : 80 mm      <br> - Durchmesser : 8,5 mm      <br> - Anschluss : 250 mm Litze 1,5&#xB2;      <br> - Biegeform : lt Skizze      <br> - Oberfl&#xE4;chenbelastung : ca 4,2 W/ cm&#xB2;  <br><br><br>ACHTUNG!!!! LINKS GEBOGEN!!!!!    <br><br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": " - Spannung : 230V\\n - Heizleistung : 1800 Watt\\n - gestreckte Länge : 1780 mm +-10\\n - Material : 1.4541\\n - unbeheizte Zone : 80 mm\\n - Durchmesser : 8,5 mm\\n - Anschluss : 250 mm Litze 1,5²\\n - Biegeform : lt Skizze\\n - Oberflächenbelastung : ca 4,2 W/ cm²\\n\\n\\nACHTUNG!!!! LINKS GEBOGEN!!!!!\\n\\n"
 }

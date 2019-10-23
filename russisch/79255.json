@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    79255\r\n                  ",
-  "name": "Anschlußklemmkasten, Ex-geschützt,  zum Verkabeln",
+  "id": "79255",
+  "name": "Anschlußklemmkasten, Ex-geschützt,zum Verkabeln",
   "weight": "6,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "der elektron. Fl&#xFC;ssiggas-Zapfs&#xE4;ule, Typ FAS-120 und FAS-220,<br>Klemmkasten ausger&#xFC;stet mit :<br>11 Reihenklemmen 4qmm, <br>3 Kabelverschraubungen M25<br>5 Kabelverschraubungen M20,<br>Klemmkasten EEx e II T6,   <br>mit PTB-Bescheinigung"
+  "price": "0,00",
+  "amount": "0",
+  "description": "der elektron. Flüssiggas-Zapfsäule, Typ FAS-120 und FAS-220,\\nKlemmkasten ausgerüstet mit :\\n11 Reihenklemmen 4qmm, \\n3 Kabelverschraubungen M25\\n5 Kabelverschraubungen M20,\\nKlemmkasten EEx e II T6,\\nmit PTB-Bescheinigung"
 }

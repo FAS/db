@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    299916\r\n                  ",
+  "id": "299916",
   "name": "Dell Rechner OptiPlex 3060 Mini Tower XCTO",
   "weight": "4,40",
-  "price": "\r\n                  1.680,00\r\n                  ",
-  "amount": "\r\n                      \r\n11\r\n                    \r\n                    ",
-  "description": "Ausstattung:<br>- Intel Core i-5 Processor<br>- 16BG-RAM<br>- 256GB-SSD-Festplatte<br>- Windows 10 Pro 64bit"
+  "price": "1.680,00",
+  "amount": "11",
+  "description": "Ausstattung:\\n- Intel Core i-5 Processor\\n- 16BG-RAM\\n- 256GB-SSD-Festplatte\\n- Windows 10 Pro 64bit"
 }

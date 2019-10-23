@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    340562\r\n                  ",
-  "name": "EC-Terminal OPP C60 für Tankautomat  mit Tastatur",
+  "id": "340562",
+  "name": "EC-Terminal OPP C60 für Tankautomatmit Tastatur",
   "weight": "1,20",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "konfiguriert f&#xFC;r ISDN-Telecash (Standard)<br>(Einbau in Typ: FAS-420_L_EC Tankautomaten)<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "konfiguriert für ISDN-Telecash (Standard)\\n(Einbau in Typ: FAS-420_L_EC Tankautomaten)\\n"
 }

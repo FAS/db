@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    111200\r\n                  ",
+  "id": "111200",
   "name": "Aufpreis für Servicearbeiten ohne Servicevereinbarung",
   "weight": "0,00",
-  "price": "\r\n                  50,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "###############################"
+  "price": "50,00",
+  "amount": "0",
+  "description": ""
 }

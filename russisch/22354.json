@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    22354\r\n                  ",
+  "id": "22354",
   "name": "Temperaturkompensation für ER4-Rechner",
   "weight": "0,20",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Temp-Komp 410 im Kunststoffgeh&#xE4;use, Zapfs&#xE4;ulenausf&#xFC;hrung mit ER4-Rechner und einem Impulsgeber (FAS-Typ:220/120)<br>inklusive Befestigungsblech FAS: 34.923"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Temp-Komp 410 im Kunststoffgehäuse, Zapfsäulenausführung mit ER4-Rechner und einem Impulsgeber (FAS-Typ:220/120)\\ninklusive Befestigungsblech FAS: 34.923"
 }

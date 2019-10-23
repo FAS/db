@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    18919\r\n                  ",
+  "id": "18919",
   "name": "Meßanlage Typ FAS-MSA 120-C-10, PN 20",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "f&#xFC;r Propylen bestehend aus Drehklappenz&#xE4;hler mit<br>Gasblasenabscheider, Filter und Druckhalteventil.<br>Eingang/Ausgang 6&quot; ANSI 300, Durchflu&#xDF;richtung links<br>nach rechts. Durchflu&#xDF;menge 760-3780 l/min.<br>komplett mit LCR-Auswertelektronik mit Temperaturvolumen-<br>korrektur und Belegdrucker zur Montage au&#xDF;erhalb der Ex-Zone. "
+  "price": "0,00",
+  "amount": "0",
+  "description": "für Propylen bestehend aus Drehklappenzähler mit\\nGasblasenabscheider, Filter und Druckhalteventil.\\nEingang/Ausgang 6\" ANSI 300, Durchflußrichtung links\\nnach rechts. Durchflußmenge 760-3780 l/min.\\nkomplett mit LCR-Auswertelektronik mit Temperaturvolumen-\\nkorrektur und Belegdrucker zur Montage außerhalb der Ex-Zone. "
 }

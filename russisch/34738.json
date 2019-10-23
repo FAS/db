@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    34738\r\n                  ",
+  "id": "34738",
   "name": "TA 2331 im Standgehäuse, ER-Ausführung",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "Tankautomat TA 2331, ohne CPU, Anschluss von<br>bis zu 4 elektronischen Preisrechnern &#xFC;ber <br>ER-Interface mit ER 3-2 / ER4-Protokoll<br>Ohne Leser und L&#xE4;nderbausatz<br>"
+  "price": "0,00",
+  "amount": "1",
+  "description": "Tankautomat TA 2331, ohne CPU, Anschluss von\\nbis zu 4 elektronischen Preisrechnern über \\nER-Interface mit ER 3-2 / ER4-Protokoll\\nOhne Leser und Länderbausatz\\n"
 }

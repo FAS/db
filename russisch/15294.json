@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    15294\r\n                  ",
+  "id": "15294",
   "name": "Предохранительный клапан 1/2\" NPT AG, Typ RegO SS8022",
   "weight": "0,10",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "&#x438;&#x437; &#x43D;&#x435;&#x440;&#x436;&#x430;&#x432;&#x435;&#x44E;&#x449;&#x435;&#x439; &#x441;&#x442;&#x430;&#x43B;&#x438; &#x441; &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A;&#x43E;&#x432;&#x44B;&#x43C; &#x43A;&#x43E;&#x43B;&#x43F;&#x430;&#x447;&#x43A;&#x43E;&#x43C;<br><br>&#x423;&#x441;&#x442;&#x430;&#x43D;&#x43E;&#x432;&#x43E;&#x447;&#x43D;&#x43E;&#x435; &#x434;&#x430;&#x432;&#x43B;&#x435;&#x43D;&#x438;&#x435;               FAS-Nr.<br>250 PSI                      -&gt;  90.626 (mit UL-Kennzeichnung) &quot;G&quot;<br>350 PSI                      -&gt;  90.627 (mit UL-Kennzeichnung) &quot;J&quot;<br>400 PSI                      -&gt;  90.628 (mit UL-Kennzeichnung) &quot;L&quot;<br>450 PSI                      -&gt;  90.629 (mit UL-Kennzeichnung) &quot;U&quot;<br><br>15,5 bar                     -&gt;  90.635<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "из нержавеющей стали с пластиковым колпачком\\n\\nУстановочное давлениеFAS-Nr.\\n250 PSI->90.626 (mit UL-Kennzeichnung) \"G\"\\n350 PSI->90.627 (mit UL-Kennzeichnung) \"J\"\\n400 PSI->90.628 (mit UL-Kennzeichnung) \"L\"\\n450 PSI->90.629 (mit UL-Kennzeichnung) \"U\"\\n\\n15,5 bar->90.635\\n"
 }

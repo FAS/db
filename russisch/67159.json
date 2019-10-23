@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    67159\r\n                  ",
+  "id": "67159",
   "name": "Magnetkarte, codiert, für Tankautomat FAS-420",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Ausf&#xFC;hrung: 1-farbig mit Aufdruck gem&#xE4;&#xDF; Kunden-Vorlage<br><br>Kartenfarbe: rot (  ), blau (  ), gr&#xFC;n (  ) oder wei&#xDF; (  )<br><br>Laufende Kartennr.: ..... - ......<br><br>Schriftfarbe: <br>Achtung: Bei Nachbestellung vom Kunden letzte laufende <br>               Kartennummer erfragen !<br><br>Kunde: Tyczka Totalgaz<br><br>Projekt:<br>ANZAG<br>31177 Harsum"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Ausführung: 1-farbig mit Aufdruck gemäß Kunden-Vorlage\\n\\nKartenfarbe: rot (), blau (), grün () oder weiß ()\\n\\nLaufende Kartennr.: ..... - ......\\n\\nSchriftfarbe: \\nAchtung: Bei Nachbestellung vom Kunden letzte laufende \\nKartennummer erfragen !\\n\\nKunde: Tyczka Totalgaz\\n\\nProjekt:\\nANZAG\\n31177 Harsum"
 }

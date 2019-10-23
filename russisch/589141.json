@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    589141\r\n                  ",
+  "id": "589141",
   "name": "Balgengaszähler, Zweirohrausführung G4",
   "weight": "3,30",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Modell: G4<br>Max. Durchfluss: 6.0 m3/h<br>Norm. Durchfluss: 4.0 m3/h<br>Min. Durchfluss: 0.04 m3/h<br>Max. Arbeitsdruck: 1.5 bar<br>Temperaturbereich.: -20 .. 55C<br>Gewinde Gasanschluss: 34x1.5mm PF1&quot;<br>Z&#xE4;hlwerk: 8 Walzen<br>Ursprungsland; Korea"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Modell: G4\\nMax. Durchfluss: 6.0 m3/h\\nNorm. Durchfluss: 4.0 m3/h\\nMin. Durchfluss: 0.04 m3/h\\nMax. Arbeitsdruck: 1.5 bar\\nTemperaturbereich.: -20 .. 55C\\nGewinde Gasanschluss: 34x1.5mm PF1\"\\nZählwerk: 8 Walzen\\nUrsprungsland; Korea"
 }

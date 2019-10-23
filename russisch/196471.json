@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    196471\r\n                  ",
+  "id": "196471",
   "name": "Magnetventil 2/2 Wege Zwangsgesteuert",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Baureihe 82540, Membranenventilart<br>Anschluss: 2&quot; G<br>Nennweite: 50 mm<br>Druckbereich: 0- 16bar<br>Temperatur Medium: -10 - +80 &#xB0;C<br>Temperatur Umgebung: -10 - +40 &#xB0;C<br>Spannung: 230V<br>Frequenz: 40-60Hz<br>Aufn. Betrieb: 195mA<br>Schutzart: EEx me II T3, IP 65, Ex II 2 GD T 140&#xB0;C"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Baureihe 82540, Membranenventilart\\nAnschluss: 2\" G\\nNennweite: 50 mm\\nDruckbereich: 0- 16bar\\nTemperatur Medium: -10 - +80 °C\\nTemperatur Umgebung: -10 - +40 °C\\nSpannung: 230V\\nFrequenz: 40-60Hz\\nAufn. Betrieb: 195mA\\nSchutzart: EEx me II T3, IP 65, Ex II 2 GD T 140°C"
 }

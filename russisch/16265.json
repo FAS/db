@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    16265\r\n                  ",
+  "id": "16265",
   "name": "Druckregler, Niederdruck (2. Stufe), ",
   "weight": "3,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Typ GOK 02-779-52, mit Sicherheitsabsperrventil (SAV) <br>Leistung:        12 kg/h<br>Anschlu&#xDF;:       Eingang: RVS18, Ausgang: RVS18"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Typ GOK 02-779-52, mit Sicherheitsabsperrventil (SAV) \\nLeistung:12 kg/h\\nAnschluß:Eingang: RVS18, Ausgang: RVS18"
 }

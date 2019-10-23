@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    19461\r\n                  ",
+  "id": "19461",
   "name": "Magnetventil, Ex-geschützt, DN 25, PN 40",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Geh&#xE4;use aus Stahlgu&#xDF;, beiderseits Flansche nach DIN EN 1092-1 (DIN 2635),<br>PN 40, mit Zwangsanhebung, stromlos geschlossen,<br>Betriebsdruck 0-25 bar, 24 V Gleichstrom, buntmetallfrei,<br>mit Kennzeichnung und Auslegung nach Merkblatt AD A4,<br>und Abnahmepr&#xFC;fzeugnis 3.1.B nach EN 10204  (DIN 50.049-3.1 B)"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Gehäuse aus Stahlguß, beiderseits Flansche nach DIN EN 1092-1 (DIN 2635),\\nPN 40, mit Zwangsanhebung, stromlos geschlossen,\\nBetriebsdruck 0-25 bar, 24 V Gleichstrom, buntmetallfrei,\\nmit Kennzeichnung und Auslegung nach Merkblatt AD A4,\\nund Abnahmeprüfzeugnis 3.1.B nach EN 10204(DIN 50.049-3.1 B)"
 }

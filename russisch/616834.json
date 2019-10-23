@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    616834\r\n                  ",
+  "id": "616834",
   "name": "Rückschlagventil ",
   "weight": "0,55",
-  "price": "\r\n                  70,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "RegO NG 304<br><br>Materialien<br>Geh&#xE4;use................................................. .......... Messing ASTM B16 C36000<br>Feder ............................................... Rostfreier Stahl 302 ASTM A313<br>Dichtung ........................................... Kupfer ASTM B152 UNS C11000<br>Poppet ............................................... Messing ASTM B16 UNSC36000<br>Sitzscheibe ................................................ ............... PTFE Virgin Teflon<br>Installation"
+  "price": "70,00",
+  "amount": "0",
+  "description": "RegO NG 304\\n\\nMaterialien\\nGehäuse................................................. .......... Messing ASTM B16 C36000\\nFeder ............................................... Rostfreier Stahl 302 ASTM A313\\nDichtung ........................................... Kupfer ASTM B152 UNS C11000\\nPoppet ............................................... Messing ASTM B16 UNSC36000\\nSitzscheibe ................................................ ............... PTFE Virgin Teflon\\nInstallation"
 }

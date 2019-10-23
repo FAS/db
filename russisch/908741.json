@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    908741\r\n                  ",
+  "id": "908741",
   "name": "ANSI-Vollhub-/Normal-Sicherheitsventil mit Flanschen DN 40",
   "weight": "0,00",
-  "price": "\r\n                  1.765,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "- geschlossene Haube - geschlossene Anl&#xFC;ftung -<br>- Nenndruck : ANSI 300<br>Geh&#xE4;use Eingang/Ausgang : Eingang 1,5&quot; / Ausgang 3&quot;<br>Ansprechdruck (bar) : 25,00<br>Druckbereich (bar) : &gt; 22,0 - 28,0<br>Flanschbohrung : ANSI 300/150<br>Eintritt nach ANSI300<br>Austritt nach ANSI150<br>Auslegungsdaten<br>===============<br>Medium : Butan<br>Temperatur : 20,00 &#xB0;C<br>Ansprechdruck : 25,00 bar(&#xFC;)<br>Eigengegendruck : 0,00 bar(&#xFC;)<br>Ventilleistung max.: 22.640,20 kg/h<br>nach API 520<br>mit APZ EN10204 3.1<br>"
+  "price": "1.765,00",
+  "amount": "0",
+  "description": "- geschlossene Haube - geschlossene Anlüftung -\\n- Nenndruck : ANSI 300\\nGehäuse Eingang/Ausgang : Eingang 1,5\" / Ausgang 3\"\\nAnsprechdruck (bar) : 25,00\\nDruckbereich (bar) : > 22,0 - 28,0\\nFlanschbohrung : ANSI 300/150\\nEintritt nach ANSI300\\nAustritt nach ANSI150\\nAuslegungsdaten\\n===============\\nMedium : Butan\\nTemperatur : 20,00 °C\\nAnsprechdruck : 25,00 bar(ü)\\nEigengegendruck : 0,00 bar(ü)\\nVentilleistung max.: 22.640,20 kg/h\\nnach API 520\\nmit APZ EN10204 3.1\\n"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    263462\r\n                  ",
+  "id": "263462",
   "name": "Drehstrommotor mit Käfigläufer VEM",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Standardmotor ohne Ex-Schutz<br><br>Type                               : K21R90S4<br>Leistung ( Netz)               : 1,1 kW<br>Umgebungstemperatur   : max. 50&#xB0; C<br>Betriebsart                      : S 1 -100 % ED<br>Drehzahl                         : 1410 U/min<br>Spannung                       :220 / 380 Volt D/Y<br>Frequenz                        : 50 Hz<br>Iso Kl.                             : 155 &#xB0;(F/B)<br>Bauform                         : IM B3<br>Schutzart                        :IP65 Wetterfest<br>Klemmkastenanlage       : oben<br>Lagerung D-Seite           : Kugellager<br>Lager&#xFC;berwachung        : keine<br>Kabeleinf&#xFC;hrung            : 1 x M25 x 1,5<br>Gewicht                          : 15,5 kg<br><br>+ 1x Kabelverschraubung M 25 x 1,5  <br>   druckfest nach ATEX f&#xFC;r o. g. Motor"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Standardmotor ohne Ex-Schutz\\n\\nType: K21R90S4\\nLeistung ( Netz): 1,1 kW\\nUmgebungstemperatur: max. 50° C\\nBetriebsart: S 1 -100 % ED\\nDrehzahl: 1410 U/min\\nSpannung:220 / 380 Volt D/Y\\nFrequenz: 50 Hz\\nIso Kl.: 155 °(F/B)\\nBauform: IM B3\\nSchutzart:IP65 Wetterfest\\nKlemmkastenanlage: oben\\nLagerung D-Seite: Kugellager\\nLagerüberwachung: keine\\nKabeleinführung: 1 x M25 x 1,5\\nGewicht: 15,5 kg\\n\\n+ 1x Kabelverschraubung M 25 x 1,5\\ndruckfest nach ATEX für o. g. Motor"
 }

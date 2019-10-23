@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    75143\r\n                  ",
-  "name": "Vierkantstahl DIN .........,  160 mm, aus St 52-3 ",
+  "id": "75143",
+  "name": "Vierkantstahl DIN .........,160 mm, aus St 52-3 ",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Brennzuschnitt gebrannt <br>Abmessung: 160x160x1000 mm <br>Material: TSTE 355 (P355 NL1)<br>von Brennschlacke befreit, <br>Pr&#xFC;fgrundlage ADW10, UBZ -40 &#xB0; C,<br>ADW1/TRB100"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Brennzuschnitt gebrannt \\nAbmessung: 160x160x1000 mm \\nMaterial: TSTE 355 (P355 NL1)\\nvon Brennschlacke befreit, \\nPrüfgrundlage ADW10, UBZ -40 ° C,\\nADW1/TRB100"
 }

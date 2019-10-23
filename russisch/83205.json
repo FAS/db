@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    83205\r\n                  ",
+  "id": "83205",
   "name": "Sicherheitsabblase-Ventil, Typ 155D für Leckgasmengen,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "R 1&quot; IG, PN 16, Druckbeanspruchung bis 16 bar, Einstell-<br>bereich: 20 mbar - 16 bar, Einstelldruck: _____ bar,<br>DIN-DVGW zugelassen"
+  "price": "0,00",
+  "amount": "0",
+  "description": "R 1\" IG, PN 16, Druckbeanspruchung bis 16 bar, Einstell-\\nbereich: 20 mbar - 16 bar, Einstelldruck: _____ bar,\\nDIN-DVGW zugelassen"
 }

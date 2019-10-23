@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    910014\r\n                  ",
+  "id": "910014",
   "name": "Nadelventil, UNI-Typ TMN750S, ",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Geh&#xE4;usematerial: Stahl,<br>Spindel Edelstahl, <br>Spindeldichtung Viton O-Ring, Teflonummantelt,<br>Max. Betriebsdruck: 350 bar Stahlausf&#xFC;hrung , <br>140 bar Messingausf&#xFC;hrung,<br>Temperaturbereich: -28&#xB0; C  bis +200&#xB0; C<br>P: 3/4&quot; NPT IG"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Gehäusematerial: Stahl,\\nSpindel Edelstahl, \\nSpindeldichtung Viton O-Ring, Teflonummantelt,\\nMax. Betriebsdruck: 350 bar Stahlausführung , \\n140 bar Messingausführung,\\nTemperaturbereich: -28° Cbis +200° C\\nP: 3/4\" NPT IG"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    361035\r\n                  ",
+  "id": "361035",
   "name": "Beistellung, LS 300 EU (LPG), Überfüllsicherung",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n5\r\n                    \r\n                    ",
-  "description": "Mit Schutzh&#xFC;lse gegen sehr starke Gasbewegung<br>und integriertem &#xDC;berspannungsschutz<br>Sondenl&#xE4;nge: 1100 mm<br>Anschluss: Schneidringverschraubung 3/4&quot; NPTWerkstoff: 1.4571 / 1.4301<br>Max. Betriebsruck: 16 bar"
+  "price": "0,00",
+  "amount": "5",
+  "description": "Mit Schutzhülse gegen sehr starke Gasbewegung\\nund integriertem Überspannungsschutz\\nSondenlänge: 1100 mm\\nAnschluss: Schneidringverschraubung 3/4\" NPTWerkstoff: 1.4571 / 1.4301\\nMax. Betriebsruck: 16 bar"
 }

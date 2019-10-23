@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    79730\r\n                  ",
+  "id": "79730",
   "name": "Leistungsschütz für Drehstrommotoren bis 4,0 kW",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n3\r\n                    \r\n                    ",
-  "description": "Spulenanschlu&#xDF; 230V,50/60Hz<br>3 Schlie&#xDF;er als Leistungskontakte und<br>1 Schlie&#xDF;er als Hilfskontakt"
+  "price": "0,00",
+  "amount": "3",
+  "description": "Spulenanschluß 230V,50/60Hz\\n3 Schließer als Leistungskontakte und\\n1 Schließer als Hilfskontakt"
 }

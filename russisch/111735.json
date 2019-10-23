@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    111735\r\n                  ",
+  "id": "111735",
   "name": "Überprüfungskosten (bereits angefallen)",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "###############################<br>Zur Erstellung des Kostenvoranschlages/Angebotes sind bereits Kosten<br>f&#xFC;r Material, Arbeitszeit und Fahrtkosten in H&#xF6;he von ca. dem angegebenen<br>Betrag angefallen.<br><br>Hinweis/e:<br> - Es handelt sich um eine ca. Angabe, die Abrechnung erfolgt auf Nachweis.<br> - Die Abrechnung dieser &#xDC;berpr&#xFC;fungskosten erfolgt mit separater Rechnung."
+  "price": "0,00",
+  "amount": "0",
+  "description": "\\nZur Erstellung des Kostenvoranschlages/Angebotes sind bereits Kosten\\nfür Material, Arbeitszeit und Fahrtkosten in Höhe von ca. dem angegebenen\\nBetrag angefallen.\\n\\nHinweis/e:\\n - Es handelt sich um eine ca. Angabe, die Abrechnung erfolgt auf Nachweis.\\n - Die Abrechnung dieser Überprüfungskosten erfolgt mit separater Rechnung."
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    617689\r\n                  ",
+  "id": "617689",
   "name": "EK220 Mengenumwerter",
   "weight": "0,00",
-  "price": "\r\n                  5.795,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "batteriebetriebener Zustandsmengenumwerter<br>gem&#xE4;&#xDF; MID-Richtlinie 2004/22/EG<br>Zulassung zum Einsatz in Ex-Zone1<br>Kennung II 2 G EEx ia [ia] IIc T4 (T&#xDC;V 08 ATEX 554344)<br>Kundenauslegung Standard<br>Bestimmungsland Deutschland<br>Sprache im Ger&#xE4;t deutsch<br>Parametrierung Standard<br>K-Zahl-Modus K-Zahl nach S-GERG-88<br>Zeitbasis Mitteleuro. Zeit (MEZ/MESZ)<br>Abweichung zur Zeitbasis 0,00 h<br>Pr&#xFC;fung MID (Standard)<br>Ex-Zulassung ATEX<br>Ausf&#xFC;hrung Standard<br>Geh&#xE4;useplombierung Standard<br>Druckaufnehmer Typ Nr1 CT30 intern<br>1.Druckbereich in bar 0,8 ... 5,0 bar abs.<br>Bezugsdruck Pn in bar 1,01325 bar<br>Einheit f&#xFC;r 1.Druckanzeige bar<br>Temperaturaufnehmer Typ PT500<br>Temperatur -Aufnehmer Universal d=6mm, 2,5m<br>Einheit f&#xFC;r Temp.-anzeige &#xB0;C<br>Bezugstemperatur Tn in K 273,15 k<br>Impulseingangskabel 2,7m ext. Impulsgeber<br>Anzahl der Batterien 1 St&#xFC;ck<br>CP-Wert Eingang 1 1 Imp/m&#xB3;# 1m&#xB3;/Imp<br>Barcode Ja<br>Eichtechnisches Logbuch aktiv"
+  "price": "5.795,00",
+  "amount": "0",
+  "description": "batteriebetriebener Zustandsmengenumwerter\\ngemäß MID-Richtlinie 2004/22/EG\\nZulassung zum Einsatz in Ex-Zone1\\nKennung II 2 G EEx ia [ia] IIc T4 (TÜV 08 ATEX 554344)\\nKundenauslegung Standard\\nBestimmungsland Deutschland\\nSprache im Gerät deutsch\\nParametrierung Standard\\nK-Zahl-Modus K-Zahl nach S-GERG-88\\nZeitbasis Mitteleuro. Zeit (MEZ/MESZ)\\nAbweichung zur Zeitbasis 0,00 h\\nPrüfung MID (Standard)\\nEx-Zulassung ATEX\\nAusführung Standard\\nGehäuseplombierung Standard\\nDruckaufnehmer Typ Nr1 CT30 intern\\n1.Druckbereich in bar 0,8 ... 5,0 bar abs.\\nBezugsdruck Pn in bar 1,01325 bar\\nEinheit für 1.Druckanzeige bar\\nTemperaturaufnehmer Typ PT500\\nTemperatur -Aufnehmer Universal d=6mm, 2,5m\\nEinheit für Temp.-anzeige °C\\nBezugstemperatur Tn in K 273,15 k\\nImpulseingangskabel 2,7m ext. Impulsgeber\\nAnzahl der Batterien 1 Stück\\nCP-Wert Eingang 1 1 Imp/m³# 1m³/Imp\\nBarcode Ja\\nEichtechnisches Logbuch aktiv"
 }

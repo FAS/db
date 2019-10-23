@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    81512\r\n                  ",
+  "id": "81512",
   "name": "alt",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Die Kosten des T&#xDC;V-Sachverst&#xE4;ndigen werden direkt vom<br>T&#xDC;V Hannover/Sachsen Anhalt an Sie berechnet."
+  "price": "0,00",
+  "amount": "0",
+  "description": "Die Kosten des TÜV-Sachverständigen werden direkt vom\\nTÜV Hannover/Sachsen Anhalt an Sie berechnet."
 }

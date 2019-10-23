@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    111115\r\n                  ",
+  "id": "111115",
   "name": "Gutschrift aus Kulanz",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n2203.01\r\n                    \r\n                    ",
-  "description": "###############################<br>Wir schreiben Ihnen den folgenden Betrag aus Kulanz gut.<br><br>=&gt; AB-Nr.<br>=&gt; RE-Nr. <br><br>Gutschriftengrund:<br>=&gt; <br><br>Hinweis:<br>=&gt; Gutschrift auf Kulanz, ohne Anerkennung einer Rechtspflicht."
+  "price": "0,00",
+  "amount": "2203.01",
+  "description": "\\nWir schreiben Ihnen den folgenden Betrag aus Kulanz gut.\\n\\n=> AB-Nr.\\n=> RE-Nr. \\n\\nGutschriftengrund:\\n=> \\n\\nHinweis:\\n=> Gutschrift auf Kulanz, ohne Anerkennung einer Rechtspflicht."
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    22574\r\n                  ",
+  "id": "22574",
   "name": "Multipurpose Kolbenzähler Typ R1",
   "weight": "3,50",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "mit Summierz&#xE4;hler und Display,<br>keine Fremdspannung erforderlich,<br>Duchflu&#xDF;rate 2 bis 50 l/min,<br>Genauigkeit: +/- 0,5%, PN 100,<br>Anschlu&#xDF; 1&quot;NPT IG, 4-20mA analog Ausgang,<br>Geh&#xE4;use Edelstahl, -40 bis 60&#xB0;C, Kopf IP 66 Exd,<br>nicht eichf&#xE4;hig, mit Werkszeugnis 2.2<br>nach EN 10204.<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "mit Summierzähler und Display,\\nkeine Fremdspannung erforderlich,\\nDuchflußrate 2 bis 50 l/min,\\nGenauigkeit: +/- 0,5%, PN 100,\\nAnschluß 1\"NPT IG, 4-20mA analog Ausgang,\\nGehäuse Edelstahl, -40 bis 60°C, Kopf IP 66 Exd,\\nnicht eichfähig, mit Werkszeugnis 2.2\\nnach EN 10204.\\n"
 }

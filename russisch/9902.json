@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    9902\r\n                  ",
-  "name": "Steuerbegünstigtes  Flüssiggas!",
+  "id": "9902",
+  "name": "SteuerbegünstigtesFlüssiggas!",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
+  "price": "0,00",
+  "amount": "0",
   "description": "Darf nicht zum Antrieb von Motoren verwendet werden!"
 }

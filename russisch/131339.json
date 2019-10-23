@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    131339\r\n                  ",
-  "name": "NOTTRENNKUPPLUNG  beiderseits 1\" G IG, PN 25",
+  "id": "131339",
+  "name": "NOTTRENNKUPPLUNGbeiderseits 1\" G IG, PN 25",
   "weight": "1,20",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Typ ABV <br>Anschlusse: G1&quot;IG x G1&quot;IG <br>Werkstoff: 1.4571<br>7 kN ABREISSKRAFT<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Typ ABV \\nAnschlusse: G1\"IG x G1\"IG \\nWerkstoff: 1.4571\\n7 kN ABREISSKRAFT\\n"
 }

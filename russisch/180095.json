@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    180095\r\n                  ",
+  "id": "180095",
   "name": "Kompakt-Überwachungseinheit Modular (CSU-3) zur Fernanzeige",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "des Beh&#xE4;lter-F&#xFC;llstandes, im Geh&#xE4;use zur Wandmontage,<br>mit durchsichtiger Abdeckung<br>Typ 6370S300001I, f&#xFC;r Me&#xDF;wertgeber <br>Fabr. Rochester, digitale Anzeige in % bezogen<br>auf den Gesamtinhalt, mit: <br> - Stromversorgung 24VDC +/-10%, 50/60Hz<br> - 4 x einstellbarer Grenzwert<br> - 4 x Relaisausgang 240 VAC / 2A<br> - Stromausgang 4...20 mA<br> - Kommunikationsschnittstelle RS485<br> - Abmessungen 220x170x80 (H x B x T)<br> - Schutzart IP 65 <br><br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "des Behälter-Füllstandes, im Gehäuse zur Wandmontage,\\nmit durchsichtiger Abdeckung\\nTyp 6370S300001I, für Meßwertgeber \\nFabr. Rochester, digitale Anzeige in % bezogen\\nauf den Gesamtinhalt, mit: \\n - Stromversorgung 24VDC +/-10%, 50/60Hz\\n - 4 x einstellbarer Grenzwert\\n - 4 x Relaisausgang 240 VAC / 2A\\n - Stromausgang 4...20 mA\\n - Kommunikationsschnittstelle RS485\\n - Abmessungen 220x170x80 (H x B x T)\\n - Schutzart IP 65 \\n\\n"
 }

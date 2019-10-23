@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    60250\r\n                  ",
+  "id": "60250",
   "name": "Magnetventil ohne Ex-Schutz, R 1/2\"-IG, stromlos ",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "geschlossen, pmax = 0,2 bar, Anschlu&#xDF; 220 V (&#xB1; 10 %), <br>50-60 Hz, Geh&#xE4;use Messing, DIN-DVGW-gepr&#xFC;ft,<br>"
+  "price": "0,00",
+  "amount": "1",
+  "description": "geschlossen, pmax = 0,2 bar, Anschluß 220 V (± 10 %), \\n50-60 Hz, Gehäuse Messing, DIN-DVGW-geprüft,\\n"
 }

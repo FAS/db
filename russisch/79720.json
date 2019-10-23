@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    79720\r\n                  ",
+  "id": "79720",
   "name": "Hilfsschalterbaustein 02 für Leistungsschütz",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "0 Schlie&#xDF;er / 2 &#xD6;ffner"
+  "price": "0,00",
+  "amount": "0",
+  "description": "0 Schließer / 2 Öffner"
 }

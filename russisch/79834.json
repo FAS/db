@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    79834\r\n                  ",
+  "id": "79834",
   "name": "Kabelrinne RKS 620 FS",
   "weight": "8,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n18.5\r\n                    \r\n                    ",
-  "description": "Korrosionsschutz: bandverzinkt nach DIN EN 10327<br>Blechst&#xE4;rke: 0,75 mm<br>Seitenh&#xF6;he: 60 mm<br>Breite: 200 mm<br>L&#xE4;nge: 3000 mm<br>Tragf&#xE4;higkeit: 1,1 kN/m bei St&#xFC;tzabstand 1,5m<br>"
+  "price": "0,00",
+  "amount": "18.5",
+  "description": "Korrosionsschutz: bandverzinkt nach DIN EN 10327\\nBlechstärke: 0,75 mm\\nSeitenhöhe: 60 mm\\nBreite: 200 mm\\nLänge: 3000 mm\\nTragfähigkeit: 1,1 kN/m bei Stützabstand 1,5m\\n"
 }

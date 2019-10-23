@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    67070\r\n                  ",
+  "id": "67070",
   "name": "Magnetkarte, codiert, für Tankautomat FAS-420_L,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Ausf&#xFC;hrung: 1-farbig mit Aufdruck <br><br>Kartenfarbe: rot (  ), blau ( x), gr&#xFC;n (  ) oder wei&#xDF; (  )<br><br>Schriftfarbe:  _______________<br><br>Laufende Nr.: <br><br>Achtung: Bei Nachbestellung vom Kunden letzte laufende <br>               Kartennummer erfragen !<br><br>Projekt: Autohaus Trautner, Ottensoos"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Ausführung: 1-farbig mit Aufdruck \\n\\nKartenfarbe: rot (), blau ( x), grün () oder weiß ()\\n\\nSchriftfarbe:_______________\\n\\nLaufende Nr.: \\n\\nAchtung: Bei Nachbestellung vom Kunden letzte laufende \\nKartennummer erfragen !\\n\\nProjekt: Autohaus Trautner, Ottensoos"
 }

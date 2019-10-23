@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    26238\r\n                  ",
+  "id": "26238",
   "name": "Drehstrom-Stirnradgetriebe-Motor ,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "-Motor EEx II 2G c IIC T4 X, 5,5 kW , 1435 U/min, <br>400/690V, Fabr. Bartec 4KTC 132 S 4<br>50 Hz, B5, IP55, Iso.-Kl. F, <br>-Getriebe Fabr. Nord Typ SK31E-IEC132/2G,<br>Bauform B3, Drehzahl: 543 1/min bei n1 = 1400 1/min<br>Untersetzung: 2,58 [1/x],<br>3 Kaltleiter "
+  "price": "0,00",
+  "amount": "0",
+  "description": "-Motor EEx II 2G c IIC T4 X, 5,5 kW , 1435 U/min, \\n400/690V, Fabr. Bartec 4KTC 132 S 4\\n50 Hz, B5, IP55, Iso.-Kl. F, \\n-Getriebe Fabr. Nord Typ SK31E-IEC132/2G,\\nBauform B3, Drehzahl: 543 1/min bei n1 = 1400 1/min\\nUntersetzung: 2,58 [1/x],\\n3 Kaltleiter "
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    376247\r\n                  ",
+  "id": "376247",
   "name": "Treibgasbetankunganlage mit 7 unterirdischen Behälter",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "bestehend aus:<br><br>- 7x 25m3 Beh&#xE4;lter, Achsabstand 3300mm (gem&#xE4;&#xDF; 3D-Modell vom Kunden)<br>- Pumpenaggregat FAS Z2000<br>- PC-Anlage mit Elektromotor 5,0kW<br>- Verdampferanlage FAS2000, 200Kg/h<br><br>nach Zeichnung: 376247-1_1_0-3D<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "bestehend aus:\\n\\n- 7x 25m3 Behälter, Achsabstand 3300mm (gemäß 3D-Modell vom Kunden)\\n- Pumpenaggregat FAS Z2000\\n- PC-Anlage mit Elektromotor 5,0kW\\n- Verdampferanlage FAS2000, 200Kg/h\\n\\nnach Zeichnung: 376247-1_1_0-3D\\n"
 }

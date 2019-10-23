@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    361192\r\n                  ",
+  "id": "361192",
   "name": "Beistellung Trockenlauf-Kolben-Kompessor, Typ Corken D291",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "mit einfacher Stopfbuchse, Anschlu&#xDF; 3/4&quot; NPT,  <br>Geh&#xE4;usewerkstoff aus Sph&#xE4;rogu&#xDF; ASTM A536,<br>mit Antriebskeilriemenscheibe,<br>max. Drehzahl 825 1/min,<br>max. Hubvolumenstrom 27,2 m3/h,<br>min. Eingangsdruck 0,21 bar,<br>max. Ausgangsdruck 23,1 bar"
+  "price": "0,00",
+  "amount": "0",
+  "description": "mit einfacher Stopfbuchse, Anschluß 3/4\" NPT,\\nGehäusewerkstoff aus Sphäroguß ASTM A536,\\nmit Antriebskeilriemenscheibe,\\nmax. Drehzahl 825 1/min,\\nmax. Hubvolumenstrom 27,2 m3/h,\\nmin. Eingangsdruck 0,21 bar,\\nmax. Ausgangsdruck 23,1 bar"
 }

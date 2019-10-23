@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    589142\r\n                  ",
+  "id": "589142",
   "name": "Balgengaszähler, Zweirohrausführung G6",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Modell: G6<br>Max. Durchfluss: 10.0 m3/h<br>Norm. Durchfluss: 2.0 m3/h<br>Min. Durchfluss: 0.06 m3/h<br>Max. Arbeitsdruck: 2.5 bar<br>Temperaturbereich.: -10 .. 50C<br>Genauigkeitsklasse: 1<br>Ganschluss: 25mm nominal<br>Z&#xE4;hlwerk: 8 Walzen<br>Ursprungsland; Korea"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Modell: G6\\nMax. Durchfluss: 10.0 m3/h\\nNorm. Durchfluss: 2.0 m3/h\\nMin. Durchfluss: 0.06 m3/h\\nMax. Arbeitsdruck: 2.5 bar\\nTemperaturbereich.: -10 .. 50C\\nGenauigkeitsklasse: 1\\nGanschluss: 25mm nominal\\nZählwerk: 8 Walzen\\nUrsprungsland; Korea"
 }

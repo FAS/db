@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    36203\r\n                  ",
+  "id": "36203",
   "name": "Magnetkarte, codiert, für Tankautomat FAS-420,",
   "weight": "0,01",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "- vierfarbig<br>- Vorderseite:<br>Firmenaufdruck &quot;Progas&quot; gem&#xE4;&#xDF; PDF - Datei<br>- R&#xFC;ckseite: <br>wei&#xDF;, lfd. Numerierung und Beschriftung gem&#xE4;&#xDF; PDF - Datei<br>Kunde: Progas<br>Projekt:<br>Autohaus Kunkel<br>Lange Hecke 2<br>63796 Kahl<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "- vierfarbig\\n- Vorderseite:\\nFirmenaufdruck \"Progas\" gemäß PDF - Datei\\n- Rückseite: \\nweiß, lfd. Numerierung und Beschriftung gemäß PDF - Datei\\nKunde: Progas\\nProjekt:\\nAutohaus Kunkel\\nLange Hecke 2\\n63796 Kahl\\n"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    29915\r\n                  ",
+  "id": "29915",
   "name": "Stempel, Typ TRODAT PRINTY H4912",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n3\r\n                    \r\n                    ",
-  "description": "&quot;Zeichnung erhalten&quot;<br>&quot;am: ___________&quot;<br>&quot;von: __________&quot;<br><br>Text dreizeilig<br>Fl&#xE4;che 47x18 mm<br>Schriftart: Arial<br>Stempelfarbe gr&#xFC;n"
+  "price": "0,00",
+  "amount": "3",
+  "description": "\"Zeichnung erhalten\"\\n\"am: ___________\"\\n\"von: __________\"\\n\\nText dreizeilig\\nFläche 47x18 mm\\nSchriftart: Arial\\nStempelfarbe grün"
 }

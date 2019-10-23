@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    430751\r\n                  ",
+  "id": "430751",
   "name": "Stirnradgetriebemotor, EEx de II C T4",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "bestehend aus Getriebe E88-K4-160,<br>B3, Getr.-nennmoment 420, &#xDC;bersetzung 2,45 ,<br>Vollwelle(40x80) ,IP55 , &#xD6;lmenge 0,75 , <br>Kurzlaterne IEC(K4) <br>sowie Motor DS-A 160 M 4<br>Bauform IM B5(angebaut an das Getriebe)<br>P mot= 11KW , n mot= 1445 1/min, 400V/50Hz,<br>IP55, ISO F"
+  "price": "0,00",
+  "amount": "0",
+  "description": "bestehend aus Getriebe E88-K4-160,\\nB3, Getr.-nennmoment 420, Übersetzung 2,45 ,\\nVollwelle(40x80) ,IP55 , Ölmenge 0,75 , \\nKurzlaterne IEC(K4) \\nsowie Motor DS-A 160 M 4\\nBauform IM B5(angebaut an das Getriebe)\\nP mot= 11KW , n mot= 1445 1/min, 400V/50Hz,\\nIP55, ISO F"
 }

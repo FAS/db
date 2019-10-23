@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    83121\r\n                  ",
+  "id": "83121",
   "name": "alt",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "T&#xDC;V- Einzelabnahme nach &#xD6;-Norm"
+  "price": "0,00",
+  "amount": "0",
+  "description": "TÜV- Einzelabnahme nach Ö-Norm"
 }

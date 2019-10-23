@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    19\r\n                  ",
+  "id": "19",
   "name": "Ursprungsland: Europäische Union",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "****************************************************************<br>pr&#xE4;ferenzbeg&#xFC;nstigte Ursprungsware: Pos. ......<br>nicht pr&#xE4;ferenzbeg&#xFC;nstigte Ursprungsware: Pos. ...."
+  "price": "0,00",
+  "amount": "0",
+  "description": "\\npräferenzbegünstigte Ursprungsware: Pos. ......\\nnicht präferenzbegünstigte Ursprungsware: Pos. ...."
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    71007\r\n                  ",
+  "id": "71007",
   "name": "Filter Element für Zapfsäulen-Gasabscheider, FAS-Nr. 22506",
   "weight": "0,15",
-  "price": "\r\n                  45,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Wegwerf-Version, Filterfeinheit 50 my, mit angeklebter und <br>geschlitzter Gummidichtung"
+  "price": "45,00",
+  "amount": "0",
+  "description": "Wegwerf-Version, Filterfeinheit 50 my, mit angeklebter und \\ngeschlitzter Gummidichtung"
 }

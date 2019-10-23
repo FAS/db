@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    111561\r\n                  ",
+  "id": "111561",
   "name": "Umbausatz für Schlauchschrank",
   "weight": "0,00",
-  "price": "\r\n                  140,00\r\n                  ",
-  "amount": "\r\n                      \r\n4\r\n                    \r\n                    ",
-  "description": "###############################<br>bestehend aus:<br> - 3 St&#xFC;ck Scharniere (FAS-111.643)<br> - 1 Satz Verriegelung (FAS-111.644)<br> - 20 Satz Schrauben, Muttern, Unterlegscheiben und Federringe<br> - 1 St&#xFC;ck Vorh&#xE4;ngeschloss (FAS-34.070)"
+  "price": "140,00",
+  "amount": "4",
+  "description": "\\nbestehend aus:\\n - 3 Stück Scharniere (FAS-111.643)\\n - 1 Satz Verriegelung (FAS-111.644)\\n - 20 Satz Schrauben, Muttern, Unterlegscheiben und Federringe\\n - 1 Stück Vorhängeschloss (FAS-34.070)"
 }

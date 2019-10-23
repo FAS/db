@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    16010\r\n                  ",
+  "id": "16010",
   "name": "Druckregler, Mitteldruck, NH3, 1/4\" NPT",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Rego AA1582 EK (alt), AA1582MK (neu), Vordruck bis 16 bar,<br>Hinterdruck 0,2 - 1,7 bar"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Rego AA1582 EK (alt), AA1582MK (neu), Vordruck bis 16 bar,\\nHinterdruck 0,2 - 1,7 bar"
 }

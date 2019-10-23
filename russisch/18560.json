@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    18560\r\n                  ",
+  "id": "18560",
   "name": "Ovalradzähler DN 25, PN 40, Typ OI 10 Es/Af 2",
   "weight": "17,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "mit Summierwerk, mit Umlaufzeigerwerk ohne R&#xFC;ckstellung, <br>Durchflu&#xDF;menge Minimal 16 l/min,<br>Maximal 80 l/min, Dauerbetrieb 33 l/min,<br>mit eichamtlicher Vorpr&#xFC;fung."
+  "price": "0,00",
+  "amount": "0",
+  "description": "mit Summierwerk, mit Umlaufzeigerwerk ohne Rückstellung, \\nDurchflußmenge Minimal 16 l/min,\\nMaximal 80 l/min, Dauerbetrieb 33 l/min,\\nmit eichamtlicher Vorprüfung."
 }

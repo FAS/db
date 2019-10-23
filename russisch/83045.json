@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    83045\r\n                  ",
+  "id": "83045",
   "name": "alt",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Reparaturkosten f&#xFC;r alten Ringkolbenz&#xE4;hler und <br>Manometer bei Unifaspol in Lodz, Polen"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Reparaturkosten für alten Ringkolbenzähler und \\nManometer bei Unifaspol in Lodz, Polen"
 }

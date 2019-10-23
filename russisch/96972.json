@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    96972\r\n                  ",
+  "id": "96972",
   "name": "Автоматический регулятор синхронизации тип D-700 AMF + GSM",
   "weight": "0,91",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
+  "price": "0,00",
+  "amount": "0",
   "description": "Modem Genset Controller Std."
 }

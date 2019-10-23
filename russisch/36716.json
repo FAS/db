@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    36716\r\n                  ",
+  "id": "36716",
   "name": "Керамическое уплотнение",
   "weight": "0,01",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "&#x434;&#x438;&#x430;&#x43C;&#x435;&#x442;&#x440; &#x440; 1/2&quot;<br>(123-217-00)  &#x43D;&#x43E;&#x43C;&#x435;&#x440; &#x43D;&#x430; &#x447;&#x435;&#x440;&#x442;&#x435;&#x436;&#x435; 17<br><br>***Achtung fuer Auslieferungen FAS 36729 benutzen***<br>***Falls 36729 nicht vorhanden, 63623 verwenden!!!!***"
+  "price": "0,00",
+  "amount": "0",
+  "description": "диаметр р 1/2\"\\n(123-217-00)номер на чертеже 17\\n\\nAchtung fuer Auslieferungen FAS 36729 benutzen\\nFalls 36729 nicht vorhanden, 63623 verwenden!!!!"
 }

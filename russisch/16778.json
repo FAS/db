@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    16778\r\n                  ",
+  "id": "16778",
   "name": "Baugruppe SAV Typ 8632 für Regelgerät Typ 4732",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "DN100,  PN16<br>wdso:\t2 &#x2013; 3,1 bar<br>pdso;\t2,8 bar<br>Feder:      2056334<br>wdsu:\t0,23 &#x2013; 0,37 bar<br>pdsu:\t0,25 bar<br>Feder:\t20561222<br>Farbe:\tgrundiert<br>Abnahmepr&#xFC;fzeugnis DIN EN 10204-3.1<br>"
+  "price": "0,00",
+  "amount": "1",
+  "description": "DN100,PN16\\nwdso:\t2 – 3,1 bar\\npdso;\t2,8 bar\\nFeder:2056334\\nwdsu:\t0,23 – 0,37 bar\\npdsu:\t0,25 bar\\nFeder:\t20561222\\nFarbe:\tgrundiert\\nAbnahmeprüfzeugnis DIN EN 10204-3.1\\n"
 }

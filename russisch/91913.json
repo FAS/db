@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    91913\r\n                  ",
+  "id": "91913",
   "name": "Pumpe ZLND 150400 AB BJS 0B2",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Horizontal Geh&#xE4;usepumpe, Einzelgleitringdichtung,<br>drehrichtungsunabh&#xE4;ngig, ungek&#xFC;hlt, Bef&#xF6;rderung rotierend<br>Typ: MG12-G6<br>Geh&#xE4;use, Geh&#xE4;usedeckel, Laufrad aus GG-25"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Horizontal Gehäusepumpe, Einzelgleitringdichtung,\\ndrehrichtungsunabhängig, ungekühlt, Beförderung rotierend\\nTyp: MG12-G6\\nGehäuse, Gehäusedeckel, Laufrad aus GG-25"
 }

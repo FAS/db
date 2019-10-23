@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    38301\r\n                  ",
-  "name": "Корпус для  MA7, Teil Nr. 494451 ",
+  "id": "38301",
+  "name": "Корпус дляMA7, Teil Nr. 494451 ",
   "weight": "3,10",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n2\r\n                    \r\n                    ",
-  "description": "(&#x441;&#x442;&#x430;&#x440;&#x44B;&#x439; &#x43D;&#x43E;&#x43C;&#x435;&#x440;: 49445)"
+  "price": "0,00",
+  "amount": "2",
+  "description": "(старый номер: 49445)"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    67919\r\n                  ",
+  "id": "67919",
   "name": "Transponder-Rundmarken, codiert, Lümatic,",
   "weight": "1,00",
-  "price": "\r\n                  19,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "###############################<br>f&#xFC;r Fabrik-Nr.<br>aus AB-Nr. 2621588<br><br><br>Standort:<br>###############################<br>Gas Bavaria Concept GmbH<br>Schlei&#xDF;heimer Str. 9b<br>85748 Garching/M&#xFC;nchen<br><br>###############################<br>Lfd.-Nr. *** bis ****<br>###############################<br>"
+  "price": "19,00",
+  "amount": "0",
+  "description": "\\nfür Fabrik-Nr.\\naus AB-Nr. 2621588\\n\\n\\nStandort:\\n\\nGas Bavaria Concept GmbH\\nSchleißheimer Str. 9b\\n85748 Garching/München\\n\\n\\nLfd.-Nr.  bis \\n\\n"
 }

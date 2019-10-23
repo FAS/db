@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    140070\r\n                  ",
+  "id": "140070",
   "name": "Schmutzfänger, DN 65, PN 40,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n3\r\n                    \r\n                    ",
-  "description": "Geh&#xE4;use aus Stahlgu&#xDF; GS-C 25, Baul&#xE4;nge 290 mm,<br>Schr&#xE4;gsitzform mit Flanschanschluss nach DIN EN 1092-1 (DIN 2635),<br>Maschenweite 1,2 mm, Innensieb aus Edelstahldrahtgewebe"
+  "price": "0,00",
+  "amount": "3",
+  "description": "Gehäuse aus Stahlguß GS-C 25, Baulänge 290 mm,\\nSchrägsitzform mit Flanschanschluss nach DIN EN 1092-1 (DIN 2635),\\nMaschenweite 1,2 mm, Innensieb aus Edelstahldrahtgewebe"
 }

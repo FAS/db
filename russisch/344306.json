@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    344306\r\n                  ",
+  "id": "344306",
   "name": "Zündsperre ELFIT Typ EZS1",
   "weight": "0,22",
-  "price": "\r\n                  45,00\r\n                  ",
-  "amount": "\r\n                      \r\n14\r\n                    \r\n                    ",
-  "description": " - Anschlu&#xDF;: Ein-/Ausgang 1/2&quot; NPT-IG<br> - Z&#xFC;ndschutzart: EExd IIC<br> - Schutzart: IP 66<br> - Einbaulage: senkrecht / waagerecht"
+  "price": "45,00",
+  "amount": "14",
+  "description": " - Anschluß: Ein-/Ausgang 1/2\" NPT-IG\\n - Zündschutzart: EExd IIC\\n - Schutzart: IP 66\\n - Einbaulage: senkrecht / waagerecht"
 }

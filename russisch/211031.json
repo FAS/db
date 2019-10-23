@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    211031\r\n                  ",
+  "id": "211031",
   "name": "Компрессор сухого хода FAS/Blackmer 943",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "mit S3R Dichtungssystem, Anschlu&#xDF; 2&quot; ANSI,<br>Geh&#xE4;usewerkstoff aus Sph&#xE4;rogu&#xDF; ASTM,<br>mit Antriebskeilriemenscheibe, <br>max. Drehzahl 825 1/min , <br>max. Hubvolumenstrom 209 m3/h,<br>min. Eingangsdruck 0,21 bar, <br>max. Arbeitsdruck 24,1 bar<br>mit EG Konformit&#xE4;tserkl&#xE4;rung<br><br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "mit S3R Dichtungssystem, Anschluß 2\" ANSI,\\nGehäusewerkstoff aus Sphäroguß ASTM,\\nmit Antriebskeilriemenscheibe, \\nmax. Drehzahl 825 1/min , \\nmax. Hubvolumenstrom 209 m3/h,\\nmin. Eingangsdruck 0,21 bar, \\nmax. Arbeitsdruck 24,1 bar\\nmit EG Konformitätserklärung\\n\\n"
 }

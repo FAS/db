@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    80170\r\n                  ",
+  "id": "80170",
   "name": "Überfüllsicherung NIVOGAS",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "zugelassen nach Vd T&#xFC;V 100, mit Bauartzulassung<br>System mit 2-fach redundanter Sonde, <br>selbst&#xFC;berwachend mit Alarmkontakt, eingensicherer<br>Ausgangsstromkreis,<br>bestehend aus:<br>Steuerung TYP FEC 470, 1 System im<br>Baugr. tr. 84 TE<br>Pr&#xFC;ftaster im Kunststoffgeh&#xE4;use<br>Doppelstabsonde TSP 13798 (teilisoliert mit<br>Masserohr, redund. Ausf&#xFC;hrung, Ex-gesch&#xFC;tzt,<br>Zone 1, Flanschanschlu&#xDF; DN 50 PN 40), <br>Sondenl&#xE4;nge=1190 mm"
+  "price": "0,00",
+  "amount": "0",
+  "description": "zugelassen nach Vd TüV 100, mit Bauartzulassung\\nSystem mit 2-fach redundanter Sonde, \\nselbstüberwachend mit Alarmkontakt, eingensicherer\\nAusgangsstromkreis,\\nbestehend aus:\\nSteuerung TYP FEC 470, 1 System im\\nBaugr. tr. 84 TE\\nPrüftaster im Kunststoffgehäuse\\nDoppelstabsonde TSP 13798 (teilisoliert mit\\nMasserohr, redund. Ausführung, Ex-geschützt,\\nZone 1, Flanschanschluß DN 50 PN 40), \\nSondenlänge=1190 mm"
 }

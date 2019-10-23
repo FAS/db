@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    32072\r\n                  ",
+  "id": "32072",
   "name": "Узел коленчатого вала",
   "weight": "0,70",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n4\r\n                    \r\n                    ",
-  "description": "&#x442;&#x438;&#x43F; Corken 1341-X1"
+  "price": "0,00",
+  "amount": "4",
+  "description": "тип Corken 1341-X1"
 }

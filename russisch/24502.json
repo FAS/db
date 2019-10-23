@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    24502\r\n                  ",
+  "id": "24502",
   "name": "GEF. Tafel (Einstoff-Tafel) für Straßentankwagen",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n4\r\n                    \r\n                    ",
-  "description": "oben:       23<br>unten: 1965"
+  "price": "0,00",
+  "amount": "4",
+  "description": "oben:23\\nunten: 1965"
 }

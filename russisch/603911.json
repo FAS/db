@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    603911\r\n                  ",
+  "id": "603911",
   "name": "Differenzdruckmessgerät DA30",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Messbereich: 0 - 250 mbar<br>Messmembran / Dichtung EPPDM/FKM<br>Druckkammer: Messing<br>Druckanschl&#xFC;sse: 8 mm <br>Geh&#xE4;use: 100 mm, Material 1.4301<br>Montage: Wandmontageplatte<br>ohne Fl&#xFC;ssigkeitsf&#xFC;llung<br>ohne Sonderfunktion<br>Anzeiger Standard"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Messbereich: 0 - 250 mbar\\nMessmembran / Dichtung EPPDM/FKM\\nDruckkammer: Messing\\nDruckanschlüsse: 8 mm \\nGehäuse: 100 mm, Material 1.4301\\nMontage: Wandmontageplatte\\nohne Flüssigkeitsfüllung\\nohne Sonderfunktion\\nAnzeiger Standard"
 }

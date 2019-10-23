@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    111312\r\n                  ",
+  "id": "111312",
   "name": "Eichamtliche Vor- bzw. Werksprüfung eines Kolbenzählers",
   "weight": "0,00",
-  "price": "\r\n                  225,00\r\n                  ",
-  "amount": "\r\n                      \r\n490\r\n                    \r\n                    ",
-  "description": "###############################<br>( X ) 225,- EUR - Werkspr&#xFC;fung<br>(  ) 300,- EUR - Eichamtliche Vorpr&#xFC;fung"
+  "price": "225,00",
+  "amount": "490",
+  "description": "\\n( X ) 225,- EUR - Werksprüfung\\n() 300,- EUR - Eichamtliche Vorprüfung"
 }

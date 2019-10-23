@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    189460\r\n                  ",
-  "name": "Messanlage, mechanisch,  Typ Neptune 4D",
+  "id": "189460",
+  "name": "Messanlage, mechanisch,Typ Neptune 4D",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "<br><br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "\\n\\n"
 }

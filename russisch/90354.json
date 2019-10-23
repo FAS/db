@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    90354\r\n                  ",
+  "id": "90354",
   "name": "Sicherheitsventil 1\" NPT AG, PN 25, Typ GOK ATSV 5000",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "aus Messing, Einstelldruck 16,4 bar bestehend aus:<br>-Sicherheitsventil Typ SV 5000<br>-Schlie&#xDF;ventil Typ SVT 5000<br>mit Bauteilpr&#xFC;fung und T&#xDC;V-Einstellbescheinigung<br>+++ Exportausf&#xFC;hrung +++"
+  "price": "0,00",
+  "amount": "0",
+  "description": "aus Messing, Einstelldruck 16,4 bar bestehend aus:\\n-Sicherheitsventil Typ SV 5000\\n-Schließventil Typ SVT 5000\\nmit Bauteilprüfung und TÜV-Einstellbescheinigung\\n+++ Exportausführung +++"
 }

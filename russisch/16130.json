@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    16130\r\n                  ",
+  "id": "16130",
   "name": "Sicherheitsablasventil Typ 275D,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "DIN-DVGW zugelassen,<br>Anschlu&#xDF; G 3/4&quot; Innengewinde nach ISO 228/1, PN 16<br>Einstellbereich: ______ - _____ mbar,<br>eingestellt auf: _____ mbar,<br>mit Abnahmepr&#xFC;fzeugnis EN 10204/3.1 "
+  "price": "0,00",
+  "amount": "0",
+  "description": "DIN-DVGW zugelassen,\\nAnschluß G 3/4\" Innengewinde nach ISO 228/1, PN 16\\nEinstellbereich: ______ - _____ mbar,\\neingestellt auf: _____ mbar,\\nmit Abnahmeprüfzeugnis EN 10204/3.1 "
 }

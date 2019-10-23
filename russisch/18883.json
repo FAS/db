@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    18883\r\n                  ",
+  "id": "18883",
   "name": "LCR-MEßANLAGE - Zählkopf/Auswerteinheit elektronisch",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "! Achtung! Me&#xDF;anlage nicht komplett: es fehlen noch Me&#xDF;kammer, Gasblasenabscheider &amp; Druckhalteventil!"
+  "price": "0,00",
+  "amount": "0",
+  "description": "! Achtung! Meßanlage nicht komplett: es fehlen noch Meßkammer, Gasblasenabscheider & Druckhalteventil!"
 }

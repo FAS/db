@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    22571\r\n                  ",
+  "id": "22571",
   "name": "PC-Software für FAS 411-Controller, WINTANK 7.0,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Einzelplatz-Lizenz, persische Version,<br>Netzwerk-Lizenz auf Anfrage.<br>WIN32-bit-Anwendung, zur Ansteuerung<br>des FAS 411-Controller, d. h. Einsammeln/Abrufen<br>der Daten mittels bauseits zu stellender Modeme. Wir empfehlen die Ausweise im Blacklistverfahren<br>zu organisieren. Die Verwaltung von Tanklimits<br>ist m&#xF6;glich. Das bedeutet einen permanenten<br>Datenabgleich aller Tankstellen.<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Einzelplatz-Lizenz, persische Version,\\nNetzwerk-Lizenz auf Anfrage.\\nWIN32-bit-Anwendung, zur Ansteuerung\\ndes FAS 411-Controller, d. h. Einsammeln/Abrufen\\nder Daten mittels bauseits zu stellender Modeme. Wir empfehlen die Ausweise im Blacklistverfahren\\nzu organisieren. Die Verwaltung von Tanklimits\\nist möglich. Das bedeutet einen permanenten\\nDatenabgleich aller Tankstellen.\\n"
 }

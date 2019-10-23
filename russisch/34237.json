@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    34237\r\n                  ",
+  "id": "34237",
   "name": "\"lümatic\" - WebTABox - Client Modul,",
   "weight": "0,00",
-  "price": "\r\n                  710,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "zum Anschluss an Tankautomaten Master, Modell 630 / X / WEB<br>- nur in Verbindung mit Master m&#xF6;glich - <br><br>Client Modul f&#xFC;r Tankautomaten zum Anschlu&#xDF; an Petrofleet / FMS Web - Stamm- und Tankdaten Synchronisation zum Master<br><br>Standard Schnittstelle &quot;LAN&quot;<br>(optional gegen Aufpreis &#xFC;ber UMTS)<br><br>Modul erm&#xF6;glicht (teilweise bei Wartungsvertrag):<br> - Kommunikation zum Tankautomaten und Petrofleet/FMSWeb<br> - Statusmeldung &#xFC;ber Tankautomaten<br> - enth&#xE4;lt Support und Wartungsfunktionen (bei stehender Verbindung)<br> - Verwaltungssoftware f&#xFC;r angeschlossenen Tankautomaten<br>   (Tankungen, Stammdaten, Auswertungen)<br><br>Installationsvoraussetzungen:<br><br>- Schuko-Steckdose im Tankautomat (230V)<br> - LAN-Kabel (Cat. 5) inkl. Stecker im Tankautomat<br> - Anschluss des LAN-Kabels in Ihrem Netzwerk<br> - IP-Adressen f&#xFC;r Tankautomat, Gateway und Subnetz m&#xFC;ssen definiert sein<br><br> =&gt; Grunds&#xE4;tzlich ist es erforderlich, da&#xDF; bei der Installation der WebTABox ein<br>      Administrator verf&#xFC;gbar ist!<br><br>"
+  "price": "710,00",
+  "amount": "0",
+  "description": "zum Anschluss an Tankautomaten Master, Modell 630 / X / WEB\\n- nur in Verbindung mit Master möglich - \\n\\nClient Modul für Tankautomaten zum Anschluß an Petrofleet / FMS Web - Stamm- und Tankdaten Synchronisation zum Master\\n\\nStandard Schnittstelle \"LAN\"\\n(optional gegen Aufpreis über UMTS)\\n\\nModul ermöglicht (teilweise bei Wartungsvertrag):\\n - Kommunikation zum Tankautomaten und Petrofleet/FMSWeb\\n - Statusmeldung über Tankautomaten\\n - enthält Support und Wartungsfunktionen (bei stehender Verbindung)\\n - Verwaltungssoftware für angeschlossenen Tankautomaten\\n(Tankungen, Stammdaten, Auswertungen)\\n\\nInstallationsvoraussetzungen:\\n\\n- Schuko-Steckdose im Tankautomat (230V)\\n - LAN-Kabel (Cat. 5) inkl. Stecker im Tankautomat\\n - Anschluss des LAN-Kabels in Ihrem Netzwerk\\n - IP-Adressen für Tankautomat, Gateway und Subnetz müssen definiert sein\\n\\n => Grundsätzlich ist es erforderlich, daß bei der Installation der WebTABox ein\\nAdministrator verfügbar ist!\\n\\n"
 }

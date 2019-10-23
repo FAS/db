@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    789480\r\n                  ",
+  "id": "789480",
   "name": "Blechzuschnitt für Pumpen-Aggregate 61xx",
   "weight": "80,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "aus Stahl S235JR nach EDIn EN 10025-2:2005,<br> L = 2000, B = 720, H = 100, s = 10"
+  "price": "0,00",
+  "amount": "1",
+  "description": "aus Stahl S235JR nach EDIn EN 10025-2:2005,\\n L = 2000, B = 720, H = 100, s = 10"
 }

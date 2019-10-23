@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    22430\r\n                  ",
+  "id": "22430",
   "name": "TABA-DIN A4 Normalpapierdrucker",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "mit RS 422A-Interface (Schnittstelle V 11),<br>Fernabruftaste f&#xFC;r Auswertung und L&#xF6;schung,<br>Auswertesoftware<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "mit RS 422A-Interface (Schnittstelle V 11),\\nFernabruftaste für Auswertung und Löschung,\\nAuswertesoftware\\n"
 }

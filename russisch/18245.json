@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    18245\r\n                  ",
+  "id": "18245",
   "name": "Optolevel Meßwertgeber",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Typ Rochester 6333S228, ex-gesch&#xFC;tzt Eexd II BT6, IP65, <br>mit Aluminiumgeh&#xE4;use, 16 elektrische Codes f&#xFC;r das Senden zur<br>Empfangs- u. &#xDC;berwachungseinheit, von 0 % bis 85 % in 5 %igen<br>Tankvolumenstufen, mit 2 m Anschlu&#xDF;kabel"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Typ Rochester 6333S228, ex-geschützt Eexd II BT6, IP65, \\nmit Aluminiumgehäuse, 16 elektrische Codes für das Senden zur\\nEmpfangs- u. Überwachungseinheit, von 0 % bis 85 % in 5 %igen\\nTankvolumenstufen, mit 2 m Anschlußkabel"
 }

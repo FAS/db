@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    95209\r\n                  ",
+  "id": "95209",
   "name": "Druckregler, DIVAL 507/G 180TR",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Eingangsdruck: 1,5 bar<br>Ausgangsdruck: 500 mbar<br>Anschlu&#xDF;: G1&quot; x G1&quot;<br>Mit SAV, SBV<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Eingangsdruck: 1,5 bar\\nAusgangsdruck: 500 mbar\\nAnschluß: G1\" x G1\"\\nMit SAV, SBV\\n"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    269646\r\n                  ",
+  "id": "269646",
   "name": "Ex-Steuerung (Containersteuerung)",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "zum Anschluss von:<br>- 4 F&#xFC;llwaagen<br>- 2 Not-Aus (2 mal extern)<br>- 2 Ex-Leuchten im Container<br>- Ein/Aus  (Magnetventil)<br>- 2 Motor 5.0 kW <br><br>Hauptschalter und Leuchtmelder im Schaltschrank.<br><br><br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "zum Anschluss von:\\n- 4 Füllwaagen\\n- 2 Not-Aus (2 mal extern)\\n- 2 Ex-Leuchten im Container\\n- Ein/Aus(Magnetventil)\\n- 2 Motor 5.0 kW \\n\\nHauptschalter und Leuchtmelder im Schaltschrank.\\n\\n\\n"
 }

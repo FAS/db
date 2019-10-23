@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    34729\r\n                  ",
+  "id": "34729",
   "name": "TA 2331 Grundgerät (im Wandgehäuse),",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Tankautomat TA 2331,<br>ohne CPU-Platte und ohne L&#xE4;nderbausatz,<br>Vorsteckleser ISO Spur 2, Anschlu&#xDF; von 2 (4) mechanischen oder elektronischen Rechnern &#xFC;ber Impulsausgang. Mit englischer Sprachwahl, ohne iranische Eichzulassung.<br>Beim ER4-Rechner mu&#xDF; die Impulsschnittstelle nachger&#xFC;stet werden.<br><br><br><br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Tankautomat TA 2331,\\nohne CPU-Platte und ohne Länderbausatz,\\nVorsteckleser ISO Spur 2, Anschluß von 2 (4) mechanischen oder elektronischen Rechnern über Impulsausgang. Mit englischer Sprachwahl, ohne iranische Eichzulassung.\\nBeim ER4-Rechner muß die Impulsschnittstelle nachgerüstet werden.\\n\\n\\n\\n"
 }

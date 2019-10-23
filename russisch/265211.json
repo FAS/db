@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    265211\r\n                  ",
-  "name": "Элемент включения ВКЛ <br>",
+  "id": "265211",
+  "name": "Элемент включения ВКЛ \\n",
   "weight": "0,01",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n123\r\n                    \r\n                    ",
+  "price": "0,00",
+  "amount": "123",
   "description": "Schaltschrankeinbau"
 }

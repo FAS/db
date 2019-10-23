@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    16716\r\n                  ",
+  "id": "16716",
   "name": "Счётчик G16, Q maкс = 25 куб. метров",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "&#x442;&#x438;&#x43F; Actaris"
+  "price": "0,00",
+  "amount": "0",
+  "description": "тип Actaris"
 }

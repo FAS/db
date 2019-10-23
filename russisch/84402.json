@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    84402\r\n                  ",
-  "name": "Mehrpreis  TÜV-Abnahme (Einstellbescheinigung)",
+  "id": "84402",
+  "name": "MehrpreisTÜV-Abnahme (Einstellbescheinigung)",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n145\r\n                    \r\n                    ",
+  "price": "0,00",
+  "amount": "145",
   "description": ""
 }

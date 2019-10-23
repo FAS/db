@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    80290\r\n                  ",
+  "id": "80290",
   "name": "alt",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Einmalige Nebenkosten, bestehend aus:<br>- Abnahme des Beh&#xE4;lters<br>- Feuerl&#xF6;scher<br>- Schlo&#xDF; f&#xFC;r Tankbeh&#xE4;lter"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Einmalige Nebenkosten, bestehend aus:\\n- Abnahme des Behälters\\n- Feuerlöscher\\n- Schloß für Tankbehälter"
 }

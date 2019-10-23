@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    67334\r\n                  ",
+  "id": "67334",
   "name": "Magnetkarte, codiert, für Tankautomat FAS-440",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Ausf&#xFC;hrung: Kartenfarbe wei&#xDF;/ Schriftfarbe schwarz<br>lfd. Nr.: von _____ bis _____<br><br>Achtung: Bei Nachbestellung vom Kunden letzte laufende <br>               Kartennummer erfragen !<br><br>Projekt: 2191109, Combined Gas System"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Ausführung: Kartenfarbe weiß/ Schriftfarbe schwarz\\nlfd. Nr.: von _____ bis _____\\n\\nAchtung: Bei Nachbestellung vom Kunden letzte laufende \\nKartennummer erfragen !\\n\\nProjekt: 2191109, Combined Gas System"
 }

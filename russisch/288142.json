@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    288142\r\n                  ",
-  "name": "Verteilventil  Deltaport RegO 8533AG",
+  "id": "288142",
+  "name": "VerteilventilDeltaport RegO 8533AG",
   "weight": "0,00",
-  "price": "\r\n                  3.315,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
+  "price": "3.315,00",
+  "amount": "0",
   "description": "mit 3 Sicherheitsventilen REgO 3135 eingestellt auf 15,6 bar"
 }

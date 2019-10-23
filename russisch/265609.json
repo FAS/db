@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    265609\r\n                  ",
+  "id": "265609",
   "name": "Elektro-Schaltkasten zur Montage",
   "weight": "40,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "im Geb&#xE4;ude und au&#xDF;erhalb der Schutzzone, <br>komplett verdrahtet zum Anschlu&#xDF; von<br>5 kW-Pumpenmotor mit Dreieckanlauf in beiden Drehrichtungen<br>und Doppeldrucktaster f&#xFC;r Pumpenmotor Ein Rechts/ Ein Links /Aus<br>mit Not-Aus<br>Klemmen f&#xFC;r die zus&#xE4;tzliche Not-Aus. Gaswarnanlage und Feueralarm"
+  "price": "0,00",
+  "amount": "0",
+  "description": "im Gebäude und außerhalb der Schutzzone, \\nkomplett verdrahtet zum Anschluß von\\n5 kW-Pumpenmotor mit Dreieckanlauf in beiden Drehrichtungen\\nund Doppeldrucktaster für Pumpenmotor Ein Rechts/ Ein Links /Aus\\nmit Not-Aus\\nKlemmen für die zusätzliche Not-Aus. Gaswarnanlage und Feueralarm"
 }

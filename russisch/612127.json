@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    612127\r\n                  ",
+  "id": "612127",
   "name": "Kompletter Notstromaggregat mit der Leistung 100 kVA",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Das Generatorsystem ist sowohl f&#xFC;r Dauerbetrieb als auch f&#xFC;r Stand by Betrieb geeignet. Die Gasgeneratoren k&#xF6;nnen sowohl mit erdgas als auch mit LPG betriebemn werden.<br><br>Das komplette System besteht aus:<br><br>1.\tGenerator FAS-50-3/MC &#x2013; 1 Einheit<br>2.\tGenerator FAS-40-3/MC &#x2013; 1 Einheit<br>3.\tSynchronisation der Einheiten &#x2013; 2 Einheiten<br>4.\tSchaltasten &#x2013; 1 Stk.<br><br>Technical data of generator system please find in extra file."
+  "price": "0,00",
+  "amount": "0",
+  "description": "Das Generatorsystem ist sowohl für Dauerbetrieb als auch für Stand by Betrieb geeignet. Die Gasgeneratoren können sowohl mit erdgas als auch mit LPG betriebemn werden.\\n\\nDas komplette System besteht aus:\\n\\n1.\tGenerator FAS-50-3/MC – 1 Einheit\\n2.\tGenerator FAS-40-3/MC – 1 Einheit\\n3.\tSynchronisation der Einheiten – 2 Einheiten\\n4.\tSchaltasten – 1 Stk.\\n\\nTechnical data of generator system please find in extra file."
 }

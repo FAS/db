@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    84401\r\n                  ",
+  "id": "84401",
   "name": "Sicherheitsventil für Stickstoff",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Anschlu&#xDF;gewinde Eingang G 3/4&quot;AG, Ausgang G1&quot;AG<br>Typ 4593, H4, gasdicht anl&#xFC;ftbar, Ansprechdruck 12bar, <br>Abblasemenge max. 800 Nm3 Luft"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Anschlußgewinde Eingang G 3/4\"AG, Ausgang G1\"AG\\nTyp 4593, H4, gasdicht anlüftbar, Ansprechdruck 12bar, \\nAbblasemenge max. 800 Nm3 Luft"
 }

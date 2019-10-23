@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    67921\r\n                  ",
+  "id": "67921",
   "name": "Transponder-Rundmarken, codiert, Lümatic,",
   "weight": "0,01",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "###########################<br>f&#xFC;r Fabrik-Nr.041923763<br>aus AB-Nr. 2920490<br><br><br>Standort:<br>###############################<br>Gebr. Meiser GmbH<br>Edmund-Meiser-Stra&#xDF;e 1<br>66839 Schmelz-Limbach<br><br>###############################<br>Lfd.-Nr. *** bis ****<br>###############################<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "\\nfür Fabrik-Nr.041923763\\naus AB-Nr. 2920490\\n\\n\\nStandort:\\n\\nGebr. Meiser GmbH\\nEdmund-Meiser-Straße 1\\n66839 Schmelz-Limbach\\n\\n\\nLfd.-Nr.  bis \\n\\n"
 }

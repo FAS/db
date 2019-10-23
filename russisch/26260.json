@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    26260\r\n                  ",
+  "id": "26260",
   "name": "Meßwertgeber TBG-IR Ex",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Me&#xDF;bereich : 0-100 Vol.% UEG<br>Signalausgang : 4-20mA<br>Spannungsvers. : 18-32V DC<br>Geh&#xE4;use aus Edelstahl<br>Ex-Schutzart : EExed IIG T6"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Meßbereich : 0-100 Vol.% UEG\\nSignalausgang : 4-20mA\\nSpannungsvers. : 18-32V DC\\nGehäuse aus Edelstahl\\nEx-Schutzart : EExed IIG T6"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    340580\r\n                  ",
+  "id": "340580",
   "name": "Verbindungskabel zwischen ELME-Terminal und EC-Kartenleser ",
   "weight": "0,02",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n20\r\n                    \r\n                    ",
-  "description": "f&#xFC;r Version OPP B50"
+  "price": "0,00",
+  "amount": "20",
+  "description": "für Version OPP B50"
 }

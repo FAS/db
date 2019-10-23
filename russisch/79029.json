@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    79029\r\n                  ",
+  "id": "79029",
   "name": "Schutzhaube für Not-Aus-Taster, ",
   "weight": "0,02",
-  "price": "\r\n                  23,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Fabr. Moeller, Schutzart IP65,<br>durchsichtig mit Solltrennstelle, <br>nach NOT-AUS-Schaltung wiedereinsetzbar."
+  "price": "23,00",
+  "amount": "0",
+  "description": "Fabr. Moeller, Schutzart IP65,\\ndurchsichtig mit Solltrennstelle, \\nnach NOT-AUS-Schaltung wiedereinsetzbar."
 }

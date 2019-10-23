@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    75180\r\n                  ",
-  "name": "Vierkantstahl DIN 1014,  70 mm, aus St 52-3,",
+  "id": "75180",
+  "name": "Vierkantstahl DIN 1014,70 mm, aus St 52-3,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0.006000000000002\r\n                    \r\n                    ",
-  "description": "mit Abnahmepr&#xFC;fzeugnis 3.1 nach EN 10204"
+  "price": "0,00",
+  "amount": "0.006000000000002",
+  "description": "mit Abnahmeprüfzeugnis 3.1 nach EN 10204"
 }

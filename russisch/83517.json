@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    83517\r\n                  ",
+  "id": "83517",
   "name": "alt",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Anzahlungsrechnung <br>================<br>zu unserem Auftrag 421706,<br>30% vom Auftragswert 9868,50 DM f&#xFC;r <br>Blackmer-Pumpenaggregat LGL 3&quot; "
+  "price": "0,00",
+  "amount": "0",
+  "description": "Anzahlungsrechnung \\n================\\nzu unserem Auftrag 421706,\\n30% vom Auftragswert 9868,50 DM für \\nBlackmer-Pumpenaggregat LGL 3\" "
 }

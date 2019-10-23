@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    34661\r\n                  ",
+  "id": "34661",
   "name": "Auswerteprogramm zur Fuhrparkauswertung für TA 630/T, ",
   "weight": "0,02",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Betriebssystem Windows 2000/XP/Vista,<br>einschl. Datenschnittstelle f&#xFC;r Datenweitergabe <br>an Fremdprogramme.<br><br>Der erforderliche &quot;Personalcomputer min. Pentium II&quot; mit serieller<br>Schnittstelle (COM) muss bauseits zur Verf&#xFC;gung gestellt werden !!<br><br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Betriebssystem Windows 2000/XP/Vista,\\neinschl. Datenschnittstelle für Datenweitergabe \\nan Fremdprogramme.\\n\\nDer erforderliche \"Personalcomputer min. Pentium II\" mit serieller\\nSchnittstelle (COM) muss bauseits zur Verfügung gestellt werden !!\\n\\n"
 }

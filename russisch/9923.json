@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    9923\r\n                  ",
+  "id": "9923",
   "name": "Servicebericht",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n4\r\n                    \r\n                    ",
-  "description": "###############################<br>St&#xF6;rungs-Nr.:<br>###############################<br>Datum des Serviceeinsatzes:<br>=&gt; siehe oben, Datum der Lieferung/Leistungserbringung<br><br>Arbeitsst&#xE4;tte/Projekt:<br>=&gt; siehe Lieferanschrift<br><br>Serviceeinsatzbeschreibung:<br>=&gt; <br><br>Anlagen:<br>(X) Servicebericht<br>() Instandsetzerbenachrichtigung (gem. &#xA7;72 Eichordnung)<br><br>Hinweis:<br>=&gt;<br><br>F&#xFC;r den Serviceeinsatz werden folgende Kosten berechnet:<br>"
+  "price": "0,00",
+  "amount": "4",
+  "description": "\\nStörungs-Nr.:\\n\\nDatum des Serviceeinsatzes:\\n=> siehe oben, Datum der Lieferung/Leistungserbringung\\n\\nArbeitsstätte/Projekt:\\n=> siehe Lieferanschrift\\n\\nServiceeinsatzbeschreibung:\\n=> \\n\\nAnlagen:\\n(X) Servicebericht\\n() Instandsetzerbenachrichtigung (gem. §72 Eichordnung)\\n\\nHinweis:\\n=>\\n\\nFür den Serviceeinsatz werden folgende Kosten berechnet:\\n"
 }

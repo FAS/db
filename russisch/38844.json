@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    38844\r\n                  ",
+  "id": "38844",
   "name": "Turbinenzähler Typ UNI-SP-1/2-CB-PHL-A-4-X",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Volumenstrom: 0,5 - 2,0 m3/h<br>Anschl&#xFC;sse: 2&quot; NPT Au&#xDF;engewinde<br>Geh&#xE4;use: Edelstahl  (AISI 304)<br>Rotor: Edelstahl  (17-4 SS)"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Volumenstrom: 0,5 - 2,0 m3/h\\nAnschlüsse: 2\" NPT Außengewinde\\nGehäuse: Edelstahl(AISI 304)\\nRotor: Edelstahl(17-4 SS)"
 }

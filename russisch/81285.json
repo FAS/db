@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    81285\r\n                  ",
+  "id": "81285",
   "name": "alt",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Rabattgutschrift:<br>gem. Vereinbarung zwischen Herrn Dr. Fuchs und Herrn Jeremias jun.<br>schreiben wir Ihnen f&#xFC;r unsere <br>Rechnungs-Nr. 600389     DM  1.362,75<br>Rechnungs-Nr. 600191     DM     199,89<br>Rechnungs-Nr. 600190     DM  1.777,78<br>(einschl. MWST)"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Rabattgutschrift:\\ngem. Vereinbarung zwischen Herrn Dr. Fuchs und Herrn Jeremias jun.\\nschreiben wir Ihnen für unsere \\nRechnungs-Nr. 600389DM1.362,75\\nRechnungs-Nr. 600191DM199,89\\nRechnungs-Nr. 600190DM1.777,78\\n(einschl. MWST)"
 }

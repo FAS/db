@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    1003\r\n                  ",
+  "id": "1003",
   "name": "WIR BITTEN UM BEACHTUNG :",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "<br>   Sollte eine Anlieferung zu dem oben aufgef&#xFC;hrten Termin <br>    nicht m&#xF6;glich sein erbitten wir eine kurze schriftliche<br>    Information an die nachfolgende E-Mail-Adresse :<br>                          d.baumgarten@fas.de"
+  "price": "0,00",
+  "amount": "0",
+  "description": "\\nSollte eine Anlieferung zu dem oben aufgeführten Termin \\nnicht möglich sein erbitten wir eine kurze schriftliche\\nInformation an die nachfolgende E-Mail-Adresse :\\nd.baumgarten@fas.de"
 }

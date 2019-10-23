@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    981269\r\n                  ",
+  "id": "981269",
   "name": "Druckmessumformer mit keramischer Messzelle, VEGABAR 82",
   "weight": "2,40",
-  "price": "\r\n                  1.495,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "Z&#xFC;ndschutzart: ATEX II 1/2G, 2G Ex d IIC T6<br>Anschluss: Gewinde &#xBD;NPT, PN160 Innenbohrung 11,4mm /<br>316L<br>Temperaturbereich: -40...130&#xB0;C<br>Messbereich Absolutdruck: 0 - 5,0bar<br>Ausgangssignal: Zweileiter 4...20mA HART&#xAE;<br>Geh&#xE4;use: Aluminium-Zweikammer IP66/67<br>Kabeleingang: M20x1,5<br>SIL 2 qualifiziert<br>Sprache des Men&#xFC;s: ___________<br>Betriebsanleitung: _____________<br>Anzahl BA: ____<br>"
+  "price": "1.495,00",
+  "amount": "1",
+  "description": "Zündschutzart: ATEX II 1/2G, 2G Ex d IIC T6\\nAnschluss: Gewinde ½NPT, PN160 Innenbohrung 11,4mm /\\n316L\\nTemperaturbereich: -40...130°C\\nMessbereich Absolutdruck: 0 - 5,0bar\\nAusgangssignal: Zweileiter 4...20mA HART®\\nGehäuse: Aluminium-Zweikammer IP66/67\\nKabeleingang: M20x1,5\\nSIL 2 qualifiziert\\nSprache des Menüs: ___________\\nBetriebsanleitung: _____________\\nAnzahl BA: ____\\n"
 }

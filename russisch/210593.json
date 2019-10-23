@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    210593\r\n                  ",
+  "id": "210593",
   "name": "Trockenlauf-Kolbenkompressor, Typ FAS/Corken FT891",
   "weight": "0,00",
-  "price": "\r\n                  46.430,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "mit dreifach Stopfbuchse, Anschlu&#xDF; 2&quot; ANSI,<br>O-Ring aus VITON, beschcihteter Zylinder, <br>Geh&#xE4;usewerkstoff aus Sph&#xE4;rogu&#xDF; ASTM A536,<br>mit Antriebskeilriemenscheibe, <br>max. Drehzahl 835 1/min , <br>max. Hubvolumenstrom 212 m&#xB3;/h,<br>min. Eingangsdruck 0,21 bar, <br>max. Arbeitsdruck 29,0 bar"
+  "price": "46.430,00",
+  "amount": "0",
+  "description": "mit dreifach Stopfbuchse, Anschluß 2\" ANSI,\\nO-Ring aus VITON, beschcihteter Zylinder, \\nGehäusewerkstoff aus Sphäroguß ASTM A536,\\nmit Antriebskeilriemenscheibe, \\nmax. Drehzahl 835 1/min , \\nmax. Hubvolumenstrom 212 m³/h,\\nmin. Eingangsdruck 0,21 bar, \\nmax. Arbeitsdruck 29,0 bar"
 }

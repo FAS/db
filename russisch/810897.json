@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    810897\r\n                  ",
+  "id": "810897",
   "name": "Winkelstücke, UNI-Typ 1228-4,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "aus Messing,<br>Betriebsdruck: 259 bar<br>A ( IG ): 21.41 - 21.51 mm<br>B ( IG ): 21.41 - 21.51 mm<br>A , B , C ; siehe Katalog 810 , Seite 23"
+  "price": "0,00",
+  "amount": "0",
+  "description": "aus Messing,\\nBetriebsdruck: 259 bar\\nA ( IG ): 21.41 - 21.51 mm\\nB ( IG ): 21.41 - 21.51 mm\\nA , B , C ; siehe Katalog 810 , Seite 23"
 }

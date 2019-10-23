@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    26950\r\n                  ",
+  "id": "26950",
   "name": "Elektro-Schaltkasten zur Montage",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "im Geb&#xE4;ude und au&#xDF;erhalb der Schutzzone,<br>mit Steuerung f&#xFC;r ein Warmwasser-Verdampfer,<br>zum Anschlu&#xDF; von 2 Magnetventilen, <br>Druckw&#xE4;chter f&#xFC;r Warmwasservorlauf,<br>Doppelthermostat f&#xFC;r Gastemperatur,<br>Nivow&#xE4;chter f&#xFC;r Fl&#xFC;ssiggas im Verdampfer,<br>Signalhupe f&#xFC;r St&#xF6;rmeldung"
+  "price": "0,00",
+  "amount": "0",
+  "description": "im Gebäude und außerhalb der Schutzzone,\\nmit Steuerung für ein Warmwasser-Verdampfer,\\nzum Anschluß von 2 Magnetventilen, \\nDruckwächter für Warmwasservorlauf,\\nDoppelthermostat für Gastemperatur,\\nNivowächter für Flüssiggas im Verdampfer,\\nSignalhupe für Störmeldung"
 }

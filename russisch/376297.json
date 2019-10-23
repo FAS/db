@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    376297\r\n                  ",
-  "name": "TKW-Station  FA.HOYER Projekt \"WARLIN\"   ",
+  "id": "376297",
+  "name": "TKW-StationFA.HOYER Projekt \"WARLIN\"",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Ausr&#xFC;stung nach FAS Schemapositionsnummer siehe Zeichnung:<br> - 2920740fh-1/1/2 <br><br> - 25...   TKW-Station aufgebaut auf einem Grundgestell <br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Ausrüstung nach FAS Schemapositionsnummer siehe Zeichnung:\\n - 2920740fh-1/1/2 \\n\\n - 25...TKW-Station aufgebaut auf einem Grundgestell \\n"
 }

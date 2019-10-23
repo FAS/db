@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    111140\r\n                  ",
+  "id": "111140",
   "name": "Kurierdienst",
   "weight": "0,00",
-  "price": "\r\n                  0,75\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "###############################<br>Wir berechnen Ihnen die Lieferung Ihrer Sendung per Kurierdienst.<br>(  ) 0,65 EUR/min Standzeiten(Wartezeit)<br>(  ) 0,75 EUR/km Caddy/Transporter<br>(  ) 35,- EUR R&#xFC;cktour ins Werk FAS<br>(  ) Sondertransport per LKW"
+  "price": "0,75",
+  "amount": "0",
+  "description": "\\nWir berechnen Ihnen die Lieferung Ihrer Sendung per Kurierdienst.\\n() 0,65 EUR/min Standzeiten(Wartezeit)\\n() 0,75 EUR/km Caddy/Transporter\\n() 35,- EUR Rücktour ins Werk FAS\\n() Sondertransport per LKW"
 }

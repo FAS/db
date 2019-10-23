@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    13614\r\n                  ",
+  "id": "13614",
   "name": "Lehrring 2-1/4\" ACME-IG",
   "weight": "0,40",
-  "price": "\r\n                  340,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "zur &#xDC;berpr&#xFC;fung der Verschlei&#xDF;grenze"
+  "price": "340,00",
+  "amount": "1",
+  "description": "zur Überprüfung der Verschleißgrenze"
 }

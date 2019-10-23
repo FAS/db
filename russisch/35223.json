@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    35223\r\n                  ",
+  "id": "35223",
   "name": "Micromotion Coriolis CNG, TYP CNG050S N Q F Z G ZZZ",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "f&#xFC;r Erdgas, Massendurchfluss- und Dichtesensor, <br>Nennmessbereich 0-2313 kg/h<br>Max. Messbereich 4 627 kg<br>Zul&#xE4;ssige Umgebungstemperatur: -40&#xB0;C +60&#xB0;C, <br>Pmax Messrohr 345 bar."
+  "price": "0,00",
+  "amount": "1",
+  "description": "für Erdgas, Massendurchfluss- und Dichtesensor, \\nNennmessbereich 0-2313 kg/h\\nMax. Messbereich 4 627 kg\\nZulässige Umgebungstemperatur: -40°C +60°C, \\nPmax Messrohr 345 bar."
 }

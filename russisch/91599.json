@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    91599\r\n                  ",
+  "id": "91599",
   "name": "Mehrpreis für Ausrüstung für Kompressoraggregat",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "mit Fl&#xFC;ssiggasabscheider, Typ FAS, PN 25, Leistung 30.0 l,<br>Spezialausf&#xFC;hrung mit Anschlu&#xDF; DN 40 und Anschlu&#xDF; f&#xFC;r<br>2 F&#xFC;llstandsensor f&#xFC;r station&#xE4;ren Kompressor, <br>mit Abnahmepr&#xFC;fzeugnis 3.1 nach EN 10204 "
+  "price": "0,00",
+  "amount": "0",
+  "description": "mit Flüssiggasabscheider, Typ FAS, PN 25, Leistung 30.0 l,\\nSpezialausführung mit Anschluß DN 40 und Anschluß für\\n2 Füllstandsensor für stationären Kompressor, \\nmit Abnahmeprüfzeugnis 3.1 nach EN 10204 "
 }

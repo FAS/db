@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    35880\r\n                  ",
-  "name": "Grundrahmen für Eichanlage  FAS",
+  "id": "35880",
+  "name": "Grundrahmen für EichanlageFAS",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Ma&#xDF;:  l=1850 mm, b=1585 mm, h=120 mm<br>Werkstoff Stahl, feuerverzinkt<br>komplett verschwei&#xDF;t und gebohrt"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Maß:l=1850 mm, b=1585 mm, h=120 mm\\nWerkstoff Stahl, feuerverzinkt\\nkomplett verschweißt und gebohrt"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    26000\r\n                  ",
+  "id": "26000",
   "name": "Drehstrom-Kurzschlußläufer-Normmotor neu, 36 kW, ",
   "weight": "330,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "1500 1/min, 400/690 V, B3, IP 54, EExeII T3,<br>Fabrikat Siemens, ohne verst&#xE4;rkter Lagerung"
+  "price": "0,00",
+  "amount": "0",
+  "description": "1500 1/min, 400/690 V, B3, IP 54, EExeII T3,\\nFabrikat Siemens, ohne verstärkter Lagerung"
 }

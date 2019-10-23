@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    810768\r\n                  ",
+  "id": "810768",
   "name": "Leitungsregler, UNI-Typ 1784C,",
   "weight": "1,40",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "in Messingausf&#xFC;hrung, Sitzdichtung Viton,<br>Anschl&#xFC;sse beiderseits 1/2&quot; NPT IG, <br>max. Eingangsdruck 27 bar (400 PSI),<br>Temperatur -40 bis 73&#xB0;C (-40&#xB0; bis 165&#xB0;F)<br>Druckbereich Ausgang:  6,8 bis 13,7 bar (100 bis 200 PSI)"
+  "price": "0,00",
+  "amount": "0",
+  "description": "in Messingausführung, Sitzdichtung Viton,\\nAnschlüsse beiderseits 1/2\" NPT IG, \\nmax. Eingangsdruck 27 bar (400 PSI),\\nTemperatur -40 bis 73°C (-40° bis 165°F)\\nDruckbereich Ausgang:6,8 bis 13,7 bar (100 bis 200 PSI)"
 }

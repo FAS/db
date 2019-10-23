@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    80767\r\n                  ",
+  "id": "80767",
   "name": "alt",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Wir reparierten lt. Kostenvoranschlag vom 05/04/93<br>eine Pumpe Typ: Haar GFPSC 80-912 D 4"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Wir reparierten lt. Kostenvoranschlag vom 05/04/93\\neine Pumpe Typ: Haar GFPSC 80-912 D 4"
 }

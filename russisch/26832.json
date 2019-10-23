@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    26832\r\n                  ",
+  "id": "26832",
   "name": "Gleichstrom-Leistungsschütz für Gleichstrommotoren",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "gleichstrombet&#xE4;tigt / gleichstromschaltend<br>Schaltkontaktbelastung bis zu 39A <br>Spulenanschlu&#xDF; 24V DC<br>3 Schlie&#xDF;er als Leistungskontakte"
+  "price": "0,00",
+  "amount": "0",
+  "description": "gleichstrombetätigt / gleichstromschaltend\\nSchaltkontaktbelastung bis zu 39A \\nSpulenanschluß 24V DC\\n3 Schließer als Leistungskontakte"
 }

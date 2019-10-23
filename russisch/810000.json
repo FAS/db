@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    810000\r\n                  ",
+  "id": "810000",
   "name": "TÜV-Abnahme für Sicherheitsventile, ",
   "weight": "0,05",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "wie in Pos. __ beschrieben<br>Einstelldruck: ___ bar / ___ PSI<br>f&#xFC;r St&#xFC;ckzahlen von 1-5 Ventil(e) je Einstelldruck"
+  "price": "0,00",
+  "amount": "0",
+  "description": "wie in Pos. __ beschrieben\\nEinstelldruck: ___ bar / ___ PSI\\nfür Stückzahlen von 1-5 Ventil(e) je Einstelldruck"
 }

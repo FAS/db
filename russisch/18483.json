@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    18483\r\n                  ",
+  "id": "18483",
   "name": "Überfüllsicherung Typ CMT-CL, einfache Ausführung, PN 25,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Auswertelektronik im Feldgeh&#xE4;use IP 65,<br>Ex-zugelassen, bauteilgepr&#xFC;ft nach DruckbehV gem&#xE4;&#xDF; TRB <br>801/25 Anl. und Vd T&#xDC;V Merkblatt &quot;&#xDC;berf&#xFC;llsicherungen 100&quot;,<br>fehlersicher &#xE4;hnlich Anforderungsklasse AK 4 nach DIN V 19250,<br>&#xDC;berf&#xFC;llsicherung mit sicherheitsgerichteten und betrieblichen <br>Abschaltpunkt (2% unter dem Maximum), <br>Sensor aus Edelstahl mit Flanschanschlu&#xDF; DN 50 PN 40,<br>Sondenl&#xE4;nge &#xDC;berf&#xFC;llsicherung _________ mm <br>(L&#xE4;ngen &#xFC;ber 3.000 mm mit Mehrpreis)<br>Auswertelektronik bestehend aus: Me&#xDF;umformer, Schaltver-<br>st&#xE4;rker und EEx i-Stromversorgung (2-kanalig), Versorgungs-<br>spannung 24 V DC (Netzger&#xE4;t 230 V/24 V FAS 18.486 gegen <br>Mehrpreis), einschlie&#xDF;lich Verbindungsplatine, Umgebungs-<br>temperatur - 25 &#xB0;C ... + 60 &#xB0;C"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Auswertelektronik im Feldgehäuse IP 65,\\nEx-zugelassen, bauteilgeprüft nach DruckbehV gemäß TRB \\n801/25 Anl. und Vd TÜV Merkblatt \"Überfüllsicherungen 100\",\\nfehlersicher ähnlich Anforderungsklasse AK 4 nach DIN V 19250,\\nÜberfüllsicherung mit sicherheitsgerichteten und betrieblichen \\nAbschaltpunkt (2% unter dem Maximum), \\nSensor aus Edelstahl mit Flanschanschluß DN 50 PN 40,\\nSondenlänge Überfüllsicherung _________ mm \\n(Längen über 3.000 mm mit Mehrpreis)\\nAuswertelektronik bestehend aus: Meßumformer, Schaltver-\\nstärker und EEx i-Stromversorgung (2-kanalig), Versorgungs-\\nspannung 24 V DC (Netzgerät 230 V/24 V FAS 18.486 gegen \\nMehrpreis), einschließlich Verbindungsplatine, Umgebungs-\\ntemperatur - 25 °C ... + 60 °C"
 }

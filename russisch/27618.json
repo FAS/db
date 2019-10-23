@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    27618\r\n                  ",
+  "id": "27618",
   "name": "Propan betriebenes Notstromaggregat",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "auch im Dauerbetrieb als Netzersatz einsetzbar, Handschaltanlage mit &#xDC;berwachung aller betriebswichtiger Motor- und Generatorfunktionen.<br>Elektrische Leistung 45kW, Luftgek&#xFC;hlter EAG Motor<br>Leistung 50kW/1500 U/min mit Hydrost&#xF6;&#xDF;el dadurch kein Ventileinstellen mehr n&#xF6;tig.<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "auch im Dauerbetrieb als Netzersatz einsetzbar, Handschaltanlage mit Überwachung aller betriebswichtiger Motor- und Generatorfunktionen.\\nElektrische Leistung 45kW, Luftgekühlter EAG Motor\\nLeistung 50kW/1500 U/min mit Hydrostößel dadurch kein Ventileinstellen mehr nötig.\\n"
 }

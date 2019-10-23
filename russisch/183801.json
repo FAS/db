@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    183801\r\n                  ",
+  "id": "183801",
   "name": "SIHI Detect 100 Ex ",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Schwingungssensor und Zustands&#xFC;berwachung f&#xFC;r Pumpen und Kompressoren, Messung der<br>Schwinggeschwindigkeit 10Hz-1kHz in Anlehnung an DIN/ISO 10816, 5199, 9905,<br>Zustands&#xFC;berwachung bis 5,6 kHz (normaler / unzul&#xE4;ssiger Betriebszustand),<br>LED-Anzeige, 4-20mA Schnittstelle (HART-kompatibel), Fehlerspeicher,<br>Befestigungsschraube M8x60mm und Klebeadapter (ohne Kleber)<br>Abmessungen: 79x42x53 mm?<br>Aufbau: Polyamidgeh&#xE4;use PA6 glasfaserverst&#xE4;rkt<br>Schutzart: IP66 (EN 60529)<br>Anschluss: 2 x 2,5mm&#xB2; Klemmen<br>Umgebungstemperatur: -40&#xB0;C bis 80&#xB0;C<br>Versorgung: 4-20mA, 11...30VDC<br>Ex: Ex II 2G Ex ia IIC T4 &#x2013; T&#xDC;V 07 ATEX 553845<br><br>Mit USB HART Modem<br>VIATOR USB Interface f&#xFC;r HART von der Firma MACTek f&#xFC;r SIHIvibrosoft<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Schwingungssensor und Zustandsüberwachung für Pumpen und Kompressoren, Messung der\\nSchwinggeschwindigkeit 10Hz-1kHz in Anlehnung an DIN/ISO 10816, 5199, 9905,\\nZustandsüberwachung bis 5,6 kHz (normaler / unzulässiger Betriebszustand),\\nLED-Anzeige, 4-20mA Schnittstelle (HART-kompatibel), Fehlerspeicher,\\nBefestigungsschraube M8x60mm und Klebeadapter (ohne Kleber)\\nAbmessungen: 79x42x53 mm?\\nAufbau: Polyamidgehäuse PA6 glasfaserverstärkt\\nSchutzart: IP66 (EN 60529)\\nAnschluss: 2 x 2,5mm² Klemmen\\nUmgebungstemperatur: -40°C bis 80°C\\nVersorgung: 4-20mA, 11...30VDC\\nEx: Ex II 2G Ex ia IIC T4 – TÜV 07 ATEX 553845\\n\\nMit USB HART Modem\\nVIATOR USB Interface für HART von der Firma MACTek für SIHIvibrosoft\\n"
 }

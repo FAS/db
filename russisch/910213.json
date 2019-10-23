@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    910213\r\n                  ",
+  "id": "910213",
   "name": "Nadelventil, UNI-Typ FFG2004SST",
   "weight": "0,20",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Typ FFG2004SST<br>Eingang/Ausgang: 1/2&quot; NPT IG<br>Geh&#xE4;usematerial: Edelstahl 303<br>Schwere Konstruktion f&#xFC;r zus&#xE4;tzliche<br>Festigkeit und Sicherheit bis 650 bar"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Typ FFG2004SST\\nEingang/Ausgang: 1/2\" NPT IG\\nGehäusematerial: Edelstahl 303\\nSchwere Konstruktion für zusätzliche\\nFestigkeit und Sicherheit bis 650 bar"
 }

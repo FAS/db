@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    22966\r\n                  ",
+  "id": "22966",
   "name": "Modem M1 (In-House) für Tankautomat FAS-400, FAS 420",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "und FAS-430 inkl. Adapterkabel, zur &#xDC;bertragung <br>der Ausweis- und Tankdaten vom Tankautomaten <br>zum PC, ohne Verlegung und Lieferung der erforder-<br>lichen Datenleitung, f&#xFC;r den Betrieb sind 2 St&#xFC;ck <br>erforderlich<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "und FAS-430 inkl. Adapterkabel, zur Übertragung \\nder Ausweis- und Tankdaten vom Tankautomaten \\nzum PC, ohne Verlegung und Lieferung der erforder-\\nlichen Datenleitung, für den Betrieb sind 2 Stück \\nerforderlich\\n"
 }

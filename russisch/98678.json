@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    98678\r\n                  ",
+  "id": "98678",
   "name": "Wirbeldurchfluss-Messgerät Prowirl F 200",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Prowirl F 200, 7F2B50, DN50 2&quot;<br><br>Wirbeldurchfluss-Messger&#xE4;t Inline-Ausf&#xFC;hrung.<br><br>Ausf&#xFC;hrung: 7F2B50-BBACCA1AASK+AADE<br><br>Stromausgang 1: Volumenfluss<br>Messstoff w&#xE4;hlen: Gas<br>Strombereich: 4...20 mA NAMUR<br>4 mA-Wert: 0,00000 m3/h<br>20 mA-Wert: 315,00000 m3/h<br>Fehlerverhalten Stromausgang: Max.<br>Ausgangsverhalten<br>D&#xE4;mpfung Ausgang 1 1,00000 s<br>BB Zulassung: ATEX II1/2G Ex ia IIC<br>A Ausgang; Eingang: 4-20mA HART<br>C Anzeige; Bedienung: SD02 4-zeilig; Drucktasten +<br>Datensicherungsfunktion<br>C Geh&#xE4;use: GT20 Zweikammer, Alu, beschichtet<br>A Elektrischer Anschluss: Verschr. M20<br>1 Sensorausf&#xFC;hrung: Volumenfluss Basis<br>AAS Prozessanschluss: Cl.150 RF Sch.40, Flansch ASME<br>B16.5<br>K Kalibration Durchfluss: 0.75% Volumen 3-Punkt<br>AA &gt;Bediensprache Anzeige: Englisch<br>DE &gt;&gt;Kundenspezifische Parametrierung: Ausgang 1, Gas"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Prowirl F 200, 7F2B50, DN50 2\"\\n\\nWirbeldurchfluss-Messgerät Inline-Ausführung.\\n\\nAusführung: 7F2B50-BBACCA1AASK+AADE\\n\\nStromausgang 1: Volumenfluss\\nMessstoff wählen: Gas\\nStrombereich: 4...20 mA NAMUR\\n4 mA-Wert: 0,00000 m3/h\\n20 mA-Wert: 315,00000 m3/h\\nFehlerverhalten Stromausgang: Max.\\nAusgangsverhalten\\nDämpfung Ausgang 1 1,00000 s\\nBB Zulassung: ATEX II1/2G Ex ia IIC\\nA Ausgang; Eingang: 4-20mA HART\\nC Anzeige; Bedienung: SD02 4-zeilig; Drucktasten +\\nDatensicherungsfunktion\\nC Gehäuse: GT20 Zweikammer, Alu, beschichtet\\nA Elektrischer Anschluss: Verschr. M20\\n1 Sensorausführung: Volumenfluss Basis\\nAAS Prozessanschluss: Cl.150 RF Sch.40, Flansch ASME\\nB16.5\\nK Kalibration Durchfluss: 0.75% Volumen 3-Punkt\\nAA >Bediensprache Anzeige: Englisch\\nDE >>Kundenspezifische Parametrierung: Ausgang 1, Gas"
 }

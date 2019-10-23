@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    16701\r\n                  ",
+  "id": "16701",
   "name": "Druckregler , Niederdruck,",
   "weight": "207,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "ohne SAV, mit SBV, Flansch DN 150, PN 16, Eingangsdruck 2bar, <br>Hinterdruck eingestellt auf 400mbar,<br>Leistung 4700m3/h<br>mit  Abnahmepr&#xFC;fzeugnis 3.1.B nach EN 10204 "
+  "price": "0,00",
+  "amount": "0",
+  "description": "ohne SAV, mit SBV, Flansch DN 150, PN 16, Eingangsdruck 2bar, \\nHinterdruck eingestellt auf 400mbar,\\nLeistung 4700m3/h\\nmitAbnahmeprüfzeugnis 3.1.B nach EN 10204 "
 }

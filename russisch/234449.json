@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    234449\r\n                  ",
+  "id": "234449",
   "name": "Wartungs-Satz, bestehend aus:",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "- 1 x Packing-set f&#xFC;r Kompressor (FAS 32035)<br>- 1 x Dichtungs-Satz f&#xFC;r 4-Wege-Kugelhahn (FAS 211420)<br>- 1 x Flexibler LPG-Schlauch, L&#xE4;nge 1.100 mm (FAS 232620)<br>- 1 x Dichtungs-Satz f&#xFC;r F&#xFC;llanschlu&#xDF; (FAS 232914)"
+  "price": "0,00",
+  "amount": "0",
+  "description": "- 1 x Packing-set für Kompressor (FAS 32035)\\n- 1 x Dichtungs-Satz für 4-Wege-Kugelhahn (FAS 211420)\\n- 1 x Flexibler LPG-Schlauch, Länge 1.100 mm (FAS 232620)\\n- 1 x Dichtungs-Satz für Füllanschluß (FAS 232914)"
 }

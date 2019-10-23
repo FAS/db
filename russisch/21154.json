@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    21154\r\n                  ",
+  "id": "21154",
   "name": "Reparatursatz für Blackmer-Kompressor 362",
   "weight": "2,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "bestehend aus: <br>2 kompletten Satz Saugventile (793269)<br>2 kompletten Satz Druckventile (793279)<br>6 Kolbenringe (793008)<br>6 Expanderringe (793012)<br>1 kompletten Dichtungssatz (793599)<br>4 kompletten Satz Kolbenstangenabdichtungen (793499)<br>2 Pleuelstangenlagern (793002)<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "bestehend aus: \\n2 kompletten Satz Saugventile (793269)\\n2 kompletten Satz Druckventile (793279)\\n6 Kolbenringe (793008)\\n6 Expanderringe (793012)\\n1 kompletten Dichtungssatz (793599)\\n4 kompletten Satz Kolbenstangenabdichtungen (793499)\\n2 Pleuelstangenlagern (793002)\\n"
 }

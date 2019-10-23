@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    28182\r\n                  ",
+  "id": "28182",
   "name": "Предожранительный клапан",
   "weight": "0,19",
-  "price": "\r\n                  47,00\r\n                  ",
-  "amount": "\r\n                      \r\n20\r\n                    \r\n                    ",
-  "description": "Einstelldruck: 17.24 bar (250 PSI),<br>Typ Reg0 AA3130UA250"
+  "price": "47,00",
+  "amount": "20",
+  "description": "Einstelldruck: 17.24 bar (250 PSI),\\nTyp Reg0 AA3130UA250"
 }

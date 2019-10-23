@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    25043\r\n                  ",
+  "id": "25043",
   "name": "Mehrpreis für zusätzlichen Endlagenschalter (induktiver",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Sensor) f&#xFC;r Stellung &quot;Betrieb&quot; an der pneumatischen Aus-<br>l&#xF6;sevorrichtung FAS 25.048<br>(Ex-gesch&#xFC;tzt mit Trennschaltverst&#xE4;rker z.B. FAS 26.301)"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Sensor) für Stellung \"Betrieb\" an der pneumatischen Aus-\\nlösevorrichtung FAS 25.048\\n(Ex-geschützt mit Trennschaltverstärker z.B. FAS 26.301)"
 }

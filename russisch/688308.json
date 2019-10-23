@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    688308\r\n                  ",
+  "id": "688308",
   "name": "Logo-Steuerungseinheit, Typ 230 RCL",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Versorgungsspannung 230V/50Hz<br>f&#xFC;r Hutschienenmontage<br>12 Digitaleing&#xE4;nge 230V AC<br>8 Relaisausg&#xE4;nge, 10A je Klemme bei ohmscher Last"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Versorgungsspannung 230V/50Hz\\nfür Hutschienenmontage\\n12 Digitaleingänge 230V AC\\n8 Relaisausgänge, 10A je Klemme bei ohmscher Last"
 }

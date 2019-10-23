@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    21550\r\n                  ",
+  "id": "21550",
   "name": "Temperaturüberwachung am Spalttopf:",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Widerstandsthermometer mit Einschraub-<br>verschraubung G 1/4&quot;<br>Me&#xDF;einsatz 1 x PT 100, Me&#xDF;bereich -50&#xB0;C bis<br>+300&#xB0;C mit kleinen Anschlu&#xDF;kopf aus Leichtmetall<br>und seitlicher Pg 9-Kabeleinf&#xFC;hrung"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Widerstandsthermometer mit Einschraub-\\nverschraubung G 1/4\"\\nMeßeinsatz 1 x PT 100, Meßbereich -50°C bis\\n+300°C mit kleinen Anschlußkopf aus Leichtmetall\\nund seitlicher Pg 9-Kabeleinführung"
 }

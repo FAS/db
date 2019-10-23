@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    18496\r\n                  ",
+  "id": "18496",
   "name": "TKW Abschaltung CL-OB1",
   "weight": "0,13",
-  "price": "\r\n                  345,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Fabrikat CMT, II (1) G [EEx ia] IIB/C -25&#xB0; ...+70&#xB0;C"
+  "price": "345,00",
+  "amount": "0",
+  "description": "Fabrikat CMT, II (1) G [EEx ia] IIB/C -25° ...+70°C"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    18339\r\n                  ",
+  "id": "18339",
   "name": "Sonde Vegatrol 20Ex mit Schwinggabel und Stabelektrode",
   "weight": "40,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "zur kapazitiven Grenzstanddetektion und kontinuierlicher F&#xFC;llstandsmessung, Betriebstemperatur -30&#xB0;.... +70&#xB0;C, <br>Flanschanschlu&#xDF; DN 80, PN 40 nach DIN EN 1092-1 (DIN 2635),<br>Schutzart IP 67, <br>mit Bauartzulassung"
+  "price": "0,00",
+  "amount": "0",
+  "description": "zur kapazitiven Grenzstanddetektion und kontinuierlicher Füllstandsmessung, Betriebstemperatur -30°.... +70°C, \\nFlanschanschluß DN 80, PN 40 nach DIN EN 1092-1 (DIN 2635),\\nSchutzart IP 67, \\nmit Bauartzulassung"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    9910\r\n                  ",
+  "id": "9910",
   "name": "() Dokumentation lag der Sendung bei. ",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "                     <br>() Dokumentation liegt der Rechnung bei.<br><br>() Dokumentation wird in K&#xFC;rze nachgereicht. <br><br>() Dokumentation per Fax geschickt. <br><br>() Dokumentation per e-mail geschickt."
+  "price": "0,00",
+  "amount": "0",
+  "description": "\\n() Dokumentation liegt der Rechnung bei.\\n\\n() Dokumentation wird in Kürze nachgereicht. \\n\\n() Dokumentation per Fax geschickt. \\n\\n() Dokumentation per e-mail geschickt."
 }

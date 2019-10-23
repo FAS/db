@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    16380\r\n                  ",
+  "id": "16380",
   "name": "Niederdruck-Regler, Typ RegO LV404B34,",
   "weight": "1,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n48\r\n                    \r\n                    ",
-  "description": "Eingang 1/4&quot; NPT, Ausgang 1/2&quot; NPT, mit integrierten<br>PRV, Leistung: 9,4 kg/h,<br>Hinterdruck 23 - 33 mbar,  Vordruck max. 6,8 bar, <br>mit Werkszeugnis 2.1 nach EN 10 204 "
+  "price": "0,00",
+  "amount": "48",
+  "description": "Eingang 1/4\" NPT, Ausgang 1/2\" NPT, mit integrierten\\nPRV, Leistung: 9,4 kg/h,\\nHinterdruck 23 - 33 mbar,Vordruck max. 6,8 bar, \\nmit Werkszeugnis 2.1 nach EN 10 204 "
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    262759\r\n                  ",
+  "id": "262759",
   "name": "Schaltschrank mit integrierter Gaswarnanlagensteuerung",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "zur nachtr&#xE4;glichen Montage in die Zuleitung vor den <br>Hauptschaltschrank, bestehend aus:<br> - Mess- und Auswerteelektronik Typ Unipoint f&#xFC;r den <br>   Anschluss von einem Sensor<br> - 24 V Spannungsnetzteil f&#xFC;r Mess- und Auswerteelektronik<br> - 5 kW Leistungssch&#xFC;tz zum Abschalten des Hauptschaltschrankes<br> - Meldeleuten rot f&#xFC;r 20% UEG, 40% UEG, St&#xF6;rung<br> - Entriegelungstaster<br> - Anschluss f&#xFC;r Summer/Hupe sowie Blitzleuchte<br> - Hauptschalter zum Ein-/Ausschalten der Stromversorgung<br><br>Abmessungen: H&#xF6;he 400 mm, Breite 300 mm, Tiefe 210 mm<br><br>Dokumentation:<br> - Klemmen- und Verdrahtungsplan<br><br>Kabeleinf&#xFC;hrungen:<br>(  ) oben<br>(  ) unten"
+  "price": "0,00",
+  "amount": "0",
+  "description": "zur nachträglichen Montage in die Zuleitung vor den \\nHauptschaltschrank, bestehend aus:\\n - Mess- und Auswerteelektronik Typ Unipoint für den \\nAnschluss von einem Sensor\\n - 24 V Spannungsnetzteil für Mess- und Auswerteelektronik\\n - 5 kW Leistungsschütz zum Abschalten des Hauptschaltschrankes\\n - Meldeleuten rot für 20% UEG, 40% UEG, Störung\\n - Entriegelungstaster\\n - Anschluss für Summer/Hupe sowie Blitzleuchte\\n - Hauptschalter zum Ein-/Ausschalten der Stromversorgung\\n\\nAbmessungen: Höhe 400 mm, Breite 300 mm, Tiefe 210 mm\\n\\nDokumentation:\\n - Klemmen- und Verdrahtungsplan\\n\\nKabeleinführungen:\\n() oben\\n() unten"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    170930\r\n                  ",
+  "id": "170930",
   "name": "Блок питания тип Endres Hauser",
   "weight": "0,34",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "NTP 40/8x/65   24 Volt  REx120  Ex<br><br>24 &#x432;&#x43E;&#x43B;&#x44C;&#x442; = 20-55 VAC / 16-62 VDC"
+  "price": "0,00",
+  "amount": "0",
+  "description": "NTP 40/8x/6524 VoltREx120Ex\\n\\n24 вольт = 20-55 VAC / 16-62 VDC"
 }

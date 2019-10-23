@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    910239\r\n                  ",
+  "id": "910239",
   "name": "Nadelventil, UNI-Typ MFG2004SS6T,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Typ MFG2004SS6T<br>Eingang/Ausgang: 1/2&quot; NPT AG / 1/2&quot; NPT IG ,<br>Geh&#xE4;usematerial: Edelstahl ,<br>Schwere hartgel&#xF6;tete Konstruktion f&#xFC;r zus&#xE4;tzliche <br>Festigkeit und Sicherheit bis 700 bar"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Typ MFG2004SS6T\\nEingang/Ausgang: 1/2\" NPT AG / 1/2\" NPT IG ,\\nGehäusematerial: Edelstahl ,\\nSchwere hartgelötete Konstruktion für zusätzliche \\nFestigkeit und Sicherheit bis 700 bar"
 }

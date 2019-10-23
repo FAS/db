@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    821470\r\n                  ",
+  "id": "821470",
   "name": "Druckschalter 1-10 bar, Typ DCMV10,",
   "weight": "0,50",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Einstellbereich 1-10 bar<br>Schaltdifferenz 0,5-2,8 bar<br>einstellbar, max. zul. Druck 25 bar<br>Steckanschlu&#xDF;, IP54<br>Mediumber&#xFC;hrte Teile: Metallbalg<br>1.4571, F&#xFC;hlergeh&#xE4;use 1.4104<br>Druckanschlu&#xDF; G1/2 AG und G 1/4 IG."
+  "price": "0,00",
+  "amount": "0",
+  "description": "Einstellbereich 1-10 bar\\nSchaltdifferenz 0,5-2,8 bar\\neinstellbar, max. zul. Druck 25 bar\\nSteckanschluß, IP54\\nMediumberührte Teile: Metallbalg\\n1.4571, Fühlergehäuse 1.4104\\nDruckanschluß G1/2 AG und G 1/4 IG."
 }

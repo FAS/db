@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    260720\r\n                  ",
+  "id": "260720",
   "name": "Lastwächter zur Überwachung des Leistungsfaktors",
   "weight": "0,20",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n9\r\n                    \r\n                    ",
-  "description": "Wirkleistungserfassung in 1- und 3-Phasennetzen mit einstellbarem Schwellwert, fixer Hysterese, getrennt einstellbarer Anlauf&#xFC;berbr&#xFC;ckung und Ausl&#xF6;severz&#xF6;gerung, Fehlerspeicher und folgenden &#xFC;ber Drehschalter w&#xE4;hlbaren Funktionen<br>OVER &#xDC;berlast&#xFC;berwachung<br>OVER+I=0 &#xDC;berlast&#xFC;berwachung und Erkennung<br>abgeschalteter Verbraucher<br>UNDER Unterlast&#xFC;berwachung<br>UNDER+I=0 Unterlast&#xFC;berwachung und Erkennung<br>abgeschalteter Verbraucher"
+  "price": "0,00",
+  "amount": "9",
+  "description": "Wirkleistungserfassung in 1- und 3-Phasennetzen mit einstellbarem Schwellwert, fixer Hysterese, getrennt einstellbarer Anlaufüberbrückung und Auslöseverzögerung, Fehlerspeicher und folgenden über Drehschalter wählbaren Funktionen\\nOVER Überlastüberwachung\\nOVER+I=0 Überlastüberwachung und Erkennung\\nabgeschalteter Verbraucher\\nUNDER Unterlastüberwachung\\nUNDER+I=0 Unterlastüberwachung und Erkennung\\nabgeschalteter Verbraucher"
 }

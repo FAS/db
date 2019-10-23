@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    70035\r\n                  ",
+  "id": "70035",
   "name": "Magazinwagen ",
   "weight": "16,50",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "Ladefl&#xE4;che 890x450 mm; Tragkraft max. 200 Kg"
+  "price": "0,00",
+  "amount": "1",
+  "description": "Ladefläche 890x450 mm; Tragkraft max. 200 Kg"
 }

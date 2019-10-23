@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    54453\r\n                  ",
+  "id": "54453",
   "name": "Behälter-Versorgungsanlage",
   "weight": "8,50",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n2\r\n                    \r\n                    ",
-  "description": "Nenndurchflu&#xDF;: 12 kg/h<br>komplett mit Hausanschlu&#xDF;kasten f&#xFC;r Aufputzmontage<br>Regelstufe 1 und Regelstufe 2<br>Ausgangsdruck 50 mbar"
+  "price": "0,00",
+  "amount": "2",
+  "description": "Nenndurchfluß: 12 kg/h\\nkomplett mit Hausanschlußkasten für Aufputzmontage\\nRegelstufe 1 und Regelstufe 2\\nAusgangsdruck 50 mbar"
 }

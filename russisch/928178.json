@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    928178\r\n                  ",
+  "id": "928178",
   "name": "KTM-MECAFRANCE-Edelstahlkugel",
   "weight": "0,10",
-  "price": "\r\n                  21,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Werkstoff: 1.4408<br>DN 15 standard / DN 10 integral<br>**passend f&#xFC;r 3-teilige MECAFRANCE-Kugelh&#xE4;hne<br>Serie R und RA<br>DN 15 standard (eingezogener Durchgang)<br>und<br>DN 10 integral (voller Durchgang)"
+  "price": "21,00",
+  "amount": "0",
+  "description": "Werkstoff: 1.4408\\nDN 15 standard / DN 10 integral\\npassend für 3-teilige MECAFRANCE-Kugelhähne\\nSerie R und RA\\nDN 15 standard (eingezogener Durchgang)\\nund\\nDN 10 integral (voller Durchgang)"
 }

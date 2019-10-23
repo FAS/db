@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    811011\r\n                  ",
+  "id": "811011",
   "name": "Reparatursatz Typ RegO ECL-80",
   "weight": "0,05",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "f&#xFC;r ECL19, ECL 22, ECL 70, ECL 100, ECL 140"
+  "price": "0,00",
+  "amount": "0",
+  "description": "für ECL19, ECL 22, ECL 70, ECL 100, ECL 140"
 }

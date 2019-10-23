@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    111823\r\n                  ",
+  "id": "111823",
   "name": "SV-3.2 - EX-Schutzprüfung einer Verdampferanlage",
   "weight": "0,00",
-  "price": "\r\n                  290,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "durch die bef&#xE4;higte Person<br><br>(  ) 225,- EUR zzgl. Arbeitszeit au&#xDF;erhalb der Wartung<br>( X ) Preis gem. Vereinbarung im Rahmen der Wartung"
+  "price": "290,00",
+  "amount": "0",
+  "description": "durch die befähigte Person\\n\\n() 225,- EUR zzgl. Arbeitszeit außerhalb der Wartung\\n( X ) Preis gem. Vereinbarung im Rahmen der Wartung"
 }

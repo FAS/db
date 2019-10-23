@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    96080\r\n                  ",
+  "id": "96080",
   "name": "Schlauchabbruchsicherung Nieder-/Mitteldruck, PN 16",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "zur Absicherung von Schlauchleitungen oder Rohrleitungen,<br>entspricht den Anforderungen gem&#xE4;&#xDF; BGV D 34 &#xA7; 9 und 10<br><br>Anschluss: Mitteldruck Typ SBS/MA, manuell<br>IG G 3/8&quot; x IG G 3/8&quot;  1,4 bar ;       3 kg/h<br><br>Vorteile und Ausstattung:<br><br>- verhindert Gasustritt bei Besch&#xE4;digung oder L&#xF6;sen der Schlauchleitung und schlie&#xDF;t den Gasduchgang ab, sobald der Nenndurchflu&#xDF; um 10% &#xFC;berschritten wird<br>- automatische Schlauchbruchsicherung: &#xF6;ffnet selbtt&#xE4;tig, dadurch geringe Leckgasmenge und bei langen Schlauchleitungen verz&#xF6;gertes &#xD6;ffnen<br>- manuelle Schlauchbruchsicherung: keine Verz&#xF6;gerung bzw. Leckmenge, daf&#xFC;r manuelle &#xD6;ffnung notwendig<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "zur Absicherung von Schlauchleitungen oder Rohrleitungen,\\nentspricht den Anforderungen gemäß BGV D 34 § 9 und 10\\n\\nAnschluss: Mitteldruck Typ SBS/MA, manuell\\nIG G 3/8\" x IG G 3/8\"1,4 bar ;3 kg/h\\n\\nVorteile und Ausstattung:\\n\\n- verhindert Gasustritt bei Beschädigung oder Lösen der Schlauchleitung und schließt den Gasduchgang ab, sobald der Nenndurchfluß um 10% überschritten wird\\n- automatische Schlauchbruchsicherung: öffnet selbttätig, dadurch geringe Leckgasmenge und bei langen Schlauchleitungen verzögertes Öffnen\\n- manuelle Schlauchbruchsicherung: keine Verzögerung bzw. Leckmenge, dafür manuelle Öffnung notwendig\\n"
 }

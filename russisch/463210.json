@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    463210\r\n                  ",
+  "id": "463210",
   "name": "Kontrollpanel für FAS-HG Kompressoraggrerat ",
   "weight": "3,80",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "besteht aus Steuerk&#xE4;sten aus Polyesterharz  der Reihe 8146. mit Folgenden Kontrolllampen und Schalter:<br>1.\tMin Eingangsdruck \t\t\t\t<br>2.\tMax Ausgangsdruck Zylinder 1 \t\t\t<br>3.\tMax Ausgangsdruck Zylinder  2\t\t\t<br>4.\tMin &#xD6;ldruck\t\t\t\t<br>5.\tMax Wasserdruck\t\t\t\t<br>6.\tmax Gastemperatur Zylinder 1\t\t\t\t<br>7.\tmax Gastemperatur Zylinder 2\t\t\t\t<br>8. \tStufe 1 aktiv\t\t\t\t<br>9.\tStufe 2 aktiv \t\t\t\t<br>10.\tNot-Aus \t\t\t\t<br>11.\tSteuerspannung\t\t\t\t<br>12.\tFl&#xFC;ssigkeit im Abscheider \t\t\t\t<br>13.\tFl&#xFC;ssigkeit im K&#xFC;hler \t\t\t\t<br>14.\tFl&#xFC;ssigkeit im Pufferbeh&#xE4;lter\t\t\t\t<br>15.\tMotorschutz<br>16 \tStart Kompressor<br>17 \tStop Kompressor<br>18 \tEntrigeln <br><br>\t\t\t\t<br><br><br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "besteht aus Steuerkästen aus Polyesterharzder Reihe 8146. mit Folgenden Kontrolllampen und Schalter:\\n1.\tMin Eingangsdruck \\n2.\tMax Ausgangsdruck Zylinder 1 \\n3.\tMax Ausgangsdruck Zylinder2\\n4.\tMin Öldruck\\n5.\tMax Wasserdruck\\n6.\tmax Gastemperatur Zylinder 1\\n7.\tmax Gastemperatur Zylinder 2\\n8. \tStufe 1 aktiv\\n9.\tStufe 2 aktiv \\n10.\tNot-Aus \\n11.\tSteuerspannung\\n12.\tFlüssigkeit im Abscheider \\n13.\tFlüssigkeit im Kühler \\n14.\tFlüssigkeit im Pufferbehälter\\n15.\tMotorschutz\\n16 \tStart Kompressor\\n17 \tStop Kompressor\\n18 \tEntrigeln \\n\\n\\n\\n\\n"
 }

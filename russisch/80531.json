@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    80531\r\n                  ",
+  "id": "80531",
   "name": "alt",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Materialzeugnis nach DIN 50.049 - 3.1 B<br>f&#xFC;r Sicherheitskopfarmatur"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Materialzeugnis nach DIN 50.049 - 3.1 B\\nfür Sicherheitskopfarmatur"
 }

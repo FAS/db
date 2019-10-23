@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    347140\r\n                  ",
+  "id": "347140",
   "name": "Heconomy Wandgehäuse Kartenleser",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Grundger&#xE4;t mit integriertem Forcecourt- Interface FCI f&#xFC;r max.<br>4 Zapfpunkte (Impulseing&#xE4;nge) und Kartenleser incl.<br><br>- Controller Windows CE 6.0<br>- LAN-/RS232- Interface<br>-128 MB Compakt Flash<br>- graphisches Display / Piezotastatur<br>- Magnetkartenleser (Vorsteckleser)<br>- Forcecourt- Interface FCI (MR- Variante)<br>Option Belegdrucker nicht m&#xF6;glich"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Grundgerät mit integriertem Forcecourt- Interface FCI für max.\\n4 Zapfpunkte (Impulseingänge) und Kartenleser incl.\\n\\n- Controller Windows CE 6.0\\n- LAN-/RS232- Interface\\n-128 MB Compakt Flash\\n- graphisches Display / Piezotastatur\\n- Magnetkartenleser (Vorsteckleser)\\n- Forcecourt- Interface FCI (MR- Variante)\\nOption Belegdrucker nicht möglich"
 }

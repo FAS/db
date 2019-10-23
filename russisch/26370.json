@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    26370\r\n                  ",
+  "id": "26370",
   "name": "SIMATIC S7-200",
   "weight": "0,32",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Zentralbaugruppe CPU 222<br>Versorgungsspannung AC 100-230 V<br>8 DE/6 DA integriert, Relaisausg&#xE4;nge"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Zentralbaugruppe CPU 222\\nVersorgungsspannung AC 100-230 V\\n8 DE/6 DA integriert, Relaisausgänge"
 }

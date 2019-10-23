@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    91904\r\n                  ",
+  "id": "91904",
   "name": "Flüssiggas-Seitenkanalpumpe, Typ UEAB 6502 MA DNE 1A 1",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "mit einfacher Gleitringdichtung, f&#xFC;r Zulaufbetrieb, <br>Leistung ca. 60 m3/hr bei 5.5 bar Differenzdruck,<br>Geh&#xE4;use GGG40.3, Eingang Flansch DN 125, <br>Ausgang Flansch DN 65, Flansche in PN 40 <br>mit glatter Dichtleiste"
+  "price": "0,00",
+  "amount": "0",
+  "description": "mit einfacher Gleitringdichtung, für Zulaufbetrieb, \\nLeistung ca. 60 m3/hr bei 5.5 bar Differenzdruck,\\nGehäuse GGG40.3, Eingang Flansch DN 125, \\nAusgang Flansch DN 65, Flansche in PN 40 \\nmit glatter Dichtleiste"
 }

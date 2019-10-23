@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    614288\r\n                  ",
+  "id": "614288",
   "name": "Messanlage für leichte Treibstoffe, Typ LC M7P, mit MID",
   "weight": "0,00",
-  "price": "\r\n                  8.340,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Konfiguration: BMS_1<br>besteht aus folgenden Hauptkomponenten:<br><br>- LC METER M7P / 1-M3, aus Aluminium hergestellt, <br>Z&#xE4;hler mit 2 &quot; Einlass &amp; Auslass BSPT Flansche, Impulsausgang<br>Ger&#xE4;t (POD) , Dichtungen: BUNA<br><br>- Gasblasenabscheider bestehend aus:<br>A) 2 &quot;F7 Sieb mit 40 Maschenkorb und Luft-Abscheider;<br>B) 2 &quot;K7 R&#xFC;ckschlagventil;<br>- 2-stufiges hydraulisches Membranventil A284811-3, 2 &quot;<br>Gr&#xF6;&#xDF;e, aus Aluminium hergestellt, 2x 220 V AC Magnetventile f&#xFC;r<br>niedrige und hohe Durchflussmenge.<br>- 2&quot; Schutzrohr als Sitz f&#xFC;r PT100 Temperaturf&#xFC;hler.<br>- St&#xFC;tzb&#xFC;gel f&#xFC;r die lokale Montage der LKI-Anzeige."
+  "price": "8.340,00",
+  "amount": "0",
+  "description": "Konfiguration: BMS_1\\nbesteht aus folgenden Hauptkomponenten:\\n\\n- LC METER M7P / 1-M3, aus Aluminium hergestellt, \\nZähler mit 2 \" Einlass & Auslass BSPT Flansche, Impulsausgang\\nGerät (POD) , Dichtungen: BUNA\\n\\n- Gasblasenabscheider bestehend aus:\\nA) 2 \"F7 Sieb mit 40 Maschenkorb und Luft-Abscheider;\\nB) 2 \"K7 Rückschlagventil;\\n- 2-stufiges hydraulisches Membranventil A284811-3, 2 \"\\nGröße, aus Aluminium hergestellt, 2x 220 V AC Magnetventile für\\nniedrige und hohe Durchflussmenge.\\n- 2\" Schutzrohr als Sitz für PT100 Temperaturfühler.\\n- Stützbügel für die lokale Montage der LKI-Anzeige."
 }

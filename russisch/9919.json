@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    9919\r\n                  ",
+  "id": "9919",
   "name": "KVA/Umbau/Reparatur",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "###############################<br>Bei Pos. 1 handelt es sich nicht um ein Neuger&#xE4;t, sondern um das<br>von Ihnen an unser Werk gesandte Ger&#xE4;t zur Erstellung eines<br>Kostenvoranschlages, zum Umbau bzw. zur Reparatur.<br><br><br>SN-Nr.: <br><br><br>F&#xFC;r die Reparatur bzw. den Umbau werden/sind folgende Kosten <br>berechnet/zu berechnen:"
+  "price": "0,00",
+  "amount": "0",
+  "description": "\\nBei Pos. 1 handelt es sich nicht um ein Neugerät, sondern um das\\nvon Ihnen an unser Werk gesandte Gerät zur Erstellung eines\\nKostenvoranschlages, zum Umbau bzw. zur Reparatur.\\n\\n\\nSN-Nr.: \\n\\n\\nFür die Reparatur bzw. den Umbau werden/sind folgende Kosten \\nberechnet/zu berechnen:"
 }

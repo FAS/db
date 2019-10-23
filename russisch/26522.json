@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    26522\r\n                  ",
-  "name": "Betätigungselement  AUS",
+  "id": "26522",
+  "name": "BetätigungselementAUS",
   "weight": "0,00",
-  "price": "\r\n                  6,00\r\n                  ",
-  "amount": "\r\n                      \r\n190\r\n                    \r\n                    ",
+  "price": "6,00",
+  "amount": "190",
   "description": ""
 }

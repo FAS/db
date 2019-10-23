@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    111771\r\n                  ",
+  "id": "111771",
   "name": "LOGO-Steuerungsnachrüstsatz zur Montage in den ZS-Kopf",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "f&#xFC;r die Zapfs&#xE4;ulentypen FAS-120, FAS-130, FAS-140, FAS-420_L, <br>FAS-420_L-EC, FAS-430_L, FAS-440_L, FAS-440_L-EC, komplett<br>verdrahtet auf einer Montageplatte. <br><br> - Ansteuerung von Magnetventil, Trockenlaufschutz und NOT-AUS Taster. <br> - Trockenlaufschutz mittels (bitte ausw&#xE4;hlen und ankreuzen)<br>   (  ) Leistungsmesser <br>   (  ) Differenzdruckschalter <br>        (  )Veeder Root Premier/MidFlow<br>        (  ) Ebsray RX25/RX33 (ohne Lagertemperatur&#xFC;berwachung)<br>        (  ) Ebsray RX25/RX33 (mit Lagertemperatur&#xFC;berwachung)<br> - Nachr&#xFC;stung bei einer Zapfs&#xE4;ule mit zwei Displays NICHT m&#xF6;glich<br><br>Dokumentation:<br> - Klemmen- und Verdrahtungsplan"
+  "price": "0,00",
+  "amount": "1",
+  "description": "für die Zapfsäulentypen FAS-120, FAS-130, FAS-140, FAS-420_L, \\nFAS-420_L-EC, FAS-430_L, FAS-440_L, FAS-440_L-EC, komplett\\nverdrahtet auf einer Montageplatte. \\n\\n - Ansteuerung von Magnetventil, Trockenlaufschutz und NOT-AUS Taster. \\n - Trockenlaufschutz mittels (bitte auswählen und ankreuzen)\\n() Leistungsmesser \\n() Differenzdruckschalter \\n()Veeder Root Premier/MidFlow\\n() Ebsray RX25/RX33 (ohne Lagertemperaturüberwachung)\\n() Ebsray RX25/RX33 (mit Lagertemperaturüberwachung)\\n - Nachrüstung bei einer Zapfsäule mit zwei Displays NICHT möglich\\n\\nDokumentation:\\n - Klemmen- und Verdrahtungsplan"
 }

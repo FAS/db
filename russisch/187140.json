@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    187140\r\n                  ",
+  "id": "187140",
   "name": "Fernanzeigegerät auf Basis RAMOC VD4-EX Typ R",
   "weight": "2,50",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Anzeige des F&#xFC;llstandes der Tanksonde auf dem Beh&#xE4;lter<br>Fernanzeige des aktuellen F&#xFC;llstandes auf dem Display des <br>Basisger&#xE4;tes, Ausgabe des F&#xFC;llstandes als 4..20mA-Signal <br>(4mA=0%; 20mA=100%), f&#xFC;llstandsabh&#xE4;ngiges Schalten <br>eines Relais mit definierbaren Schaltschwellen,<br>Relais nicht im Lieferumfang<br>Lieferumfang:<br>- Fern&#xFC;bertragungsger&#xE4;t RAMOC VD4-EX &#x2013; Typ R <br>- Netzteil mit 4 .. 20mA- Ausgang <br>- Tanksonde S, GOK f&#xFC;r Rochester &#x201E;Junior&#x201C;<br>- Dokumentation<br>Optional<br>- Lieferung mit Hutschienenhalterungen<br>- Integration in FAS Schaltschrank gegen Mehrpreis<br>- Relais MIN-Abschaltung f&#xFC;r Montage auf Hutschiene<br>- Lieferung mit integriertem GSM-Modem und Antenne<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Anzeige des Füllstandes der Tanksonde auf dem Behälter\\nFernanzeige des aktuellen Füllstandes auf dem Display des \\nBasisgerätes, Ausgabe des Füllstandes als 4..20mA-Signal \\n(4mA=0%; 20mA=100%), füllstandsabhängiges Schalten \\neines Relais mit definierbaren Schaltschwellen,\\nRelais nicht im Lieferumfang\\nLieferumfang:\\n- Fernübertragungsgerät RAMOC VD4-EX – Typ R \\n- Netzteil mit 4 .. 20mA- Ausgang \\n- Tanksonde S, GOK für Rochester „Junior“\\n- Dokumentation\\nOptional\\n- Lieferung mit Hutschienenhalterungen\\n- Integration in FAS Schaltschrank gegen Mehrpreis\\n- Relais MIN-Abschaltung für Montage auf Hutschiene\\n- Lieferung mit integriertem GSM-Modem und Antenne\\n"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    265221\r\n                  ",
+  "id": "265221",
   "name": "Leuchtdrucktaster \"rot\"",
   "weight": "0,02",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Frontelement f&#xFC;r M22 Eaton Drucktaster"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Frontelement für M22 Eaton Drucktaster"
 }

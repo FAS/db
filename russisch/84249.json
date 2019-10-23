@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    84249\r\n                  ",
+  "id": "84249",
   "name": "Fernsensor Typ 781 (F780) mit siegistor SG7B",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Schutzart (Ex) sd 3n G5, mit Anschlu&#xDF;klemmkasten<br>(Ex) e G5, Typ 8140/11-C 645, PTB-gepr&#xFC;ft<br>Funktionsgutachten BAM/PFG"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Schutzart (Ex) sd 3n G5, mit Anschlußklemmkasten\\n(Ex) e G5, Typ 8140/11-C 645, PTB-geprüft\\nFunktionsgutachten BAM/PFG"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    226116\r\n                  ",
+  "id": "226116",
   "name": "Elektronischer Preisrechner ADP1/L/PW (Beta Control)",
   "weight": "0,41",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n10\r\n                    \r\n                    ",
-  "description": "Preisrechner f&#xFC;r 1 Zapfstelle (f&#xFC;r FAS 120 und 220).<br>Ohne Temperaturkompensation.<br><br>Spannungsversorgung (Power supply):<br>+24 V &#xB1;5 %, 30 W<br><br>Communication protocols:<br>EasyCall, DART, Pumalan, Nara, IFSF (requires external IFSF module)<br><br>Maximum flow:<br>500 l/min<br><br><br><br><br><br><br>Zusatzliches Zubeh&#xF6;r:<br>zweites LCD Display: FAS Nr: 227295<br>Fernbedienung (Anwender): FAS Nr.: 349330<br>Fernbedienung (Service): FAS Nr.: 349331<br>Elektromechanischer Summenz&#xE4;hler: BC Nr.; 201197<br>IFSF Communication Interface: BC Nr.: 204079"
+  "price": "0,00",
+  "amount": "10",
+  "description": "Preisrechner für 1 Zapfstelle (für FAS 120 und 220).\\nOhne Temperaturkompensation.\\n\\nSpannungsversorgung (Power supply):\\n+24 V ±5 %, 30 W\\n\\nCommunication protocols:\\nEasyCall, DART, Pumalan, Nara, IFSF (requires external IFSF module)\\n\\nMaximum flow:\\n500 l/min\\n\\n\\n\\n\\n\\n\\nZusatzliches Zubehör:\\nzweites LCD Display: FAS Nr: 227295\\nFernbedienung (Anwender): FAS Nr.: 349330\\nFernbedienung (Service): FAS Nr.: 349331\\nElektromechanischer Summenzähler: BC Nr.; 201197\\nIFSF Communication Interface: BC Nr.: 204079"
 }

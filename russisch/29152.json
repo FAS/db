@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    29152\r\n                  ",
+  "id": "29152",
   "name": "Katalog \"Englisch\"",
   "weight": "1,35",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n397\r\n                    \r\n                    ",
-  "description": "Format: DIN A4 , 100 Blatt je Katalog ,<br>Papier: Luxokay 150 g<br>Druck: 2/0 farbig , rot HKS 12 , schwarz<br>Verarbeitung: 4 -fach Lochung<br>Sprache: englisch<br>(Druckstand 2001/unver&#xE4;ndert)<br><br>"
+  "price": "0,00",
+  "amount": "397",
+  "description": "Format: DIN A4 , 100 Blatt je Katalog ,\\nPapier: Luxokay 150 g\\nDruck: 2/0 farbig , rot HKS 12 , schwarz\\nVerarbeitung: 4 -fach Lochung\\nSprache: englisch\\n(Druckstand 2001/unverändert)\\n\\n"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    26358\r\n                  ",
+  "id": "26358",
   "name": "Simatic S7-300, CPU 313",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Zentralbaugruppe mit integr. Stromversorgung<br>DC 24V, Arbeitsspeicher 12 KBYTE<br>6ES7313-1AD03-0AB0"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Zentralbaugruppe mit integr. Stromversorgung\\nDC 24V, Arbeitsspeicher 12 KBYTE\\n6ES7313-1AD03-0AB0"
 }

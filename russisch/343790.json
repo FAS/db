@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    343790\r\n                  ",
+  "id": "343790",
   "name": "Auswertungsprogramm für eine Prüfausrüstung",
   "weight": "0,00",
-  "price": "\r\n                  2.500,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "zur volumetrischen Bestimmung von <br>Fl&#xFC;ssiggasvolumen an Fl&#xFC;ssiggaszapfs&#xE4;ulen <br>Seriennummer Pr&#xFC;fstand: ___________<br>Der Volumen-Druckdehnungsfaktor Normal ist <br>vor Bestellung anzugeben <br>mit kappa N = _________ 1/bar<br>"
+  "price": "2.500,00",
+  "amount": "0",
+  "description": "zur volumetrischen Bestimmung von \\nFlüssiggasvolumen an Flüssiggaszapfsäulen \\nSeriennummer Prüfstand: ___________\\nDer Volumen-Druckdehnungsfaktor Normal ist \\nvor Bestellung anzugeben \\nmit kappa N = _________ 1/bar\\n"
 }

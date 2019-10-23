@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    470889\r\n                  ",
+  "id": "470889",
   "name": "Erweiterung: Bedienpult für Schaltschrank 470888",
   "weight": "0,00",
-  "price": "\r\n                  720,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Optionale Erweiterung des Schaltschrankes 470888 f&#xFC;r FAS2000i um ein 4,3&apos;&apos; Touchpanel.<br><br>Zur Anzeige der Daten des Verdampfers (Temperatur, Zustand, Leistung, ...)<br>M&#xF6;glichkeit zum Fernzugriff auf das Bedienpult um die Daten aus der Ferne zu beobachten.<br>Zus&#xE4;tzlich ist es m&#xF6;glich einen USB Stick zur Datenaufzeichnung anzuschlie&#xDF;en. "
+  "price": "720,00",
+  "amount": "0",
+  "description": "Optionale Erweiterung des Schaltschrankes 470888 für FAS2000i um ein 4,3'' Touchpanel.\\n\\nZur Anzeige der Daten des Verdampfers (Temperatur, Zustand, Leistung, ...)\\nMöglichkeit zum Fernzugriff auf das Bedienpult um die Daten aus der Ferne zu beobachten.\\nZusätzlich ist es möglich einen USB Stick zur Datenaufzeichnung anzuschließen. "
 }

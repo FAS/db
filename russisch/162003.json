@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    162003\r\n                  ",
+  "id": "162003",
   "name": "ПЗК для Регулятор низкого давления , Тип FAS 162001",
   "weight": "1,00",
-  "price": "\r\n                  165,00\r\n                  ",
-  "amount": "\r\n                      \r\n3\r\n                    \r\n                    ",
-  "description": "<br>OPSO 10-90 &#x43C;&#x431;&#x430;&#x440;<br>OPSU  250-650 &#x43C;&#x431;&#x430;&#x440;<br><br>"
+  "price": "165,00",
+  "amount": "3",
+  "description": "\\nOPSO 10-90 мбар\\nOPSU250-650 мбар\\n\\n"
 }

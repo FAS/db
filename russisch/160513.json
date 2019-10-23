@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    160513\r\n                  ",
+  "id": "160513",
   "name": "Niederdruckregler, Typ Fisher CS800IR-8HC7,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Ein-/Ausgang: 2&quot; FNPT, 186 SCMH<br>(16532000 BTU/h), Eingangsdruck: max. 2,1 bar <br>(30 psig), Ausgangsdruck:0,17 - 0,38 bar <br>CS800IR-8HC7"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Ein-/Ausgang: 2\" FNPT, 186 SCMH\\n(16532000 BTU/h), Eingangsdruck: max. 2,1 bar \\n(30 psig), Ausgangsdruck:0,17 - 0,38 bar \\nCS800IR-8HC7"
 }

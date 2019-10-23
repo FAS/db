@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    91691\r\n                  ",
+  "id": "91691",
   "name": "Motorschutzschalter ",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Thermischer &#xDC;berstromausl&#xF6;ser, phasenausfallempfindlich,<br>Einstellbereich 4,0 - 6,3 A<br>Geh&#xE4;use aus Kunststoff, Schutzart: IP 55<br> "
+  "price": "0,00",
+  "amount": "0",
+  "description": "Thermischer Überstromauslöser, phasenausfallempfindlich,\\nEinstellbereich 4,0 - 6,3 A\\nGehäuse aus Kunststoff, Schutzart: IP 55\\n "
 }

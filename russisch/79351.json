@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    79351\r\n                  ",
+  "id": "79351",
   "name": "Pilzschloss ohne Schlüssel eindrückbar",
   "weight": "0,70",
-  "price": "\r\n                  225,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "mit Schl&#xFC;ssel entriegelbar, <br>DOM-Schlie&#xDF;ung 4 A 185"
+  "price": "225,00",
+  "amount": "0",
+  "description": "mit Schlüssel entriegelbar, \\nDOM-Schließung 4 A 185"
 }

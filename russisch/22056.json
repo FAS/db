@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    22056\r\n                  ",
+  "id": "22056",
   "name": "Mehrpreis für Elektro-Schaltkasten zur Montage",
   "weight": "10,20",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "im Geb&#xE4;ude und au&#xDF;erhalb der Schutzzone, <br>komplett verdrahtet zum Anschlu&#xDF; <br>von ________ kW-Pumpenmotor (max.5 kW),<br>Magnetventil, Doppeldrucktaster und Durchflu&#xDF;w&#xE4;chter<br><br> == Exportausf&#xFC;hrung =="
+  "price": "0,00",
+  "amount": "0",
+  "description": "im Gebäude und außerhalb der Schutzzone, \\nkomplett verdrahtet zum Anschluß \\nvon ________ kW-Pumpenmotor (max.5 kW),\\nMagnetventil, Doppeldrucktaster und Durchflußwächter\\n\\n == Exportausführung =="
 }

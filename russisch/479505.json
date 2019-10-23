@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    479505\r\n                  ",
+  "id": "479505",
   "name": "Projektbezogenes Elektroinstallationsmaterial",
   "weight": "7,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "vom Service beigestelltes Material wie z.B. Kabel, <br>Kabelkanal etc.<br><br>Wird vom Service projektbezogen zusammengestellt.<br><br><br>============================================================<br>Artikel dient der internen Projektabwicklung und wird nicht gesondert berechnet!<br>============================================================"
+  "price": "0,00",
+  "amount": "0",
+  "description": "vom Service beigestelltes Material wie z.B. Kabel, \\nKabelkanal etc.\\n\\nWird vom Service projektbezogen zusammengestellt.\\n\\n\\n============================================================\\nArtikel dient der internen Projektabwicklung und wird nicht gesondert berechnet!\\n============================================================"
 }

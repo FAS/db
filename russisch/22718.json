@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    22718\r\n                  ",
+  "id": "22718",
   "name": "Elektro-Schaltkasten aus Stahlblech, Ausführung mit",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Steuertrafo, zur Montage im Geb&#xE4;ude und au&#xDF;erhalb <br>der Schutzzone, komplett verdrahtet zum Anschlu&#xDF; <br>von Pumpenmotor bis 5 kW, Magnetventil, <br>Doppeldrucktaster und Durchflu&#xDF;w&#xE4;chter<br>Temperatur&#xFC;berwachung der Magnetkupplung"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Steuertrafo, zur Montage im Gebäude und außerhalb \\nder Schutzzone, komplett verdrahtet zum Anschluß \\nvon Pumpenmotor bis 5 kW, Magnetventil, \\nDoppeldrucktaster und Durchflußwächter\\nTemperaturüberwachung der Magnetkupplung"
 }

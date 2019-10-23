@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    72151\r\n                  ",
+  "id": "72151",
   "name": "Druckfeder",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n555\r\n                    \r\n                    ",
-  "description": "d = 0,4; Da = 8,3; Lo = 16 mm<br>n = 3,5 Enden angelegt,<br>Werkstoff 1.4310"
+  "price": "0,00",
+  "amount": "555",
+  "description": "d = 0,4; Da = 8,3; Lo = 16 mm\\nn = 3,5 Enden angelegt,\\nWerkstoff 1.4310"
 }

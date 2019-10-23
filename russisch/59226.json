@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    59226\r\n                  ",
+  "id": "59226",
   "name": "Druckregeler 1/4",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "Eingang : 8 bar<br>Ausgagng : 0,02 -0,5 bar<br>Bestell Nr. 11818999"
+  "price": "0,00",
+  "amount": "1",
+  "description": "Eingang : 8 bar\\nAusgagng : 0,02 -0,5 bar\\nBestell Nr. 11818999"
 }

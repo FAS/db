@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    34221\r\n                  ",
+  "id": "34221",
   "name": "UMTS/GRPS-Ausrüstung, für TA-FAS-Typ: 420_L oder 420_L_EC",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "mit Au&#xDF;enantenne, einschl. Zusatzkosten f&#xFC;r ELME PIN-PAD.<br>*******<br>Der UMTS/GRPS-Router wird vom Kunden angeliefert!<br>Achtung!<br>In diesem Fall kann das erforderliche Telefonmodem, f&#xFC;r die Datenkommunikation der Flottenkarten, entfallen.<br>*******<br>ALLGEMEINE HINWEIS DATEN&#xDC;BERTRAGUNG:<br>F&#xFC;r die Kommunikation des Tankautomaten zur Abrechnung der Kreditkarten, zur Verwaltung der Kundenkarten und um Einstellungen (z. B. Literpreis) vornehmen zu k&#xF6;nnen ist eine Daten&#xFC;bertragung einzurichten. Dies kann mittels Kabelverbindungen direkt oder  &#xFC;ber ISDN, oder auch &#xFC;ber GSM bzw. UMTS mittels drahtloser Technik erfolgen. In jedem Falle muss eine Verbindung von einem PC des Betreibers und eine weitere Verbindung von einem Provider wie Tele Cash zu dem Tankautomaten hergestellt werden.<br>"
+  "price": "0,00",
+  "amount": "1",
+  "description": "mit Außenantenne, einschl. Zusatzkosten für ELME PIN-PAD.\\n\\nDer UMTS/GRPS-Router wird vom Kunden angeliefert!\\nAchtung!\\nIn diesem Fall kann das erforderliche Telefonmodem, für die Datenkommunikation der Flottenkarten, entfallen.\\n\\nALLGEMEINE HINWEIS DATENÜBERTRAGUNG:\\nFür die Kommunikation des Tankautomaten zur Abrechnung der Kreditkarten, zur Verwaltung der Kundenkarten und um Einstellungen (z. B. Literpreis) vornehmen zu können ist eine Datenübertragung einzurichten. Dies kann mittels Kabelverbindungen direkt oderüber ISDN, oder auch über GSM bzw. UMTS mittels drahtloser Technik erfolgen. In jedem Falle muss eine Verbindung von einem PC des Betreibers und eine weitere Verbindung von einem Provider wie Tele Cash zu dem Tankautomaten hergestellt werden.\\n"
 }

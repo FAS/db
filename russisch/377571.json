@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    377571\r\n                  ",
+  "id": "377571",
   "name": "Grundgestell (2400x1150x100) ",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": " - Material: S235JR<br> - Abma&#xDF;e: 2400 x 1150 x 100 mm (l x b x h)<br> - Gewicht: 120 kg"
+  "price": "0,00",
+  "amount": "0",
+  "description": " - Material: S235JR\\n - Abmaße: 2400 x 1150 x 100 mm (l x b x h)\\n - Gewicht: 120 kg"
 }

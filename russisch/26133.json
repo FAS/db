@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    26133\r\n                  ",
+  "id": "26133",
   "name": "Drehstrom-Kurzschlußläufer-Normmotor",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "7,5 kW, 750 1/min, 380/660 V, 50 Hz<br>B3, IP 65, mit Fremdl&#xFC;fter und <br>3 Kaltleiter-Temperaturf&#xFC;hler"
+  "price": "0,00",
+  "amount": "1",
+  "description": "7,5 kW, 750 1/min, 380/660 V, 50 Hz\\nB3, IP 65, mit Fremdlüfter und \\n3 Kaltleiter-Temperaturfühler"
 }

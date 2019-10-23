@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    589153\r\n                  ",
+  "id": "589153",
   "name": "Balgengaszähler für LPG, BKG2.5",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Anschluss: \tEinstutzen<br>\t\tDN40<br>Zulassung:\tnach DIN EN 1359<br>Messbereich:\t0,025 - 2,5m&#xB3;<br>\t\t(0.8m&#xB3;/h entsprechen 2 kg/h)<br>Geh&#xE4;use:\t\tStahl, gefalzt<br><br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Anschluss: \tEinstutzen\\nDN40\\nZulassung:\tnach DIN EN 1359\\nMessbereich:\t0,025 - 2,5m³\\n(0.8m³/h entsprechen 2 kg/h)\\nGehäuse:Stahl, gefalzt\\n\\n"
 }

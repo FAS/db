@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    48507\r\n                  ",
+  "id": "48507",
   "name": "Schnittstellenwandler USB für Tankautomaten FAS-430_E",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "von Schnittstelle USB auf RS485<br><br>Hinweis/e:<br> - Der Schnittstellenwandler ist ab einer Datenkabell&#xE4;nge von 10m notwendig.<br> - Zum Datenabruf sind entweder zwei Schnittstellenwandler RS232/RS485<br>   oder ein Schnittstellenwandler RS232/RS485 und ein Schnittstellenwandler<br>   USB/RS485 (FAS-48.507) notwendig."
+  "price": "0,00",
+  "amount": "1",
+  "description": "von Schnittstelle USB auf RS485\\n\\nHinweis/e:\\n - Der Schnittstellenwandler ist ab einer Datenkabellänge von 10m notwendig.\\n - Zum Datenabruf sind entweder zwei Schnittstellenwandler RS232/RS485\\noder ein Schnittstellenwandler RS232/RS485 und ein Schnittstellenwandler\\nUSB/RS485 (FAS-48.507) notwendig."
 }

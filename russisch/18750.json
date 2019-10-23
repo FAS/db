@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    18750\r\n                  ",
+  "id": "18750",
   "name": "Werksabnahmeprüfung mit Durchflußmessung und Justierung",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "einer LC-Me&#xDF;anlage"
+  "price": "0,00",
+  "amount": "0",
+  "description": "einer LC-Meßanlage"
 }

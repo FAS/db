@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    15280\r\n                  ",
+  "id": "15280",
   "name": "Sicherheitsventil aus Messing, Typ RegO 3127",
   "weight": "0,10",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "1/4&quot; NPT AG, Einstelldruck _______ bar, <br>ohne T&#xDC;V-Einstellbescheinigung, mit Plastikschutzkappe, <br>**ACHTUNG: eingestellt und Druck nicht markiert sowie nicht verstiftet/plombiert!**<br>mit Werkszeugnis 2.2 nach EN 10 204 <br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "1/4\" NPT AG, Einstelldruck _______ bar, \\nohne TÜV-Einstellbescheinigung, mit Plastikschutzkappe, \\nACHTUNG: eingestellt und Druck nicht markiert sowie nicht verstiftet/plombiert!\\nmit Werkszeugnis 2.2 nach EN 10 204 \\n"
 }

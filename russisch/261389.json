@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    261389\r\n                  ",
+  "id": "261389",
   "name": "Meßumformer Nivotester, Typ FTL 325P",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "FTL325P-F1A1<br>Nivotester FTL325P<br>Link zur Produktinformation:<br>www.de.endress.com/FTL325P<br>F&#xFC;llstandauswerteger&#xE4;t, Grenzstand.<br>Eingang: 1/3-Kanal, 2-Leiter PFM.<br>:: Funktions&#xFC;berwachung.<br>F Zulassung: ATEX II (1)GD [Ex ia] IIC, WHG, IECEx<br>[Ex ia] IIC<br>1 Geh&#xE4;use: Schienen Montage, 22,5mm, 1-Kanal<br>A Hilfsenergie: 85-253VAC<br>1 Schaltausgang: 1x SPDT F&#xFC;llstand + 1x SPST Alarm"
+  "price": "0,00",
+  "amount": "0",
+  "description": "FTL325P-F1A1\\nNivotester FTL325P\\nLink zur Produktinformation:\\nwww.de.endress.com/FTL325P\\nFüllstandauswertegerät, Grenzstand.\\nEingang: 1/3-Kanal, 2-Leiter PFM.\\n:: Funktionsüberwachung.\\nF Zulassung: ATEX II (1)GD [Ex ia] IIC, WHG, IECEx\\n[Ex ia] IIC\\n1 Gehäuse: Schienen Montage, 22,5mm, 1-Kanal\\nA Hilfsenergie: 85-253VAC\\n1 Schaltausgang: 1x SPDT Füllstand + 1x SPST Alarm"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    186462\r\n                  ",
+  "id": "186462",
   "name": "Anschlussring DN 40 PN 40 aus Werkstoff HII, s = 50 mm,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Zwischenflanschausf&#xFC;hrung f&#xFC;r Flansche nach DIN EN 1092-1 (DIN 2635)<br>mit glatter Dichtleiste, Anschl&#xFC;sse:<br> * 1/4&quot; NPT IG f&#xFC;r Differenzdruckschalter<br> * 1/4&quot; NPT IG f&#xFC;r Entl&#xFC;ftung / Sicherheitsventil <br> * 1/4&quot; NPT IG f&#xFC;r Manometer<br> * 1&quot;    NPT IG f&#xFC;r &#xDC;berstr&#xF6;mventil"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Zwischenflanschausführung für Flansche nach DIN EN 1092-1 (DIN 2635)\\nmit glatter Dichtleiste, Anschlüsse:\\n * 1/4\" NPT IG für Differenzdruckschalter\\n * 1/4\" NPT IG für Entlüftung / Sicherheitsventil \\n * 1/4\" NPT IG für Manometer\\n * 1\"NPT IG für Überströmventil"
 }

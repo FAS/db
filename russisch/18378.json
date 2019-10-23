@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    18378\r\n                  ",
+  "id": "18378",
   "name": "Sicherheits-Barriere",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "f&#xFC;r Anzeigeinstrument im Ex-Bereich,<br>4-20mA Signale"
+  "price": "0,00",
+  "amount": "0",
+  "description": "für Anzeigeinstrument im Ex-Bereich,\\n4-20mA Signale"
 }

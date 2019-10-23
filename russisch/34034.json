@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    34034\r\n                  ",
-  "name": "Schnittstelleninterface \"UART\" für EC-Tankautomat  Lümatic<br>",
+  "id": "34034",
+  "name": "Schnittstelleninterface \"UART\" für EC-TankautomatLümatic\\n",
   "weight": "0,07",
-  "price": "\r\n                  705,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
+  "price": "705,00",
+  "amount": "0",
   "description": "(Einbau in Typ: FAS-420_L, FAS-420_L-EC, FAS-430_L Tankautomaten)"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    83578\r\n                  ",
+  "id": "83578",
   "name": "alt",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Schwei&#xDF;vorbereitung, Schwei&#xDF;en, Grundieren,<br>Druckprobe 27,5 bar, Dichtheitsprobe 2,0 bar"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Schweißvorbereitung, Schweißen, Grundieren,\\nDruckprobe 27,5 bar, Dichtheitsprobe 2,0 bar"
 }

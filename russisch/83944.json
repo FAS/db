@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    83944\r\n                  ",
+  "id": "83944",
   "name": "Überfüllsicherung, Typ CMT, mit Flanschanschluß, 3\" ANSI,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "300 lbs, mit kapazitivem Me&#xDF;system und kontinuierlicher <br>F&#xFC;llstandsanzeige gem&#xE4;&#xDF; Druckbeh&#xE4;lterverordnung und <br>Vd-T&#xDC;V-Merkblatt &#xDC;berf&#xFC;llsicherung 100, bestehend aus <br>Steuerkasten/Schaltverst&#xE4;rker CK2, Grenzwertgeber SRO, <br>kapazitiver Niveauumwandler URO und 24V Speiseger&#xE4;t"
+  "price": "0,00",
+  "amount": "0",
+  "description": "300 lbs, mit kapazitivem Meßsystem und kontinuierlicher \\nFüllstandsanzeige gemäß Druckbehälterverordnung und \\nVd-TÜV-Merkblatt Überfüllsicherung 100, bestehend aus \\nSteuerkasten/Schaltverstärker CK2, Grenzwertgeber SRO, \\nkapazitiver Niveauumwandler URO und 24V Speisegerät"
 }

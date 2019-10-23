@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    263021\r\n                  ",
+  "id": "263021",
   "name": "Trennschaltverstärker 2 Kanal (230V) (Stahl)",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "eigensicherer Steuerstromkreis (EEx ia) IIC<br>mit Relaisausgang 2-Wechsler, Speisespannung: 230 VAC<br>f&#xFC;r Schaltschrankeinbau, NAMUR,<br>Z&#xFC;ndschutzart [EEx ia] II C<br>mit ATEX-Kennzeichnung &amp; ATEX-Bescheinigung<br><br>Einsetzbar bis SIL 2 (IEC 61508)"
+  "price": "0,00",
+  "amount": "0",
+  "description": "eigensicherer Steuerstromkreis (EEx ia) IIC\\nmit Relaisausgang 2-Wechsler, Speisespannung: 230 VAC\\nfür Schaltschrankeinbau, NAMUR,\\nZündschutzart [EEx ia] II C\\nmit ATEX-Kennzeichnung & ATEX-Bescheinigung\\n\\nEinsetzbar bis SIL 2 (IEC 61508)"
 }

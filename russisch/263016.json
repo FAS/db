@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    263016\r\n                  ",
+  "id": "263016",
   "name": "SMART-Transmitterspeisegerät",
   "weight": "0,00",
-  "price": "\r\n                  650,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Typ KFD2-STC4-Ex2<br>eigensicherer Steuerstromkreis (EEx ia) IIC<br>2-kanalige Trennbarriere<br>24 V DC-Versorgung (Power Rail)<br>Eingang 2-Draht-SMART-Transmitter<br>Ausgang 0/4 mA ... 20 mA<br>Klemmen mit Pr&#xFC;fabgriff<br>Bis SIL 2 gem&#xE4;&#xDF; IEC 61508<br>"
+  "price": "650,00",
+  "amount": "0",
+  "description": "Typ KFD2-STC4-Ex2\\neigensicherer Steuerstromkreis (EEx ia) IIC\\n2-kanalige Trennbarriere\\n24 V DC-Versorgung (Power Rail)\\nEingang 2-Draht-SMART-Transmitter\\nAusgang 0/4 mA ... 20 mA\\nKlemmen mit Prüfabgriff\\nBis SIL 2 gemäß IEC 61508\\n"
 }

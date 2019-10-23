@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    81209\r\n                  ",
+  "id": "81209",
   "name": "Luftkompressor, einstufig,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Ausgangsdruck ca. 8 bar,<br>eff. Liefermenge bei 8 bar: 215 l/min<br>komplett mit Druckbeh&#xE4;lter 90 l und<br>Motor 1,7 kW, 380 V, 90 l Beh&#xE4;lterinhalt"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Ausgangsdruck ca. 8 bar,\\neff. Liefermenge bei 8 bar: 215 l/min\\nkomplett mit Druckbehälter 90 l und\\nMotor 1,7 kW, 380 V, 90 l Behälterinhalt"
 }

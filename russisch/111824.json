@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    111824\r\n                  ",
+  "id": "111824",
   "name": "Schaltschrankbeschriftung, 45x15mm",
   "weight": "0,01",
-  "price": "\r\n                  11,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "###############################<br>(  ) NOT-AUS<br>(  ) Leistungsw&#xE4;chter ausgel&#xF6;st<br>(  ) Differenzdruck ausgel&#xF6;st<br>(  ) Motorschutz ausgel&#xF6;st<br>(  ) in Betrieb<br>(  ) ***<br>"
+  "price": "11,00",
+  "amount": "0",
+  "description": "\\n() NOT-AUS\\n() Leistungswächter ausgelöst\\n() Differenzdruck ausgelöst\\n() Motorschutz ausgelöst\\n() in Betrieb\\n() \\n"
 }

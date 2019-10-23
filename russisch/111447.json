@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    111447\r\n                  ",
-  "name": "Gasmessfühler  Bieler +Lang, Typ ExDetector HC100,",
+  "id": "111447",
+  "name": "GasmessfühlerBieler +Lang, Typ ExDetector HC100,",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "zur Erfassung von brennbaren Gasen: Propan,<br>Messbereich: 0...100% UEG<br>Messprinzip: W&#xE4;rmet&#xF6;nung,<br>Messsignal: 4...20mA, <br>Geh&#xE4;use: Aluminium, Sensor: Edelstahl,<br>Schutzart: IP 54,<br>Z&#xFC;ndschutzart: <br>-Geh&#xE4;use/Elektronik: II 2G EX de (ib) IIC T6<br>-Sensor:                    II 2G Ex d IIC T4<br>EG-Baumusterpr&#xFC;fung, PTB 00 ATEX 1075 / 1076U<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "zur Erfassung von brennbaren Gasen: Propan,\\nMessbereich: 0...100% UEG\\nMessprinzip: Wärmetönung,\\nMesssignal: 4...20mA, \\nGehäuse: Aluminium, Sensor: Edelstahl,\\nSchutzart: IP 54,\\nZündschutzart: \\n-Gehäuse/Elektronik: II 2G EX de (ib) IIC T6\\n-Sensor:II 2G Ex d IIC T4\\nEG-Baumusterprüfung, PTB 00 ATEX 1075 / 1076U\\n"
 }

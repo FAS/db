@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    80648\r\n                  ",
+  "id": "80648",
   "name": "alt",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Aufgrund der zu hohen Fracht- und Verpackungskosten, <br>bitten wir Sie, den folgenden Betrag von unserer Rechnung <br>Nr. 601084 abzuziehen."
+  "price": "0,00",
+  "amount": "0",
+  "description": "Aufgrund der zu hohen Fracht- und Verpackungskosten, \\nbitten wir Sie, den folgenden Betrag von unserer Rechnung \\nNr. 601084 abzuziehen."
 }

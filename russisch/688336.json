@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    688336\r\n                  ",
+  "id": "688336",
   "name": "Steuerung, Typ Logo für Autoline-Filter",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "mit Programmbaustein f&#xFC;r Differenzdruck&#xFC;berwachung<br><br>Anschluss: 230 V, Wechselspannung, 50 Hz<br><br>Aufstellung:  Filter und Steuerung exfreier Bereich<br><br>einschlie&#xDF;lich Klemme - Eingang f&#xFC;r externes Signal &quot;Filter Ein&quot;<br>einschlie&#xDF;lich Klemmen - Endlage Zylinder oben/unten<br>einschlie&#xDF;lich Klemmen 0-10V 2x Eing&#xE4;nge Drucksensoren<br>einschlie&#xDF;lich Ausgang f&#xFC;r potentialfreien Kontakt - Pumpe Aus<br>einschlie&#xDF;lich Ausgang f&#xFC;r bauseitige Hupe<br><br>bauseits: elektrischer Anschluss<br>bauseits: Hupe, Endlagenschalter, Sensoren<br><br>==========================================================<br>Programm: f&#xFC;r Sensoren 0 - 16 bar<br>=========================================================="
+  "price": "0,00",
+  "amount": "0",
+  "description": "mit Programmbaustein für Differenzdrucküberwachung\\n\\nAnschluss: 230 V, Wechselspannung, 50 Hz\\n\\nAufstellung:Filter und Steuerung exfreier Bereich\\n\\neinschließlich Klemme - Eingang für externes Signal \"Filter Ein\"\\neinschließlich Klemmen - Endlage Zylinder oben/unten\\neinschließlich Klemmen 0-10V 2x Eingänge Drucksensoren\\neinschließlich Ausgang für potentialfreien Kontakt - Pumpe Aus\\neinschließlich Ausgang für bauseitige Hupe\\n\\nbauseits: elektrischer Anschluss\\nbauseits: Hupe, Endlagenschalter, Sensoren\\n\\n==========================================================\\nProgramm: für Sensoren 0 - 16 bar\\n=========================================================="
 }

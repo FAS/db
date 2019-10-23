@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    80488\r\n                  ",
+  "id": "80488",
   "name": "alt",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Mehrpreis f&#xFC;r Abnahmepr&#xFC;fzeugnis DIN 50.049-3.1<br>f&#xFC;r Druck- und Temperaturme&#xDF;flansch<br>"
+  "price": "0,00",
+  "amount": "0",
+  "description": "Mehrpreis für Abnahmeprüfzeugnis DIN 50.049-3.1\\nfür Druck- und Temperaturmeßflansch\\n"
 }

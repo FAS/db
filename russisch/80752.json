@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    80752\r\n                  ",
+  "id": "80752",
   "name": "alt",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "T&#xDC;V-Druckpr&#xFC;fung 35 bar f&#xFC;r Komplettes Aggregat <br>ohne Berechnung (FAS-Nr. 21197)"
+  "price": "0,00",
+  "amount": "0",
+  "description": "TÜV-Druckprüfung 35 bar für Komplettes Aggregat \\nohne Berechnung (FAS-Nr. 21197)"
 }

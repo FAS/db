@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    76951\r\n                  ",
-  "name": "Transportkiste 650 x 750 x 1600 mm  (LxBxH)",
+  "id": "76951",
+  "name": "Transportkiste 650 x 750 x 1600 mm(LxBxH)",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n5\r\n                    \r\n                    ",
-  "description": "Innenma&#xDF;"
+  "price": "0,00",
+  "amount": "5",
+  "description": "Innenmaß"
 }

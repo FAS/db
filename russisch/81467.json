@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    81467\r\n                  ",
+  "id": "81467",
   "name": "alt",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "T&#xDC;V-Kosten"
+  "price": "0,00",
+  "amount": "0",
+  "description": "TÜV-Kosten"
 }

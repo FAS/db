@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    999902\r\n                  ",
+  "id": "999902",
   "name": "Handlingskosten für Auftragsänderungen nach",
   "weight": "0,00",
-  "price": "\r\n                  20,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Zusendung der Auftragsbest&#xE4;tigung an Kunden<br>=&gt; pro ge&#xE4;nderte Position "
+  "price": "20,00",
+  "amount": "0",
+  "description": "Zusendung der Auftragsbestätigung an Kunden\\n=> pro geänderte Position "
 }

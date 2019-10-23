@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    932258\r\n                  ",
+  "id": "932258",
   "name": "USV-Einheit (Stromversorgung Puffermod.,24VDC)",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n1\r\n                    \r\n                    ",
-  "description": "Kurzzeitige Netzunterbrechungen durch wartungsfreie Puffermodul auf Kondensatorbasis.<br><br>Eingangsspannung bei DC \t24..24 V <br>Ausgangsspannung bei DC \t24..24 V <br>Max. Ausgangsstrom bei DC \t20 A "
+  "price": "0,00",
+  "amount": "1",
+  "description": "Kurzzeitige Netzunterbrechungen durch wartungsfreie Puffermodul auf Kondensatorbasis.\\n\\nEingangsspannung bei DC \t24..24 V \\nAusgangsspannung bei DC \t24..24 V \\nMax. Ausgangsstrom bei DC \t20 A "
 }

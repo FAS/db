@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    83193\r\n                  ",
-  "name": "Hochdruckschlauch 5 m  ( 1x 1m, 1 x 4 m)",
+  "id": "83193",
+  "name": "Hochdruckschlauch 5 m( 1x 1m, 1 x 4 m)",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "nach TRG 404 (3.3.6) darf der Schlauch nicht<br>l&#xE4;nger als 5 m sein"
+  "price": "0,00",
+  "amount": "0",
+  "description": "nach TRG 404 (3.3.6) darf der Schlauch nicht\\nlänger als 5 m sein"
 }

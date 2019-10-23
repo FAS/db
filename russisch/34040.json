@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    34040\r\n                  ",
+  "id": "34040",
   "name": "Netzteil für Chipkartenleser, ELME-Terminal & TIRIS",
   "weight": "0,37",
-  "price": "\r\n                  220,00\r\n                  ",
-  "amount": "\r\n                      \r\n13\r\n                    \r\n                    ",
-  "description": "Eingang: 230 V AC<br>Ausgang: 12V DC"
+  "price": "220,00",
+  "amount": "13",
+  "description": "Eingang: 230 V AC\\nAusgang: 12V DC"
 }

@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    221542\r\n                  ",
+  "id": "221542",
   "name": "Erstellung der Gefährdungsbeurteilung nach §3",
   "weight": "0,10",
-  "price": "\r\n                  820,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "Betriebssicherheitsverordnung mit Betrachtung des erfoderlichen <br>Anfahrschutzes gem&#xE4;&#xDF; VdT&#xDC;V-Merkblatt Tankanlagen 965.<br>Ohne Standortbesuch durch FAS.<br><br>Bauseits m&#xFC;ssen folgende Unterlagen zur Verf&#xFC;gung gestellt werden:<br> - Erlaubnisantrag<br> - Lageplan<br> - Gutachterliche &#xC4;u&#xDF;erung<br> - Erlaubnis <br> - PVI D+D/EX<br>"
+  "price": "820,00",
+  "amount": "0",
+  "description": "Betriebssicherheitsverordnung mit Betrachtung des erfoderlichen \\nAnfahrschutzes gemäß VdTÜV-Merkblatt Tankanlagen 965.\\nOhne Standortbesuch durch FAS.\\n\\nBauseits müssen folgende Unterlagen zur Verfügung gestellt werden:\\n - Erlaubnisantrag\\n - Lageplan\\n - Gutachterliche Äußerung\\n - Erlaubnis \\n - PVI D+D/EX\\n"
 }

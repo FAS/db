@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    988655\r\n                  ",
+  "id": "988655",
   "name": "Coriolis-Zähler DN 15, Typ FAS 83F15, 1/2\"",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n0\r\n                    \r\n                    ",
-  "description": "zur Masse- und Volumenmessung,<br>Kompaktausf&#xFC;hrung mit:<br>A - Messrohr Material: Edelstahl<br>D2S - PN  40, 1.4404/316L, EN1092-1 B1<br>         (DIN 2501) Flansch<br>A - Zusatzpr&#xFC;fung, Zeugnis: Grundausf&#xFC;hrung<br>A - Kal. : 0,1%,  0,0005g/cc<br>5 - Zulassung: ATEX II 1/2GD+ IECEx Z0/1, 21 Ex deia<br>     IIC Z=Zone<br>A - Geh&#xE4;use: Kompakt IP67 NEMA4X, Alu<br>A - Kabeleinf&#xFC;hrung: Verschr. M20 (EEx d &gt; Gewinde M20)<br>A - Hilfsenergie; Anzeige: 85-260VAC, WEA,<br>    4-zeilig + Drucktasten, WEA = Sprache:<br>     DE+EN+FR+IT+ES+PT+NL<br>B - Einstellung; Software Feature: Standardgas;<br>      Basisversion<br>N- Ausgang; Eingang: Modbus RS485 +20mA+ Freq. + Stat.ein , Module umr&#xFC;stbar"
+  "price": "0,00",
+  "amount": "0",
+  "description": "zur Masse- und Volumenmessung,\\nKompaktausführung mit:\\nA - Messrohr Material: Edelstahl\\nD2S - PN40, 1.4404/316L, EN1092-1 B1\\n(DIN 2501) Flansch\\nA - Zusatzprüfung, Zeugnis: Grundausführung\\nA - Kal. : 0,1%,0,0005g/cc\\n5 - Zulassung: ATEX II 1/2GD+ IECEx Z0/1, 21 Ex deia\\nIIC Z=Zone\\nA - Gehäuse: Kompakt IP67 NEMA4X, Alu\\nA - Kabeleinführung: Verschr. M20 (EEx d > Gewinde M20)\\nA - Hilfsenergie; Anzeige: 85-260VAC, WEA,\\n4-zeilig + Drucktasten, WEA = Sprache:\\nDE+EN+FR+IT+ES+PT+NL\\nB - Einstellung; Software Feature: Standardgas;\\nBasisversion\\nN- Ausgang; Eingang: Modbus RS485 +20mA+ Freq. + Stat.ein , Module umrüstbar"
 }

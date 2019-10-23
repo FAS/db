@@ -1,8 +1,8 @@
 {
-  "id": "\r\n                    88888\r\n                  ",
+  "id": "88888",
   "name": "Testartikel für Kalkulationen",
   "weight": "0,00",
-  "price": "\r\n                  0,00\r\n                  ",
-  "amount": "\r\n                      \r\n50\r\n                    \r\n                    ",
-  "description": "<br> - 2014/68/EU oder 2014/68/EU <br><br> - Zeichenkette P235GH TC1 (St35.8 I) durch die <br><br> - Zeichenkette P235GH TC2 (St35.8 III) durch <br><br> - Zeichenkette  oder  ersatzlos <br><br> - Zeichenkette 3.1 oder 3.1 durch <br><br> - Zeichenkette DIN EN 1092-1 (DIN 2635) durch "
+  "price": "0,00",
+  "amount": "50",
+  "description": "\\n - 2014/68/EU oder 2014/68/EU \\n\\n - Zeichenkette P235GH TC1 (St35.8 I) durch die \\n\\n - Zeichenkette P235GH TC2 (St35.8 III) durch \\n\\n - Zeichenketteoderersatzlos \\n\\n - Zeichenkette 3.1 oder 3.1 durch \\n\\n - Zeichenkette DIN EN 1092-1 (DIN 2635) durch "
 }
